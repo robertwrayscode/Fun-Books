@@ -263,3 +263,4 @@ main { overflow-x: clip; }
 .back ol { font-size: 1.02rem; gap: 10px; }
 .frame img { width: 100%; }
 @media (max-width: 900px) { .hero-art { order: -1; margin-top: 20px; } }
+.hero-art { max-width: 460px; width: 100%; justify-self: center; }
