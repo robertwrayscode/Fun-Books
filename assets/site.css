@@ -32,7 +32,7 @@ body {
   color: var(--ink);
   font: 17px/1.65 var(--body);
 }
-img { max-width: 100%; display: block; }
+img { max-width: 100%; height: auto; display: block; }
 a { color: var(--oxblood); }
 :focus-visible { outline: 3px solid var(--teal); outline-offset: 3px; }
 h1, h2, h3 { font-family: var(--display); text-wrap: balance; line-height: 1.1; margin: 0; }
@@ -261,3 +261,5 @@ main { overflow-x: clip; }
 .back .label, .back .turn { color: var(--cream); opacity: 0.85; }
 .back .face-txt { align-content: center; gap: 16px; }
 .back ol { font-size: 1.02rem; gap: 10px; }
+.frame img { width: 100%; }
+@media (max-width: 900px) { .hero-art { order: -1; margin-top: 20px; } }
