@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>The Bookshelf · Fun Books</title>
+<meta name="description" content="Every Fun Books title on one wooden shelf.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=Cinzel:wght@500;700&family=Yellowtail&display=swap">
+<link rel="stylesheet" href="assets/site.css">
+</head>
+<body>
+<div class="ticker" aria-hidden="true"><div class="ticker-track"><span>Extra! Extra! Read all about it!</span><span>Book one is on the shelf and ready to print</span><span>Elephants spotted on Main Street</span><span>Mother says the saucer can stay for supper</span><span>Local robot butler asks for a raise</span><span>Dinosaur eats the hedge next door</span><span>New titles coming soon</span><span>Extra! Extra! Read all about it!</span><span>Book one is on the shelf and ready to print</span><span>Elephants spotted on Main Street</span><span>Mother says the saucer can stay for supper</span><span>Local robot butler asks for a raise</span><span>Dinosaur eats the hedge next door</span><span>New titles coming soon</span></div></div>
+<header class="mast">
+  <div class="wrap">
+    <a class="logo" href="index.html"><svg class="logo-star" viewBox="0 0 100 100" aria-hidden="true"><g fill="none" stroke="currentColor" stroke-width="4"><ellipse cx="50" cy="50" rx="44" ry="15"/><ellipse cx="50" cy="50" rx="44" ry="15" transform="rotate(60 50 50)"/><ellipse cx="50" cy="50" rx="44" ry="15" transform="rotate(120 50 50)"/></g><circle cx="50" cy="50" r="8" fill="#D9A228"/></svg><span><b>Fun Books</b><small>Wholesome guides for unwholesome times</small></span></a>
+    <nav class="nav" aria-label="Main"><a href="index.html">Home</a><a href="bookshelf.html" aria-current="page">The Bookshelf</a><a href="coming-soon.html">Coming Soon</a><a href="about.html">About</a></nav>
+  </div>
+</header>
+<main>
+
+<div class="page-head"><div class="wrap">
+  <h1><span class="script">Pull one down!</span>The Bookshelf</h1>
+  <p>Every Fun Books title, old and new. Tap a spine to slide the book off the shelf and see what's inside.</p>
+</div></div>
+<section style="padding-top:20px">
+  <div class="wrap">
+    <div class="shelf-wrap"><div class="shelf" role="group" aria-label="Books on the shelf"><button type="button" class="spine" style="--c:#7E1F24;--w:70px;--h:270px" data-i="0" aria-pressed="true" aria-controls="detail"><span class="bands"></span><span>The Independent Household</span><em>FB · 1</em></button><span class="spine prop" style="--c:#8A6A4A;--w:40px;--h:200px" aria-hidden="true"><span class="bands"></span><span></span><em></em></span><button type="button" class="spine" style="--c:#1E2D4F;--w:64px;--h:250px" data-i="1" aria-pressed="false" aria-controls="detail"><span class="bands"></span><span>How to Survive a GOP Apocalypse</span><em>FB · 2</em></button><button type="button" class="spine" style="--c:#3C8C8A;--w:72px;--h:280px" data-i="2" aria-pressed="false" aria-controls="detail"><span class="bands"></span><span>The Housewife&#x27;s Guide to Alien Invasions</span><em>FB · 3</em></button><span class="spine prop" style="--c:#5A4632;--w:34px;--h:226px" aria-hidden="true"><span class="bands"></span><span></span><em></em></span><button type="button" class="spine" style="--c:#5B7B2A;--w:60px;--h:240px" data-i="3" aria-pressed="false" aria-controls="detail"><span class="bands"></span><span>There&#x27;s a Dinosaur in the Backyard</span><em>FB · 4</em></button><span class="spine prop" style="--c:#9C4A2A;--w:46px;--h:214px" aria-hidden="true"><span class="bands"></span><span></span><em></em></span><button type="button" class="spine" style="--c:#B07A1E;--w:66px;--h:262px" data-i="4" aria-pressed="false" aria-controls="detail"><span class="bands"></span><span>Etiquette for the Robot Uprising</span><em>FB · 5</em></button></div></div>
+    <div class="plank"></div>
+    <p class="shelf-hint">Tip: swipe the shelf sideways to see every book, or use the arrow keys.</p>
+    <div class="detail" id="detail" aria-live="polite"></div>
+  </div>
+</section>
+<section style="padding-top:0">
+  <div class="wrap">
+    <div class="sec-head"><span class="label">The full catalog</span><h2>All the books at a glance</h2></div>
+    <div class="cards"><a class="card" href="independent-household/"><div class="cover"><img src="independent-household/img/page1.jpg" alt="Cover of The Independent Household" loading="lazy"><span class="stamp ready">On the shelf</span></div><div><h3>The Independent Household</h3><p>Self-Reliance · Ready to download</p></div></a><a class="card" href="coming-soon.html#gop"><div class="cover"><img src="assets/img/gop.jpg" alt="Painted cover art for How to Survive a GOP Apocalypse" loading="lazy"><div class="cover-plate" style="--c:#1E2D4F"><b>How to Survive a GOP Apocalypse</b><i>A Cheerful Family Guide to Keeping Calm When the Elephants Stampede</i></div><span class="stamp">Coming soon</span></div><div><h3>How to Survive a GOP Apocalypse</h3><p>Political Comedy · Coming soon</p></div></a><a class="card" href="coming-soon.html#alien"><div class="cover"><img src="assets/img/alien.jpg" alt="Painted cover art for The Housewife&#x27;s Guide to Alien Invasions" loading="lazy"><div class="cover-plate low" style="--c:#3C8C8A"><b>The Housewife&#x27;s Guide to Alien Invasions</b><i>Pearls, Pot Roast and Planetary Defense</i></div><span class="stamp">Coming soon</span></div><div><h3>The Housewife&#x27;s Guide to Alien Invasions</h3><p>Sci-Fi Homemaking · Coming soon</p></div></a><a class="card" href="coming-soon.html#dino"><div class="cover"><img src="assets/img/dino.jpg" alt="Painted cover art for There&#x27;s a Dinosaur in the Backyard" loading="lazy"><div class="cover-plate" style="--c:#5B7B2A"><b>There&#x27;s a Dinosaur in the Backyard</b><i>A Family Guide to Prehistoric Pets</i></div><span class="stamp">Coming soon</span></div><div><h3>There&#x27;s a Dinosaur in the Backyard</h3><p>Prehistoric Pet Care · Coming soon</p></div></a><a class="card" href="coming-soon.html#robot"><div class="cover"><img src="assets/img/robot.jpg" alt="Painted cover art for Etiquette for the Robot Uprising" loading="lazy"><div class="cover-plate" style="--c:#B07A1E"><b>Etiquette for the Robot Uprising</b><i>Good Manners for When the Toaster Gets Ideas</i></div><span class="stamp">Coming soon</span></div><div><h3>Etiquette for the Robot Uprising</h3><p>Atomic-Age Etiquette · Coming soon</p></div></a></div>
+  </div>
+</section>
+
+</main>
+<footer>
+  <div class="wrap">
+    <div><span class="script">Fun Books</span><br>Wholesome guides for unwholesome times. Est. 2026.</div>
+    <nav aria-label="Footer"><a href="index.html">Home</a><a href="bookshelf.html">The Bookshelf</a><a href="coming-soon.html">Coming Soon</a><a href="about.html">About</a></nav>
+  </div>
+</footer>
+<script>
+(function () {
+  var books = [{"cover": "<div class=\"cover\"><img src=\"independent-household/img/page1.jpg\" alt=\"Cover of The Independent Household\" loading=\"lazy\"><span class=\"stamp ready\">On the shelf</span></div>", "title": "The Independent Household", "sub": "60 Forgotten Skills for Self-Reliant Living", "blurb": "Sixty skills our grandparents knew by heart, from storing a year of water to churning butter in a jar. Every skill fits on one painted page.", "genre": "Self-Reliance", "items": ["Water: storing, catching and cleaning it", "Preserving food the old way", "The old-time kitchen", "Home remedies and first aid", "The off-grid home", "Garden and homestead", "Outdoors and wilderness", "Safety, mind and community", "Fix-it skills"], "ready": true, "key": "independent"}, {"cover": "<div class=\"cover\"><img src=\"assets/img/gop.jpg\" alt=\"Painted cover art for How to Survive a GOP Apocalypse\" loading=\"lazy\"><div class=\"cover-plate\" style=\"--c:#1E2D4F\"><b>How to Survive a GOP Apocalypse</b><i>A Cheerful Family Guide to Keeping Calm When the Elephants Stampede</i></div><span class=\"stamp\">Coming soon</span></div>", "title": "How to Survive a GOP Apocalypse", "sub": "A Cheerful Family Guide to Keeping Calm When the Elephants Stampede", "blurb": "The elephants are loose on Main Street, and Mother has a casserole in the oven. A sunny, practical handbook for riding out the stampede with your manners intact.", "genre": "Political Comedy", "items": ["Stocking the Pantry Before Anything Trickles Down", "Building a Backyard Bunker With Your Own Bootstraps", "Explaining the Electoral College to Grandma", "Thanksgiving Dinner Without a Food Fight", "Finding Your Way Home After They Redraw the Map"], "ready": false, "key": "gop"}, {"cover": "<div class=\"cover\"><img src=\"assets/img/alien.jpg\" alt=\"Painted cover art for The Housewife&#x27;s Guide to Alien Invasions\" loading=\"lazy\"><div class=\"cover-plate low\" style=\"--c:#3C8C8A\"><b>The Housewife&#x27;s Guide to Alien Invasions</b><i>Pearls, Pot Roast and Planetary Defense</i></div><span class=\"stamp\">Coming soon</span></div>", "title": "The Housewife's Guide to Alien Invasions", "sub": "Pearls, Pot Roast and Planetary Defense", "blurb": "A flying saucer has parked over the Hendersons' roof. Here is everything a capable homemaker needs to keep the house tidy and the planet safe.", "genre": "Sci-Fi Homemaking", "items": ["Is That a Saucer or the Neighbor's Hubcap?", "Hosting a Martian for Dinner (They Prefer Tuna Casserole)", "Getting Ray-Gun Scorch Marks Out of Linoleum", "When Your Husband Comes Home Slightly Green", "Tinfoil: Not Just for Leftovers"], "ready": false, "key": "alien"}, {"cover": "<div class=\"cover\"><img src=\"assets/img/dino.jpg\" alt=\"Painted cover art for There&#x27;s a Dinosaur in the Backyard\" loading=\"lazy\"><div class=\"cover-plate\" style=\"--c:#5B7B2A\"><b>There&#x27;s a Dinosaur in the Backyard</b><i>A Family Guide to Prehistoric Pets</i></div><span class=\"stamp\">Coming soon</span></div>", "title": "There's a Dinosaur in the Backyard", "sub": "A Family Guide to Prehistoric Pets", "blurb": "He showed up Tuesday, ate the hedge, and now he won't leave. Everything a sensible family needs to feed, walk and house-train a forty-foot guest.", "genre": "Prehistoric Pet Care", "items": ["Lizard or T. Rex? Measuring Your New Visitor", "Feeding Time: How Many Hot Dogs Is Too Many?", "Mending the Fence After a Tail Swipe", "Walking Your Dinosaur Without Losing the Neighbors", "Explaining the Dent in the Station Wagon"], "ready": false, "key": "dino"}, {"cover": "<div class=\"cover\"><img src=\"assets/img/robot.jpg\" alt=\"Painted cover art for Etiquette for the Robot Uprising\" loading=\"lazy\"><div class=\"cover-plate\" style=\"--c:#B07A1E\"><b>Etiquette for the Robot Uprising</b><i>Good Manners for When the Toaster Gets Ideas</i></div><span class=\"stamp\">Coming soon</span></div>", "title": "Etiquette for the Robot Uprising", "sub": "Good Manners for When the Toaster Gets Ideas", "blurb": "The new robot butler has opinions, and the vacuum cleaner is organizing. A gracious guide to keeping the peace with the machines of tomorrow.", "genre": "Atomic-Age Etiquette", "items": ["Saying Please to Your Vacuum Cleaner", "Seating Plans When the Butler Wants a Chair", "Thank-You Notes for Your Appliances", "When the Jell-O Mold Becomes Self-Aware", "Unplugging Gracefully"], "ready": false, "key": "robot"}];
+  var spines = Array.prototype.slice.call(document.querySelectorAll('.spine[data-i]'));
+  var detail = document.getElementById('detail');
+  function esc(s) { var d = document.createElement('div'); d.textContent = s; return d.innerHTML; }
+  function show(i) {
+    var b = books[i];
+    spines.forEach(function (s, j) { s.setAttribute('aria-pressed', j === i ? 'true' : 'false'); });
+    var btns = b.ready
+      ? '<a class="btn" href="independent-household/">See inside the book</a><a class="btn btn-alt" href="independent-household/The-Independent-Household.pdf" download>Download the PDF</a>'
+      : '<a class="btn btn-teal" href="coming-soon.html#' + b.key + '">Peek at the chapters</a>';
+    detail.innerHTML = b.cover + '<div class="detail-copy"><span class="label">' + esc(b.genre) + (b.ready ? ' · On the shelf' : ' · Coming soon') + '</span>' +
+      '<h2>' + esc(b.title) + '</h2><p class="sub">' + esc(b.sub) + '</p><p>' + esc(b.blurb) + '</p>' +
+      '<span class="label">' + (b.ready ? 'Chapters' : 'Chapters we are working on') + '</span><ul>' +
+      b.items.map(function (x) { return '<li>' + esc(x) + '</li>'; }).join('') + '</ul><div class="row">' + btns + '</div></div>';
+  }
+  spines.forEach(function (s, i) {
+    s.addEventListener('click', function () { show(i); });
+    s.addEventListener('keydown', function (e) {
+      var k = e.key === 'ArrowRight' ? 1 : e.key === 'ArrowLeft' ? -1 : 0;
+      if (!k) return;
+      e.preventDefault();
+      var n = (i + k + spines.length) % spines.length; spines[n].focus(); show(n);
+    });
+  });
+  show(0);
+})();
+</script>
+</body>
+</html>
