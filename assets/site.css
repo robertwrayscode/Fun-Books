@@ -32,6 +32,7 @@ body {
   color: var(--ink);
   font: 17px/1.65 var(--body);
 }
+[hidden] { display: none !important; }
 img { max-width: 100%; height: auto; display: block; }
 a { color: var(--oxblood); }
 :focus-visible { outline: 3px solid var(--teal); outline-offset: 3px; }
