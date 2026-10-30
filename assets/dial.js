@@ -52,18 +52,32 @@
     '<radialGradient id="dg-glow" cx="50%" cy="50%" r="50%"><stop offset="0.55" stop-color="#FFC94D" stop-opacity="0"/><stop offset="1" stop-color="#FFB020" stop-opacity="0.55"/></radialGradient>' +
     '<linearGradient id="dg-brass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F7D774"/><stop offset="0.5" stop-color="#C08A1E"/><stop offset="1" stop-color="#8A5E10"/></linearGradient>';
   el('circle', { cx: C, cy: C, r: 196, fill: 'url(#dg-face)' }, face);
-  var segs = [];
+  var segs = [], labels = [];
   BOOKS.forEach(function (b, i) {
     var a1 = i * SEG, a2 = a1 + SEG, mid = a1 + SEG / 2;
     var g = el('g', { 'class': 'seg' }, face);
     el('path', { d: wedge(122, 194, a1 + 0.6, a2 - 0.6), fill: b.color }, g);
     el('path', { 'class': 'seg-lit', d: wedge(122, 194, a1 + 0.6, a2 - 0.6) }, g);
-    var flip = mid > 90 && mid < 270;
-    var p = pt(158, mid);
-    var tx = el('text', { x: p[0], y: p[1], 'class': 'seg-label', transform: 'rotate(' + (flip ? mid + 180 : mid) + ' ' + p[0] + ' ' + p[1] + ')', 'dominant-baseline': 'central', 'text-anchor': 'middle' }, g);
+    // words curve along the band: upright on top, flipped to read left-to-right on the bottom
+    var flip = mid > 90 && mid < 270, ext = 12, r = flip ? 163 : 153;
+    var s1 = pt(r, flip ? a2 + ext : a1 - ext), s2 = pt(r, flip ? a1 - ext : a2 + ext);
+    el('path', { id: 'dl-' + i, d: 'M' + s1 + ' A' + r + ' ' + r + ' 0 0 ' + (flip ? 0 : 1) + ' ' + s2, fill: 'none' }, defs);
+    var tx = el('text', { 'class': 'seg-label' }, g);
+    tx = el('textPath', { href: '#dl-' + i, startOffset: '50%', 'text-anchor': 'middle' }, tx);
+    tx.setAttributeNS('http://www.w3.org/1999/xlink', 'xlink:href', '#dl-' + i);
     tx.textContent = b.band.toUpperCase();
+    labels.push({ el: tx.parentNode, room: (SEG - 8) * Math.PI / 180 * r });
     segs.push(g);
   });
+  // shrink any word that would spill past its band once the real font has loaded
+  function fit() {
+    labels.forEach(function (l) {
+      l.el.style.fontSize = '';
+      var w = l.el.getComputedTextLength ? l.el.getComputedTextLength() : 0;
+      if (w > l.room) l.el.style.fontSize = (parseFloat(getComputedStyle(l.el).fontSize) * l.room / w) + 'px';
+    });
+  }
+  try { if (document.fonts && document.fonts.ready) document.fonts.ready.then(fit); } catch (e) {}
   // tick marks and "frequency" numbers on the cream inner ring
   for (var a = 0; a < 360; a += SEG / 4) {
     var major = Math.abs(a % SEG) < 0.01;
