@@ -9,6 +9,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=Cinzel:wght@500;700&family=Yellowtail&display=swap">
 <link rel="stylesheet" href="assets/site.css">
+<link rel="stylesheet" href="assets/dial.css">
 </head>
 <body>
 <div class="ticker" aria-hidden="true"><div class="ticker-track"><span>Extra! Extra! Read all about it!</span><span>Book nine is here: How to Raise a Well-Behaved Bigfoot</span><span>Large hairy uncle wins blue ribbon at county fair</span><span>Book eight: Homemaking After the Asteroid</span><span>Local meteorite keeps biscuits warm</span><span>Book seven: The Gentleman&#x27;s Guide to the Zombie Neighborhood</span><span>Mr. Hale stuck in the hedge again</span><span>Book six: How to Survive the AI Apocalypse</span><span>Toaster finishes local man&#x27;s sentence</span><span>Book five: Etiquette for the Robot Uprising</span><span>Book four: The Housewife&#x27;s Guide to Alien Invasions</span><span>Book three: How to Survive a GOP Apocalypse</span><span>Red caps spotted on Main Street</span><span>Book two: There&#x27;s a Dinosaur in the Backyard</span><span>Mother says the Overlord can stay for supper</span><span>Local robot butler asks for a raise</span><span>Book one is on the shelf and ready to print</span><span>New titles coming soon</span><span>Extra! Extra! Read all about it!</span><span>Book nine is here: How to Raise a Well-Behaved Bigfoot</span><span>Large hairy uncle wins blue ribbon at county fair</span><span>Book eight: Homemaking After the Asteroid</span><span>Local meteorite keeps biscuits warm</span><span>Book seven: The Gentleman&#x27;s Guide to the Zombie Neighborhood</span><span>Mr. Hale stuck in the hedge again</span><span>Book six: How to Survive the AI Apocalypse</span><span>Toaster finishes local man&#x27;s sentence</span><span>Book five: Etiquette for the Robot Uprising</span><span>Book four: The Housewife&#x27;s Guide to Alien Invasions</span><span>Book three: How to Survive a GOP Apocalypse</span><span>Red caps spotted on Main Street</span><span>Book two: There&#x27;s a Dinosaur in the Backyard</span><span>Mother says the Overlord can stay for supper</span><span>Local robot butler asks for a raise</span><span>Book one is on the shelf and ready to print</span><span>New titles coming soon</span></div></div>
@@ -38,15 +39,25 @@
   </div>
 </section>
 
-<section class="dial-sec">
+<section class="dial-sec" id="crisis-dial">
   <div class="wrap">
-    <div class="dial" aria-hidden="true" style="background:conic-gradient(#7E1F24 0.00deg 40.00deg, #5B7B2A 40.00deg 80.00deg, #8A1F1C 80.00deg 120.00deg, #3C8C8A 120.00deg 160.00deg, #B07A1E 160.00deg 200.00deg, #2F5D8A 200.00deg 240.00deg, #4A6B5A 240.00deg 280.00deg, #B5532A 280.00deg 320.00deg, #8A5A2B 320.00deg 360.00deg)"><div class="dial-needle" id="needle"></div><div class="dial-hub"></div></div>
+    <div class="radio">
+      <div class="radio-top"><span class="radio-brand">Crisis-O-Matic</span><span class="radio-model">Deluxe Model 1957 &middot; Nine Bands</span></div>
+      <div class="dial-bezel">
+        <svg class="dial-face" id="dial-face" viewBox="0 0 400 400" role="img" aria-label="A radio dial with nine bands, one for each book"></svg>
+      </div>
+      <div class="radio-controls">
+        <span class="lamp" aria-hidden="true"><i></i>On air</span>
+        <button class="knob" type="button" data-spin aria-label="Spin the Crisis Dial"><span>Spin</span></button>
+        <button class="sound-btn" type="button" id="dial-sound" aria-pressed="true">Sound: on</button>
+      </div>
+    </div>
     <div class="dial-copy">
       <span class="label">The Crisis Dial</span>
       <h2>What's gone wrong today?</h2>
-      <p>Give the dial a spin and we'll tell you which book to reach for.</p>
-      <div class="dial-out" id="dial-out" aria-live="polite"><b>Spin to find out!</b><span>Every household emergency has a book.</span></div>
-      <div class="row"><button class="btn btn-alt" type="button" id="spin">Spin the dial</button></div>
+      <p>Twist the big knob on the Crisis-O-Matic and station W&middot;FUN will broadcast the very book your household needs. Nine bands, nine emergencies, one wholesome answer.</p>
+      <div class="dial-out" id="dial-out" aria-live="polite"><b>Standing by for your emergency&hellip;</b><span>Saucers, dinosaurs, a talking toaster? Every household crisis has a book.</span></div>
+      <div class="row"><button class="btn" type="button" data-spin>Spin the dial</button></div>
     </div>
   </div>
 </section>
@@ -56,7 +67,7 @@
     <div class="sec-head">
       <span class="label">Featured</span>
       <h2>New on the shelf</h2>
-      <p>Twenty-inch footprints led out of the pine woods and straight to the woodshed, and now Woodrow lives there: eight feet two, very hairy and with no manners whatsoever. Sixty wholesome skills for raising him right, from ducking through doorways and using a napkin to bath day with the garden hose and a disguise for church. Every skill fits on one painted page. 96 full-color pages, ready to download and print.</p>
+      <p>Twenty-inch footprints led out of the pine woods and straight to the woodshed, and now Woodrow lives there: eight feet two, very hairy and with no manners whatsoever. Sixty wholesome skills for raising him right, from ducking through doorways and using a napkin to bath day with the garden hose and a disguise for church. Every skill fits on one painted page. 96 full-color pages, coming soon as a printed paperback.</p>
     </div>
     <div class="detail" style="margin-top:0">
       <div class="cover"><img src="bigfoot/img/page1.jpg" alt="Cover of How to Raise a Well-Behaved Bigfoot" loading="lazy"><span class="stamp ready">On the shelf</span></div>
@@ -66,7 +77,7 @@
         <span class="label">Nine chapters</span>
         <ul><li>Found in the Woodshed</li><li>House Rules for a Big Fellow</li><li>Table Manners for Bigfoot</li><li>Grooming a Gentleman</li><li>Out and About</li><li>Chores for a Helpful Giant</li><li>Fun and Games</li><li>Holidays and Special Occasions</li><li>A Good Citizen of the Forest</li></ul>
         <div class="row"><a class="btn" href="bigfoot/">See inside the book</a>
-        <a class="btn btn-alt" href="bigfoot/How-to-Raise-a-Well-Behaved-Bigfoot.pdf" download>Download the PDF</a></div>
+        <span class="buy-print" data-book="bigfoot" data-cls="btn btn-alt" data-soon="0"></span></div>
       </div>
     </div>
   </div>
@@ -76,10 +87,10 @@
   <div class="wrap">
     <div class="sec-head">
       <span class="label">Also on the shelf</span>
-      <h2>Every book is ready to print</h2>
+      <h2>Every book is on the shelf</h2>
       <p>The same old-fashioned how-to style, aimed at stranger emergencies. Book ten is on the drawing board.</p>
     </div>
-    <div class="cards"><a class="card" href="asteroid-homemaking/"><div class="cover"><img src="asteroid-homemaking/img/page1.jpg" alt="Cover of Homemaking After the Asteroid" loading="lazy"><span class="stamp ready">On the shelf</span></div><div><h3>Homemaking After the Asteroid</h3><p>Crater-Age Homemaking · Ready to download</p></div></a><a class="card" href="zombie-neighborhood/"><div class="cover"><img src="zombie-neighborhood/img/page1.jpg" alt="Cover of The Gentleman&#x27;s Guide to the Zombie Neighborhood" loading="lazy"><span class="stamp ready">On the shelf</span></div><div><h3>The Gentleman&#x27;s Guide to the Zombie Neighborhood</h3><p>Neighborly Etiquette · Ready to download</p></div></a><a class="card" href="ai-apocalypse/"><div class="cover"><img src="ai-apocalypse/img/page1.jpg" alt="Cover of How to Survive the AI Apocalypse" loading="lazy"><span class="stamp ready">On the shelf</span></div><div><h3>How to Survive the AI Apocalypse</h3><p>Electronic-Brain Comedy · Ready to download</p></div></a><a class="card" href="robot-uprising/"><div class="cover"><img src="robot-uprising/img/page1.jpg" alt="Cover of Etiquette for the Robot Uprising" loading="lazy"><span class="stamp ready">On the shelf</span></div><div><h3>Etiquette for the Robot Uprising</h3><p>Atomic-Age Etiquette · Ready to download</p></div></a><a class="card" href="alien-invasions/"><div class="cover"><img src="alien-invasions/img/page1.jpg" alt="Cover of The Housewife&#x27;s Guide to Alien Invasions" loading="lazy"><span class="stamp ready">On the shelf</span></div><div><h3>The Housewife&#x27;s Guide to Alien Invasions</h3><p>Sci-Fi Homemaking · Ready to download</p></div></a><a class="card" href="gop-apocalypse/"><div class="cover"><img src="gop-apocalypse/img/page1.jpg" alt="Cover of How to Survive a GOP Apocalypse" loading="lazy"><span class="stamp ready">On the shelf</span></div><div><h3>How to Survive a GOP Apocalypse</h3><p>Political Comedy · Ready to download</p></div></a><a class="card" href="dinosaur-backyard/"><div class="cover"><img src="dinosaur-backyard/img/page1.jpg" alt="Cover of There&#x27;s a Dinosaur in the Backyard" loading="lazy"><span class="stamp ready">On the shelf</span></div><div><h3>There&#x27;s a Dinosaur in the Backyard</h3><p>Prehistoric Pet Care · Ready to download</p></div></a><a class="card" href="independent-household/"><div class="cover"><img src="independent-household/img/page1.jpg" alt="Cover of The Independent Household" loading="lazy"><span class="stamp ready">On the shelf</span></div><div><h3>The Independent Household</h3><p>Self-Reliance · Ready to download</p></div></a></div>
+    <div class="cards"><a class="card" href="asteroid-homemaking/"><div class="cover"><img src="asteroid-homemaking/img/page1.jpg" alt="Cover of Homemaking After the Asteroid" loading="lazy"><span class="stamp ready">On the shelf</span></div><div><h3>Homemaking After the Asteroid</h3><p>Crater-Age Homemaking · On the shelf</p></div></a><a class="card" href="zombie-neighborhood/"><div class="cover"><img src="zombie-neighborhood/img/page1.jpg" alt="Cover of The Gentleman&#x27;s Guide to the Zombie Neighborhood" loading="lazy"><span class="stamp ready">On the shelf</span></div><div><h3>The Gentleman&#x27;s Guide to the Zombie Neighborhood</h3><p>Neighborly Etiquette · On the shelf</p></div></a><a class="card" href="ai-apocalypse/"><div class="cover"><img src="ai-apocalypse/img/page1.jpg" alt="Cover of How to Survive the AI Apocalypse" loading="lazy"><span class="stamp ready">On the shelf</span></div><div><h3>How to Survive the AI Apocalypse</h3><p>Electronic-Brain Comedy · On the shelf</p></div></a><a class="card" href="robot-uprising/"><div class="cover"><img src="robot-uprising/img/page1.jpg" alt="Cover of Etiquette for the Robot Uprising" loading="lazy"><span class="stamp ready">On the shelf</span></div><div><h3>Etiquette for the Robot Uprising</h3><p>Atomic-Age Etiquette · On the shelf</p></div></a><a class="card" href="alien-invasions/"><div class="cover"><img src="alien-invasions/img/page1.jpg" alt="Cover of The Housewife&#x27;s Guide to Alien Invasions" loading="lazy"><span class="stamp ready">On the shelf</span></div><div><h3>The Housewife&#x27;s Guide to Alien Invasions</h3><p>Sci-Fi Homemaking · On the shelf</p></div></a><a class="card" href="gop-apocalypse/"><div class="cover"><img src="gop-apocalypse/img/page1.jpg" alt="Cover of How to Survive a GOP Apocalypse" loading="lazy"><span class="stamp ready">On the shelf</span></div><div><h3>How to Survive a GOP Apocalypse</h3><p>Political Comedy · On the shelf</p></div></a><a class="card" href="dinosaur-backyard/"><div class="cover"><img src="dinosaur-backyard/img/page1.jpg" alt="Cover of There&#x27;s a Dinosaur in the Backyard" loading="lazy"><span class="stamp ready">On the shelf</span></div><div><h3>There&#x27;s a Dinosaur in the Backyard</h3><p>Prehistoric Pet Care · On the shelf</p></div></a><a class="card" href="independent-household/"><div class="cover"><img src="independent-household/img/page1.jpg" alt="Cover of The Independent Household" loading="lazy"><span class="stamp ready">On the shelf</span></div><div><h3>The Independent Household</h3><p>Self-Reliance · On the shelf</p></div></a></div>
   </div>
 </section>
 
@@ -90,26 +101,7 @@
     <nav aria-label="Footer"><a href="index.html">Home</a><a href="bookshelf.html">The Bookshelf</a><a href="coming-soon.html">Coming Soon</a><a href="about.html">About</a></nav>
   </div>
 </footer>
-<script>
-(function () {
-  var books = [{t:"The Independent Household",c:"The power&#x27;s out and the stores are empty!",h:"independent-household/",s:true},{t:"There&#x27;s a Dinosaur in the Backyard",c:"A dinosaur just ate the hedge!",h:"dinosaur-backyard/",s:true},{t:"How to Survive a GOP Apocalypse",c:"Uncle Earl wore his red cap to Thanksgiving!",h:"gop-apocalypse/",s:true},{t:"The Housewife&#x27;s Guide to Alien Invasions",c:"There&#x27;s a saucer on the Hendersons&#x27; lawn!",h:"alien-invasions/",s:true},{t:"Etiquette for the Robot Uprising",c:"The toaster is talking back!",h:"robot-uprising/",s:true},{t:"How to Survive the AI Apocalypse",c:"The toaster just finished my sentence!",h:"ai-apocalypse/",s:true},{t:"The Gentleman&#x27;s Guide to the Zombie Neighborhood",c:"Mr. Hale is stuck in the hedge again!",h:"zombie-neighborhood/",s:true},{t:"Homemaking After the Asteroid",c:"An asteroid just landed in the rose bed!",h:"asteroid-homemaking/",s:true},{t:"How to Raise a Well-Behaved Bigfoot",c:"There are footprints at the woodshed door!",h:"bigfoot/",s:true}];
-  var needle = document.getElementById('needle'), out = document.getElementById('dial-out'), btn = document.getElementById('spin');
-  var turns = 0;
-  btn.addEventListener('click', function () {
-    var i = Math.floor(Math.random() * books.length);
-    turns += 3;
-    var angle = turns * 360 + i * (360 / books.length) + 10 + Math.random() * (360 / books.length - 20);
-    needle.style.transform = 'rotate(' + angle + 'deg)';
-    btn.disabled = true;
-    out.innerHTML = '<b>Spinning&hellip;</b><span>Hold on to your hat.</span>';
-    var wait = window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 0 : 2200;
-    setTimeout(function () {
-      var b = books[i];
-      out.innerHTML = '<b>' + b.c + '</b><span>Reach for <a href="' + b.h + '">' + b.t + '</a>' + (b.s ? ', on the shelf now.' : ', coming soon.') + '</span>';
-      btn.disabled = false;
-    }, wait);
-  });
-})();
-</script>
+<script src="assets/dial.js"></script>
 </body>
 </html>
+<script src="assets/print-links.js"></script>
