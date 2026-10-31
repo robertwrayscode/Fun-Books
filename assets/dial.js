@@ -19,7 +19,9 @@
     { key: 'asteroid', band: 'Asteroid', color: '#B5532A', h: 'asteroid-homemaking/', t: 'Homemaking After the Asteroid',
       c: ['An asteroid just landed in the rose bed!', 'The sky is raining pebbles again!', 'The crater ate the clothesline!'] },
     { key: 'bigfoot', band: 'Bigfoot', color: '#8A5A2B', h: 'bigfoot/', t: 'How to Raise a Well-Behaved Bigfoot',
-      c: ['There are footprints at the woodshed door!', 'Something hairy ate all the pie!', 'The new uncle is eight feet tall!'] }
+      c: ['There are footprints at the woodshed door!', 'Something hairy ate all the pie!', 'The new uncle is eight feet tall!'] },
+    { key: 'time', band: 'Time Travel', color: '#2F5D62', h: 'time-travelers/', t: 'Good Manners for Time Travelers',
+      c: ['There is a knight at the supper table!', 'Grandpa set the dials to 990 again!', 'A Viking wants to stay for the week!'] }
   ];
   var CALM = ['Don’t panic, dear. Reach for', 'Keep calm and fetch', 'Mother knows just the thing:', 'Doctor’s orders! Read', 'Chin up, chum. You need'];
   var WAITING = ['Warming up the tubes…', 'Tuning past the polka hour…', 'Consulting Mother…', 'Asking the milkman…', 'Checking the almanac…', 'Jiggling the antenna…'];
