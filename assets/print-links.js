@@ -17,7 +17,8 @@ window.FUN_BOOKS_PRINT = {
   ai:          { amazon: "", lulu: "" },  // How to Survive the AI Apocalypse
   zombie:      { amazon: "", lulu: "" },  // The Gentleman's Guide to the Zombie Neighborhood
   asteroid:    { amazon: "", lulu: "" },  // Homemaking After the Asteroid
-  bigfoot:     { amazon: "", lulu: "" }   // How to Raise a Well-Behaved Bigfoot
+  bigfoot:     { amazon: "", lulu: "" },  // How to Raise a Well-Behaved Bigfoot
+  time:        { amazon: "", lulu: "" }   // Good Manners for Time Travelers
 };
 
 /* --- Nothing below needs editing. ---------------------------------------
