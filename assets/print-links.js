@@ -19,7 +19,8 @@ window.FUN_BOOKS_PRINT = {
   asteroid:    { amazon: "", lulu: "" },  // Homemaking After the Asteroid
   bigfoot:     { amazon: "", lulu: "" },  // How to Raise a Well-Behaved Bigfoot
   time:        { amazon: "", lulu: "" },  // Good Manners for Time Travelers
-  vampire:     { amazon: "", lulu: "" }   // Surviving the Great Vampire Housing Boom
+  vampire:     { amazon: "", lulu: "" },  // Surviving the Great Vampire Housing Boom
+  surveillance: { amazon: "", lulu: "" }  // The Suburban Guide to Government Surveillance
 };
 
 /* --- Nothing below needs editing. ---------------------------------------
