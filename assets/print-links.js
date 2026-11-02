@@ -18,7 +18,8 @@ window.FUN_BOOKS_PRINT = {
   zombie:      { amazon: "", lulu: "" },  // The Gentleman's Guide to the Zombie Neighborhood
   asteroid:    { amazon: "", lulu: "" },  // Homemaking After the Asteroid
   bigfoot:     { amazon: "", lulu: "" },  // How to Raise a Well-Behaved Bigfoot
-  time:        { amazon: "", lulu: "" }   // Good Manners for Time Travelers
+  time:        { amazon: "", lulu: "" },  // Good Manners for Time Travelers
+  vampire:     { amazon: "", lulu: "" }   // Surviving the Great Vampire Housing Boom
 };
 
 /* --- Nothing below needs editing. ---------------------------------------

@@ -21,7 +21,9 @@
     { key: 'bigfoot', band: 'Bigfoot', color: '#8A5A2B', h: 'bigfoot/', t: 'How to Raise a Well-Behaved Bigfoot',
       c: ['There are footprints at the woodshed door!', 'Something hairy ate all the pie!', 'The new uncle is eight feet tall!'] },
     { key: 'time', band: 'Time Travel', color: '#2F5D62', h: 'time-travelers/', t: 'Good Manners for Time Travelers',
-      c: ['There is a knight at the supper table!', 'Grandpa set the dials to 990 again!', 'A Viking wants to stay for the week!'] }
+      c: ['There is a knight at the supper table!', 'Grandpa set the dials to 990 again!', 'A Viking wants to stay for the week!'] },
+    { key: 'vampire', band: 'Vampires', color: '#5A2E4A', h: 'vampire-housing-boom/', t: 'Surviving the Great Vampire Housing Boom',
+      c: ['The new neighbors only come out at night!', 'Someone offered a bag of gold for the house!', 'The Count is at the door asking to come in!'] }
   ];
   var CALM = ['Don’t panic, dear. Reach for', 'Keep calm and fetch', 'Mother knows just the thing:', 'Doctor’s orders! Read', 'Chin up, chum. You need'];
   var WAITING = ['Warming up the tubes…', 'Tuning past the polka hour…', 'Consulting Mother…', 'Asking the milkman…', 'Checking the almanac…', 'Jiggling the antenna…'];
