@@ -1,0 +1,122 @@
+[
+ {
+  "out": "t3/flux2klein/tt_armor_4.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board in the manner of Norman Rockwell, realistic adult proportions and lifelike faces, rich warm saturated colors, visible painterly brush strokes, full-bleed. a small oil can dripping oil onto the knee joint of a suit of steel armor, close-up. The person is clearly shown in the act of: oil the knees. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 21,
+  "n": 3,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "t3/zimage/tt_armor_4.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board in the manner of Norman Rockwell, realistic adult proportions and lifelike faces, rich warm saturated colors, visible painterly brush strokes, full-bleed. a small oil can dripping oil onto the knee joint of a suit of steel armor, close-up. The person is clearly shown in the act of: oil the knees. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 21,
+  "n": 3,
+  "model": "zimage",
+  "crop": 0.04
+ },
+ {
+  "out": "t3/flux2klein/tt_robot_1.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board in the manner of Norman Rockwell, realistic adult proportions and lifelike faces, rich warm saturated colors, visible painterly brush strokes, full-bleed. a shiny chrome robot butler with a round head holding a lady's coat over its arm in a bright futuristic hallway. The person is clearly shown in the act of: hand over your coat. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 21,
+  "n": 3,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "t3/zimage/tt_robot_1.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board in the manner of Norman Rockwell, realistic adult proportions and lifelike faces, rich warm saturated colors, visible painterly brush strokes, full-bleed. a shiny chrome robot butler with a round head holding a lady's coat over its arm in a bright futuristic hallway. The person is clearly shown in the act of: hand over your coat. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 21,
+  "n": 3,
+  "model": "zimage",
+  "crop": 0.04
+ },
+ {
+  "out": "t3/flux2klein/vh_bank_6.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board in the manner of Norman Rockwell, realistic adult proportions and lifelike faces, rich warm saturated colors, visible painterly brush strokes, full-bleed. a vampire bank teller with a chalk-white face in a high-collared black cape bowing behind a brass bank teller window in a candlelit bank, a smiling man in a tan sweater vest and necktie bowing back. The person is clearly shown in the act of: say thank you. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 21,
+  "n": 3,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "t3/zimage/vh_bank_6.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board in the manner of Norman Rockwell, realistic adult proportions and lifelike faces, rich warm saturated colors, visible painterly brush strokes, full-bleed. a vampire bank teller with a chalk-white face in a high-collared black cape bowing behind a brass bank teller window in a candlelit bank, a smiling man in a tan sweater vest and necktie bowing back. The person is clearly shown in the act of: say thank you. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 21,
+  "n": 3,
+  "model": "zimage",
+  "crop": 0.04
+ },
+ {
+  "out": "t3/flux2klein/ah_games_6.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board in the manner of Norman Rockwell, realistic adult proportions and lifelike faces, rich warm saturated colors, visible painterly brush strokes, full-bleed. a freckled boy in a striped t-shirt grinning and shaking hands across a checkerboard, lantern light. The person is clearly shown in the act of: win gracefully. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 21,
+  "n": 3,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "t3/zimage/ah_games_6.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board in the manner of Norman Rockwell, realistic adult proportions and lifelike faces, rich warm saturated colors, visible painterly brush strokes, full-bleed. a freckled boy in a striped t-shirt grinning and shaking hands across a checkerboard, lantern light. The person is clearly shown in the act of: win gracefully. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 21,
+  "n": 3,
+  "model": "zimage",
+  "crop": 0.04
+ },
+ {
+  "out": "t3/flux2klein/ah_tea_5.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board in the manner of Norman Rockwell, realistic adult proportions and lifelike faces, rich warm saturated colors, visible painterly brush strokes, full-bleed. tea being poured from a flowered teapot into a china cup, close-up. The person is clearly shown in the act of: pour properly. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 21,
+  "n": 3,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "t3/zimage/ah_tea_5.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board in the manner of Norman Rockwell, realistic adult proportions and lifelike faces, rich warm saturated colors, visible painterly brush strokes, full-bleed. tea being poured from a flowered teapot into a china cup, close-up. The person is clearly shown in the act of: pour properly. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 21,
+  "n": 3,
+  "model": "zimage",
+  "crop": 0.04
+ },
+ {
+  "out": "t3/flux2klein/gs_gelatin_3.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board in the manner of Norman Rockwell, realistic adult proportions and lifelike faces, rich warm saturated colors, visible painterly brush strokes, full-bleed. a gray-haired grandmother with clear eyeglasses in a blue dress and pearls placing a metal ring mold onto a shelf of an open 1950s refrigerator. The person is clearly shown in the act of: pour and chill. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 21,
+  "n": 3,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "t3/zimage/gs_gelatin_3.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board in the manner of Norman Rockwell, realistic adult proportions and lifelike faces, rich warm saturated colors, visible painterly brush strokes, full-bleed. a gray-haired grandmother with clear eyeglasses in a blue dress and pearls placing a metal ring mold onto a shelf of an open 1950s refrigerator. The person is clearly shown in the act of: pour and chill. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 21,
+  "n": 3,
+  "model": "zimage",
+  "crop": 0.04
+ }
+]
