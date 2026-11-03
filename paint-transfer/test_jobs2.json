@@ -1,0 +1,386 @@
+[
+ {
+  "out": "v2/tt/dials_2_f1.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. Close-up of an old hand turning a round brass dial with engraved numbers. The person is clearly shown in the act of: turn the century dial. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 1,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/tt/dials_2_f2.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. close-up of an old hand turning a round brass dial with engraved numbers. The person is clearly shown in the act of: turn the century dial. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 2,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/tt/dials_2_f3.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. close-up of an old hand turning a round brass dial with engraved numbers. The person is clearly shown in the act of: turn the century dial. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 3,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/tt/reclining_6_f1.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. a Roman senator in a white toga and laurel wreath lying on his side on a long red Roman banquet couch, raising a silver goblet, smiling, marble columns behind. The person is clearly shown in the act of: toast your host. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 1,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/tt/reclining_6_f2.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. a Roman senator in a white toga and laurel wreath lying on his side on a long red Roman banquet couch, raising a silver goblet, smiling, marble columns behind. The person is clearly shown in the act of: toast your host. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 2,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/tt/reclining_6_f3.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. a Roman senator in a white toga and laurel wreath lying on his side on a long red Roman banquet couch, raising a silver goblet, smiling, marble columns behind. The person is clearly shown in the act of: toast your host. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 3,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/tt/armor_4_f1.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. a small oil can dripping oil onto the knee joint of a suit of steel armor, close-up. The person is clearly shown in the act of: oil the knees. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 1,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/tt/armor_4_f2.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. a small oil can dripping oil onto the knee joint of a suit of steel armor, close-up. The person is clearly shown in the act of: oil the knees. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 2,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/tt/armor_4_f3.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. a small oil can dripping oil onto the knee joint of a suit of steel armor, close-up. The person is clearly shown in the act of: oil the knees. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 3,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/tt/market_5_f1.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. close-up of two hands shaking over a wooden market counter, one with a lace cuff. The person is clearly shown in the act of: meet in the middle. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 1,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/tt/market_5_f2.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. close-up of two hands shaking over a wooden market counter, one with a lace cuff. The person is clearly shown in the act of: meet in the middle. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 2,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/tt/market_5_f3.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. close-up of two hands shaking over a wooden market counter, one with a lace cuff. The person is clearly shown in the act of: meet in the middle. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 3,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/tt/robot_1_f1.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. a shiny chrome robot butler with a round head holding a lady's coat over its arm in a bright futuristic hallway. The person is clearly shown in the act of: hand over your coat. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 1,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/tt/robot_1_f2.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. a shiny chrome robot butler with a round head holding a lady's coat over its arm in a bright futuristic hallway. The person is clearly shown in the act of: hand over your coat. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 2,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/tt/robot_1_f3.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. a shiny chrome robot butler with a round head holding a lady's coat over its arm in a bright futuristic hallway. The person is clearly shown in the act of: hand over your coat. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 3,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/vh/welcome_5_f1.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. a cheerful housewife in a pink shirtwaist dress and white apron pressing a doorbell at a dark front door under a porch light, holding flowers. The person is clearly shown in the act of: ring the bell. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 1,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/vh/welcome_5_f2.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. a cheerful housewife in a pink shirtwaist dress and white apron pressing a doorbell at a dark front door under a porch light, holding flowers. The person is clearly shown in the act of: ring the bell. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 2,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/vh/welcome_5_f3.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. a cheerful housewife in a pink shirtwaist dress and white apron pressing a doorbell at a dark front door under a porch light, holding flowers. The person is clearly shown in the act of: ring the bell. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 3,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/vh/bank_6_f1.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. a vampire bank teller with a chalk-white face in a high-collared black cape bowing behind a brass bank teller window in a candlelit bank, a smiling man in a tan sweater vest and necktie bowing back. The person is clearly shown in the act of: say thank you. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 1,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/vh/bank_6_f2.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. a vampire bank teller with a chalk-white face in a high-collared black cape bowing behind a brass bank teller window in a candlelit bank, a smiling man in a tan sweater vest and necktie bowing back. The person is clearly shown in the act of: say thank you. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 2,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/vh/bank_6_f3.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. a vampire bank teller with a chalk-white face in a high-collared black cape bowing behind a brass bank teller window in a candlelit bank, a smiling man in a tan sweater vest and necktie bowing back. The person is clearly shown in the act of: say thank you. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 3,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/vh/nightschool_3_f1.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. a lamplit 1950s classroom of little vampire children with chalk-white faces in tiny black Dracula capes waving at the door. The person is clearly shown in the act of: say good evening. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 1,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/vh/nightschool_3_f2.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. a lamplit 1950s classroom of little vampire children with chalk-white faces in tiny black Dracula capes waving at the door. The person is clearly shown in the act of: say good evening. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 2,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/vh/nightschool_3_f3.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. a lamplit 1950s classroom of little vampire children with chalk-white faces in tiny black Dracula capes waving at the door. The person is clearly shown in the act of: say good evening. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 3,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/vh/moving_4_f1.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. a smiling man in a tan sweater vest and necktie and a friendly vampire with a chalk-white face in a black cape with a tall stand-up collar wrapping a moving blanket around a tall grandfather clock at night. The person is clearly shown in the act of: wrap the fine things. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 1,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/vh/moving_4_f2.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. a smiling man in a tan sweater vest and necktie and a friendly vampire with a chalk-white face in a black cape with a tall stand-up collar wrapping a moving blanket around a tall grandfather clock at night. The person is clearly shown in the act of: wrap the fine things. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 2,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/vh/moving_4_f3.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. a smiling man in a tan sweater vest and necktie and a friendly vampire with a chalk-white face in a black cape with a tall stand-up collar wrapping a moving blanket around a tall grandfather clock at night. The person is clearly shown in the act of: wrap the fine things. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 3,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/ah/snackers_2_f1.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. a freckled boy in a striped t-shirt sitting in a kitchen chair at night wrapped in a plaid blanket, holding a flashlight. The person is clearly shown in the act of: set up your post. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 1,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/ah/snackers_2_f2.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. a freckled boy in a striped t-shirt sitting in a kitchen chair at night wrapped in a plaid blanket, holding a flashlight. The person is clearly shown in the act of: set up your post. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 2,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/ah/snackers_2_f3.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. a freckled boy in a striped t-shirt sitting in a kitchen chair at night wrapped in a plaid blanket, holding a flashlight. The person is clearly shown in the act of: set up your post. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 3,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/ah/games_6_f1.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. a freckled boy in a striped t-shirt grinning and shaking hands across a checkerboard, lantern light. The person is clearly shown in the act of: win gracefully. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 1,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/ah/games_6_f2.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. a freckled boy in a striped t-shirt grinning and shaking hands across a checkerboard, lantern light. The person is clearly shown in the act of: win gracefully. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 2,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/ah/games_6_f3.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. a freckled boy in a striped t-shirt grinning and shaking hands across a checkerboard, lantern light. The person is clearly shown in the act of: win gracefully. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 3,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/ah/doggy_4_f1.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. a floppy-eared beagle catching a dog biscuit in mid air. The person is clearly shown in the act of: give a biscuit. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 1,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/ah/doggy_4_f2.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. a floppy-eared beagle catching a dog biscuit in mid air. The person is clearly shown in the act of: give a biscuit. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 2,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/ah/doggy_4_f3.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. a floppy-eared beagle catching a dog biscuit in mid air. The person is clearly shown in the act of: give a biscuit. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 3,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/ah/tea_5_f1.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. tea being poured from a flowered teapot into a china cup, close-up. The person is clearly shown in the act of: pour properly. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 1,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/ah/tea_5_f2.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. tea being poured from a flowered teapot into a china cup, close-up. The person is clearly shown in the act of: pour properly. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 2,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/ah/tea_5_f3.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. tea being poured from a flowered teapot into a china cup, close-up. The person is clearly shown in the act of: pour properly. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 3,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/gs/lineman_5_f1.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. a smiling man with horn-rimmed glasses in a navy cardigan and necktie handing a glass of lemonade to a G-man federal agent in a belted tan trench coat, gray fedora and dark sunglasses standing at the foot of a wooden telephone pole. The person is clearly shown in the act of: hand it up. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 1,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/gs/lineman_5_f2.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. a smiling man with horn-rimmed glasses in a navy cardigan and necktie handing a glass of lemonade to a G-man federal agent in a belted tan trench coat, gray fedora and dark sunglasses standing at the foot of a wooden telephone pole. The person is clearly shown in the act of: hand it up. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 2,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/gs/lineman_5_f3.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. a smiling man with horn-rimmed glasses in a navy cardigan and necktie handing a glass of lemonade to a G-man federal agent in a belted tan trench coat, gray fedora and dark sunglasses standing at the foot of a wooden telephone pole. The person is clearly shown in the act of: hand it up. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 3,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/gs/ladder_4_f1.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. a white-haired grandfather with clear eyeglasses in a gray cardigan and bow tie holding a wooden stepladder steady while a G-man federal agent in a belted tan trench coat, gray fedora and dark sunglasses climbs up it beside a telephone pole. The person is clearly shown in the act of: hold the bottom. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 1,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/gs/ladder_4_f2.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. a white-haired grandfather with clear eyeglasses in a gray cardigan and bow tie holding a wooden stepladder steady while a G-man federal agent in a belted tan trench coat, gray fedora and dark sunglasses climbs up it beside a telephone pole. The person is clearly shown in the act of: hold the bottom. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 2,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/gs/ladder_4_f3.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. a white-haired grandfather with clear eyeglasses in a gray cardigan and bow tie holding a wooden stepladder steady while a G-man federal agent in a belted tan trench coat, gray fedora and dark sunglasses climbs up it beside a telephone pole. The person is clearly shown in the act of: hold the bottom. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 3,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/gs/gelatin_3_f1.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. a gray-haired grandmother with clear eyeglasses in a blue dress and pearls placing a metal ring mold onto a shelf of an open 1950s refrigerator. The person is clearly shown in the act of: pour and chill. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 1,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/gs/gelatin_3_f2.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. a gray-haired grandmother with clear eyeglasses in a blue dress and pearls placing a metal ring mold onto a shelf of an open 1950s refrigerator. The person is clearly shown in the act of: pour and chill. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 2,
+  "model": "flux2klein"
+ },
+ {
+  "out": "v2/gs/gelatin_3_f3.jpg",
+  "prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes. 1950s magazine gouache illustration in the style of a vintage Saturday Evening Post cover. a gray-haired grandmother with clear eyeglasses in a blue dress and pearls placing a metal ring mold onto a shelf of an open 1950s refrigerator. The person is clearly shown in the act of: pour and chill. No words anywhere in the image, no signs, no captions, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 3,
+  "model": "flux2klein"
+ }
+]
