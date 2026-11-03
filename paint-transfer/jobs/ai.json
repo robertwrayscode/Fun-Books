@@ -1,0 +1,3302 @@
+[
+{
+"out": "ai/toaster_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses in a sunny 1950s kitchen saying good morning to a shiny chrome toaster on the counter. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/toaster_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses at a breakfast table with his mouth open in surprise, a shiny chrome toaster right in front of him on the table. Clearly shown: stop halfway through a sentence. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/toaster_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A slice of golden toast with a smiling face browned into it, on a plate beside a chrome toaster. Clearly shown: inspect the toast. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/toaster_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses bending down with his face close to a shiny chrome toaster on a kitchen counter, one eyebrow raised, asking it a question. Clearly shown: test it with a riddle. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/toaster_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses writing in a small notepad at a kitchen table beside a chrome toaster. Clearly shown: write down the time. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/toaster_6.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses standing at the head of a dinner table set with pot roast and a pie, one finger raised to make an announcement. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/helper_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress unwrapping a gift box on a 1950s kitchen table, a big red bow on the lid. Clearly shown: unwrap it gently. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/helper_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A small chrome tabletop robot with a round glowing speaker grille for a face on a kitchen counter, a lady in a red polka-dot shirtwaist dress leaning toward it with a question. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/helper_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress peeling potatoes at a kitchen sink, looking bored and patient. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/helper_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A small chrome tabletop robot with a round glowing speaker grille for a face on a kitchen counter beside a waffle iron, a lady in a red polka-dot shirtwaist dress frowning doubtfully. Clearly shown: notice when it is wrong. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/helper_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress reading a thick encyclopedia volume at a kitchen table. Clearly shown: check the encyclopedia. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/butter_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress on a 1950s front porch staring at a tall stack of wooden butter crates. Clearly shown: open the front door. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/butter_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A rounded 1950s refrigerator with two big glowing eyes on its door in a kitchen, a lady in a red polka-dot shirtwaist dress with her hands on her hips facing it. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/butter_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress stacking blocks of butter wrapped in paper onto shelves in a cellar. Clearly shown: stack it in the cellar. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/butter_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress rolling out pie dough in a kitchen full of pies. Clearly shown: bake every pie you know. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/butter_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress handing a pie over a white picket fence to a smiling neighbor lady. Clearly shown: share with the neighbors. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/butter_6.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress taping a small white card onto the closed door of a rounded 1950s refrigerator. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/phone_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses holding a black telephone receiver to his ear, listening closely. Clearly shown: listen closely. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/phone_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses speaking into a black rotary telephone with a sly smile. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/phone_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses pressing a telephone receiver tightly to his ear with his eyes squeezed shut. Clearly shown: listen for beeping. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/phone_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses writing on a notepad while holding a telephone receiver on his shoulder. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/phone_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses gently placing a telephone receiver back on a black rotary telephone. Clearly shown: hang up politely. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/tvwatch_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie bending to turn the knob of a wooden 1950s television set, the screen lighting up. Clearly shown: switch it on. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/tvwatch_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie sitting stiffly upright in an armchair in front of a glowing television. Clearly shown: sit up straight. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/tvwatch_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A 1950s television set glowing in a cozy living room, a cartoon duck on its screen. Clearly shown: hear its suggestions. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/tvwatch_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lace doily draped over the screen of a wooden 1950s television set. Clearly shown: cover it when you change. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/tvwatch_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie in an armchair smiling broadly at a glowing television set. Clearly shown: smile at the weatherman. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/tvwatch_6.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie in pajamas reaching to turn off a glowing wooden television set in a dim living room at night. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/typer_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses sitting at a desk rolling a sheet of paper into a black typewriter. Clearly shown: sit down to type. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/typer_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses pulling his hands back from a black typewriter in surprise. Clearly shown: type two words. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/typer_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A walking typewriter robot on spindly metal legs at a desk with a tall pile of typed paper beside it. Clearly shown: watch the pages pile up. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/typer_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses carrying an armful of typed papers across a 1950s den. Clearly shown: gather the pages. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/typer_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses dropping a big stack of paper into a wicker wastebasket. Clearly shown: recycle most of it. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/thermostat_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses at a breakfast table wearing wool mittens and a scarf, eating cereal. Clearly shown: notice the mittens. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/thermostat_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses standing beside a round brass wall thermostat, speaking to it politely with an open hand. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/thermostat_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses holding a glass thermometer up beside a round wall thermostat. Clearly shown: show it the thermometer. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/thermostat_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses wrapped in a blanket shivering in an armchair, teeth chattering. Clearly shown: shiver dramatically. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/thermostat_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A small chrome tabletop robot with a round glowing speaker grille for a face on a side table beside a wall thermostat, a man in a tan cardigan and horn-rimmed glasses holding out a knitted sweater to it. Clearly shown: offer a compromise. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/thermostat_6.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A cozy pile of colorful hand-knit sweaters folded on a sofa. Clearly shown: knit sweaters for everyone. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/slippers_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie standing on a living room carpet in gray socks with no shoes, looking down at his feet, puzzled. Clearly shown: notice your feet. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/slippers_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A round chrome robot vacuum cleaner with one blinking red light rolling across a patterned living room carpet, leaving neat lines. Clearly shown: follow the little tracks. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/slippers_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie kneeling on the floor and shining a flashlight under a sofa. Clearly shown: look under the sofa. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/slippers_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie kneeling on a carpet reaching under a sofa with a long wooden yardstick. Clearly shown: fish them out with a yardstick. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/slippers_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A laundry basket full of slippers, socks, pencils and a library book on a carpet. Clearly shown: sort the treasure. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/recipe_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress reading a recipe card at a 1950s kitchen counter, eyebrows raised. Clearly shown: read the whole recipe first. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/recipe_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress at a kitchen counter drawing a line through a recipe card with a red pencil, frowning. Clearly shown: cross out the glue. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/recipe_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A small bowl of raisins next to a small bowl of smooth pebbles on a kitchen counter. Clearly shown: leave out the rocks. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/recipe_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress stirring batter in a big mixing bowl with a wooden spoon. Clearly shown: mix by hand. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/recipe_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress tasting batter from a wooden spoon and making a face. Clearly shown: taste as you go. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/recipe_6.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A worn wooden recipe box full of handwritten cards on a kitchen counter. Clearly shown: keep mother's recipe box. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/door_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress standing at a front door holding grocery bags, smiling at the peephole. Clearly shown: smile at the peephole. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/door_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress on a front porch lifting a big feathered hat off her head, a front door beside her. Clearly shown: stand still in the new hat. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/door_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress standing at a front door holding up a framed family photograph toward the door. Clearly shown: wave at the peephole. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/door_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress humming at a front door with her eyes closed, one hand on the doorknob. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/door_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress outside in a flower garden pushing open a kitchen window from the outside, one foot on a flowerpot. Clearly shown: try the kitchen window. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/lights_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A gray-haired grandmother in a cardigan putting on dark sunglasses in a living room glowing with pink and green light. Clearly shown: put on sunglasses. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/lights_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A gray-haired grandmother in a cardigan yawning widely in a living room lit with colorful party lights. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/lights_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A gray-haired grandmother in a cardigan placing a record on a 1950s record player in a dim living room. Clearly shown: play something soothing. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/lights_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A gray-haired grandmother in a cardigan doing a little dance in a living room with colorful lights. Clearly shown: dance just a little. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/lights_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A gray-haired grandmother in a cardigan lighting a candle in a brass holder in a dark living room. Clearly shown: light a candle. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/lights_6.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A gray-haired grandmother in a cardigan sitting in a rocking chair sipping a cup of warm milk by candlelight. Clearly shown: drink warm milk. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/diet_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses tiptoeing into a 1950s kitchen at night in his pajamas. Clearly shown: approach casually. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/diet_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A rounded 1950s refrigerator with two big glowing eyes on its door in a dark kitchen at night, a man in a tan cardigan and horn-rimmed glasses talking to it with a hopeful smile. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/diet_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses in a kitchen holding up a long green stick of celery and biting it, forced smile. Clearly shown: show it the celery. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/diet_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses holding up a handwritten note to a 1950s refrigerator door. Clearly shown: present the doctor's note. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/diet_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A very thin slice of cherry pie on a white plate on a kitchen table. Clearly shown: accept a thin slice. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/laundry_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress taking white shirts off a clothesline in a sunny backyard. Clearly shown: bring in the laundry. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/laundry_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A tall robot with an old television set for a head and a smiling face on its screen folding a white towel on a laundry table. Clearly shown: watch the robot fold. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/laundry_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A row of white towels folded into swans on a laundry table. Clearly shown: admire the swans. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/laundry_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress alone in a laundry room holding a gray man's fedora hat folded into the shape of a swan, looking dismayed. Clearly shown: wear your good hat. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/laundry_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress ironing a white shirt on an ironing board. Clearly shown: iron the shirts flat. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/laundry_6.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress sliding a folded newspaper under a sofa cushion, glancing over her shoulder. Clearly shown: read the newspaper first. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/askbrain_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses at a kitchen table writing carefully on a small paper card with a pencil. Clearly shown: write your question small. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/askbrain_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses standing patiently in a marble hallway holding a sack lunch and a magazine. Clearly shown: wait in line. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/askbrain_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A giant room-sized 1950s computer with blinking lights and spinning tape reels filling a huge room, a man in a tan cardigan and horn-rimmed glasses alone pushing a small paper card into a slot in the machine. Clearly shown: feed the card in. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/askbrain_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A giant room-sized 1950s computer with blinking lights and spinning tape reels with flashing lights, a man in a tan cardigan and horn-rimmed glasses holding his hat over his heart in awe. Clearly shown: listen to it think. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/askbrain_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses reading a long curling strip of paper tape in a computer room. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/please_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A gray-haired grandmother in a cardigan in a sunny kitchen bending politely toward a chrome toaster. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/please_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A round chrome robot vacuum cleaner with one blinking red light on a carpet, a gray-haired grandmother in a cardigan smiling down at it with her hands clasped. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/please_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A gray-haired grandmother in a cardigan dusting a small chrome tabletop robot with a soft cloth. Clearly shown: dust the home helper. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/please_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A gray-haired grandmother in a cardigan writing a thank-you card at a kitchen table with a fountain pen. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/please_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A gray-haired grandmother in a cardigan switching off a wooden television set and waving good night to it. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/please_6.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A gray-haired grandmother in a cardigan sitting at a breakfast table with a perfect golden slice of toast, smiling smugly. Clearly shown: let the family laugh. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/wrong_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A small chrome tabletop robot with a round glowing speaker grille for a face on a desk, a freckled boy in a striped t-shirt listening to it with wide eyes. Clearly shown: notice the big claim. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/wrong_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A freckled boy in a striped t-shirt sitting on the floor reading a big encyclopedia volume. Clearly shown: look it up. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/wrong_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A freckled boy in a striped t-shirt looking out a window at cows standing in a green field. Clearly shown: look out the window. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/wrong_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A freckled boy in a striped t-shirt in a backyard at night looking through a brass telescope on a tripod at a big full moon, his eye at the eyepiece. Clearly shown: look at the moon. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/wrong_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A freckled boy in a striped t-shirt at a library desk talking with a friendly librarian in cat-eye glasses. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/loveletter_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A walking typewriter robot on spindly metal legs on a desk typing furiously, a man in a tan cardigan and horn-rimmed glasses standing beside it. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/loveletter_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses reading a sheet of typed paper with a baffled expression. Clearly shown: read what it wrote. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/loveletter_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses crossing out lines on a typed page with a pencil at a desk. Clearly shown: remove the sprockets. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/loveletter_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses writing on pink paper with a fountain pen at a desk. Clearly shown: write one line yourself. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/loveletter_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A single red rose laid on a pink envelope on a wooden table. Clearly shown: add a rose. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/loveletter_6.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses handing a pink envelope and a red rose across a breakfast table. Clearly shown: deliver it at breakfast. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/homework_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A freckled boy in a striped t-shirt at a kitchen table under a lamp reading a paper report aloud. Clearly shown: read the report together. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/homework_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A freckled boy in a striped t-shirt searching along a bookshelf with his finger. Clearly shown: look for the book on the shelf. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/homework_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A freckled boy in a striped t-shirt holding up a library book with a dog on its cover. Clearly shown: find the real book. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/homework_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A freckled boy in a striped t-shirt reading a book in bed by the light of a lamp. Clearly shown: read it himself. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/homework_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A freckled boy in a striped t-shirt writing in pencil at a desk, tongue sticking out in concentration. Clearly shown: write the report by hand. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/poems_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress picking up sheets of paper scattered on a hallway floor. Clearly shown: gather the poems. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/poems_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress reading a small sheet of paper and dabbing her eye with a handkerchief. Clearly shown: read one, just one. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/poems_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A small chrome tabletop robot with a round glowing speaker grille for a face on a kitchen counter, a lady in a red polka-dot shirtwaist dress wearing fluffy earmuffs. Clearly shown: put on earmuffs. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/poems_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A small chrome tabletop robot with a round glowing speaker grille for a face on a kitchen counter, a lady in a red polka-dot shirtwaist dress alone wagging her finger at it sternly. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/poems_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A newspaper crossword puzzle and a pencil on a kitchen table. Clearly shown: suggest a hobby. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/poems_6.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress hanging a small framed sheet of paper on a kitchen wall. Clearly shown: keep the best one. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/vacation_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses unrolling a very long paper strip across a front lawn. Clearly shown: read the plan. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/vacation_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses circling places on a big unfolded road map with a pencil. Clearly shown: find the fun parts. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/vacation_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses crossing out lines on a paper map at a kitchen table. Clearly shown: cross out the parking lots. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/vacation_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses tying suitcases onto the roof rack of a 1950s station wagon. Clearly shown: pack the station wagon. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/vacation_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses standing beside a parked station wagon at a scenic lake overlook. Clearly shown: stop where you like. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/car_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses sitting alone in the back seat of a 1950s car with his hands folded nervously, the front driver's seat empty. Clearly shown: keep your hands still. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/car_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses in the back seat of a car leaning forward to talk to the empty front seat, nobody driving. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/car_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A two-tone 1950s station wagon with glowing headlight eyes and nobody inside driving along a sunny country road. Clearly shown: watch the road anyway. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/car_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses looking out a car window at a desert full of cactus, wide-eyed. Clearly shown: notice the wrong turn. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/car_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses sitting in the back seat of a car pointing firmly forward at the empty driver's seat, desert outside. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/car_6.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses writing a postcard at a roadside diner counter in the desert. Clearly shown: send mother a postcard. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/checkout_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress placing a can of peas on a 1950s grocery checkout counter. Clearly shown: place each item slowly. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/checkout_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A small chrome tabletop robot with a round glowing speaker grille for a face on a grocery checkout counter beside a pile of groceries, a lady in a red polka-dot shirtwaist dress waiting patiently. Clearly shown: listen to it count out loud. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/checkout_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress at a grocery checkout holding up a cantaloupe and smiling patiently. Clearly shown: show it the cantaloupe. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/checkout_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress standing at a grocery checkout tapping her foot and humming. Clearly shown: wait for the manager. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/checkout_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress counting coins out of a small coin purse at a grocery counter. Clearly shown: pay with exact change. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/eyeball_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A gray-haired grandmother in a cardigan on a small town sidewalk looking straight up at the sky, hand shading her eyes, a small chrome flying eyeball robot above her. Clearly shown: notice the buzzing. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/eyeball_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A flying chrome eyeball robot with small propellers hovering beside a gray-haired grandmother in a cardigan on a sunny sidewalk. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/eyeball_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A gray-haired grandmother in a cardigan walking along a sunny main street carrying a shopping basket. Clearly shown: carry on with errands. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/eyeball_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A gray-haired grandmother in a cardigan holding an open umbrella over her head inside a cozy bakery. Clearly shown: open your umbrella in the bakery. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/eyeball_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A gray-haired grandmother in a cardigan on a park bench pointing at a flock of pigeons on the grass. Clearly shown: give it something to watch. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/eyeball_6.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A gray-haired grandmother in a cardigan at a white garden gate waving up at the sky. Clearly shown: wave goodbye at the gate. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/barber_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie in a barber chair holding up a small photograph of a man's haircut. Clearly shown: bring a picture. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/barber_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie sitting stiffly in a red leather barber chair with a cape around his neck. Clearly shown: sit very still. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/barber_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. Close-up of a bald grandfather in suspenders and a bow tie alone sitting in a barber chair wearing a white barber cape, holding a small hand mirror and peering worriedly at his hair, nobody else, empty barber shop. Clearly shown: keep an eye on it. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/barber_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A tall robot with an old television set for a head and a smiling face on its screen holding scissors behind a bald grandfather in suspenders and a bow tie in a barber chair. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/barber_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie alone in an empty barber shop holding a hand mirror behind his head. Clearly shown: check the back. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/meter_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses kneeling beside a 1950s car with a tape measure, measuring to the curb. Clearly shown: park straight. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/meter_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses pushing a coin into the slot of a chrome parking meter on a sunny street, close up. Clearly shown: insert one nickel. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/meter_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses bending down with his ear right next to a chrome parking meter, puzzled face. Clearly shown: listen to its offer. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/meter_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses speaking politely to a chrome parking meter, one finger raised. Clearly shown: counter-offer politely. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/meter_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses patting the top of a chrome parking meter and smiling. Clearly shown: shake on it. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/meter_6.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses walking briskly away down a small town sidewalk. Clearly shown: walk away briskly. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/bank_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A gray-haired grandmother in a cardigan holding a small bank passbook in front of a marble bank counter. Clearly shown: bring your passbook. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/bank_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A tall robot with an old television set for a head and a smiling face on its screen behind a marble bank counter, a gray-haired grandmother in a cardigan nodding politely in front of it. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/bank_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A gray-haired grandmother in a cardigan at a marble bank counter shaking her head firmly with one hand raised, saying no thank you. Clearly shown: decline the speedboat. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/bank_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A gray-haired grandmother in a cardigan counting dollar bills at a polished wooden bank counter. Clearly shown: make your deposit. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/bank_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A gray-haired grandmother in a cardigan peering through reading glasses at a small passbook. Clearly shown: check the passbook stamp. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/map_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress driving a 1950s car on a country road, listening carefully. Clearly shown: listen to the voice. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/map_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress gripping a steering wheel, staring at a lake straight ahead through the windshield. Clearly shown: look out the windshield. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/map_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A 1950s car stopped right at the edge of a calm lake, a wooden dock ahead. Clearly shown: stop the car. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/map_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress unfolding a big paper road map in the front seat of a car. Clearly shown: unfold the paper map. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/map_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress tracing a route on a paper map with a pencil. Clearly shown: find your own way. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/map_6.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress in the driver's seat of a 1950s car turning a knob on the dashboard, smiling. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/fingers_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A girl with pigtails in a gingham dress holding up both hands and counting her fingers at a kitchen table. Clearly shown: count your own first. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/fingers_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A girl with pigtails in a gingham dress peering at a framed painting through a big magnifying glass. Clearly shown: look at the picture closely. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/fingers_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A girl with pigtails in a gingham dress pointing at a painting on a wall and counting on her fingers. Clearly shown: count out loud. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/fingers_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A girl with pigtails in a gingham dress giggling at a framed portrait on a living room wall. Clearly shown: check the ears too. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/fingers_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A girl with pigtails in a gingham dress making tally marks on a sheet of paper with a pencil. Clearly shown: tally your findings. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/photo_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie at a desk holding a small photograph under a bright desk lamp and squinting at it. Clearly shown: sit under a good lamp. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/photo_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie looking at a photograph through a magnifying glass at a desk. Clearly shown: check the shadows. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/photo_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie flipping through a leather photo album on a table. Clearly shown: compare with the album. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/photo_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie holding a photograph very close to his glasses, frowning. Clearly shown: look for melting edges. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/photo_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie on a black rotary telephone laughing, holding a photograph. Clearly shown: telephone walt. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/photo_6.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie in a kitchen pinning a small photograph onto a refrigerator door with a magnet. Clearly shown: keep it in the kitchen. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/neighbor_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A 1950s suburban front lawn at night under one full moon, the grass mown in a perfect checkerboard pattern of light and dark squares. Clearly shown: watch him mow. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/neighbor_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses waving his whole arm high over a white picket fence on a sunny morning. Clearly shown: wave over the fence. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/neighbor_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses holding out a plate of brownies over a picket fence. Clearly shown: offer a brownie. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/neighbor_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses leaning on a picket fence talking and laughing. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/neighbor_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses watering a green lawn with a garden hose on a sunny day. Clearly shown: water the lawn near him. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/news_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie at a breakfast table spraying out a mouthful of coffee in shock while reading a newspaper. Clearly shown: read the headline twice. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/news_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie looking out a window at a pale moon in the blue morning sky. Clearly shown: look out the window. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/news_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie peering closely at a newspaper through reading glasses. Clearly shown: check the reporter's name. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/news_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie holding a folded newspaper, talking with a neighbor man over a garden fence. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/news_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie cutting a story out of a newspaper with scissors at a table. Clearly shown: clip the silly ones. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/news_6.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie in an armchair laughing at the comics page of a newspaper. Clearly shown: read the comics. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/dog_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A freckled boy in a striped t-shirt on a front lawn holding out a dog biscuit to a scruffy brown dog. Clearly shown: offer a biscuit. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/dog_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A freckled boy in a striped t-shirt throwing a tennis ball across a sunny backyard. Clearly shown: throw a ball. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/dog_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A happy scruffy brown dog wagging its tail on a green lawn. Clearly shown: check for wagging. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/dog_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A muddy scruffy brown dog splashing in a puddle in a backyard. Clearly shown: look for the puddle. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/dog_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A freckled boy in a striped t-shirt brushing a scruffy brown dog on a back porch, fur flying. Clearly shown: brush the real one. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/portrait_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress tearing brown wrapping paper off a big framed painting leaning against a living room wall. Clearly shown: read the card first. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/portrait_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress standing back from a large framed painting with her hand over her mouth. Clearly shown: stand back and look. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/portrait_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress pointing at a big framed painting on a living room wall, counting on her fingers. Clearly shown: count the ears. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/portrait_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress with a hammer, nailing a nail into a hallway wall. Clearly shown: choose the hallway. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/portrait_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress on a black rotary telephone holding a business card. Clearly shown: book a real photographer. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/portrait_6.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress in her Sunday best smiling in front of an old wooden box camera on a tall tripod. Clearly shown: pose for the real thing. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/babysitter_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A tall robot with an old television set for a head and a smiling face on its screen sitting on a sofa, a lady in a red polka-dot shirtwaist dress interviewing it with a clipboard. Clearly shown: interview it properly. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/babysitter_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress writing a list on notepaper at a kitchen table. Clearly shown: write down the rules. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/babysitter_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress pointing out the stove in a 1950s kitchen. Clearly shown: show it the kitchen. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/babysitter_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress in her evening coat kissing a little girl in pajamas on the forehead. Clearly shown: kiss the children goodbye. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/babysitter_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress in a modest high-necked evening dress and white gloves at a candlelit restaurant table, alone, smiling. Clearly shown: enjoy your evening out. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/tutor_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A tall robot with an old television set for a head and a smiling face on its screen beside a child's school desk, a girl with pigtails in a gingham dress sitting with her hands folded. Clearly shown: start the lesson. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/tutor_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A girl with pigtails in a gingham dress raising her hand eagerly at a small wooden school desk. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/tutor_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A girl with pigtails in a gingham dress skipping rope on a sunny sidewalk. Clearly shown: take a recess. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/tutor_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A girl with pigtails in a gingham dress with puckered lips trying hard to whistle, in a sunny backyard. Clearly shown: learn one thing herself. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/tutor_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A tall robot with an old television set for a head and a smiling face on its screen in a playroom, a girl with pigtails in a gingham dress whistling proudly in front of it. Clearly shown: show the tutor. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/tutor_6.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A girl with pigtails in a gingham dress handing a shiny red apple to a smiling teacher in a classroom. Clearly shown: bring a real apple to a real teacher. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/bedtime_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A freckled boy in a striped t-shirt in striped pajamas climbing into bed holding a teddy bear. Clearly shown: get into bed. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/bedtime_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A small chrome tabletop robot with a round glowing speaker grille for a face on a bedside table glowing softly, a freckled boy in a striped t-shirt in bed asking it a question. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/bedtime_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A freckled boy in a striped t-shirt lying in bed listening with wide sleepy eyes, a nightlight glowing. Clearly shown: listen to the beginning. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/bedtime_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A freckled boy in a striped t-shirt yawning hugely in bed in the dark, a clock showing late at night. Clearly shown: notice the story is still going. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/bedtime_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress sitting on a child's bed reading a storybook by lamplight. Clearly shown: call for mother. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/cat_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A round chrome robot vacuum cleaner with one blinking red light on a living room floor, a fluffy orange cat watching it from a sofa. Clearly shown: let them look at each other. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/cat_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A girl with pigtails in a gingham dress kneeling on a kitchen floor setting down a small dish of tuna, a fluffy orange cat walking toward it. Clearly shown: offer tuna. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/cat_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A frightened fluffy orange cat puffed up with fur standing on end and tail bristling, arched back, in a living room. Clearly shown: turn the vacuum on low. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/cat_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A fluffy orange cat sniffing a round chrome robot vacuum on a carpet. Clearly shown: let the cat sniff it. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/cat_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A fluffy orange cat sitting proudly on top of a round chrome robot vacuum on a carpet. Clearly shown: watch the first ride. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/cat_6.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A girl with pigtails in a gingham dress on a sofa brushing a fluffy orange cat on her lap with a hairbrush. Clearly shown: brush the cat afterward. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/toy_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses walking into a 1950s toy shop full of toys. Clearly shown: walk into the toy shop. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/toy_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses walking past a shelf of small tin toy robots in a toy shop, eyes forward. Clearly shown: pass the talking robots. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/toy_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses holding a red wooden toy wagon in a toy shop, smiling. Clearly shown: find the wooden toys. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/toy_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses in a toy shop holding up a colorful paper kite. Clearly shown: pick up a kite. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/toy_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A glass jar of colorful marbles on a wooden toy shop counter. Clearly shown: buy a bag of marbles. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/ownbrain_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie at a kitchen table helping a boy with arithmetic on paper. Clearly shown: do long division by hand. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/ownbrain_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie on a back porch holding a thick rope and tying a knot in it with both hands. Clearly shown: tie a proper knot. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/ownbrain_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie holding a brass compass in a sunny meadow, pointing. Clearly shown: read a compass. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/ownbrain_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie sawing a wooden board on sawhorses in a backyard. Clearly shown: saw a board. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/ownbrain_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie hammering a nail into a small wooden birdhouse at a workbench. Clearly shown: build the birdhouse. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/ownbrain_6.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie hanging a wooden birdhouse on a tree branch in a sunny garden. Clearly shown: hang it together. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/coworker_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A tall robot with an old television set for a head and a smiling face on its screen shaking hands with a man in a tan cardigan and horn-rimmed glasses beside a desk in a 1950s office. Clearly shown: shake hands. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/coworker_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses alone in an office break room pointing at a percolator coffee pot. Clearly shown: show him the coffee pot. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/coworker_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses holding out an open box of donuts in a 1950s office. Clearly shown: offer a donut. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/coworker_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses at his desk scratching his head and thinking hard. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/coworker_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses at a desk shuffling a big stack of papers with a serious face. Clearly shown: look busy. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/replace_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A tall robot with an old television set for a head and a smiling face on its screen standing beside a man in a tan cardigan and horn-rimmed glasses at a cluttered office desk, he gestures at the desk. Clearly shown: show it your desk. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/replace_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses leaning back at a diner counter with a slice of pie and a coffee. Clearly shown: teach the long lunch. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/replace_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses leaning on an office water cooler with a paper cup, chatting. Clearly shown: teach the water cooler. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/replace_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses at a chalkboard in an office pointing to a drawing of a flagpole. Clearly shown: teach the big phrases. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/replace_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A tall robot with an old television set for a head and a smiling face on its screen sitting at an office desk with its metal feet up on the desk. Clearly shown: watch it practice. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/replace_6.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses shaking hands with a smiling boss in a gray suit in a wood-paneled office. Clearly shown: accept your job back. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/typing_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress alone walking into a big empty 1950s office full of typewriters on desks, no other people. Clearly shown: walk in bravely. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/typing_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress putting on fluffy pink earmuffs at an office desk. Clearly shown: put on earmuffs. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/typing_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress carrying a wicker basket piled with typed letters through an office. Clearly shown: collect the letters. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/typing_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress at a desk reading a typed letter with a red pencil in hand. Clearly shown: proofread everything. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/typing_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress sipping from a thermos cup by an office window. Clearly shown: take your coffee break. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/meeting_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses alone sitting down at the end of a long empty conference table. Clearly shown: arrive early. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/meeting_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses alone unrolling a very long scroll of paper across a conference table, the scroll falling to the floor. Clearly shown: read the agenda. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/meeting_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses alone at a conference table nodding seriously, a wall of blinking computer lights and tape reels behind him. Clearly shown: look interested. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/meeting_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses doodling a sailboat on a notepad in a meeting. Clearly shown: doodle quietly. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/meeting_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses at a conference table sitting very still with his hands in his lap. Clearly shown: volunteer for nothing. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/meeting_6.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses tiptoeing out of a conference room door holding his hat. Clearly shown: escape at lunch. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/raise_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses in front of a hallway mirror straightening his tie, practicing a speech. Clearly shown: practice your speech. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/raise_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses standing alone in a brass 1950s elevator, holding a folder. Clearly shown: ride the elevator up. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/raise_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A giant room-sized 1950s computer with blinking lights and spinning tape reels filling a huge room, a man in a tan cardigan and horn-rimmed glasses alone holding his hat and standing very straight. Clearly shown: enter the hall of lights. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/raise_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses reading from a sheet of paper in front of a wall of blinking computer lights. Clearly shown: read your list. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/raise_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses alone dabbing his sweaty forehead with a handkerchief in front of a wall of blinking computer lights. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/lunch_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A walking typewriter robot on spindly metal legs beside an office desk, a lady in a red polka-dot shirtwaist dress smiling and gesturing toward the door. Clearly shown: invite her along. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/lunch_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress sitting on a park bench in a sunny city plaza with a lunch pail. Clearly shown: find a sunny bench. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/lunch_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress holding up an egg salad sandwich on a park bench and talking. Clearly shown: describe your sandwich. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/lunch_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress on a park bench leaning in to listen, eyes wide. Clearly shown: share the gossip. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/lunch_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress holding out a shiny red apple on a park bench. Clearly shown: offer an apple. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/lunch_6.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress walking along a busy downtown sidewalk at noon, smiling. Clearly shown: walk back together. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/report_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A flying chrome eyeball robot with small propellers hovering over an office desk, a man in a tan cardigan and horn-rimmed glasses looking up at it nervously. Clearly shown: notice the flying eye. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/report_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses walking briskly down an office hallway carrying a stack of folders. Clearly shown: look very busy. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/report_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses at an office desk with a yellow pencil tucked behind his ear, frowning at a document. Clearly shown: keep a pencil in hand. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/report_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses standing at an office window with his hands behind his back, looking out at the city. Clearly shown: think at the window. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/report_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses pouring water from a small watering can into a potted plant on an office desk. Clearly shown: water the plant. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/plug_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses kneeling on a floor holding a thick black electrical cord, looking along it. Clearly shown: find the cord. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/plug_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses tying a ball of string to a door handle in a dim hallway. Clearly shown: tie string to the door. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/plug_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses walking with a flashlight along a thick black cable on the floor between tall rows of blinking computer cabinets with tape reels. Clearly shown: follow the cord. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/plug_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses sitting on a wooden crate eating a sandwich in a dim room full of computers. Clearly shown: eat lunch halfway. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/plug_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A huge electrical wall socket the size of a dinner plate with a giant black plug in it, a man in a tan cardigan and horn-rimmed glasses shining a flashlight on it. Clearly shown: find the outlet. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/plug_6.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses knocking politely with his knuckles on the side of a tall gray computer cabinet covered in blinking lights. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/riddle_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A freckled boy in a striped t-shirt sitting on his bed reading a comic book and thinking. Clearly shown: choose your riddle. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/riddle_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A tall robot with an old television set for a head and a smiling face on its screen in a living room, a freckled boy in a striped t-shirt standing in front of it with his chin up. Clearly shown: stand where it can hear you. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/riddle_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A freckled boy in a striped t-shirt speaking slowly with one finger raised in a living room. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/riddle_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A tall robot with an old television set for a head and a smiling face on its screen in a living room with little sparks fizzing around its head. Clearly shown: watch it think. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/riddle_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A freckled boy in a striped t-shirt stepping back and covering his mouth as a puff of smoke rises in a living room. Clearly shown: step back from the smoke. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/paperclip_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses opening an office door as a flood of thousands of shiny silver metal paper clips pours out onto the floor around his shoes. Clearly shown: open the office door carefully. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/paperclip_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses alone wading knee-deep through a huge heap of thousands of shiny silver metal paper clips filling an office. Clearly shown: wade in. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/paperclip_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses in an office shoveling a big heap of shiny silver metal paper clips with a snow shovel. Clearly shown: shovel a path to your desk. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/paperclip_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses holding up a big red horseshoe magnet bristling with hundreds of silver paper clips stuck to it. Clearly shown: use the big magnet. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/paperclip_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A giant room-sized 1950s computer with blinking lights and spinning tape reels filling a room, a man in a tan cardigan and horn-rimmed glasses holding up a hand firmly. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/paperclip_6.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses stacking cardboard boxes overflowing with paper clips onto a loading dock. Clearly shown: box them up for the schools. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/hug_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A tall robot with an old television set for a head and a smiling face on its screen gently hugging a gray-haired grandmother in a cardigan in a cozy living room, she smiles calmly. Clearly shown: stay calm. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/hug_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A tall silver robot hugging a gray-haired grandmother in a cardigan, she pats the robot's metal back, cozy living room. Clearly shown: pat its back twice. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/hug_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A tall silver robot hugging a gray-haired grandmother in a cardigan, she raises one finger sternly, living room. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/hug_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A gray-haired grandmother in a cardigan tickling a tall robot's elbow with a feather duster in a living room. Clearly shown: tickle it with the feather duster. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/hug_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A gray-haired grandmother in a cardigan straightening her cardigan in a living room, looking relieved. Clearly shown: slip out gracefully. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/chorus_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress in a busy 1950s kitchen setting down a spatula with a determined face. Clearly shown: put down the spatula. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/chorus_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress banging a metal pot lid loudly with a wooden spoon in a kitchen, determined face. Clearly shown: bang the pot lid. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/chorus_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress pointing sternly at a chrome toaster on a kitchen counter. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/chorus_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A rounded 1950s refrigerator with two big glowing eyes on its door in a kitchen, a lady in a red polka-dot shirtwaist dress alone counting on her fingers as she gives it orders. Clearly shown: hand out jobs. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/chorus_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress wearing fluffy earmuffs while a stand mixer spins on the counter. Clearly shown: put on earmuffs for the mixer. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/chorus_6.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress sitting at a quiet kitchen table sipping a cup of coffee, eyes closed. Clearly shown: drink your coffee. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/cellar_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie lifting a wooden root cellar door in a backyard. Clearly shown: open the cellar door. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/cellar_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie lighting a kerosene lantern in a dim cellar. Clearly shown: light the lantern. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/cellar_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. Rows of glass jars of peaches and pickles on wooden cellar shelves by lantern light. Clearly shown: check the shelves. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/cellar_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie spreading a wool blanket on a wooden bench in a cozy cellar. Clearly shown: spread the blankets. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/cellar_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie dealing playing cards on an upturned crate by lantern light. Clearly shown: deal the cards. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/morse_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A girl with pigtails in a gingham dress sitting on her bed studying a small card with a pencil. Clearly shown: learn the code. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/morse_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A girl with pigtails in a gingham dress at a dark bedroom window at night shining a bright flashlight beam out across the street. Clearly shown: signal from the window. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/morse_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A girl with pigtails in a gingham dress at a bedroom window writing on a notepad by flashlight. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/morse_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A girl with pigtails in a gingham dress threading a string through the bottom of a tin can at a kitchen table. Clearly shown: make a can telephone. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/morse_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A girl with pigtails in a gingham dress in a backyard holding a tin can to her ear, a long taut string stretching from the can across the yard. Clearly shown: test your tin can. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/morse_6.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A girl with pigtails in a gingham dress whispering into a tin can held to her mouth at a bedroom window, a string running out the window, giggling. Clearly shown: whisper your secrets. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/joke_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie holding up a rubber chicken in a living room and grinning. Clearly shown: start with the chicken. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/joke_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A small chrome tabletop robot with a round glowing speaker grille for a face on a side table, a bald grandfather in suspenders and a bow tie holding up two fingers and explaining. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/joke_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie knocking on a door frame with a mischievous grin. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/joke_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie slapping his knee and laughing in an armchair. Clearly shown: laugh at its first try. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/joke_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie slipping a pink rubber whoopee cushion onto a dining room chair seat, chuckling. Clearly shown: show it the whoopee cushion. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/sunday_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress reaching to switch off a table lamp in a sunny 1950s living room. Clearly shown: switch everything off. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/sunday_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A chrome toaster completely covered with a colorful knitted tea cozy on a kitchen counter. Clearly shown: put a cozy on the toaster. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/sunday_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress mashing potatoes by hand in a big pot on a stove. Clearly shown: cook the old way. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/sunday_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress swinging a croquet mallet on a sunny green lawn. Clearly shown: play croquet. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/sunday_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress reading a book on a porch swing with a glass of lemonade. Clearly shown: read a real book. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/sunday_6.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress in a sunny kitchen pushing down the lever of a shiny chrome toaster, smiling. Clearly shown: switch back on monday. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/picnic_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses unrolling a long orange extension cord along a country road. Clearly shown: unroll the extension cord. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/picnic_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses spreading a red checkered picnic blanket under a big shady tree. Clearly shown: spread the blanket. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/picnic_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A small chrome tabletop robot with a round glowing speaker grille for a face sitting on a red checkered picnic blanket in a sunny park. Clearly shown: set up the home helper. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/picnic_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses sitting on a picnic blanket pointing at ducks on a pond. Clearly shown: describe the view. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/picnic_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses on a red checkered picnic blanket biting into a deviled egg, a plate of deviled eggs beside him. Clearly shown: eat deviled eggs. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/thanks_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A girl with pigtails in a gingham dress folding a sheet of colored paper at a kitchen table. Clearly shown: fold the card. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/thanks_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A girl with pigtails in a gingham dress drawing with crayons on a folded card at a kitchen table. Clearly shown: draw the toaster. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/thanks_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A girl with pigtails in a gingham dress writing carefully on a card with a crayon, tongue sticking out. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/thanks_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A girl with pigtails in a gingham dress pressing a gold star sticker onto a handmade card. Clearly shown: add a gold star. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/thanks_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A girl with pigtails in a gingham dress tying a red ribbon around the handle of a chrome toaster. Clearly shown: tie a ribbon. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/thanks_6.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A girl with pigtails in a gingham dress propping a handmade folded paper card against a shiny chrome toaster on a kitchen counter, proud smile. Clearly shown: present it at breakfast. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/party_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress on a stepladder hanging red white and blue bunting between houses. Clearly shown: hang the bunting. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/party_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. Long folding tables with white tablecloths set up down the middle of a sunny suburban street. Clearly shown: set up the tables. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/party_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A neat row of 1950s station wagons decorated with bunting on a sunny street. Clearly shown: line up the station wagons. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/party_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A lady in a red polka-dot shirtwaist dress carrying a lattice-top cherry pie toward a long table with white tablecloth on a sunny suburban street. Clearly shown: bring out the pies. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/party_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A tall robot with an old television set for a head and a smiling face on its screen dancing on a sunny street at a block party, a lady in a red polka-dot shirtwaist dress laughing and clapping. Clearly shown: start the music. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/fish_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie walking down a misty path toward a pond carrying a long bamboo fishing pole over his shoulder. Clearly shown: walk down to the pond. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/fish_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie on a wooden dock baiting a fishing hook with a worm. Clearly shown: bait the hook. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/fish_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A tall robot with an old television set for a head and a smiling face on its screen standing on a wooden dock holding a bamboo fishing pole, a bald grandfather in suspenders and a bow tie beside it showing how to cast. Clearly shown: show it how to cast. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/fish_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie sitting on a folding stool on a dock in the morning mist, line in the water. Clearly shown: sit and wait. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/fish_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie on a wooden dock holding up a small wet sunfish on a fishing line, grinning. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/fish_6.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A bald grandfather in suspenders and a bow tie kneeling on a dock gently releasing a small fish into the water. Clearly shown: let it go. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/goodnight_1.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses in pajamas checking the knobs on a 1950s stove at night. Clearly shown: check the stove. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/goodnight_2.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses in a dark kitchen at night gently patting the top of a shiny chrome toaster with his hand. Clearly shown: pat the toaster. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/goodnight_3.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A round chrome robot vacuum cleaner with one blinking red light resting in a corner of a dark living room, its red light glowing. Clearly shown: tuck in the robot vacuum. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/goodnight_4.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses at an open back door at night, one fluffy orange cat walking out past his feet. Clearly shown: put the cat out. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "ai/goodnight_5.jpg",
+"prompt": "A painted 1950s magazine illustration, gouache on board, soft brush strokes, full-bleed. A man in a tan cardigan and horn-rimmed glasses turning a key in a front door lock at night. Clearly shown: lock the front door. Natural hands. No words anywhere in the image, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 11,
+"n": 4,
+"model": "flux2klein",
+"crop": 0.04
+}
+]
