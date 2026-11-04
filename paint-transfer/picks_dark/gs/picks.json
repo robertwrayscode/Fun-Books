@@ -10,9 +10,9 @@
   "note": "Gray delivery truck with antenna, blank sides; night not morning"
  },
  "van_3": {
-  "seed": 11,
-  "ok": false,
-  "note": "rescue1 failed: all vans have side windows; 46 has blank rear panel"
+  "seed": 64,
+  "ok": true,
+  "note": "rescue2: Plain smooth gray side, no text"
  },
  "van_4": {
   "seed": 11,
@@ -32,7 +32,7 @@
  "newspaper_1": {
   "seed": 14,
   "ok": false,
-  "note": "rescue1 failed: fake legible headlines on all; not hiding"
+  "note": "rescue2 failed: All show sunglasses above paper; night not sunny"
  },
  "newspaper_2": {
   "seed": 41,
@@ -50,9 +50,9 @@
   "note": "rescue1: housewife greets man, small print only"
  },
  "newspaper_5": {
-  "seed": 11,
-  "ok": false,
-  "note": "rescue1 failed: all show legible 'OFFER HIM TODAY'S' headline text"
+  "seed": 64,
+  "ok": true,
+  "note": "rescue2: She offers paper; he reads rather than peeks"
  },
  "hedgecam_1": {
   "seed": 46,
@@ -67,7 +67,7 @@
  "hedgecam_3": {
   "seed": 13,
   "ok": false,
-  "note": "rescue1 failed: all show hands holding camera; lens markings"
+  "note": "rescue2 failed: All show hands; 62 hands faint at corners"
  },
  "hedgecam_4": {
   "seed": 12,
@@ -115,9 +115,9 @@
   "note": "Grandma on bench, agent in hedge, no sign text"
  },
  "fedora_2": {
-  "seed": 11,
-  "ok": false,
-  "note": "rescue1 failed: fake storefront sign text on all seeds"
+  "seed": 63,
+  "ok": true,
+  "note": "rescue2: Brim low, hat shop windows; night scene"
  },
  "fedora_3": {
   "seed": 12,
@@ -190,9 +190,9 @@
   "note": "Tipping fedora toward van, clean"
  },
  "smile_6": {
-  "seed": 12,
-  "ok": false,
-  "note": "rescue1 failed: all have pipe/whistle object in mouth; extra figures"
+  "seed": 63,
+  "ok": true,
+  "note": "rescue2: Pursed whistle, briefcase, tree-lined street"
  },
  "click_1": {
   "seed": 11,
@@ -205,9 +205,9 @@
   "note": "Listening with raised brows, hand fine"
  },
  "click_3": {
-  "seed": 12,
-  "ok": false,
-  "note": "rescue1 failed: two men in every seed; boombox-like recorders"
+  "seed": 64,
+  "ok": true,
+  "note": "rescue2: Lone G-man, headphones, two-reel recorder"
  },
  "click_4": {
   "seed": 11,
@@ -235,9 +235,9 @@
   "note": "On phone with antenna truck behind, clean"
  },
  "tape_4": {
-  "seed": 11,
-  "ok": false,
-  "note": "rescue1 failed: reels fused onto typewriter; others have paper text"
+  "seed": 63,
+  "ok": true,
+  "note": "rescue2: Typing, reel-to-reel on shelf; fedora not small hat"
  },
  "tape_5": {
   "seed": 14,
@@ -245,9 +245,9 @@
   "note": "Reel recorder close-up, no text, one natural hand"
  },
  "tape_6": {
-  "seed": 14,
-  "ok": false,
-  "note": "rescue1 failed: no phone cradle shown in any seed"
+  "seed": 66,
+  "ok": true,
+  "note": "rescue2: Receiver set on cradle, clean hands"
  },
  "vase_1": {
   "seed": 11,
@@ -290,9 +290,9 @@
   "note": "Leaning and talking to lamp, smiling"
  },
  "lamp_4": {
-  "seed": 13,
-  "ok": false,
-  "note": "rescue1 failed: legible 'BOX SCORES' headline on all"
+  "seed": 64,
+  "ok": true,
+  "note": "rescue2: Mouth open reading, tiny print only"
  },
  "lamp_5": {
   "seed": 11,
@@ -385,9 +385,9 @@
   "note": "Waving toward shelf from bed; s12 two hands up"
  },
  "welcome_1": {
-  "seed": 11,
-  "ok": false,
-  "note": "rescue1 failed: modern digital stainless ovens on all"
+  "seed": 61,
+  "ok": true,
+  "note": "rescue2: Casserole lifted from white oven with mitts"
  },
  "welcome_2": {
   "seed": 12,
@@ -410,9 +410,9 @@
   "note": "Handing casserole to agent at open van door"
  },
  "welcome_6": {
-  "seed": 14,
-  "ok": false,
-  "note": "rescue1 failed: legible handwritten note text on all"
+  "seed": 61,
+  "ok": true,
+  "note": "rescue2: Clean dish and closed card, no hands"
  },
  "coffee_1": {
   "seed": 14,
@@ -475,9 +475,9 @@
   "note": "Girl asks G-man; rechecked"
  },
  "names_2": {
-  "seed": 11,
-  "ok": false,
-  "note": "rescue1 failed: all vans have side windows"
+  "seed": 63,
+  "ok": true,
+  "note": "rescue2: Girl writing, plain gray van with antenna; girl young"
  },
  "names_3": {
   "seed": 11,
@@ -490,9 +490,9 @@
   "note": "Girl waves to G-man, no text; rechecked"
  },
  "names_5": {
-  "seed": 12,
-  "ok": false,
-  "note": "rescue1 failed: realistic portraits, not child's crayon drawing"
+  "seed": 63,
+  "ok": true,
+  "note": "rescue2: Crude stick figure, brown hat, crayons; adult hand"
  },
  "rain_1": {
   "seed": 14,
@@ -550,9 +550,9 @@
   "note": "Boy hands binoculars to G-man at van door"
  },
  "birthday_1": {
-  "seed": 12,
-  "ok": false,
-  "note": "rescue1 failed: legible 'Birthday' calendar header on all"
+  "seed": 62,
+  "ok": true,
+  "note": "rescue2: Circling date on plain calendar, side view"
  },
  "birthday_2": {
   "seed": 12,
@@ -625,9 +625,9 @@
   "note": "rescue1: pouring from saucepan into plaid thermos"
  },
  "thermos_5": {
-  "seed": 13,
-  "ok": false,
-  "note": "rescue1 failed: 'SEND IT OVER' text on all seeds"
+  "seed": 62,
+  "ok": true,
+  "note": "rescue2: Clean handoff of plaid thermos at van"
  },
  "thermos_6": {
   "seed": 13,
@@ -740,9 +740,9 @@
   "note": "Four adults chatting at candlelit table"
  },
  "centerpiece_6": {
-  "seed": 11,
-  "ok": false,
-  "note": "rescue1 failed: none show blowing out candles"
+  "seed": 61,
+  "ok": true,
+  "note": "rescue2: Blowing two candles, smoke; flames barely bend"
  },
  "cookies_1": {
   "seed": 11,
@@ -755,9 +755,9 @@
   "note": "Clear star cutter, truck with antenna"
  },
  "cookies_3": {
-  "seed": 11,
-  "ok": false,
-  "note": "rescue1 failed: open oven tray handling, no window; girl too young"
+  "seed": 64,
+  "ok": true,
+  "note": "rescue2: Nose near closed oven glass; girl looks young"
  },
  "cookies_4": {
   "seed": 13,
@@ -785,9 +785,9 @@
   "note": "Long two-handed shears, hands correct"
  },
  "trim_4": {
-  "seed": 14,
-  "ok": false,
-  "note": "rescue1 failed: extra/garbled hands, scissors not garden shears"
+  "seed": 61,
+  "ok": true,
+  "note": "rescue2: Shears with two hands, small lens in leaves"
  },
  "trim_5": {
   "seed": 11,
@@ -890,9 +890,9 @@
   "note": "Raking, truck behind; 14 has two rakes"
  },
  "rake_3": {
-  "seed": 14,
-  "ok": false,
-  "note": "rescue1 failed: not buried; hat and sunglasses not only things showing"
+  "seed": 62,
+  "ok": true,
+  "note": "rescue2: Hat and sunglasses atop heap, rake beside"
  },
  "rake_4": {
   "seed": 12,
@@ -985,9 +985,9 @@
   "note": "rescue1: laughing grandma writing, windowless truck behind"
  },
  "letter_5": {
-  "seed": 11,
-  "ok": false,
-  "note": "rescue1 failed: none licking envelope flap"
+  "seed": 64,
+  "ok": true,
+  "note": "rescue2: Tongue on flap, clear glasses"
  },
  "steamed_1": {
   "seed": 13,
@@ -1110,9 +1110,9 @@
   "note": "rescue1: boy writing postcard, man at window"
  },
  "postcard_3": {
-  "seed": 13,
-  "ok": false,
-  "note": "rescue1 failed: postcard held in hands; caption text on all"
+  "seed": 61,
+  "ok": true,
+  "note": "rescue2: Lake postcard and pencil; hands holding it"
  },
  "postcard_4": {
   "seed": 14,
@@ -1155,9 +1155,9 @@
   "note": "Ruffling boy's hair"
  },
  "spykit_1": {
-  "seed": 11,
-  "ok": false,
-  "note": "rescue1 failed: cigars in box; others have 'FIND A GOOD BOX' text"
+  "seed": 63,
+  "ok": true,
+  "note": "rescue2: Lifting empty box lid, fedora man at window"
  },
  "spykit_2": {
   "seed": 13,
@@ -1290,9 +1290,9 @@
   "note": "rescue1: correct five people posed on lawn"
  },
  "photo_6": {
-  "seed": 13,
-  "ok": false,
-  "note": "rescue1 failed: 'send him a copy' text on all; hands"
+  "seed": 64,
+  "ok": true,
+  "note": "rescue2: Snapshot on envelope on hood; one hand at edge"
  },
  "secret_1": {
   "seed": 42,
@@ -1300,14 +1300,14 @@
   "note": "rescue1: grandma writes word, man at window, tiny text"
  },
  "secret_2": {
-  "seed": 11,
-  "ok": false,
-  "note": "rescue1 failed: note on table top, not passed under table"
+  "seed": 62,
+  "ok": true,
+  "note": "rescue2: Note passed below tabletop; not truly low view"
  },
  "secret_3": {
-  "seed": 14,
-  "ok": false,
-  "note": "rescue1 failed: no clear whispering; stray hands near faces"
+  "seed": 68,
+  "ok": true,
+  "note": "rescue2: Cupped hand whisper, agent leaning in"
  },
  "secret_4": {
   "seed": 13,
@@ -1322,7 +1322,7 @@
  "bridge_1": {
   "seed": 12,
   "ok": false,
-  "note": "rescue1 failed: small table already set up; not unfolding card table"
+  "note": "rescue2 failed: All tables already set up; no leg unfolding"
  },
  "bridge_2": {
   "seed": 13,
@@ -1370,14 +1370,14 @@
   "note": "Handing popcorn bowl to agent at van"
  },
  "movies_5": {
-  "seed": 14,
-  "ok": false,
-  "note": "rescue1 failed: hands holding film at window, no projection on sheet"
+  "seed": 62,
+  "ok": true,
+  "note": "rescue2: Canyon on sheet, beam inside room"
  },
  "blockparty_1": {
-  "seed": 14,
-  "ok": false,
-  "note": "rescue1 failed: not counting on fingers; others have text"
+  "seed": 63,
+  "ok": true,
+  "note": "rescue2: Counting fingers, one fedora man at window"
  },
  "blockparty_2": {
   "seed": 42,
@@ -1405,9 +1405,9 @@
   "note": "G-man pitching horseshoe; 12 has sign text"
  },
  "thanksgiving_1": {
-  "seed": 11,
-  "ok": false,
-  "note": "rescue1 failed: places a plant leaf, not table leaf"
+  "seed": 65,
+  "ok": true,
+  "note": "rescue2: Board dropped into table gap, one watcher"
  },
  "thanksgiving_2": {
   "seed": 13,
@@ -1450,9 +1450,9 @@
   "note": "Two G-men eating potato salad"
  },
  "picnic_5": {
-  "seed": 12,
-  "ok": false,
-  "note": "rescue1 failed: running separately, legs not tied"
+  "seed": 64,
+  "ok": true,
+  "note": "rescue2: Ankles tied, laughing; dusk not sunny"
  },
  "picnic_6": {
   "seed": 14,
@@ -1492,7 +1492,7 @@
  "nothing_2": {
   "seed": 11,
   "ok": false,
-  "note": "rescue1 failed: all mowers have engines, not reel mowers"
+  "note": "rescue2 failed: All mowers have engines; others extra G-men"
  },
  "nothing_3": {
   "seed": 11,
@@ -1520,9 +1520,9 @@
   "note": "Taking paper from drawer, man at window"
  },
  "thanks_2": {
-  "seed": 12,
-  "ok": false,
-  "note": "rescue1 failed: legible 'dear sirs' on all seeds"
+  "seed": 62,
+  "ok": true,
+  "note": "rescue2: Nib on blank stationery, inkwell"
  },
  "thanks_3": {
   "seed": 11,
@@ -1617,12 +1617,12 @@
  "file_5": {
   "seed": 13,
   "ok": false,
-  "note": "rescue1 failed: large legible fake typed text on all"
+  "note": "rescue2 failed: All show legible-looking fake type"
  },
  "file_6": {
-  "seed": 13,
-  "ok": false,
-  "note": "rescue1 failed: 'SEND IT BACK' text on envelope in all"
+  "seed": 68,
+  "ok": true,
+  "note": "rescue2: Plain brown envelope handed at door"
  },
  "porchlight_1": {
   "seed": 11,
