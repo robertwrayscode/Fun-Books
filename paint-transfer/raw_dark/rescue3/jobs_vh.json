@@ -1,0 +1,272 @@
+[
+{
+"out": "rescue3/vh/stay_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a plain white painted kitchen door frame with a few short horizontal pencil tick marks at different heights, like a child's growth chart, with no numbers and no writing at all. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no numbers, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 81,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue3/vh/stay_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A gray-haired grandmother in a green dress and pearls with her mouth closed, eyes shut, leaning in to smell a big blooming purple lilac bush in a sunny backyard. Natural hands, every person has exactly two arms and two hands. Every paper, card, sign, label, can, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 81,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue3/vh/wreath_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a round wreath made entirely of whole white garlic bulbs braided together by their dry stems, many plump white garlic heads, with a big red ribbon bow at the bottom, hanging on a dark wooden door. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no numbers, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 81,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue3/vh/invite_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A ten-year-old girl with brown braids in a yellow dress standing inside a dark front hall behind a closed screen door with fine gray wire mesh, smiling through the mesh at a friendly vampire with a chalk-white face, a neat slicked-back black widow's peak hairline, bare head with no hat, and a black cape with a tall red-lined stand-up collar standing outside on the porch at night, the mesh screen clearly between them. Natural hands, every person has exactly two arms and two hands. Every paper, card, sign, label, can, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 81,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue3/vh/mirror_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a plain wooden spirit level with a small glass bubble vial in the middle, resting on top of the gilded frame of a wall mirror, no markings on the level. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no numbers, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 81,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue3/vh/return_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A freckled boy in a red striped t-shirt walking along a quiet suburban sidewalk at dusk under a purple evening sky with glowing streetlights, carrying garden shears pointing down, houses and trees, no street signs. Natural hands, every person has exactly two arms and two hands. Every paper, card, sign, label, can, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 81,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue3/vh/borscht_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A cheerful housewife in a pink shirtwaist dress and white apron tasting deep ruby-red beet soup from a wooden spoon over a pot of bright red borscht on a stove, smiling. Natural hands, every person has exactly two arms and two hands. Every paper, card, sign, label, can, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 81,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue3/vh/shutters_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A smiling man in a tan sweater vest and necktie standing beside a white house on a sunny day holding a single loose green wooden window shutter in both hands, lifting it away from the wall, nobody else in the picture. Natural hands, every person has exactly two arms and two hands. Every paper, card, sign, label, can, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 81,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue3/vh/shadetree_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A white-haired grandfather in a brown cardigan standing on a sunny lawn pushing a long-handled garden spade into the grass with his foot, both hands on the top of the one-piece wooden handle, a pile of dirt beside a round hole. Natural hands, every person has exactly two arms and two hands. Every paper, card, sign, label, can, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 81,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue3/vh/pumpkin_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of two hands, one holding a single kitchen knife cutting a round lid around the stem of an orange pumpkin, the other hand steadying the pumpkin, only one knife. Natural hands, every person has exactly two arms and two hands. Every paper, card, sign, label, can, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 81,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue3/vh/bank_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A 1950s small town main street at night with warmly lit shop windows, three friendly smiling vampires with chalk-white human faces, slicked black hair and black capes with tall red-lined collars strolling on the sidewalk, each one a different height and face, blank awnings. Natural hands, every person has exactly two arms and two hands. Every paper, card, sign, label, can, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 81,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue3/vh/bank_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A smiling man in a tan sweater vest and necktie smiling and sliding a small plain dark blue passbook under the brass bars of an old bank teller window, polished wood counter, nothing written anywhere. Natural hands, every person has exactly two arms and two hands. Every paper, card, sign, label, can, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 81,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue3/vh/spareroom_6.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of one elderly woman's hand with a pearl bracelet holding out a single old-fashioned brass house key by its round bow, the key pointing toward the viewer, natural five-fingered hand. Natural hands, every person has exactly two arms and two hands. Every paper, card, sign, label, can, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 81,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue3/vh/piggybank_6.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A freckled boy in a red striped t-shirt alone sitting on a red stool at a 1950s soda fountain counter happily drinking an ice cream soda through a straw from a tall glass, chrome taps behind the counter, no signs. Natural hands, every person has exactly two arms and two hands. Every paper, card, sign, label, can, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 81,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue3/vh/minutes_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a hand holding a pencil poised above a blank page of an open notebook beside a lit candle, the page still empty. Natural hands, every person has exactly two arms and two hands. Every paper, card, sign, label, can, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 81,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue3/vh/blockparty_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A 1950s portable record player in an open wooden case on a porch table with a stack of records in plain sleeves beside it, glowing paper lanterns hanging above. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no numbers, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 81,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue3/vh/bakesale_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A gray-haired grandmother in a green dress and pearls at a folding table holding a pencil over small blank white cards, cakes and pies on the table beside her, the cards still empty. Natural hands, every person has exactly two arms and two hands. Every paper, card, sign, label, can, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 81,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue3/vh/halloween_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A row of smiling carved jack-o-lanterns glowing on brick porch steps at night in front of a closed dark front door. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no numbers, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 81,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue3/vh/watch_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. a friendly vampire with a chalk-white face, a neat slicked-back black widow's peak hairline, bare head with no hat, and a black cape with a tall red-lined stand-up collar sitting in a wooden rocking chair on a lit front porch at night, one hand resting on the chair arm and the other hand raised in a friendly wave toward a freckled boy in a red striped t-shirt on the sidewalk. Natural hands, every person has exactly two arms and two hands. Every paper, card, sign, label, can, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 81,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue3/vh/photo_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A smiling 1950s family, a father, a mother and a little girl, posing on a sofa in a lamplit living room, a friendly vampire with a chalk-white face, a neat slicked-back black widow's peak hairline, bare head with no hat, and a black cape with a tall red-lined stand-up collar standing behind the sofa smiling. Natural hands, every person has exactly two arms and two hands. Every paper, card, sign, label, can, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 81,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue3/vh/photo_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A smiling man in a tan sweater vest and necktie at a 1950s drugstore counter smiling and holding a small plain paper photo envelope, glass jars and plain boxes on shelves behind him. Natural hands, every person has exactly two arms and two hands. Every paper, card, sign, label, can, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 81,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue3/vh/nightschool_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A lamplit 1950s classroom with a few little vampire children with chalk-white faces in tiny black capes with red collars sitting at wooden desks, two of them raising a hand to wave toward the door, every raised hand attached to a child. Natural hands, every person has exactly two arms and two hands. Every paper, card, sign, label, can, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 81,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue3/vh/moving_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A smiling man in a tan sweater vest and necktie squatting with bent knees on a sidewalk at night, lifting one end of a tall narrow wooden grandfather clock taller than a man, with one round clock face near the top and a long glass door showing a brass pendulum. Natural hands, every person has exactly two arms and two hands. Every paper, card, sign, label, can, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 81,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue3/vh/moving_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A smiling man in a tan sweater vest and necktie pushing a red metal two-wheeled hand truck carrying a tall narrow wooden grandfather clock taller than a man, with one round clock face near the top and a long glass door showing a brass pendulum along a sidewalk at night, a friendly vampire with a chalk-white face, a neat slicked-back black widow's peak hairline, bare head with no hat, and a black cape with a tall red-lined stand-up collar walking beside him pointing the way. Natural hands, every person has exactly two arms and two hands. Every paper, card, sign, label, can, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 81,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue3/vh/cards_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A ten-year-old girl with brown braids in a yellow dress at a kitchen table holding a pencil and smiling down at a folded holiday card with a red holly picture on the front, the card closed. Natural hands, every person has exactly two arms and two hands. Every paper, card, sign, label, can, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 81,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue3/vh/cards_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a hand holding a black fountain pen above a stack of blank cream envelopes on a wooden table, nothing written on them. Natural hands, every person has exactly two arms and two hands. Every paper, card, sign, label, can, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 81,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue3/vh/cards_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a sheet of plain colorful postage stamps with simple flower pictures and a small wet yellow kitchen sponge in a little saucer of water on a wooden table. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no numbers, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 81,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+}
+]
