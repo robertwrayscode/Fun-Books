@@ -1,0 +1,342 @@
+[
+ {
+  "out": "rescue10/ih/rainbarrel_3.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A man in his forties in a flannel shirt crouching beside a large blue plastic barrel standing upright on the ground, pressing a power drill against the side of the barrel just above its base. Uncluttered simple scene, only the one person. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 161,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue10/ih/sand_filter_4.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Looking down into an open white plastic bucket filled with smooth pale sand, a small white china plate lying flat on top of the sand. An empty quiet still life. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 161,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue10/ih/sand_filter_6.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A young man in a white t-shirt at a stove pouring clear water from a glass pitcher into a pot that is boiling. Uncluttered simple scene, only the one person. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 161,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue10/ih/pemmican_5.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A gray-haired man in work clothes stirring a brown crumbly mixture like moist dark sand in a large bowl with a wooden spoon. Uncluttered simple scene, only the one person. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 161,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue10/ih/eggs_jar_4.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A man in a denim work shirt pouring milky white water from a pitcher into a large glass jar packed with whole unbroken brown eggs in their shells. Uncluttered simple scene, only the one person. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 161,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue10/ih/jars_1.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A farmer in overalls stirring crumbled browned ground beef in a cast-iron skillet on a stove with a wooden spoon. Uncluttered simple scene, only the one person. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 161,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue10/ih/dehydrator_4.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A man in his forties in a flannel shirt carrying a flat wooden screen tray covered with thin dried apple slices through a back door at dusk. Uncluttered simple scene, only the one person. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 161,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue10/ih/zeer_3.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A small terracotta flower pot standing inside a larger terracotta pot, the gap between them filled with sand, seen from slightly above. An empty quiet still life. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 161,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue10/ih/zeer_4.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A woman in her forties in a cardigan pouring water from a watering can into the sand-filled gap between a small terracotta pot set inside a larger terracotta pot. Uncluttered simple scene, only the one person. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 161,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue10/ih/hardtack_4.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A gray-haired man in work clothes poking holes with a wooden skewer into a row of separate square crackers of pale dough on a floured table. Uncluttered simple scene, only the one person. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 161,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue10/ih/soup_pot_4.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A gray-haired man in work clothes frying neat golden rectangular slices of cornmeal mush side by side in a cast-iron skillet. Uncluttered simple scene, only the one person. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 161,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue10/ih/butter_4.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A woman in her thirties in a blouse and apron tipping a glass jar over a white pitcher so thin white buttermilk pours out, a lump of yellow butter staying in the jar. Uncluttered simple scene, only the one person. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 161,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue10/ih/tourniquet_4.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A man in a denim work shirt kneeling and pulling tight a black strap wrapped around the upper arm just below the shoulder of a man sitting on the ground. Uncluttered simple scene, only the two people. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 161,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue10/ih/herbs_5.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A woman in her forties in a cardigan wrapping a white bandage around the forearm of a young boy who holds his arm out to her. Uncluttered simple scene, only the two people. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 161,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue10/ih/house_cool_1.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A woman in her thirties in a blouse and apron pulling heavy curtains closed across a sunny living room window. Uncluttered simple scene, only the one person. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 161,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue10/ih/rocket_stove_1.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Seen from above, four red bricks laid flat on the ground in a hollow square with a gap at the front, in a backyard. An empty quiet still life. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 161,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue10/ih/rocket_stove_3.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A knee-high open-topped column of stacked red bricks outdoors with a small square opening at the front of its base, a thin metal rod laid across the opening. An empty quiet still life. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 161,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue10/ih/ash_5.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A gray-haired man in work clothes wearing yellow rubber gloves wiping the glass door of a dark cold cast iron wood stove with a rag, no fire inside the stove. Uncluttered simple scene, only the one person. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 161,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue10/ih/trashcan_1.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A woman in her forties in a cardigan pressing a flat sheet of brown cardboard against the inside wall of an open galvanized metal trash can. Uncluttered simple scene, only the one person. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 161,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue10/ih/battery_6.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A farmer in overalls plugging the cord of a small radio into a black box mounted on a workshop wall, the radio sitting on a shelf below. Uncluttered simple scene, only the one person. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 161,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue10/ih/plot_2.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A woman in her thirties in a blouse and apron outdoors at the back steps of a house picking ripe tomatoes and herbs from a small garden bed beside the kitchen door. Uncluttered simple scene, only the one person. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 161,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue10/ih/compost_4.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A man in a denim work shirt turning a steaming compost pile with a long-handled garden pitchfork with four long metal tines. Uncluttered simple scene, only the one person. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 161,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue10/ih/seeds_5.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A woman in her forties in a cardigan in a garden shaking a bunch of dry brown seed stalks upside down into a brown paper bag. Uncluttered simple scene, only the one person. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 161,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue10/ih/ferro_3.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of two hands, one hand holding a thick dark gray metal rod with a wooden handle against dry tinder, the other hand pulling it back against a small flat steel striker, sparks. Uncluttered simple scene. Natural hands, exactly two hands. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 161,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue10/ih/shelter_1.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A long wooden pole lying at a slant, one end resting on top of a waist-high tree stump and the other end on the ground, in an autumn forest. An empty quiet still life. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 161,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue10/ih/compass_sun_1.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A young woman in a plaid shirt with rolled-up sleeves kneeling in a sunny field pushing a straight thin stick upright into flat dirt with her hands. Uncluttered simple scene, only the one person. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 161,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue10/ih/car_4.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A woman in her forties in a cardigan halfway out of the open side window of an old car parked by a lake, her upper body and arms through the window frame. Uncluttered simple scene, only the one person. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 161,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue10/ih/zipper_1.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A farmer in overalls at a table holding a jacket and picking a loose thread out of its metal zipper teeth with tweezers, the zipper clearly visible. Uncluttered simple scene, only the one person. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 161,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue10/ih/zipper_2.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A farmer in overalls at a table rubbing a pencil along the metal teeth of a long open zipper on a jacket lying on the table. Uncluttered simple scene, only the one person. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 161,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue10/ih/zipper_3.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A farmer in overalls at a table squeezing the metal slider of a jacket zipper with small pliers, the jacket lying on the table. Uncluttered simple scene, only the one person. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 161,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue10/ih/knife_stone_4.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of two hands pushing a kitchen knife edge-first across a rectangular gray sharpening stone on a damp towel. Uncluttered simple scene. Natural hands, exactly two hands. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 161,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue10/ih/knife_stone_6.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A young man in a white t-shirt at a wooden workbench drawing a kitchen knife along a long flat strip of brown leather. Uncluttered simple scene, only the one person. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 161,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue10/ih/toolbox_4.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A farmer in overalls plunging a clogged bathroom sink with a red rubber plunger on a wooden handle. Uncluttered simple scene, only the one person. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 161,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue10/ih/darning_6.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A folded pair of blue jeans lying flat on a table, a square patch on one knee decorated with neat white running stitches. An empty quiet still life. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 161,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ }
+]
