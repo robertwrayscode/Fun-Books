@@ -280,7 +280,7 @@
 "note": ""
 },
 "thermostat_2": {
-"seed": 45,
+"seed": 47,
 "ok": true,
 "note": "rescue1"
 },
@@ -390,7 +390,7 @@
 "note": "rescue1"
 },
 "address_2": {
-"seed": 44,
+"seed": 41,
 "ok": true,
 "note": "rescue1"
 },
@@ -1160,7 +1160,7 @@
 "note": "rescue1"
 },
 "office_2": {
-"seed": 41,
+"seed": 45,
 "ok": true,
 "note": "rescue1"
 },
@@ -1200,9 +1200,9 @@
 "note": "rescue1"
 },
 "salon_4": {
-"seed": 41,
-"ok": true,
-"note": "rescue1"
+"seed": 11,
+"ok": false,
+"note": "rescue1 failed: waving hand, not fanning with magazine"
 },
 "salon_5": {
 "seed": 14,
@@ -1280,7 +1280,7 @@
 "note": ""
 },
 "bank_4": {
-"seed": 43,
+"seed": 42,
 "ok": true,
 "note": "rescue1"
 },
@@ -1315,7 +1315,7 @@
 "note": ""
 },
 "surrender_5": {
-"seed": 42,
+"seed": 43,
 "ok": true,
 "note": "rescue1"
 },
@@ -1520,7 +1520,7 @@
 "note": "rescue1 failed: robot not bowing"
 },
 "foxtrot_2": {
-"seed": 46,
+"seed": 45,
 "ok": true,
 "note": "rescue1"
 },
