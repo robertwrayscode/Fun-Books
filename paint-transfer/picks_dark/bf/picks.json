@@ -12,7 +12,7 @@
 "tracks_3": {
 "seed": 42,
 "ok": false,
-"note": "round4 failed: paw print not foot, marks on ruler"
+"note": "rescue6 failed: shows the foot itself not a print"
 },
 "tracks_4": {
 "seed": 43,
@@ -1645,9 +1645,9 @@
 "note": ""
 },
 "fair_4": {
-"seed": 13,
-"ok": false,
-"note": "round4 failed: garbled signs on booths"
+"seed": 134,
+"ok": true,
+"note": "rescue6"
 },
 "fair_5": {
 "seed": 87,

@@ -1320,9 +1320,9 @@
 "note": "Grandmother tying balloon strings to lamp"
 },
 "bridge_1": {
-"seed": 12,
-"ok": false,
-"note": "round4 failed: printed papers and plates on floor"
+"seed": 132,
+"ok": true,
+"note": "rescue6"
 },
 "bridge_2": {
 "seed": 13,

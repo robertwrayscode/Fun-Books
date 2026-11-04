@@ -255,9 +255,9 @@
 "note": ""
 },
 "invite_2": {
-"seed": 12,
-"ok": false,
-"note": "round4 failed: vampire looks bald on top"
+"seed": 133,
+"ok": true,
+"note": "rescue6"
 },
 "invite_3": {
 "seed": 101,
@@ -1590,9 +1590,9 @@
 "note": ""
 },
 "thanksgiving_3": {
-"seed": 11,
-"ok": false,
-"note": "round4 failed: newspapers and cans on table, children missing"
+"seed": 134,
+"ok": true,
+"note": "rescue6"
 },
 "thanksgiving_4": {
 "seed": 12,

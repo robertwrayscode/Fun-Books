@@ -140,24 +140,24 @@
 "note": "rescue1"
 },
 "window_1": {
-"seed": 13,
-"ok": false,
-"note": "round4 failed: not a brontosaurus, T-rex heads, labels"
+"seed": 131,
+"ok": true,
+"note": "rescue6"
 },
 "window_2": {
-"seed": 11,
-"ok": false,
-"note": "round4 failed: T-rex heads not brontosaurus, labels"
+"seed": 131,
+"ok": true,
+"note": "rescue6"
 },
 "window_3": {
-"seed": 13,
-"ok": false,
-"note": "round4 failed: giraffe/T-rex heads, not brontosaurus"
+"seed": 133,
+"ok": true,
+"note": "rescue6"
 },
 "window_4": {
-"seed": 13,
-"ok": false,
-"note": "round4 failed: not a long-necked brontosaurus"
+"seed": 131,
+"ok": true,
+"note": "rescue6"
 },
 "window_5": {
 "seed": 41,
@@ -505,9 +505,9 @@
 "note": "rescue1"
 },
 "pedicure_3": {
-"seed": 11,
-"ok": false,
-"note": "round4 failed: holds wands not filing a toenail"
+"seed": 138,
+"ok": true,
+"note": "rescue6"
 },
 "pedicure_4": {
 "seed": 105,
