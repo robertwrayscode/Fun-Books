@@ -245,9 +245,9 @@
 "note": ""
 },
 "shelter_6": {
-"seed": 11,
-"ok": false,
-"note": "chess not checkers in all"
+"seed": 44,
+"ok": true,
+"note": "rescue1"
 },
 "marigolds_1": {
 "seed": 13,
@@ -332,7 +332,7 @@
 "lawn_1": {
 "seed": 11,
 "ok": false,
-"note": "engine mowers in all"
+"note": "rescue1 failed: engine mowers again"
 },
 "lawn_2": {
 "seed": 12,
@@ -345,9 +345,9 @@
 "note": ""
 },
 "lawn_4": {
-"seed": 11,
-"ok": false,
-"note": "hose held by stray hands, no sprinkler"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "lawn_5": {
 "seed": 13,
@@ -390,9 +390,9 @@
 "note": ""
 },
 "door_2": {
-"seed": 11,
-"ok": false,
-"note": "still wearing an apron while hanging another"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "door_3": {
 "seed": 13,
@@ -415,9 +415,9 @@
 "note": ""
 },
 "table_1": {
-"seed": 11,
-"ok": false,
-"note": "stray hands in all"
+"seed": 42,
+"ok": true,
+"note": "rescue1"
 },
 "table_2": {
 "seed": 12,
@@ -425,9 +425,9 @@
 "note": ""
 },
 "table_3": {
-"seed": 11,
-"ok": false,
-"note": "stray hands in all"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "table_4": {
 "seed": 12,
@@ -445,9 +445,9 @@
 "note": ""
 },
 "smalltalk_2": {
-"seed": 11,
-"ok": false,
-"note": "skull-faced scary monster in all"
+"seed": 43,
+"ok": true,
+"note": "rescue1"
 },
 "smalltalk_3": {
 "seed": 13,
@@ -470,14 +470,14 @@
 "note": ""
 },
 "bridge_1": {
-"seed": 11,
-"ok": false,
-"note": "table already set up, not being unfolded"
+"seed": 44,
+"ok": true,
+"note": "rescue1"
 },
 "bridge_2": {
-"seed": 11,
-"ok": false,
-"note": "skull-faced scary monster in all"
+"seed": 43,
+"ok": true,
+"note": "rescue1"
 },
 "bridge_3": {
 "seed": 11,
@@ -530,9 +530,9 @@
 "note": ""
 },
 "coffee_2": {
-"seed": 11,
-"ok": false,
-"note": "skull-faced scary monster in all"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "coffee_3": {
 "seed": 13,
@@ -565,9 +565,9 @@
 "note": ""
 },
 "goodbye_4": {
-"seed": 11,
-"ok": false,
-"note": "step words on ramp in all"
+"seed": 42,
+"ok": true,
+"note": "rescue1"
 },
 "goodbye_5": {
 "seed": 11,
@@ -595,14 +595,14 @@
 "note": ""
 },
 "casserole_4": {
-"seed": 11,
-"ok": false,
-"note": "pile of chips on the monster's head in all"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "casserole_5": {
-"seed": 11,
-"ok": false,
-"note": "stray hands in all"
+"seed": 46,
+"ok": true,
+"note": "rescue1"
 },
 "jello_1": {
 "seed": 12,
@@ -612,7 +612,7 @@
 "jello_2": {
 "seed": 11,
 "ok": false,
-"note": "fake label text on can in all"
+"note": "rescue1 failed: can labels have fake words in all"
 },
 "jello_3": {
 "seed": 13,
@@ -665,19 +665,19 @@
 "note": ""
 },
 "lunch_2": {
-"seed": 11,
-"ok": false,
-"note": "human hands on the octopus in all"
+"seed": 45,
+"ok": true,
+"note": "rescue1"
 },
 "lunch_3": {
-"seed": 11,
-"ok": false,
-"note": "pouring from thermos into pot (reversed)"
+"seed": 43,
+"ok": true,
+"note": "rescue1"
 },
 "lunch_4": {
-"seed": 11,
-"ok": false,
-"note": "writing on note in all"
+"seed": 47,
+"ok": true,
+"note": "rescue1"
 },
 "lunch_5": {
 "seed": 11,
@@ -710,9 +710,9 @@
 "note": ""
 },
 "cake_5": {
-"seed": 11,
-"ok": false,
-"note": "not a globe cake; duplicate lady"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "metal_1": {
 "seed": 12,
@@ -770,14 +770,14 @@
 "note": ""
 },
 "spacesuit_1": {
-"seed": 11,
-"ok": false,
-"note": "a man is inside the suit in all"
+"seed": 45,
+"ok": true,
+"note": "rescue1"
 },
 "spacesuit_2": {
 "seed": 11,
 "ok": false,
-"note": "modern front-load washers in all"
+"note": "rescue1 failed: modern front-load washers behind"
 },
 "spacesuit_3": {
 "seed": 13,
@@ -885,9 +885,9 @@
 "note": ""
 },
 "chores_2": {
-"seed": 11,
-"ok": false,
-"note": "stray human hands in all"
+"seed": 44,
+"ok": true,
+"note": "rescue1"
 },
 "chores_3": {
 "seed": 12,
@@ -910,9 +910,9 @@
 "note": ""
 },
 "scorch_1": {
-"seed": 11,
-"ok": false,
-"note": "stray hands in all"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "scorch_2": {
 "seed": 13,
@@ -950,9 +950,9 @@
 "note": ""
 },
 "junior_4": {
-"seed": 11,
-"ok": false,
-"note": "step words on paper in all"
+"seed": 44,
+"ok": true,
+"note": "rescue1"
 },
 "junior_5": {
 "seed": 11,
@@ -965,9 +965,9 @@
 "note": ""
 },
 "babysit_1": {
-"seed": 11,
-"ok": false,
-"note": "legible fake writing on note in all"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "babysit_2": {
 "seed": 14,
@@ -980,9 +980,9 @@
 "note": ""
 },
 "babysit_4": {
-"seed": 11,
-"ok": false,
-"note": "human babies, not one-eyed purple monster"
+"seed": 43,
+"ok": true,
+"note": "rescue1"
 },
 "babysit_5": {
 "seed": 12,
@@ -997,7 +997,7 @@
 "spacepet_2": {
 "seed": 11,
 "ok": false,
-"note": "two-legged monster, not six-legged"
+"note": "rescue1 failed: creature looks like a pink pig, no three eyes"
 },
 "spacepet_3": {
 "seed": 11,
@@ -1065,9 +1065,9 @@
 "note": ""
 },
 "bedtime_5": {
-"seed": 11,
-"ok": false,
-"note": "stray hands in all"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "bedtime_6": {
 "seed": 13,
@@ -1100,9 +1100,9 @@
 "note": ""
 },
 "costume_6": {
-"seed": 11,
-"ok": false,
-"note": "human faces under the sheet in all"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "grocery_1": {
 "seed": 12,
@@ -1115,9 +1115,9 @@
 "note": ""
 },
 "grocery_3": {
-"seed": 11,
-"ok": false,
-"note": "step words on aisle sign in all"
+"seed": 45,
+"ok": true,
+"note": "rescue1"
 },
 "grocery_4": {
 "seed": 11,
@@ -1125,14 +1125,14 @@
 "note": ""
 },
 "grocery_5": {
-"seed": 11,
-"ok": false,
-"note": "skull-like scary monster; modern registers"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "grocery_6": {
-"seed": 11,
-"ok": false,
-"note": "step words on bags in all"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "salon_1": {
 "seed": 12,
@@ -1140,14 +1140,14 @@
 "note": ""
 },
 "salon_2": {
-"seed": 11,
-"ok": false,
-"note": "modern handheld dryers, not hood dryers"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "salon_3": {
-"seed": 11,
-"ok": false,
-"note": "skull-faced scary monster in all"
+"seed": 45,
+"ok": true,
+"note": "rescue1"
 },
 "salon_4": {
 "seed": 11,
@@ -1165,9 +1165,9 @@
 "note": ""
 },
 "library_2": {
-"seed": 11,
-"ok": false,
-"note": "step words on book cover in all"
+"seed": 45,
+"ok": true,
+"note": "rescue1"
 },
 "library_3": {
 "seed": 12,
@@ -1180,9 +1180,9 @@
 "note": ""
 },
 "library_5": {
-"seed": 11,
-"ok": false,
-"note": "step words on card in all"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "library_6": {
 "seed": 13,
@@ -1195,9 +1195,9 @@
 "note": ""
 },
 "pta_2": {
-"seed": 11,
-"ok": false,
-"note": "step words on name tag in all"
+"seed": 43,
+"ok": true,
+"note": "rescue1"
 },
 "pta_3": {
 "seed": 11,
@@ -1260,14 +1260,14 @@
 "note": ""
 },
 "bowling_4": {
-"seed": 11,
-"ok": false,
-"note": "step words on score sheet in all"
+"seed": 43,
+"ok": true,
+"note": "rescue1"
 },
 "bowling_5": {
-"seed": 11,
-"ok": false,
-"note": "stray hands in all"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "hat_1": {
 "seed": 11,
@@ -1280,9 +1280,9 @@
 "note": ""
 },
 "hat_3": {
-"seed": 12,
+"seed": 47,
 "ok": true,
-"note": ""
+"note": "rescue1"
 },
 "hat_4": {
 "seed": 13,
@@ -1315,9 +1315,9 @@
 "note": ""
 },
 "beamed_4": {
-"seed": 11,
-"ok": false,
-"note": "standing on grass, not floating"
+"seed": 43,
+"ok": true,
+"note": "rescue1"
 },
 "beamed_5": {
 "seed": 12,
@@ -1335,14 +1335,14 @@
 "note": ""
 },
 "escape_3": {
-"seed": 11,
-"ok": false,
-"note": "on the floor, not floating near the ceiling"
+"seed": 44,
+"ok": true,
+"note": "rescue1"
 },
 "escape_4": {
-"seed": 11,
-"ok": false,
-"note": "not being pulled by the vacuum"
+"seed": 47,
+"ok": true,
+"note": "rescue1"
 },
 "escape_5": {
 "seed": 12,
@@ -1365,14 +1365,14 @@
 "note": ""
 },
 "shrunk_3": {
-"seed": 11,
-"ok": false,
-"note": "stray hands in all"
+"seed": 45,
+"ok": true,
+"note": "rescue1"
 },
 "shrunk_4": {
 "seed": 11,
 "ok": false,
-"note": "hands; big box, not a matchbox"
+"note": "rescue1 failed: full-size bed not a matchbox"
 },
 "shrunk_5": {
 "seed": 14,
@@ -1392,7 +1392,7 @@
 "giant_3": {
 "seed": 11,
 "ok": false,
-"note": "pizza, not a pie"
+"note": "rescue1 failed: monster scary goblin face"
 },
 "giant_4": {
 "seed": 11,
@@ -1425,9 +1425,9 @@
 "note": ""
 },
 "overlord_4": {
-"seed": 11,
-"ok": false,
-"note": "skull-faced scary monster in all"
+"seed": 42,
+"ok": true,
+"note": "rescue1"
 },
 "overlord_5": {
 "seed": 13,
@@ -1475,14 +1475,14 @@
 "note": ""
 },
 "mothership_3": {
-"seed": 11,
-"ok": false,
-"note": "sailing ships, not a mothership; not rising"
+"seed": 47,
+"ok": true,
+"note": "rescue1"
 },
 "mothership_4": {
-"seed": 11,
-"ok": false,
-"note": "step words painted in all"
+"seed": 43,
+"ok": true,
+"note": "rescue1"
 },
 "mothership_5": {
 "seed": 14,
@@ -1490,9 +1490,9 @@
 "note": ""
 },
 "mothership_6": {
-"seed": 11,
-"ok": false,
-"note": "skull-faced scary monster in all"
+"seed": 44,
+"ok": true,
+"note": "rescue1"
 },
 "potluck_1": {
 "seed": 14,
@@ -1512,12 +1512,12 @@
 "potluck_4": {
 "seed": 11,
 "ok": false,
-"note": "stray hands in all"
+"note": "rescue1 failed: pies look like pizzas"
 },
 "potluck_5": {
-"seed": 11,
-"ok": false,
-"note": "human hands on tentacles / step words on plates"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "potluck_6": {
 "seed": 13,
@@ -1550,19 +1550,19 @@
 "note": ""
 },
 "recipes_1": {
-"seed": 11,
-"ok": false,
-"note": "step words on recipe box in all"
+"seed": 45,
+"ok": true,
+"note": "rescue1"
 },
 "recipes_2": {
 "seed": 11,
 "ok": false,
-"note": "human hands holding the pencils in all"
+"note": "rescue1 failed: tentacles end in human hands"
 },
 "recipes_3": {
-"seed": 11,
-"ok": false,
-"note": "step words on card in all"
+"seed": 42,
+"ok": true,
+"note": "rescue1"
 },
 "recipes_4": {
 "seed": 14,
@@ -1590,9 +1590,9 @@
 "note": ""
 },
 "tupperware_3": {
-"seed": 11,
-"ok": false,
-"note": "step words on container in all"
+"seed": 45,
+"ok": true,
+"note": "rescue1"
 },
 "tupperware_4": {
 "seed": 13,
@@ -1605,9 +1605,9 @@
 "note": ""
 },
 "tupperware_6": {
-"seed": 11,
-"ok": false,
-"note": "step words on bowl in all"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "penpal_1": {
 "seed": 11,
@@ -1620,19 +1620,19 @@
 "note": ""
 },
 "penpal_3": {
-"seed": 11,
-"ok": false,
-"note": "step words on envelope in all"
+"seed": 44,
+"ok": true,
+"note": "rescue1"
 },
 "penpal_4": {
-"seed": 11,
-"ok": false,
-"note": "stray hands in all"
+"seed": 45,
+"ok": true,
+"note": "rescue1"
 },
 "penpal_5": {
-"seed": 11,
-"ok": false,
-"note": "step words on mailbox in all"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "penpal_6": {
 "seed": 13,
@@ -1650,14 +1650,14 @@
 "note": ""
 },
 "farewell_3": {
-"seed": 11,
-"ok": false,
-"note": "pizza, not a pie"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "farewell_4": {
-"seed": 11,
-"ok": false,
-"note": "pizza and stray human hand"
+"seed": 48,
+"ok": true,
+"note": "rescue1"
 },
 "farewell_5": {
 "seed": 12,
