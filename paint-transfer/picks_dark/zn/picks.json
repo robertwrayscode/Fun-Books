@@ -1,8 +1,8 @@
 {
 "hale_1": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "hale_2": {
 "seed": 11,
@@ -15,19 +15,19 @@
 "note": "zn_r1"
 },
 "hale_4": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "hale_5": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 205,
+"ok": true,
+"note": "rescue12"
 },
 "hale_6": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "milkman_1": {
 "seed": 11,
@@ -35,9 +35,9 @@
 "note": "zn_r1"
 },
 "milkman_2": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 205,
+"ok": true,
+"note": "rescue12"
 },
 "milkman_3": {
 "seed": 14,
@@ -45,24 +45,24 @@
 "note": "zn_r1"
 },
 "milkman_4": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "milkman_5": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "coffee_1": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 205,
+"ok": true,
+"note": "rescue12"
 },
 "coffee_2": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 203,
+"ok": true,
+"note": "rescue12"
 },
 "coffee_3": {
 "seed": 11,
@@ -70,9 +70,9 @@
 "note": "zn_r1"
 },
 "coffee_4": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "coffee_5": {
 "seed": 12,
@@ -80,9 +80,9 @@
 "note": "zn_r1"
 },
 "coffee_6": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "bridge_1": {
 "seed": 13,
@@ -95,9 +95,9 @@
 "note": "zn_r1"
 },
 "bridge_3": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "bridge_4": {
 "seed": 13,
@@ -110,9 +110,9 @@
 "note": "zn_r1"
 },
 "paperboy_1": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 203,
+"ok": true,
+"note": "rescue12"
 },
 "paperboy_2": {
 "seed": 12,
@@ -125,9 +125,9 @@
 "note": "zn_r1"
 },
 "paperboy_4": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 204,
+"ok": true,
+"note": "rescue12"
 },
 "paperboy_5": {
 "seed": 11,
@@ -135,9 +135,9 @@
 "note": "zn_r1"
 },
 "paperboy_6": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 203,
+"ok": true,
+"note": "rescue12"
 },
 "news_1": {
 "seed": 14,
@@ -150,9 +150,9 @@
 "note": "zn_r1"
 },
 "news_3": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "news_4": {
 "seed": 11,
@@ -165,9 +165,9 @@
 "note": "zn_r1"
 },
 "mowing_1": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "mowing_2": {
 "seed": 12,
@@ -175,34 +175,34 @@
 "note": "zn_r1"
 },
 "mowing_3": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "mowing_4": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "mowing_5": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "mowing_6": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "petunias_1": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 203,
+"ok": true,
+"note": "rescue12"
 },
 "petunias_2": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 203,
+"ok": true,
+"note": "rescue12"
 },
 "petunias_3": {
 "seed": 11,
@@ -215,9 +215,9 @@
 "note": "zn_r1"
 },
 "petunias_5": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "hedge_1": {
 "seed": 11,
@@ -270,9 +270,9 @@
 "note": "zn_r1"
 },
 "sprinkler_5": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 203,
+"ok": true,
+"note": "rescue12"
 },
 "leaves_1": {
 "seed": 12,
@@ -310,9 +310,9 @@
 "note": "zn_r1"
 },
 "yard_2": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 201,
+"ok": true,
+"note": "rescue12"
 },
 "yard_3": {
 "seed": 11,
@@ -430,9 +430,9 @@
 "note": "zn_r1"
 },
 "hosting_3": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "hosting_4": {
 "seed": 12,
@@ -440,14 +440,14 @@
 "note": "zn_r1"
 },
 "hosting_5": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "porch_1": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 201,
+"ok": true,
+"note": "rescue12"
 },
 "porch_2": {
 "seed": 11,
@@ -480,19 +480,19 @@
 "note": "zn_r1"
 },
 "hattip_2": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 203,
+"ok": true,
+"note": "rescue12"
 },
 "hattip_3": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "hattip_4": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "hattip_5": {
 "seed": 13,
@@ -530,9 +530,9 @@
 "note": "zn_r1"
 },
 "relatives_1": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "relatives_2": {
 "seed": 11,
@@ -565,9 +565,9 @@
 "note": "zn_r1"
 },
 "casserole_3": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "casserole_4": {
 "seed": 13,
@@ -575,14 +575,14 @@
 "note": "zn_r1"
 },
 "casserole_5": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "casserole_6": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "cauliflower_1": {
 "seed": 12,
@@ -605,9 +605,9 @@
 "note": "zn_r1"
 },
 "cauliflower_5": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "seating_1": {
 "seed": 12,
@@ -620,9 +620,9 @@
 "note": "zn_r1"
 },
 "seating_3": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "seating_4": {
 "seed": 14,
@@ -645,14 +645,14 @@
 "note": "zn_r1"
 },
 "grace_2": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 203,
+"ok": true,
+"note": "rescue12"
 },
 "grace_3": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "grace_4": {
 "seed": 13,
@@ -660,9 +660,9 @@
 "note": "zn_r1"
 },
 "grace_5": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 201,
+"ok": true,
+"note": "rescue12"
 },
 "gravy_1": {
 "seed": 12,
@@ -675,9 +675,9 @@
 "note": "zn_r1"
 },
 "gravy_3": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "gravy_4": {
 "seed": 13,
@@ -685,14 +685,14 @@
 "note": "zn_r1"
 },
 "gravy_5": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 201,
+"ok": true,
+"note": "rescue12"
 },
 "gravy_6": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "jello_1": {
 "seed": 12,
@@ -770,19 +770,19 @@
 "note": "zn_r1"
 },
 "sugar_5": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 201,
+"ok": true,
+"note": "rescue12"
 },
 "fruitcake_1": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "fruitcake_2": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "fruitcake_3": {
 "seed": 12,
@@ -805,14 +805,14 @@
 "note": "zn_r1"
 },
 "smalltalk_1": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "smalltalk_2": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "smalltalk_3": {
 "seed": 11,
@@ -820,14 +820,14 @@
 "note": "zn_r1"
 },
 "smalltalk_4": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "smalltalk_5": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "mower_1": {
 "seed": 11,
@@ -870,9 +870,9 @@
 "note": "zn_r1"
 },
 "gossip_3": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 201,
+"ok": true,
+"note": "rescue12"
 },
 "gossip_4": {
 "seed": 12,
@@ -910,9 +910,9 @@
 "note": "zn_r1"
 },
 "thanks_6": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "children_1": {
 "seed": 11,
@@ -920,19 +920,19 @@
 "note": "zn_r1"
 },
 "children_2": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "children_3": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 203,
+"ok": true,
+"note": "rescue12"
 },
 "children_4": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "children_5": {
 "seed": 14,
@@ -940,19 +940,19 @@
 "note": "zn_r1"
 },
 "poodle_1": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 201,
+"ok": true,
+"note": "rescue12"
 },
 "poodle_2": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 203,
+"ok": true,
+"note": "rescue12"
 },
 "poodle_3": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 203,
+"ok": true,
+"note": "rescue12"
 },
 "poodle_4": {
 "seed": 13,
@@ -960,9 +960,9 @@
 "note": "zn_r1"
 },
 "poodle_5": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 201,
+"ok": true,
+"note": "rescue12"
 },
 "poodle_6": {
 "seed": 12,
@@ -985,9 +985,9 @@
 "note": "zn_r1"
 },
 "lemonade_4": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 203,
+"ok": true,
+"note": "rescue12"
 },
 "lemonade_5": {
 "seed": 11,
@@ -1040,9 +1040,9 @@
 "note": "zn_r1"
 },
 "hideseek_4": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 201,
+"ok": true,
+"note": "rescue12"
 },
 "hideseek_5": {
 "seed": 12,
@@ -1050,19 +1050,19 @@
 "note": "zn_r1"
 },
 "sitter_1": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "sitter_2": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 203,
+"ok": true,
+"note": "rescue12"
 },
 "sitter_3": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "sitter_4": {
 "seed": 11,
@@ -1075,14 +1075,14 @@
 "note": "zn_r1"
 },
 "sitter_6": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "church_1": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "church_2": {
 "seed": 12,
@@ -1090,9 +1090,9 @@
 "note": "zn_r1"
 },
 "church_3": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "church_4": {
 "seed": 14,
@@ -1100,24 +1100,24 @@
 "note": "zn_r1"
 },
 "church_5": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "barber_1": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "barber_2": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 203,
+"ok": true,
+"note": "rescue12"
 },
 "barber_3": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "barber_4": {
 "seed": 14,
@@ -1125,9 +1125,9 @@
 "note": "zn_r1"
 },
 "barber_5": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "barber_6": {
 "seed": 13,
@@ -1190,14 +1190,14 @@
 "note": "zn_r1"
 },
 "golf_1": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "golf_2": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "golf_3": {
 "seed": 12,
@@ -1210,9 +1210,9 @@
 "note": "zn_r1"
 },
 "golf_5": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "elevator_1": {
 "seed": 13,
@@ -1220,9 +1220,9 @@
 "note": "zn_r1"
 },
 "elevator_2": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 201,
+"ok": true,
+"note": "rescue12"
 },
 "elevator_3": {
 "seed": 11,
@@ -1230,24 +1230,24 @@
 "note": "zn_r1"
 },
 "elevator_4": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "elevator_5": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "elevator_6": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "mailman_1": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "mailman_2": {
 "seed": 12,
@@ -1255,9 +1255,9 @@
 "note": "zn_r1"
 },
 "mailman_3": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "mailman_4": {
 "seed": 12,
@@ -1265,9 +1265,9 @@
 "note": "zn_r1"
 },
 "mailman_5": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "horde_1": {
 "seed": 11,
@@ -1330,14 +1330,14 @@
 "note": "zn_r1"
 },
 "carstart_2": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 203,
+"ok": true,
+"note": "rescue12"
 },
 "carstart_3": {
 "seed": 0,
 "ok": false,
-"note": "zombie redo rescue12"
+"note": "rescue12 failed: gentleman is outside the car and zombie inside, should be reversed"
 },
 "carstart_4": {
 "seed": 13,
@@ -1350,9 +1350,9 @@
 "note": "zn_r1"
 },
 "carstart_6": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "cellar_1": {
 "seed": 11,
@@ -1460,9 +1460,9 @@
 "note": "zn_r1"
 },
 "bowtie_6": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "blockparty_1": {
 "seed": 13,
@@ -1500,9 +1500,9 @@
 "note": "zn_r1"
 },
 "welcome_3": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "welcome_4": {
 "seed": 11,
@@ -1510,14 +1510,14 @@
 "note": "zn_r1"
 },
 "welcome_5": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "welcome_6": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "halloween_1": {
 "seed": 12,
@@ -1555,14 +1555,14 @@
 "note": "zn_r1"
 },
 "thanksgiving_3": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "thanksgiving_4": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "thanksgiving_5": {
 "seed": 14,
@@ -1570,9 +1570,9 @@
 "note": "zn_r1"
 },
 "thanksgiving_6": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "foxtrot_1": {
 "seed": 12,
@@ -1580,14 +1580,14 @@
 "note": "zn_r1"
 },
 "foxtrot_2": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "foxtrot_3": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 203,
+"ok": true,
+"note": "rescue12"
 },
 "foxtrot_4": {
 "seed": 12,
@@ -1595,9 +1595,9 @@
 "note": "zn_r1"
 },
 "foxtrot_5": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "foxtrot_6": {
 "seed": 12,
@@ -1620,19 +1620,19 @@
 "note": "zn_r1"
 },
 "carols_4": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "carols_5": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 201,
+"ok": true,
+"note": "rescue12"
 },
 "carols_6": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "gentleman_1": {
 "seed": 13,
@@ -1640,9 +1640,9 @@
 "note": "zn_r1"
 },
 "gentleman_2": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 202,
+"ok": true,
+"note": "rescue12"
 },
 "gentleman_3": {
 "seed": 13,
@@ -1660,8 +1660,8 @@
 "note": "zn_r1"
 },
 "gentleman_6": {
-"seed": 0,
-"ok": false,
-"note": "zombie redo rescue12"
+"seed": 201,
+"ok": true,
+"note": "rescue12"
 }
 }
