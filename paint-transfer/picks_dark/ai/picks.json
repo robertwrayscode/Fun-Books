@@ -1,0 +1,1652 @@
+{
+"toaster_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"toaster_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"toaster_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"toaster_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"toaster_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"toaster_6": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"helper_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"helper_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"helper_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"helper_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"helper_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"butter_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"butter_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"butter_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"butter_4": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"butter_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"butter_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"phone_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"phone_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"phone_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"phone_4": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"phone_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"tvwatch_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"tvwatch_2": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"tvwatch_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"tvwatch_4": {
+"seed": 11,
+"ok": false,
+"note": "step words and odd figures on screen"
+},
+"tvwatch_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"tvwatch_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"typer_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"typer_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"typer_3": {
+"seed": 11,
+"ok": false,
+"note": "robots have human faces, not typewriter on legs"
+},
+"typer_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"typer_5": {
+"seed": 11,
+"ok": false,
+"note": "recycling symbol and step words on paper"
+},
+"thermostat_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"thermostat_2": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"thermostat_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"thermostat_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"thermostat_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"thermostat_6": {
+"seed": 11,
+"ok": false,
+"note": "disembodied hands buried in sweater pile"
+},
+"slippers_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"slippers_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"slippers_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"slippers_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"slippers_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"recipe_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"recipe_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"recipe_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"recipe_4": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"recipe_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"recipe_6": {
+"seed": 11,
+"ok": false,
+"note": "step words on box and cards"
+},
+"door_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"door_2": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"door_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"door_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"door_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"lights_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"lights_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"lights_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"lights_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"lights_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"lights_6": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"diet_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"diet_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"diet_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"diet_4": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"diet_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"laundry_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"laundry_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"laundry_3": {
+"seed": 11,
+"ok": false,
+"note": "real swans, not towels folded into swans"
+},
+"laundry_4": {
+"seed": 11,
+"ok": false,
+"note": "modern front-load washers; hat not swan-shaped"
+},
+"laundry_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"laundry_6": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"askbrain_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"askbrain_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"askbrain_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"askbrain_4": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"askbrain_5": {
+"seed": 11,
+"ok": false,
+"note": "modern computer monitors and keyboards"
+},
+"please_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"please_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"please_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"please_4": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"please_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"please_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"wrong_1": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"wrong_2": {
+"seed": 11,
+"ok": false,
+"note": "step words on book cover"
+},
+"wrong_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"wrong_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"wrong_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"loveletter_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"loveletter_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"loveletter_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"loveletter_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"loveletter_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"loveletter_6": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"homework_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"homework_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"homework_3": {
+"seed": 11,
+"ok": false,
+"note": "step words on book cover"
+},
+"homework_4": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"homework_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"poems_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"poems_2": {
+"seed": 11,
+"ok": false,
+"note": "step words on paper"
+},
+"poems_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"poems_4": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"poems_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"poems_6": {
+"seed": 11,
+"ok": false,
+"note": "step words in frame"
+},
+"vacation_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"vacation_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"vacation_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"vacation_4": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"vacation_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"car_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"car_2": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"car_3": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"car_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"car_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"car_6": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"checkout_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"checkout_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"checkout_3": {
+"seed": 11,
+"ok": false,
+"note": "watermelon, not cantaloupe"
+},
+"checkout_4": {
+"seed": 11,
+"ok": false,
+"note": "modern card terminals at checkout"
+},
+"checkout_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"eyeball_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"eyeball_2": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"eyeball_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"eyeball_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"eyeball_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"eyeball_6": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"barber_1": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"barber_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"barber_3": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"barber_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"barber_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"meter_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"meter_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"meter_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"meter_4": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"meter_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"meter_6": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"bank_1": {
+"seed": 11,
+"ok": false,
+"note": "step words on passbook"
+},
+"bank_2": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"bank_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"bank_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"bank_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"map_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"map_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"map_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"map_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"map_5": {
+"seed": 11,
+"ok": false,
+"note": "step words on map"
+},
+"map_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"fingers_1": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"fingers_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"fingers_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"fingers_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"fingers_5": {
+"seed": 11,
+"ok": false,
+"note": "step words on paper"
+},
+"photo_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"photo_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"photo_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"photo_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"photo_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"photo_6": {
+"seed": 11,
+"ok": false,
+"note": "step words on fridge"
+},
+"neighbor_1": {
+"seed": 11,
+"ok": false,
+"note": "modern red power mower"
+},
+"neighbor_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"neighbor_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"neighbor_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"neighbor_5": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"news_1": {
+"seed": 11,
+"ok": false,
+"note": "garbled big headlines"
+},
+"news_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"news_3": {
+"seed": 11,
+"ok": false,
+"note": "garbled big headlines"
+},
+"news_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"news_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"news_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"dog_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"dog_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"dog_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"dog_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"dog_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"portrait_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"portrait_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"portrait_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"portrait_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"portrait_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"portrait_6": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"babysitter_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"babysitter_2": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"babysitter_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"babysitter_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"babysitter_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"tutor_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"tutor_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"tutor_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"tutor_4": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"tutor_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"tutor_6": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"bedtime_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"bedtime_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"bedtime_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"bedtime_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"bedtime_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"cat_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"cat_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"cat_3": {
+"seed": 11,
+"ok": false,
+"note": "cat calm not frightened; modern handheld vacuum"
+},
+"cat_4": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"cat_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"cat_6": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"toy_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"toy_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"toy_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"toy_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"toy_5": {
+"seed": 11,
+"ok": false,
+"note": "step words on jar label"
+},
+"ownbrain_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"ownbrain_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"ownbrain_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"ownbrain_4": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"ownbrain_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"ownbrain_6": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"coworker_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"coworker_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"coworker_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"coworker_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"coworker_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"replace_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"replace_2": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"replace_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"replace_4": {
+"seed": 11,
+"ok": false,
+"note": "step words on chalkboard"
+},
+"replace_5": {
+"seed": 11,
+"ok": false,
+"note": "no feet up on desk; modern keyboard"
+},
+"replace_6": {
+"seed": 11,
+"ok": false,
+"note": "step words caption in all"
+},
+"typing_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"typing_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"typing_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"typing_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"typing_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"meeting_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"meeting_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"meeting_3": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"meeting_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"meeting_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"meeting_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"raise_1": {
+"seed": 11,
+"ok": false,
+"note": "step words caption in all"
+},
+"raise_2": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"raise_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"raise_4": {
+"seed": 11,
+"ok": false,
+"note": "step words on paper"
+},
+"raise_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"lunch_1": {
+"seed": 11,
+"ok": false,
+"note": "captions / text on chest / human-faced robot"
+},
+"lunch_2": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"lunch_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"lunch_4": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"lunch_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"lunch_6": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"report_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"report_2": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"report_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"report_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"report_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"plug_1": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"plug_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"plug_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"plug_4": {
+"seed": 11,
+"ok": false,
+"note": "modern 1990s PCs with keyboards and mice"
+},
+"plug_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"plug_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"riddle_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"riddle_2": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"riddle_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"riddle_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"riddle_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"paperclip_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"paperclip_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"paperclip_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"paperclip_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"paperclip_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"paperclip_6": {
+"seed": 11,
+"ok": false,
+"note": "step words on boxes"
+},
+"hug_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"hug_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"hug_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"hug_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"hug_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"chorus_1": {
+"seed": 11,
+"ok": false,
+"note": "spoon/fork not spatula"
+},
+"chorus_2": {
+"seed": 11,
+"ok": false,
+"note": "stirring a pot, not banging a pot lid"
+},
+"chorus_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"chorus_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"chorus_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"chorus_6": {
+"seed": 11,
+"ok": false,
+"note": "step words on coffee cup"
+},
+"cellar_1": {
+"seed": 11,
+"ok": false,
+"note": "upright shed door, not slanted root cellar hatch"
+},
+"cellar_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"cellar_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"cellar_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"cellar_5": {
+"seed": 11,
+"ok": false,
+"note": "duplicated grandfather in all"
+},
+"morse_1": {
+"seed": 11,
+"ok": false,
+"note": "step words on card"
+},
+"morse_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"morse_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"morse_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"morse_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"morse_6": {
+"seed": 11,
+"ok": false,
+"note": "step words painted in all"
+},
+"joke_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"joke_2": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"joke_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"joke_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"joke_5": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"sunday_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"sunday_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"sunday_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"sunday_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"sunday_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"sunday_6": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"picnic_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"picnic_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"picnic_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"picnic_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"picnic_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"thanks_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"thanks_2": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"thanks_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"thanks_4": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"thanks_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"thanks_6": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"party_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"party_2": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"party_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"party_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"party_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"fish_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"fish_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"fish_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"fish_4": {
+"seed": 11,
+"ok": false,
+"note": "no fishing pole or line at all"
+},
+"fish_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"fish_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"goodnight_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"goodnight_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"goodnight_3": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"goodnight_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"goodnight_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+}
+}
