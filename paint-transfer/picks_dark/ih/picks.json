@@ -40,9 +40,9 @@
 "note": "rescue9"
 },
 "rainbarrel_3": {
-"seed": 0,
-"ok": false,
-"note": "rescue9 failed: drilling top not near bottom"
+"seed": 161,
+"ok": true,
+"note": "rescue10"
 },
 "rainbarrel_4": {
 "seed": 11,
@@ -100,9 +100,9 @@
 "note": "rescue9"
 },
 "sand_filter_4": {
-"seed": 0,
-"ok": false,
-"note": "rescue9 failed: stacked buckets, step is plate on the sand"
+"seed": 162,
+"ok": true,
+"note": "rescue10"
 },
 "sand_filter_5": {
 "seed": 12,
@@ -110,9 +110,9 @@
 "note": "rescue9"
 },
 "sand_filter_6": {
-"seed": 0,
-"ok": false,
-"note": "rescue9 failed: glass from spigot, step is boil the filtered water"
+"seed": 163,
+"ok": true,
+"note": "rescue10"
 },
 "distill_1": {
 "seed": 11,
@@ -190,9 +190,9 @@
 "note": "rescue9"
 },
 "pemmican_5": {
-"seed": 0,
-"ok": false,
-"note": "rescue9 failed: raw pink meat, should be brown crumbly powder"
+"seed": 161,
+"ok": true,
+"note": "rescue10"
 },
 "pemmican_6": {
 "seed": 14,
@@ -215,9 +215,9 @@
 "note": "rescue9"
 },
 "eggs_jar_4": {
-"seed": 0,
-"ok": false,
-"note": "rescue9 failed: eggs look broken with yolks"
+"seed": 163,
+"ok": true,
+"note": "rescue10"
 },
 "eggs_jar_5": {
 "seed": 12,
@@ -230,9 +230,9 @@
 "note": "rescue9"
 },
 "jars_1": {
-"seed": 0,
-"ok": false,
-"note": "rescue9 failed: raw steaks not browned ground meat"
+"seed": 162,
+"ok": true,
+"note": "rescue10"
 },
 "jars_2": {
 "seed": 14,
@@ -335,9 +335,9 @@
 "note": "rescue9"
 },
 "dehydrator_4": {
-"seed": 0,
-"ok": false,
-"note": "rescue9 failed: whole fresh apples, should be drying slices"
+"seed": 161,
+"ok": true,
+"note": "rescue10"
 },
 "dehydrator_5": {
 "seed": 11,
@@ -392,12 +392,12 @@
 "zeer_3": {
 "seed": 0,
 "ok": false,
-"note": "rescue9 failed: pots side by side, not nested"
+"note": "rescue10 failed: plants in the inner pot"
 },
 "zeer_4": {
-"seed": 0,
-"ok": false,
-"note": "rescue9 failed: pots side by side, not nested"
+"seed": 161,
+"ok": true,
+"note": "rescue10"
 },
 "zeer_5": {
 "seed": 12,
@@ -485,9 +485,9 @@
 "note": "rescue9"
 },
 "hardtack_4": {
-"seed": 0,
-"ok": false,
-"note": "rescue9 failed: one slab, not separate squares"
+"seed": 161,
+"ok": true,
+"note": "rescue10"
 },
 "hardtack_5": {
 "seed": 11,
@@ -515,9 +515,9 @@
 "note": "rescue9"
 },
 "soup_pot_4": {
-"seed": 0,
-"ok": false,
-"note": "rescue9 failed: crumbly scramble, not fried slices"
+"seed": 162,
+"ok": true,
+"note": "rescue10"
 },
 "soup_pot_5": {
 "seed": 11,
@@ -575,9 +575,9 @@
 "note": "rescue9"
 },
 "butter_4": {
-"seed": 0,
-"ok": false,
-"note": "rescue9 failed: pouring into jar, reversed"
+"seed": 161,
+"ok": true,
+"note": "rescue10"
 },
 "butter_5": {
 "seed": 13,
@@ -635,9 +635,9 @@
 "note": "rescue9"
 },
 "tourniquet_4": {
-"seed": 0,
-"ok": false,
-"note": "rescue9 failed: strap on wrist, not upper arm"
+"seed": 163,
+"ok": true,
+"note": "rescue10"
 },
 "tourniquet_5": {
 "seed": 13,
@@ -760,9 +760,9 @@
 "note": "rescue9"
 },
 "herbs_5": {
-"seed": 0,
-"ok": false,
-"note": "rescue9 failed: no child, bandaging own arms"
+"seed": 166,
+"ok": true,
+"note": "rescue10"
 },
 "herbs_6": {
 "seed": 12,
@@ -800,9 +800,9 @@
 "note": "rescue9"
 },
 "house_cool_1": {
-"seed": 0,
-"ok": false,
-"note": "rescue9 failed: curtains open, step says close them"
+"seed": 161,
+"ok": true,
+"note": "rescue10"
 },
 "house_cool_2": {
 "seed": 12,
@@ -860,9 +860,9 @@
 "note": "rescue9"
 },
 "rocket_stove_1": {
-"seed": 0,
-"ok": false,
-"note": "rescue9 failed: solid pile, not square ring of four bricks"
+"seed": 166,
+"ok": true,
+"note": "rescue10"
 },
 "rocket_stove_2": {
 "seed": 14,
@@ -870,9 +870,9 @@
 "note": "rescue9"
 },
 "rocket_stove_3": {
-"seed": 0,
-"ok": false,
-"note": "rescue9 failed: looks like a fireplace with glass door"
+"seed": 161,
+"ok": true,
+"note": "rescue10"
 },
 "rocket_stove_4": {
 "seed": 13,
@@ -942,7 +942,7 @@
 "ash_5": {
 "seed": 0,
 "ok": false,
-"note": "rescue9 failed: stove is burning, must be cold"
+"note": "rescue10 failed: fire burning in stove, text says cold"
 },
 "ash_6": {
 "seed": 12,
@@ -950,9 +950,9 @@
 "note": "rescue9"
 },
 "trashcan_1": {
-"seed": 0,
-"ok": false,
-"note": "rescue9 failed: no cardboard visible"
+"seed": 164,
+"ok": true,
+"note": "rescue10"
 },
 "trashcan_2": {
 "seed": 11,
@@ -1005,9 +1005,9 @@
 "note": "rescue9"
 },
 "battery_6": {
-"seed": 0,
-"ok": false,
-"note": "rescue9 failed: no radio, fiddling with box"
+"seed": 161,
+"ok": true,
+"note": "rescue10"
 },
 "plot_1": {
 "seed": 11,
@@ -1015,9 +1015,9 @@
 "note": "rescue9"
 },
 "plot_2": {
-"seed": 0,
-"ok": false,
-"note": "rescue9 failed: indoors, not by garden door"
+"seed": 161,
+"ok": true,
+"note": "rescue10"
 },
 "plot_3": {
 "seed": 12,
@@ -1115,9 +1115,9 @@
 "note": "rescue9"
 },
 "compost_4": {
-"seed": 0,
-"ok": false,
-"note": "rescue9 failed: fork looks like hoe/shears"
+"seed": 161,
+"ok": true,
+"note": "rescue10"
 },
 "compost_5": {
 "seed": 11,
@@ -1150,9 +1150,9 @@
 "note": "rescue9"
 },
 "seeds_5": {
-"seed": 0,
-"ok": false,
-"note": "rescue9 failed: fresh green leaves, not dry seed heads"
+"seed": 161,
+"ok": true,
+"note": "rescue10"
 },
 "seeds_6": {
 "seed": 13,
@@ -1230,9 +1230,9 @@
 "note": "rescue9"
 },
 "ferro_3": {
-"seed": 0,
-"ok": false,
-"note": "rescue9 failed: no rod visible, knife only"
+"seed": 164,
+"ok": true,
+"note": "rescue10"
 },
 "ferro_4": {
 "seed": 11,
@@ -1280,9 +1280,9 @@
 "note": "rescue9"
 },
 "shelter_1": {
-"seed": 0,
-"ok": false,
-"note": "rescue9 failed: pole vertical, not sloping"
+"seed": 165,
+"ok": true,
+"note": "rescue10"
 },
 "shelter_2": {
 "seed": 12,
@@ -1340,9 +1340,9 @@
 "note": "rescue9"
 },
 "compass_sun_1": {
-"seed": 0,
-"ok": false,
-"note": "rescue9 failed: hammer-like tool, not pushing stick"
+"seed": 163,
+"ok": true,
+"note": "rescue10"
 },
 "compass_sun_2": {
 "seed": 12,
@@ -1417,7 +1417,7 @@
 "car_4": {
 "seed": 0,
 "ok": false,
-"note": "rescue9 failed: stepping out by door, not window"
+"note": "rescue10 failed: she sits inside, not climbing out"
 },
 "car_5": {
 "seed": 11,
@@ -1610,19 +1610,19 @@
 "note": "rescue9"
 },
 "zipper_1": {
-"seed": 0,
-"ok": false,
-"note": "rescue9 failed: no zipper visible, fiddling overalls"
+"seed": 163,
+"ok": true,
+"note": "rescue10"
 },
 "zipper_2": {
-"seed": 0,
-"ok": false,
-"note": "rescue9 failed: no zipper visible"
+"seed": 163,
+"ok": true,
+"note": "rescue10"
 },
 "zipper_3": {
-"seed": 0,
-"ok": false,
-"note": "rescue9 failed: no zipper visible"
+"seed": 165,
+"ok": true,
+"note": "rescue10"
 },
 "zipper_4": {
 "seed": 12,
@@ -1655,9 +1655,9 @@
 "note": "rescue9"
 },
 "knife_stone_4": {
-"seed": 0,
-"ok": false,
-"note": "rescue9 failed: knife lying still, step is pushing edge across stone"
+"seed": 163,
+"ok": true,
+"note": "rescue10"
 },
 "knife_stone_5": {
 "seed": 13,
@@ -1665,9 +1665,9 @@
 "note": "rescue9"
 },
 "knife_stone_6": {
-"seed": 0,
-"ok": false,
-"note": "rescue9 failed: no leather strop visible"
+"seed": 164,
+"ok": true,
+"note": "rescue10"
 },
 "needle_1": {
 "seed": 12,
@@ -1745,9 +1745,9 @@
 "note": "rescue9"
 },
 "toolbox_4": {
-"seed": 0,
-"ok": false,
-"note": "rescue9 failed: no plunger"
+"seed": 163,
+"ok": true,
+"note": "rescue10"
 },
 "toolbox_5": {
 "seed": 11,
@@ -1785,8 +1785,8 @@
 "note": "rescue9"
 },
 "darning_6": {
-"seed": 0,
-"ok": false,
-"note": "rescue9 failed: looks like a person lying in jeans"
+"seed": 162,
+"ok": true,
+"note": "rescue10"
 }
 }
