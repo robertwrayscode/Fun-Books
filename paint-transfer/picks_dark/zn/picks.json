@@ -235,9 +235,9 @@
 "note": "zn_r1"
 },
 "hedge_4": {
-"seed": 0,
-"ok": false,
-"note": "zn_r1 failed: needs zombie being eased out of hedge"
+"seed": 243,
+"ok": true,
+"note": "rescue15"
 },
 "hedge_5": {
 "seed": 11,
@@ -290,9 +290,9 @@
 "note": "zn_r1"
 },
 "leaves_4": {
-"seed": 0,
-"ok": false,
-"note": "zn_r1 failed: needs zombie raking alongside"
+"seed": 241,
+"ok": true,
+"note": "rescue15"
 },
 "leaves_5": {
 "seed": 11,
@@ -300,9 +300,9 @@
 "note": "zn_r1"
 },
 "leaves_6": {
-"seed": 0,
-"ok": false,
-"note": "zn_r1 failed: needs zombie holding cider cup"
+"seed": 245,
+"ok": true,
+"note": "rescue15"
 },
 "yard_1": {
 "seed": 13,
@@ -335,9 +335,9 @@
 "note": "zn_r1"
 },
 "fence_1": {
-"seed": 0,
-"ok": false,
-"note": "zn_r1 failed: disembodied hands poking through fence"
+"seed": 242,
+"ok": true,
+"note": "rescue15"
 },
 "fence_2": {
 "seed": 12,
@@ -365,9 +365,9 @@
 "note": "zn_r1"
 },
 "dressing_1": {
-"seed": 0,
-"ok": false,
-"note": "zn_r1 failed: hands coming out of the empty suit"
+"seed": 241,
+"ok": true,
+"note": "rescue15"
 },
 "dressing_2": {
 "seed": 11,
@@ -845,9 +845,9 @@
 "note": "zn_r1"
 },
 "mower_4": {
-"seed": 0,
-"ok": false,
-"note": "zn_r1 failed: modern engine mower, needs manual reel mower"
+"seed": 243,
+"ok": true,
+"note": "rescue15"
 },
 "mower_5": {
 "seed": 12,
@@ -855,9 +855,9 @@
 "note": "zn_r1"
 },
 "mower_6": {
-"seed": 0,
-"ok": false,
-"note": "zn_r1 failed: modern engine mower, needs manual reel mower"
+"seed": 243,
+"ok": true,
+"note": "rescue15"
 },
 "gossip_1": {
 "seed": 11,
@@ -995,9 +995,9 @@
 "note": "zn_r1"
 },
 "knitting_1": {
-"seed": 0,
-"ok": false,
-"note": "zn_r1 failed: men in suits sitting in the chairs"
+"seed": 243,
+"ok": true,
+"note": "rescue15"
 },
 "knitting_2": {
 "seed": 11,
@@ -1155,14 +1155,14 @@
 "note": "zn_r1"
 },
 "grocery_5": {
-"seed": 0,
-"ok": false,
-"note": "zn_r1 failed: cashier should be a lady"
+"seed": 242,
+"ok": true,
+"note": "rescue15"
 },
 "bowling_1": {
-"seed": 0,
-"ok": false,
-"note": "zn_r1 failed: wears suit, not a bowling shirt"
+"seed": 243,
+"ok": true,
+"note": "rescue15"
 },
 "bowling_2": {
 "seed": 11,
@@ -1335,9 +1335,9 @@
 "note": "rescue12"
 },
 "carstart_3": {
-"seed": 0,
-"ok": false,
-"note": "rescue12 failed: gentleman is outside the car and zombie inside, should be reversed"
+"seed": 261,
+"ok": true,
+"note": "rescue16"
 },
 "carstart_4": {
 "seed": 13,
@@ -1470,9 +1470,9 @@
 "note": "zn_r1"
 },
 "blockparty_2": {
-"seed": 0,
-"ok": false,
-"note": "zn_r1 failed: men reading papers at the tables, should be empty tables"
+"seed": 241,
+"ok": true,
+"note": "rescue15"
 },
 "blockparty_3": {
 "seed": 11,
@@ -1545,9 +1545,9 @@
 "note": "zn_r1"
 },
 "thanksgiving_1": {
-"seed": 0,
-"ok": false,
-"note": "zn_r1 failed: men sitting at the table, should be an empty table"
+"seed": 243,
+"ok": true,
+"note": "rescue15"
 },
 "thanksgiving_2": {
 "seed": 11,
