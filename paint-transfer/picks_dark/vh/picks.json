@@ -1,1662 +1,1662 @@
 {
- "paper_1": {
-  "seed": 11,
-  "ok": false,
-  "note": "garbled headline text"
- },
- "paper_2": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "paper_3": {
-  "seed": 11,
-  "ok": false,
-  "note": "caption words on newspaper"
- },
- "paper_4": {
-  "seed": 11,
-  "ok": false,
-  "note": "caption word BARGAINS painted"
- },
- "paper_5": {
-  "seed": 11,
-  "ok": false,
-  "note": "caption words on newspaper"
- },
- "paper_6": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "openhouse_1": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "openhouse_2": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "openhouse_3": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "openhouse_4": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "openhouse_5": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "tour_1": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "tour_2": {
-  "seed": 11,
-  "ok": false,
-  "note": "caption words on doormat"
- },
- "tour_3": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "tour_4": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "tour_5": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "tour_6": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "prices_1": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "prices_2": {
-  "seed": 11,
-  "ok": false,
-  "note": "caption words on paper"
- },
- "prices_3": {
-  "seed": 11,
-  "ok": false,
-  "note": "caption words on newspaper"
- },
- "prices_4": {
-  "seed": 11,
-  "ok": false,
-  "note": "typewriter not adding machine, text"
- },
- "prices_5": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "welcome_1": {
-  "seed": 11,
-  "ok": false,
-  "note": "vampires in pilgrim hats not classic look"
- },
- "welcome_2": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "welcome_3": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "welcome_4": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "welcome_5": {
-  "seed": 14,
-  "ok": true,
-  "note": ""
- },
- "welcome_6": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "realtor_1": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "realtor_2": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "realtor_3": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "realtor_4": {
-  "seed": 14,
-  "ok": true,
-  "note": ""
- },
- "realtor_5": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "stay_1": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "stay_2": {
-  "seed": 14,
-  "ok": true,
-  "note": ""
- },
- "stay_3": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "stay_4": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "stay_5": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "stay_6": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "windowbox_1": {
-  "seed": 14,
-  "ok": true,
-  "note": ""
- },
- "windowbox_2": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "windowbox_3": {
-  "seed": 11,
-  "ok": false,
-  "note": "whole bulbs planted not cloves"
- },
- "windowbox_4": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "windowbox_5": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "wreath_1": {
-  "seed": 14,
-  "ok": true,
-  "note": ""
- },
- "wreath_2": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "wreath_3": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "wreath_4": {
-  "seed": 11,
-  "ok": false,
-  "note": "straw ring with no garlic bulbs"
- },
- "wreath_5": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "wreath_6": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "invite_1": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "invite_2": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "invite_3": {
-  "seed": 14,
-  "ok": true,
-  "note": ""
- },
- "invite_4": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "invite_5": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "mirror_1": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "mirror_2": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "mirror_3": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "mirror_4": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "mirror_5": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "mirror_6": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "curtains_1": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "curtains_2": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "curtains_3": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "curtains_4": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "curtains_5": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "porchlight_1": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "porchlight_2": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "porchlight_3": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "porchlight_4": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "porchlight_5": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "porchlight_6": {
-  "seed": 11,
-  "ok": false,
-  "note": "skull-faced bald vampire, scary"
- },
- "screendoor_1": {
-  "seed": 11,
-  "ok": false,
-  "note": "wooden door with a hole, no screen mesh"
- },
- "screendoor_2": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "screendoor_3": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "screendoor_4": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "screendoor_5": {
-  "seed": 14,
-  "ok": true,
-  "note": ""
- },
- "sugar_1": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "sugar_2": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "sugar_3": {
-  "seed": 14,
-  "ok": true,
-  "note": ""
- },
- "sugar_4": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "sugar_5": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "sugar_6": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "quiet_1": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "quiet_2": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "quiet_3": {
-  "seed": 11,
-  "ok": false,
-  "note": "engine mower not reel mower"
- },
- "quiet_4": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "quiet_5": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "fence_1": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "fence_2": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "fence_3": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "fence_4": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "fence_5": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "fence_6": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "return_1": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "return_2": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "return_3": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "return_4": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "return_5": {
-  "seed": 11,
-  "ok": false,
-  "note": "carrying a pitchfork not shears"
- },
- "mail_1": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "mail_2": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "mail_3": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "mail_4": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "mail_5": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "mail_6": {
-  "seed": 14,
-  "ok": true,
-  "note": ""
- },
- "roses_1": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "roses_2": {
-  "seed": 14,
-  "ok": true,
-  "note": ""
- },
- "roses_3": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "roses_4": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "roses_5": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "carpool_1": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "carpool_2": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "carpool_3": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "carpool_4": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "carpool_5": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "carpool_6": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "casserole_1": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "casserole_2": {
-  "seed": 11,
-  "ok": false,
-  "note": "caption words on tuna cans"
- },
- "casserole_3": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "casserole_4": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "casserole_5": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "tomatojuice_1": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "tomatojuice_2": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "tomatojuice_3": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "tomatojuice_4": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "tomatojuice_5": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "tomatojuice_6": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "redvelvet_1": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "redvelvet_2": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "redvelvet_3": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "redvelvet_4": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "redvelvet_5": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "redvelvet_6": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "borscht_1": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "borscht_2": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "borscht_3": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "borscht_4": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "borscht_5": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "borscht_6": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "table_1": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "table_2": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "table_3": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "table_4": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "table_5": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "coffee_1": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "coffee_2": {
-  "seed": 14,
-  "ok": true,
-  "note": ""
- },
- "coffee_3": {
-  "seed": 14,
-  "ok": true,
-  "note": ""
- },
- "coffee_4": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "coffee_5": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "coffee_6": {
-  "seed": 11,
-  "ok": false,
-  "note": "caption text painted in, bald vampire"
- },
- "potluck_1": {
-  "seed": 14,
-  "ok": true,
-  "note": ""
- },
- "potluck_2": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "potluck_3": {
-  "seed": 14,
-  "ok": true,
-  "note": ""
- },
- "potluck_4": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "potluck_5": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "shutters_1": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "shutters_2": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "shutters_3": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "shutters_4": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "shutters_5": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "shutters_6": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "shadetree_1": {
-  "seed": 14,
-  "ok": true,
-  "note": ""
- },
- "shadetree_2": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "shadetree_3": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "shadetree_4": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "shadetree_5": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "gate_1": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "gate_2": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "gate_3": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "gate_4": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "gate_5": {
-  "seed": 11,
-  "ok": false,
-  "note": "boy on a swing, not a gate"
- },
- "gate_6": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "bathouse_1": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "bathouse_2": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "bathouse_3": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "bathouse_4": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "bathouse_5": {
-  "seed": 14,
-  "ok": true,
-  "note": ""
- },
- "hedge_1": {
-  "seed": 14,
-  "ok": true,
-  "note": ""
- },
- "hedge_2": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "hedge_3": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "hedge_4": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "hedge_5": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "hedge_6": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "pumpkin_1": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "pumpkin_2": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "pumpkin_3": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "pumpkin_4": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "pumpkin_5": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "pumpkin_6": {
-  "seed": 14,
-  "ok": true,
-  "note": ""
- },
- "lawn_1": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "lawn_2": {
-  "seed": 11,
-  "ok": false,
-  "note": "engine mower not reel mower"
- },
- "lawn_3": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "budget_1": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "budget_2": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "budget_3": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "lawn_4": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "lawn_5": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "lawn_6": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "budget_4": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "budget_5": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "bank_1": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "bank_2": {
-  "seed": 11,
-  "ok": false,
-  "note": "men in hats, not classic vampires"
- },
- "bank_3": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "bank_4": {
-  "seed": 11,
-  "ok": false,
-  "note": "priests in hats not vampires, text"
- },
- "bank_5": {
-  "seed": 11,
-  "ok": false,
-  "note": "hands over money not passbook"
- },
- "bank_6": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "appraise_1": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "appraise_2": {
-  "seed": 11,
-  "ok": false,
-  "note": "caption text painted on deed"
- },
- "appraise_3": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "appraise_4": {
-  "seed": 11,
-  "ok": false,
-  "note": "skull-faced vampires, scary; 12 has text-free but fierce"
- },
- "appraise_5": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "spareroom_1": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "spareroom_2": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "spareroom_3": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "spareroom_4": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "spareroom_5": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "spareroom_6": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "offer_1": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "offer_2": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "offer_3": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "offer_4": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "offer_5": {
-  "seed": 11,
-  "ok": false,
-  "note": "caption text painted in, others odd"
- },
- "piggybank_1": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "piggybank_2": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "piggybank_3": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "piggybank_4": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "piggybank_5": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "piggybank_6": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "meeting_1": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "meeting_2": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "meeting_3": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "meeting_4": {
-  "seed": 11,
-  "ok": false,
-  "note": "priests in hats not classic vampires"
- },
- "meeting_5": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "minutes_1": {
-  "seed": 11,
-  "ok": false,
-  "note": "caption words on pencils"
- },
- "minutes_2": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "minutes_3": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "minutes_4": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "minutes_5": {
-  "seed": 11,
-  "ok": false,
-  "note": "hooded figures in hats not classic vampires"
- },
- "minutes_6": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "blockparty_1": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "blockparty_2": {
-  "seed": 14,
-  "ok": true,
-  "note": ""
- },
- "blockparty_3": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "blockparty_4": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "blockparty_5": {
-  "seed": 14,
-  "ok": true,
-  "note": ""
- },
- "bakesale_1": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "bakesale_2": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "bakesale_3": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "bakesale_4": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "bakesale_5": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "bakesale_6": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "streetlight_1": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "streetlight_2": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "streetlight_3": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "streetlight_4": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "streetlight_5": {
-  "seed": 11,
-  "ok": false,
-  "note": "listeners hooded/hats not classic vampires"
- },
- "halloween_1": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "halloween_2": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "halloween_3": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "halloween_4": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "halloween_5": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "halloween_6": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "watch_1": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "watch_2": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "watch_3": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "watch_4": {
-  "seed": 11,
-  "ok": false,
-  "note": "boy not in red striped tee, vampire hats"
- },
- "watch_5": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "explain_1": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "explain_2": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "explain_3": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "explain_4": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "explain_5": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "explain_6": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "photo_1": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "photo_2": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "photo_3": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "photo_4": {
-  "seed": 11,
-  "ok": false,
-  "note": "caption words on envelope"
- },
- "photo_5": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "dog_1": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "dog_2": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "dog_3": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "dog_4": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "dog_5": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "dog_6": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "nightschool_1": {
-  "seed": 11,
-  "ok": false,
-  "note": "caption words on storybook"
- },
- "nightschool_2": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "nightschool_3": {
-  "seed": 11,
-  "ok": false,
-  "note": "kids in hats, creepy faces"
- },
- "nightschool_4": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "nightschool_5": {
-  "seed": 11,
-  "ok": false,
-  "note": "witch hats not vampire kids"
- },
- "opinions_1": {
-  "seed": 14,
-  "ok": true,
-  "note": ""
- },
- "opinions_2": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "opinions_3": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "opinions_4": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "opinions_5": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "opinions_6": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "bedtime_1": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "bedtime_2": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "bedtime_3": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "bedtime_4": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "bedtime_5": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "moving_1": {
-  "seed": 11,
-  "ok": false,
-  "note": "porch figures in hats, creepy"
- },
- "moving_2": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "moving_3": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "moving_4": {
-  "seed": 11,
-  "ok": false,
-  "note": "hooded skull-like vampire, no blanket"
- },
- "moving_5": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "moving_6": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "housewarming_1": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "housewarming_2": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "housewarming_3": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "housewarming_4": {
-  "seed": 14,
-  "ok": true,
-  "note": ""
- },
- "housewarming_5": {
-  "seed": 11,
-  "ok": false,
-  "note": "caption words in guest book"
- },
- "cards_1": {
-  "seed": 11,
-  "ok": false,
-  "note": "caption words on list"
- },
- "cards_2": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "cards_3": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "cards_4": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "cards_5": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "cards_6": {
-  "seed": 11,
-  "ok": false,
-  "note": "caption words on cards"
- },
- "thanksgiving_1": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "thanksgiving_2": {
-  "seed": 14,
-  "ok": true,
-  "note": ""
- },
- "thanksgiving_3": {
-  "seed": 11,
-  "ok": false,
-  "note": "vampires in hats not classic look"
- },
- "thanksgiving_4": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "thanksgiving_5": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "sunrise_1": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "sunrise_2": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "sunrise_3": {
-  "seed": 13,
-  "ok": true,
-  "note": ""
- },
- "sunrise_4": {
-  "seed": 14,
-  "ok": true,
-  "note": ""
- },
- "sunrise_5": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "sunrise_6": {
-  "seed": 11,
-  "ok": true,
-  "note": ""
- },
- "goodneighbors_1": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "goodneighbors_2": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "goodneighbors_3": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "goodneighbors_4": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- },
- "goodneighbors_5": {
-  "seed": 12,
-  "ok": true,
-  "note": ""
- }
+"paper_1": {
+"seed": 41,
+"ok": true,
+"note": "rescue1"
+},
+"paper_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"paper_3": {
+"seed": 48,
+"ok": true,
+"note": "rescue1"
+},
+"paper_4": {
+"seed": 47,
+"ok": true,
+"note": "rescue1"
+},
+"paper_5": {
+"seed": 45,
+"ok": true,
+"note": "rescue1"
+},
+"paper_6": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"openhouse_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"openhouse_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"openhouse_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"openhouse_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"openhouse_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"tour_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"tour_2": {
+"seed": 46,
+"ok": true,
+"note": "rescue1"
+},
+"tour_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"tour_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"tour_5": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"tour_6": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"prices_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"prices_2": {
+"seed": 42,
+"ok": true,
+"note": "rescue1"
+},
+"prices_3": {
+"seed": 41,
+"ok": true,
+"note": "rescue1"
+},
+"prices_4": {
+"seed": 11,
+"ok": false,
+"note": "rescue1 failed: typewriter again not adding machine"
+},
+"prices_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"welcome_1": {
+"seed": 45,
+"ok": true,
+"note": "rescue1"
+},
+"welcome_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"welcome_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"welcome_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"welcome_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"welcome_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"realtor_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"realtor_2": {
+"seed": 11,
+"ok": false,
+"note": "two men in chairs, not empty chairs"
+},
+"realtor_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"realtor_4": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"realtor_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"stay_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"stay_2": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"stay_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"stay_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"stay_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"stay_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"windowbox_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"windowbox_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"windowbox_3": {
+"seed": 48,
+"ok": true,
+"note": "rescue1"
+},
+"windowbox_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"windowbox_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"wreath_1": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"wreath_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"wreath_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"wreath_4": {
+"seed": 42,
+"ok": true,
+"note": "rescue1"
+},
+"wreath_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"wreath_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"invite_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"invite_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"invite_3": {
+"seed": 11,
+"ok": false,
+"note": "no screen door between them"
+},
+"invite_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"invite_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"mirror_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"mirror_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"mirror_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"mirror_4": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"mirror_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"mirror_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"curtains_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"curtains_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"curtains_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"curtains_4": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"curtains_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"porchlight_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"porchlight_2": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"porchlight_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"porchlight_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"porchlight_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"porchlight_6": {
+"seed": 41,
+"ok": true,
+"note": "rescue1"
+},
+"screendoor_1": {
+"seed": 42,
+"ok": true,
+"note": "rescue1"
+},
+"screendoor_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"screendoor_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"screendoor_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"screendoor_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"sugar_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"sugar_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"sugar_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"sugar_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"sugar_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"sugar_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"quiet_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"quiet_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"quiet_3": {
+"seed": 11,
+"ok": false,
+"note": "rescue1 failed: engine mowers again"
+},
+"quiet_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"quiet_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"fence_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"fence_2": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"fence_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"fence_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"fence_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"fence_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"return_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"return_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"return_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"return_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"return_5": {
+"seed": 41,
+"ok": true,
+"note": "rescue1"
+},
+"mail_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"mail_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"mail_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"mail_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"mail_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"mail_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"roses_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"roses_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"roses_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"roses_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"roses_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"carpool_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"carpool_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"carpool_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"carpool_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"carpool_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"carpool_6": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"casserole_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"casserole_2": {
+"seed": 47,
+"ok": true,
+"note": "rescue1"
+},
+"casserole_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"casserole_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"casserole_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"tomatojuice_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"tomatojuice_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"tomatojuice_3": {
+"seed": 11,
+"ok": false,
+"note": "glasses full of beer, not empty"
+},
+"tomatojuice_4": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"tomatojuice_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"tomatojuice_6": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"redvelvet_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"redvelvet_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"redvelvet_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"redvelvet_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"redvelvet_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"redvelvet_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"borscht_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"borscht_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"borscht_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"borscht_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"borscht_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"borscht_6": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"table_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"table_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"table_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"table_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"table_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"coffee_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"coffee_2": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"coffee_3": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"coffee_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"coffee_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"coffee_6": {
+"seed": 46,
+"ok": true,
+"note": "rescue1"
+},
+"potluck_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"potluck_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"potluck_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"potluck_4": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"potluck_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"shutters_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"shutters_2": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"shutters_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"shutters_4": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"shutters_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"shutters_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"shadetree_1": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"shadetree_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"shadetree_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"shadetree_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"shadetree_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"gate_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"gate_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"gate_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"gate_4": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"gate_5": {
+"seed": 46,
+"ok": true,
+"note": "rescue1"
+},
+"gate_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"bathouse_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"bathouse_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"bathouse_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"bathouse_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"bathouse_5": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"hedge_1": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"hedge_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"hedge_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"hedge_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"hedge_5": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"hedge_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"pumpkin_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"pumpkin_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"pumpkin_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"pumpkin_4": {
+"seed": 11,
+"ok": false,
+"note": "pumpkin has a realistic human face, creepy"
+},
+"pumpkin_5": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"pumpkin_6": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"lawn_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"lawn_2": {
+"seed": 11,
+"ok": false,
+"note": "rescue1 failed: engine mowers again"
+},
+"lawn_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"lawn_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"lawn_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"lawn_6": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"budget_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"budget_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"budget_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"budget_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"budget_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"bank_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"bank_2": {
+"seed": 47,
+"ok": true,
+"note": "rescue1"
+},
+"bank_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"bank_4": {
+"seed": 47,
+"ok": true,
+"note": "rescue1"
+},
+"bank_5": {
+"seed": 46,
+"ok": true,
+"note": "rescue1"
+},
+"bank_6": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"appraise_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"appraise_2": {
+"seed": 44,
+"ok": true,
+"note": "rescue1"
+},
+"appraise_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"appraise_4": {
+"seed": 46,
+"ok": true,
+"note": "rescue1"
+},
+"appraise_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"spareroom_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"spareroom_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"spareroom_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"spareroom_4": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"spareroom_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"spareroom_6": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"offer_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"offer_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"offer_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"offer_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"offer_5": {
+"seed": 46,
+"ok": true,
+"note": "rescue1"
+},
+"piggybank_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"piggybank_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"piggybank_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"piggybank_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"piggybank_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"piggybank_6": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"meeting_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"meeting_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"meeting_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"meeting_4": {
+"seed": 47,
+"ok": true,
+"note": "rescue1"
+},
+"meeting_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"minutes_1": {
+"seed": 41,
+"ok": true,
+"note": "rescue1"
+},
+"minutes_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"minutes_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"minutes_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"minutes_5": {
+"seed": 44,
+"ok": true,
+"note": "rescue1"
+},
+"minutes_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"blockparty_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"blockparty_2": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"blockparty_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"blockparty_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"blockparty_5": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"bakesale_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"bakesale_2": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"bakesale_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"bakesale_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"bakesale_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"bakesale_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"streetlight_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"streetlight_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"streetlight_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"streetlight_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"streetlight_5": {
+"seed": 41,
+"ok": true,
+"note": "rescue1"
+},
+"halloween_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"halloween_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"halloween_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"halloween_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"halloween_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"halloween_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"watch_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"watch_2": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"watch_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"watch_4": {
+"seed": 42,
+"ok": true,
+"note": "rescue1"
+},
+"watch_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"explain_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"explain_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"explain_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"explain_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"explain_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"explain_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"photo_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"photo_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"photo_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"photo_4": {
+"seed": 42,
+"ok": true,
+"note": "rescue1"
+},
+"photo_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"dog_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"dog_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"dog_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"dog_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"dog_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"dog_6": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"nightschool_1": {
+"seed": 46,
+"ok": true,
+"note": "rescue1"
+},
+"nightschool_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"nightschool_3": {
+"seed": 47,
+"ok": true,
+"note": "rescue1"
+},
+"nightschool_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"nightschool_5": {
+"seed": 46,
+"ok": true,
+"note": "rescue1"
+},
+"opinions_1": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"opinions_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"opinions_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"opinions_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"opinions_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"opinions_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"bedtime_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"bedtime_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"bedtime_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"bedtime_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"bedtime_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"moving_1": {
+"seed": 47,
+"ok": true,
+"note": "rescue1"
+},
+"moving_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"moving_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"moving_4": {
+"seed": 11,
+"ok": false,
+"note": "rescue1 failed: blanket on the vampire, not the clock"
+},
+"moving_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"moving_6": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"housewarming_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"housewarming_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"housewarming_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"housewarming_4": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"housewarming_5": {
+"seed": 42,
+"ok": true,
+"note": "rescue1"
+},
+"cards_1": {
+"seed": 42,
+"ok": true,
+"note": "rescue1"
+},
+"cards_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"cards_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"cards_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"cards_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"cards_6": {
+"seed": 44,
+"ok": true,
+"note": "rescue1"
+},
+"thanksgiving_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"thanksgiving_2": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"thanksgiving_3": {
+"seed": 11,
+"ok": false,
+"note": "rescue1 failed: only vampires, no family at table"
+},
+"thanksgiving_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"thanksgiving_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"sunrise_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"sunrise_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"sunrise_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"sunrise_4": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"sunrise_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"sunrise_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"goodneighbors_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"goodneighbors_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"goodneighbors_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"goodneighbors_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"goodneighbors_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+}
 }
