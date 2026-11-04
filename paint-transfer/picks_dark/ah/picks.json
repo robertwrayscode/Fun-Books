@@ -11,13 +11,13 @@
 },
 "crater_3": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: binoculars have three barrels; ordinary binoculars with exactly two barrels held in both hands"
 },
 "crater_4": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hands in the picture; NOHANDS a single pink rose lying alone on scorched soil at the crater edge, nobody in the picture, no hands"
 },
 "crater_5": {
 "seed": 13,
@@ -26,13 +26,13 @@
 },
 "crater_6": {
 "seed": 47,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: garbled writing on the notepad; the notepad page is covered only in faint wavy gray lines like writing seen from far away"
 },
 "sweep_1": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: scarf tied at her neck not on her head; a polka-dot head scarf covering her hair, its two ends tied in a knot under her chin"
 },
 "sweep_2": {
 "seed": 13,
@@ -56,13 +56,13 @@
 },
 "sweep_6": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: two brooms and a floating broom; she holds one single straw broom in one hand and waves with her other hand"
 },
 "radio_1": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: garbled lettering on the radio dial; the glowing dial has only plain tick marks and no numbers or letters"
 },
 "radio_2": {
 "seed": 12,
@@ -76,8 +76,8 @@
 },
 "radio_4": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: garbled handwriting on the notepad; the notepad page is covered only in faint wavy gray lines like writing seen from far away"
 },
 "radio_5": {
 "seed": 12,
@@ -96,13 +96,13 @@
 },
 "neighbors_2": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: towel is under the dish, not over it; a red checked tea towel draped over the top of the oval glass casserole dish hiding the food"
 },
 "neighbors_3": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: towel hangs under the dish, not covering it; the casserole dish is covered on top with a red checked tea towel"
 },
 "neighbors_4": {
 "seed": 13,
@@ -126,13 +126,13 @@
 },
 "canary_3": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: red cherry filling, not apple; a golden apple pie with pale apple slices showing in the cut"
 },
 "canary_4": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: garbled newspaper print and shoes not slippers; the newspaper pages are a soft plain gray blur with no readable marks, soft brown felt house slippers on his feet"
 },
 "canary_5": {
 "seed": 11,
@@ -196,8 +196,8 @@
 },
 "stock_6": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: garbled lettering on the jar labels; plain unlabelled glass jars of coloured preserves on the shelves"
 },
 "labels_1": {
 "seed": 12,
@@ -206,13 +206,13 @@
 },
 "labels_2": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: one ponytail and looks grown up; a ten-year-old girl with two blonde pigtails, one on each side"
 },
 "labels_3": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: numbers on the scale dial; the round scale dial has only plain tick marks and a needle, no numbers"
 },
 "labels_4": {
 "seed": 12,
@@ -306,8 +306,8 @@
 },
 "cookies_6": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: three hands on the tray; NOHANDS a baking tray of plain golden sugar cookies sitting alone on top of a stove, nobody in the picture"
 },
 "water_1": {
 "seed": 12,
@@ -316,13 +316,13 @@
 },
 "water_2": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: jars lie on their sides, not upside down; a row of glass jars standing upside down with their open mouths down on a wooden dish rack beside a kitchen sink"
 },
 "water_3": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: two things pouring and no funnel; one tin funnel sitting in the neck of a glass jug, water pouring into the funnel from one glass pitcher held in one hand"
 },
 "water_4": {
 "seed": 41,
@@ -346,8 +346,8 @@
 },
 "snackers_3": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: lettering on his t-shirt pocket; a plain striped t-shirt with no pocket and no lettering"
 },
 "snackers_4": {
 "seed": 13,
@@ -361,8 +361,8 @@
 },
 "snackers_6": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: garbled newspaper print on the table; nothing on the table but breakfast plates and a glass of milk"
 },
 "casserole_1": {
 "seed": 13,
@@ -386,13 +386,13 @@
 },
 "casserole_5": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: four hands around the dish; NOHANDS a bubbling casserole in a glass dish sitting alone on a stovetop, nobody in the picture"
 },
 "biscuits_1": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: a hand holds the stone, not sitting on the steps; NOHANDS the lumpy gray meteorite stone sitting by itself on wooden back porch steps, nobody in the picture"
 },
 "biscuits_2": {
 "seed": 12,
@@ -421,8 +421,8 @@
 },
 "mockpie_1": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: syrup is brown and there is a stray extra hand; NOHANDS a saucepan of clear colourless bubbling sugar syrup alone on a stove burner, nobody in the picture"
 },
 "mockpie_2": {
 "seed": 13,
@@ -446,13 +446,13 @@
 },
 "mockpie_6": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: two men appear, should be the pie alone; NOHANDS a golden lattice pie cooling alone on a windowsill, a hazy orange sky outside, nobody in the picture"
 },
 "roast_1": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: one-burner stove not the green two-burner camp stove; a flat green two-burner camp stove with its lid open, he lights one burner with a match"
 },
 "roast_2": {
 "seed": 11,
@@ -491,8 +491,8 @@
 },
 "fritters_3": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: two forks held at once; one single fork in one hand holding the slice of pink luncheon meat dipped into the bowl of yellow batter, the other hand steadying the bowl"
 },
 "fritters_4": {
 "seed": 14,
@@ -511,8 +511,8 @@
 },
 "cratercake_2": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: cake on a plate in a modern oven, not a bundt pan; NOHANDS a bundt cake baking in a fluted metal bundt pan on the rack of an open cream 1950s enamel oven, nobody in the picture"
 },
 "cratercake_3": {
 "seed": 12,
@@ -536,8 +536,8 @@
 },
 "gelatin_1": {
 "seed": 46,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: flat paper packets not boxes, and markings on the cup; two small plain red cardboard boxes standing up beside a plain glass measuring cup with no markings"
 },
 "gelatin_2": {
 "seed": 13,
@@ -546,18 +546,18 @@
 },
 "gelatin_3": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: a tart pan of cherries, not a ring mold of fruit cocktail; NOHANDS a shiny metal ring mold shaped like a doughnut with a hole in the middle, filled with fruit cocktail pieces and red cherries, alone on a counter, nobody in the picture"
 },
 "gelatin_4": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: a plain can not a ring mold, and stray hands; NOHANDS a shiny metal ring mold shaped like a doughnut with a hole in the middle, full of green gelatin, alone on a stone cellar shelf, nobody in the picture"
 },
 "gelatin_5": {
 "seed": 47,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: she pours liquid from a cup instead of flipping a mold; she holds a metal ring mold upside down over a serving plate with both hands, a green gelatin ring sliding out of it onto the plate"
 },
 "dusting_1": {
 "seed": 14,
@@ -566,8 +566,8 @@
 },
 "dusting_2": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: two spray bottles in two hands; NOHANDS one small brass spray mister bottle with a rubber bulb standing beside a folded white cotton cloth, a fine mist settling on the cloth, nobody in the picture"
 },
 "dusting_3": {
 "seed": 12,
@@ -596,8 +596,8 @@
 },
 "laundry_2": {
 "seed": 47,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: only one roller, looks like a paper towel roll; two long gray rubber rollers stacked one above the other on top of the white tub, a hand crank on the side, a white sheet squeezing out flat between them"
 },
 "laundry_3": {
 "seed": 14,
@@ -616,28 +616,28 @@
 },
 "windows_1": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: a ghostly face in the window glass; plain dark window glass with no reflections of faces"
 },
 "windows_2": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: numbers on a tape measure and a stray hand; NOHANDS a roll of wide brown paper tape and a pair of scissors lying alone on a white windowsill, nobody in the picture"
 },
 "windows_3": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: a ghostly second face in the window and tape not on the pane; plain dark window glass with no reflection, he presses a long strip of brown paper tape flat along the edge of the glass pane with both thumbs"
 },
 "windows_4": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: a man appears inside and tape only on the outer frame corners; NOHANDS a house window seen from outside with neat strips of brown paper tape along the edges of every small glass pane, dark empty room inside, nobody in the picture"
 },
 "windows_5": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: a ghostly face reflection and not taping; plain dark window glass with no reflection, he stands on a wooden stepladder pressing a strip of brown paper tape along the top edge of the window glass"
 },
 "windows_6": {
 "seed": 12,
@@ -646,8 +646,8 @@
 },
 "vacuum_1": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: she has gray hair and is older, not the brown-haired housewife; a brown-haired housewife in her thirties with curled hair"
 },
 "vacuum_2": {
 "seed": 13,
@@ -656,8 +656,8 @@
 },
 "vacuum_3": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: modern plastic canister vacuum; a rounded 1950s chrome canister vacuum cleaner on little runners with a cloth-covered hose"
 },
 "vacuum_4": {
 "seed": 46,
@@ -666,13 +666,13 @@
 },
 "vacuum_5": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: night, not a sunny backyard; a bright sunny daytime backyard with blue sky and green grass"
 },
 "curtains_1": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: numbers on the tape measure and she holds it to the glass, not across the window width; a plain yellow cloth tape measure with only tick marks and no numbers, stretched straight across the width of the window between her two hands"
 },
 "curtains_2": {
 "seed": 43,
@@ -686,8 +686,8 @@
 },
 "curtains_4": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hands pulling a thread; NOHANDS red and white gingham curtain fabric gathered in soft folds on a brass curtain rod with brass rings, nobody in the picture"
 },
 "curtains_5": {
 "seed": 12,
@@ -716,8 +716,8 @@
 },
 "shoes_4": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: all the same adult size; a row of soft felt slippers in clearly different sizes from a big father's pair down to a tiny child's pair"
 },
 "shoes_5": {
 "seed": 13,
@@ -726,8 +726,8 @@
 },
 "ironing_1": {
 "seed": 46,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: strange triangle-shaped irons; NOHANDS two antique black cast-iron flat irons each shaped like a small boat, pointed at the front and flat on the bottom, each with one curved metal handle arching over the top, sitting on a black wood-burning cookstove, nobody in the picture"
 },
 "ironing_2": {
 "seed": 46,
@@ -741,13 +741,13 @@
 },
 "ironing_4": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: looks like a modern electric iron; an antique solid black cast-iron flat iron shaped like a small boat with one curved metal handle on top, no cord, pressing a white shirt collar"
 },
 "ironing_5": {
 "seed": 43,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: strange triangle-shaped irons; two antique black cast-iron flat irons each shaped like a small boat, pointed at the front, with one curved metal handle on top, side by side on a stovetop, one lifted by its handle with a folded cloth"
 },
 "ironing_6": {
 "seed": 13,
@@ -756,8 +756,8 @@
 },
 "fence_1": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: he holds a tall stake, not tying string to a small stake in the ground; he kneels on the lawn tying a white string around the top of a short wooden stake already hammered into the grass beside a big round crater"
 },
 "fence_2": {
 "seed": 13,
@@ -771,8 +771,8 @@
 },
 "fence_4": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: hammer is upside down, gripped by its head; he grips the long wooden handle of a claw hammer and swings its metal head onto a nail in the white picket"
 },
 "fence_5": {
 "seed": 13,
@@ -801,8 +801,8 @@
 },
 "tomatoes_5": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: two strangers grab the wheelbarrow from both ends; NOHANDS a giant tomato the size of a beach ball sitting in a red wheelbarrow parked alone in a backyard garden, nobody in the picture"
 },
 "tomatoes_6": {
 "seed": 12,
@@ -811,8 +811,8 @@
 },
 "rocky_1": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hand; NOHANDS the lumpy gray meteorite stone sitting alone on a doormat on wooden back porch steps, nobody in the picture"
 },
 "rocky_2": {
 "seed": 11,
@@ -821,13 +821,13 @@
 },
 "rocky_3": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: the stone is a tiny green pebble, not the football-sized meteorite; a lumpy gray meteorite stone the size of a football with glowing green cracks sitting on the porch step beside him"
 },
 "rocky_4": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hands; NOHANDS the lumpy gray meteorite stone sitting alone beside a folded soft yellow polishing cloth on a wooden porch step, nobody in the picture"
 },
 "rocky_5": {
 "seed": 13,
@@ -851,8 +851,8 @@
 },
 "picnic_4": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hands and fried eggs on bread, not deviled eggs; NOHANDS a plate of halved deviled eggs with piped yellow filling and small sandwiches on a red checkered picnic blanket, nobody in the picture"
 },
 "picnic_5": {
 "seed": 13,
@@ -861,8 +861,8 @@
 },
 "picnic_6": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: china plates and a lamp, not paper plates outdoors; outdoors on the grass, she packs a stack of plain white paper plates into a wicker picnic basket on a red checkered blanket"
 },
 "scientists_1": {
 "seed": 12,
@@ -886,18 +886,18 @@
 },
 "scientists_5": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: she smiles instead of shaking her head firmly; a stern firm face, lips pressed together, shaking her head no"
 },
 "pond_1": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: a neat stone-ringed garden pond, not a crater full of rainwater; a big rough round crater in a suburban lawn with raw dirt sides, filled with muddy rainwater like a pond"
 },
 "pond_2": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: standing on the bank planting land lilies, not wading; he stands knee-deep in pond water in tall rubber boots, placing a round floating water lily pad with a pink flower onto the water"
 },
 "pond_3": {
 "seed": 12,
@@ -931,13 +931,13 @@
 },
 "cozy_3": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hands holding the painting; NOHANDS a framed landscape painting hanging by itself on a bare concrete basement wall, nobody in the picture"
 },
 "cozy_4": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: a real window with glass, not a painted sky on concrete; gingham curtains hung on a rod around a flat sky-blue painted rectangle with painted white clouds on a bare gray concrete wall, no real window"
 },
 "cozy_5": {
 "seed": 12,
@@ -946,33 +946,33 @@
 },
 "games_1": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: ghostly hands and garbled cards; NOHANDS an empty folding card table with a glowing lantern in the middle and a few face-down playing cards with plain red backs, nobody in the picture"
 },
 "games_2": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: garbled card faces; the playing cards lie face down showing only plain red patterned backs"
 },
 "games_3": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: four hands on the board; NOHANDS a checkers game in progress on a red and black checkerboard seen from above, nobody in the picture"
 },
 "games_4": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hands with a fork; NOHANDS a wooden bowl of popcorn alone on a card table beside a glowing lantern, nobody in the picture"
 },
 "games_5": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hand; NOHANDS a half-finished jigsaw puzzle on a table with loose pieces scattered around and a glowing lantern beside it, nobody in the picture"
 },
 "games_6": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: two identical twin boys; the freckled boy shakes hands across the checkerboard with his gray-haired grandfather in a cardigan"
 },
 "bunks_1": {
 "seed": 11,
@@ -981,13 +981,13 @@
 },
 "bunks_2": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hand at the lamp and a toothbrush in the jug; NOHANDS a white enamel wash basin and a china water jug on a wooden washstand with two toothbrushes standing in one cup, nobody in the picture"
 },
 "bunks_3": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hand on the quilt; NOHANDS a teddy bear tucked under a patchwork quilt with its head on a pillow, nobody in the picture"
 },
 "bunks_4": {
 "seed": 12,
@@ -996,18 +996,18 @@
 },
 "bunks_5": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hands; NOHANDS a small glowing nightlight shaped like a crescent moon plugged into the wall of a dark basement room, nobody in the picture"
 },
 "drills_1": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hand on the bell; NOHANDS a brass hand bell with a wooden handle standing alone on a kitchen counter, nobody in the picture"
 },
 "drills_2": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: she squats with knees apart, not a tucked crouch; she kneels on the kitchen floor curled forward into a small ball, knees tucked under her, her forehead down and both arms folded over the top of her head, her long skirt covering her legs"
 },
 "drills_3": {
 "seed": 11,
@@ -1016,18 +1016,18 @@
 },
 "drills_4": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: modern stainless steel refrigerator; a rounded white 1950s refrigerator in the background"
 },
 "drills_5": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: numbers and letters on the stopwatch face; a silver stopwatch with only plain tick marks and no numbers lying in an open palm"
 },
 "drills_6": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hand; NOHANDS a glass jar of colourful jelly beans beside a sheet of gold star stickers on a table, nobody in the picture"
 },
 "grandma_1": {
 "seed": 41,
@@ -1036,8 +1036,8 @@
 },
 "grandma_2": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hand pulling yarn; NOHANDS a wicker basket of colourful balls of wool yarn with knitting needles stuck in it, nobody in the picture"
 },
 "grandma_3": {
 "seed": 11,
@@ -1046,8 +1046,8 @@
 },
 "grandma_4": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hands; NOHANDS colourful fabric scraps and a round wooden quilting hoop lying on a table under a lamp, nobody in the picture"
 },
 "grandma_5": {
 "seed": 13,
@@ -1091,23 +1091,23 @@
 },
 "grocery_2": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: woven basket not a string bag, and a sign in the shop window; a net string shopping bag holding a few tin cans, plain shop windows with no signs"
 },
 "grocery_3": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: garbled sign lettering at the top; plain shopfront with no signs"
 },
 "grocery_4": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: garbled lettering on the cash register; a plain brass cash register with plain round keys and no lettering"
 },
 "grocery_5": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: she raises her left hand and boxes with labels behind; plain shelves of plain unlabelled solid-coloured boxes, she holds up two fingers of her right hand"
 },
 "hats_1": {
 "seed": 41,
@@ -1121,13 +1121,13 @@
 },
 "hats_3": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: a magnifying glass, not a hand mirror; a small round hand mirror with a pink backing and a short handle, her reflection in it"
 },
 "hats_4": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: a man under the umbrella; NOHANDS an open black umbrella lying open on its side on a porch floor, little gray pebbles bouncing off it, nobody in the picture"
 },
 "hats_5": {
 "seed": 13,
@@ -1136,13 +1136,13 @@
 },
 "hats_6": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hands with a brush; NOHANDS a wide-brimmed straw hat with a few little gray pebbles on its brim hanging alone on a brass hall hook, nobody in the picture"
 },
 "bakesale_1": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: four stray hands holding the pie; NOHANDS a golden lattice pie cooling alone on a windowsill, nobody in the picture"
 },
 "bakesale_2": {
 "seed": 13,
@@ -1151,18 +1151,18 @@
 },
 "bakesale_3": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hands and lurking figures; NOHANDS pies and plates of cookies arranged on white doilies on a long table, nobody in the picture"
 },
 "bakesale_4": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: a cord runs from the cash box; a plain green metal cash box with its lid open full of coins, no wires, beside two plain silver tin cans"
 },
 "bakesale_5": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: a stray extra hand at the right edge; nobody else in the picture"
 },
 "driving_1": {
 "seed": 13,
@@ -1181,8 +1181,8 @@
 },
 "driving_4": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: small hole beside the car, not driving around a big hole; a big round hole in the middle of a country road and the station wagon steering around its edge"
 },
 "driving_5": {
 "seed": 46,
@@ -1191,8 +1191,8 @@
 },
 "driving_6": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: garbled license plate; plain blank license plate"
 },
 "letter_1": {
 "seed": 13,
@@ -1201,48 +1201,48 @@
 },
 "letter_2": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: garbled handwriting and three hands; NOHANDS a fountain pen lying on a sheet of cream notepaper covered in faint even wavy gray lines like neat handwriting seen from far away, nobody in the picture"
 },
 "letter_3": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: garbled writing on the paper; the letter paper covered only in faint wavy gray lines like writing seen from far away"
 },
 "letter_4": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hands holding it; NOHANDS a pencil drawing of a pond with ducks on a sheet of notepaper lying flat on a desk, nobody in the picture"
 },
 "letter_5": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: three hands; NOHANDS a purple pansy lying on a folded letter beside a plain envelope on a desk, nobody in the picture"
 },
 "warden_1": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: police-style uniform with a gun belt and badge; a civil defense warden in a plain white round helmet with no badge, a plain khaki jacket with a white armband, no belt holster, holding a clipboard"
 },
 "warden_2": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hands holding the saucer; NOHANDS a cup of coffee and a doughnut on a saucer resting alone on top of a white picket fence post, nobody in the picture"
 },
 "warden_3": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: a man writing, should be just the clipboard and helmet, with garbled typed text; NOHANDS a clipboard with a sheet covered only in faint even pale gray lines beside a white round helmet on a porch table, nobody in the picture"
 },
 "warden_4": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: badges and lettering on helmet and shirt; a plain white round helmet with no badge and a plain khaki shirt with a plain white armband, no badges, no name tag"
 },
 "warden_5": {
 "seed": 47,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: no armband with buckle shown; a white round helmet and a folded white cloth armband with a shiny brass buckle lying on a wooden porch chair"
 },
 "warden_6": {
 "seed": 46,
@@ -1251,18 +1251,18 @@
 },
 "hairdo_1": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hands; NOHANDS a little heap of bobby pins and a small round pocket mirror lying on a dressing table, nobody in the picture"
 },
 "hairdo_2": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: hairnet on her head, not neat curls; neat glossy brown curls with no hairnet, her fingertips gently patting them"
 },
 "hairdo_3": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: modern aerosol can with lettering; a plain tall silver spray can with no label or lettering"
 },
 "hairdo_4": {
 "seed": 12,
@@ -1271,8 +1271,8 @@
 },
 "hairdo_5": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: walking forward, not sideways; she walks sideways crab-like along the sidewalk, her shoulder leading, one hand holding her head scarf on"
 },
 "pebbles_1": {
 "seed": 12,
@@ -1286,18 +1286,18 @@
 },
 "pebbles_3": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: lettering on his t-shirt pocket; a plain striped t-shirt with no pocket and no lettering"
 },
 "pebbles_4": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hands; NOHANDS a glass jar full of small shiny gray and black pebbles standing alone on a porch step, nobody in the picture"
 },
 "pebbles_5": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: the boy holds the handle by its lens end awkwardly; he holds the brass magnifying glass by its handle in one hand over a small gray pebble resting in his other open palm"
 },
 "pebbles_6": {
 "seed": 13,
@@ -1311,8 +1311,8 @@
 },
 "sunset_2": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hands pouring; NOHANDS two glasses of iced tea with lemon slices standing on a small round table at sunset, nobody in the picture"
 },
 "sunset_3": {
 "seed": 42,
@@ -1321,18 +1321,18 @@
 },
 "sunset_4": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: modern 35mm camera, not boxy; an old boxy black 1950s box camera with a plain round lens held up to her eye"
 },
 "sunset_5": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: gray-haired, older and not wrapped in a blanket; a brown-haired housewife in her thirties in a cardigan sitting in a wooden lawn chair outdoors wrapped snugly in a plaid blanket at dusk"
 },
 "china_1": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hands; NOHANDS china plates and teacups laid out carefully on a folded towel on a dining table, nobody in the picture"
 },
 "china_2": {
 "seed": 13,
@@ -1341,18 +1341,18 @@
 },
 "china_3": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: teacups float with hooks inside them; three china teacups each hanging by its handle from a small brass cup hook screwed under a wooden cabinet shelf"
 },
 "china_4": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hand; NOHANDS china plates standing upright behind a wooden rail on a shelf, nobody in the picture"
 },
 "china_5": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hands and a ghostly hand reflection; NOHANDS a small brass hook latch fastened on a glass-front china cabinet door, close-up, nobody in the picture"
 },
 "china_6": {
 "seed": 13,
@@ -1361,8 +1361,8 @@
 },
 "tea_1": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hands; NOHANDS a dining table with lots of lit candles in brass holders in a dim room, nobody in the picture"
 },
 "tea_2": {
 "seed": 13,
@@ -1376,23 +1376,23 @@
 },
 "tea_4": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hands; NOHANDS a plate of warm scones with a jar of strawberry jam and a dish of butter on a table, nobody in the picture"
 },
 "tea_5": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hands; NOHANDS tea pouring from a flowered teapot tilted on its own over a china cup, close-up, nobody in the picture"
 },
 "winter_1": {
 "seed": 41,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: numbers on the tape and measuring his chest not his arm; a plain yellow cloth tape measure with only tick marks, she holds it along the length of the boy's outstretched arm from shoulder to wrist"
 },
 "winter_2": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hands; NOHANDS a wicker basket of thick balls of red, yellow and brown wool yarn on a table, nobody in the picture"
 },
 "winter_3": {
 "seed": 11,
@@ -1406,18 +1406,18 @@
 },
 "winter_5": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hands; NOHANDS a knitted red sweater hanging on its knitting needles propped against a window with snow outside, nobody in the picture"
 },
 "winter_6": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hands; NOHANDS three hand-knitted sweaters in red, yellow and brown folded neatly on a sofa, nobody in the picture"
 },
 "snowball_1": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: three mittens shown; exactly two red mittens, one on each hand"
 },
 "snowball_2": {
 "seed": 13,
@@ -1436,8 +1436,8 @@
 },
 "snowball_5": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: the snowman has white glove hands; the snowman has two plain twig stick arms, a carrot nose, coal-lump eyes and an old brown hat"
 },
 "stars_1": {
 "seed": 11,
@@ -1456,8 +1456,8 @@
 },
 "stars_4": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: leaning on a table, not lying on his back; he lies flat on his back on a plaid blanket on the lawn, eyes closed, smiling, the starry sky above"
 },
 "stars_5": {
 "seed": 12,
@@ -1466,8 +1466,8 @@
 },
 "stars_6": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hands; NOHANDS a plaid thermos and two tin cups of cocoa standing on a blanket under the stars, nobody in the picture"
 },
 "blockparty_1": {
 "seed": 13,
@@ -1481,13 +1481,13 @@
 },
 "blockparty_3": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: people eating at the table; NOHANDS a long outdoor table crowded with casseroles, gelatin salads and pies, nobody in the picture"
 },
 "blockparty_4": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hand with a spoon; NOHANDS a glass punch bowl of pink punch with a scoop of sherbet floating in it on a table, nobody in the picture"
 },
 "blockparty_5": {
 "seed": 13,
@@ -1496,8 +1496,8 @@
 },
 "prize_1": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hands holding it; NOHANDS a giant tomato the size of a beach ball hanging alone on a thick green vine, perfectly round and shiny red, nobody in the picture"
 },
 "prize_2": {
 "seed": 12,
@@ -1506,8 +1506,8 @@
 },
 "prize_3": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: numbers on the scale dial; the round scale dial has only plain tick marks and a needle, no numbers"
 },
 "prize_4": {
 "seed": 11,
@@ -1516,18 +1516,18 @@
 },
 "prize_5": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: man in tuxedo and a stranger behind; NOHANDS a giant tomato on a table at a garden show beside small baskets of normal vegetables, nobody in the picture"
 },
 "prize_6": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: lettering on the ribbon and a stray hand at the right; a plain blue prize ribbon rosette with a plain gold centre and no lettering, he holds it with one hand and rests his other hand on the tomato"
 },
 "lemonade_1": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hands; NOHANDS a glass pitcher of lemonade with lemon slices and ice cubes standing on a table, nobody in the picture"
 },
 "lemonade_2": {
 "seed": 13,
@@ -1536,13 +1536,13 @@
 },
 "lemonade_3": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: one ponytail and an easel canvas, not a big wooden sign on the lawn; two blonde pigtails, painting bright red paint onto a big flat wooden board lying on the grass in front of her"
 },
 "lemonade_4": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: she holds the pitcher with three hands; she holds the glass pitcher with one hand and the paper cup with her other hand"
 },
 "lemonade_5": {
 "seed": 12,
@@ -1551,13 +1551,13 @@
 },
 "anniversary_1": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hand at the edge; NOHANDS round chocolate cake layers cooling on wire racks in a kitchen, nobody in the picture"
 },
 "anniversary_2": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hands; NOHANDS a two-layer chocolate cake with a sunken frosted crater on top and sprinkles sitting on a cake plate on a table, nobody in the picture"
 },
 "anniversary_3": {
 "seed": 13,
@@ -1566,13 +1566,13 @@
 },
 "anniversary_4": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hands; NOHANDS a paper party hat sitting on top of the lumpy gray meteorite stone on a table, nobody in the picture"
 },
 "anniversary_5": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hands; NOHANDS a chocolate cake with one lit birthday candle on a picnic table at dusk, nobody in the picture"
 },
 "anniversary_6": {
 "seed": 12,
@@ -1581,53 +1581,53 @@
 },
 "relief_1": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hands; NOHANDS a cherry pie with a lattice crust fresh out of the oven cooling alone on a stovetop, nobody in the picture"
 },
 "relief_2": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: garbled lettering on the truck and plate; plain green truck with no lettering and a plain blank license plate"
 },
 "relief_3": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: no pot holders, holds a metal tray; she holds the cherry pie dish with a quilted red pot holder in each hand"
 },
 "relief_4": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: badge on his cap and garbled labels on the truck; a plain gray cap with no badge, plain truck with no lettering"
 },
 "relief_5": {
 "seed": 43,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: white sack has no flour label shape and sugar is in a jar; a brown paper shopping bag of oranges, a plain white paper sack of flour and a plain white paper sack of sugar side by side on a kitchen table, no labels"
 },
 "photo_1": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: modern 35mm camera; an old boxy brown 1950s box camera on top of the wooden tripod"
 },
 "photo_2": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hand; NOHANDS a big red ribbon bow tied on a white picket fence gate, snow on the ground, nobody in the picture"
 },
 "photo_3": {
 "seed": 42,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: a shadowy stranger at the right; nobody else in the picture"
 },
 "photo_4": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: modern camera with lettering, not about to run; an old boxy brown 1950s box camera on a wooden tripod, he presses its button with one finger while leaning away ready to dash off"
 },
 "photo_5": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: modern 35mm camera with lettering; an old boxy brown 1950s box camera with a plain round lens beside the snapshots"
 },
 "photo_6": {
 "seed": 41,
@@ -1636,13 +1636,13 @@
 },
 "homemaker_1": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: she unfolds a sheet, not putting on an apron; she ties the strings of a white apron behind her waist with both hands"
 },
 "homemaker_2": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hands; NOHANDS a percolator coffee pot steaming on a stove burner at dawn, warm light, nobody in the picture"
 },
 "homemaker_3": {
 "seed": 13,
@@ -1651,12 +1651,12 @@
 },
 "homemaker_4": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hands and lettering on the napkin; NOHANDS a breakfast table set with a checkered cloth, plain white napkins and a single daisy in a glass, nobody in the picture"
 },
 "homemaker_5": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: casserole not covered; a casserole dish covered with a glass lid"
 }
 }
