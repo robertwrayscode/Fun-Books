@@ -1,0 +1,12 @@
+[
+ {
+  "out": "rescue16/zn/carstart_3.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Seen from outside a 1950s car at dusk, a goofy friendly zombie man with pale green skin, sleepy droopy eyes and a silly grin, in a rumpled brown suit standing outside pressing his face to the closed car window, and inside the car a gentleman in a gray suit and red bow tie with a neat mustache behind the steering wheel pushing down the door lock button and smiling politely at him through the glass. Uncluttered simple scene, only the two figures. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 261,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ }
+]
