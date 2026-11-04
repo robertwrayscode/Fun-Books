@@ -1,0 +1,332 @@
+[
+{
+"out": "rescue1/bf/tracks_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A wooden yardstick lying in the snow beside one giant bare footprint pressed deep into the snow, an empty hollow in the shape of a huge foot with five toe dents, no foot in it, seen from above. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/bf/tracks_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. One giant footprint pressed into fresh snow, an empty hollow in the shape of a huge bare foot with five round toe dents, no foot in it, seen from above. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/bf/tracks_6.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A smiling man in a red plaid flannel shirt at a kitchen table drawing a simple outline of a giant footprint with a pencil on a plain sheet of paper, a coffee cup beside him. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/bf/hello_6.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. a big friendly shaggy brown Bigfoot covered head to toe in long brown fur, with a gentle ape-like face ducking his head to step through the open back door of a 1950s house, smiling man in a red plaid flannel shirt holding the door open and smiling. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/bf/name_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A girl with brown braids in a pink gingham dress at a kitchen table holding up a small slip of paper turned so we only see its blank back, a pencil in her other hand. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/bf/name_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A girl with brown braids in a pink gingham dress standing in a snowy backyard calling out loudly with both hands cupped around her open mouth, facing the pine woods. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/bf/duck_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. a big friendly shaggy brown Bigfoot covered head to toe in long brown fur, with a gentle ape-like face bending low to squeeze through the back door of a white 1950s house, one furry hand on the door frame. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/bf/wipe_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. a big friendly shaggy brown Bigfoot covered head to toe in long brown fur, with a gentle ape-like face standing on a plain brown doormat on a back porch, wiping one giant hairy bare foot on the mat. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/bf/voice_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A round brass alarm clock showing nine o'clock on a 1950s kitchen counter next to a plain blank wall calendar with empty squares. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/bf/icebox_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A cheerful housewife in a blue shirtwaist dress and white apron on a back porch striking a big steel triangle dinner bell hanging from a hook with a small steel rod. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/bf/flapjacks_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Two empty black cast-iron griddles side by side heating on the burners of an old white 1950s enamel kitchen range, faint heat shimmer, no flames on the griddles. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/bf/pass_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A gray-haired grandmother in a green dress and pearls sitting at a supper table smiling as she takes a big bowl of mashed potatoes passed to her by a big friendly shaggy brown Bigfoot covered head to toe in long brown fur, with a gentle ape-like face. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/bf/burrs_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A gray-haired grandmother in a green dress and pearls standing on a small footstool brushing the long shaggy brown fur on the shoulder of a big friendly shaggy brown Bigfoot covered head to toe in long brown fur, with a gentle ape-like face who sits patiently on a back porch step. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/bf/burrs_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A small striped chipmunk with dark and light stripes down its back sitting on a wooden porch step, looking surprised. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/bf/smell_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A plain white cardboard box with no printing sprinkling white baking soda onto a braided rag rug, close-up. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/bf/hardware_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A sheet of plain paper with a few short wavy pencil scribbles and a pencil on a wooden counter, close-up. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/bf/hardware_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. The front of a small 1950s town hardware store with a plain blank wooden sign board, tools hanging in the window, early morning light. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/bf/camera_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A vintage press camera on a wooden tripod pointed at one giant bare footprint pressed into the mud of a garden bed, an empty hollow in the shape of a huge foot with five toe dents. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/bf/reach_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A huge arm covered in long shaggy brown fur like an ape, with thick dark leathery fingers, clearly not a human hand, reaching up to take a round cake tin down from a high kitchen shelf. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/bf/piano_6.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of one huge hand covered in long shaggy brown fur like an ape, with thick dark leathery fingers, clearly not a human hand, pressing a single white key of an upright piano with one finger. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/bf/treehouse_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A pencil drawing on brown paper of a small wooden tree house built in the branches of a big tree, lying on a kitchen table with a pencil beside it. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/bf/marshmallow_6.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A campfire that has been put out, only wet black charcoal and logs with a thin curl of white steam and no flames at all, in a ring of stones, a metal bucket standing beside it. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/bf/checkers_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A wooden checkerboard with flat round red and black checkers disks on a checkerboard, no chess pieces set up in neat rows on a card table. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/bf/checkers_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A white-haired grandfather in a brown cardigan sitting alone at a card table pointing at a checkerboard with flat round red and black checkers disks on a checkerboard, no chess pieces, explaining. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/bf/checkers_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. a big friendly shaggy brown Bigfoot covered head to toe in long brown fur, with a gentle ape-like face sitting at a card table pushing one small flat round red checkers disk across a checkerboard with one big furry finger, concentrating. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/bf/checkers_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of two flat round black checkers disks stacked on top of each other on a checkerboard, no chess pieces. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/bf/checkers_6.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A white-haired grandfather in a brown cardigan at a card table with a checkerboard shaking hands with a big friendly shaggy brown Bigfoot covered head to toe in long brown fur, with a gentle ape-like face sitting across from him. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/bf/halloween_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A boy in a cowboy costume and a child covered completely by a plain white bedsheet ghost costume with two round eye holes, standing on a porch at dusk. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/bf/fourth_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Half-round red white and blue striped bunting with a blue band of white stars at the top, hanging along the porch railing of a white 1950s house. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/bf/thanks_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. An open box of plain blank cream stationery sheets and blank envelopes on a writing desk, nothing written on anything. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/bf/thanks_6.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a huge hand covered in long shaggy brown fur like an ape, with thick dark leathery fingers, clearly not a human hand, raising the red flag on a rural metal mailbox. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/bf/relatives_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A cream letter covered in faint wavy pencil lines being folded in thirds by hands at a kitchen table. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/bf/goodnight_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A starry night sky with the Milky Way over a dark line of pine woods. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+}
+]
