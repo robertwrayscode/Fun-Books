@@ -20,9 +20,9 @@
 "note": "round1"
 },
 "firstcap_5": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: garbled text on flyers"
+"seed": 26,
+"ok": true,
+"note": "rescue8"
 },
 "firstcap_6": {
 "seed": 11,
@@ -40,9 +40,9 @@
 "note": "round1"
 },
 "flags_3": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: modern pickup truck"
+"seed": 26,
+"ok": true,
+"note": "rescue8"
 },
 "flags_4": {
 "seed": 13,
@@ -50,24 +50,24 @@
 "note": "round1"
 },
 "flags_5": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: printed newspaper text"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "stickers_1": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: stray hands and garbled sticker text"
+"seed": 26,
+"ok": true,
+"note": "rescue8"
 },
 "stickers_2": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: garbled sticker text"
+"seed": 24,
+"ok": true,
+"note": "rescue8"
 },
 "stickers_3": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: sticker on shirt or garbled text"
+"seed": 26,
+"ok": true,
+"note": "rescue8"
 },
 "stickers_4": {
 "seed": 13,
@@ -80,9 +80,9 @@
 "note": "round1"
 },
 "stickers_6": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: garbled sticker text"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "capid_1": {
 "seed": 12,
@@ -90,14 +90,14 @@
 "note": "round1"
 },
 "capid_2": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: stray hands"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "capid_3": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: printed newspapers on table"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "capid_4": {
 "seed": 12,
@@ -105,9 +105,9 @@
 "note": "round1"
 },
 "capid_5": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: stray hands"
+"seed": 24,
+"ok": true,
+"note": "rescue8"
 },
 "boats_1": {
 "seed": 12,
@@ -170,9 +170,9 @@
 "note": "round1"
 },
 "pantry_2": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: garbled labels on tins"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "pantry_3": {
 "seed": 13,
@@ -180,14 +180,14 @@
 "note": "round1"
 },
 "pantry_4": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: printed newspapers on table"
+"seed": 23,
+"ok": true,
+"note": "rescue8"
 },
 "pantry_5": {
 "seed": 0,
 "ok": false,
-"note": "round1 failed: garbled labels"
+"note": "rescue8 failed: wrong action, should pin list to door"
 },
 "pantry_6": {
 "seed": 12,
@@ -205,9 +205,9 @@
 "note": "round1"
 },
 "bunker_3": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: newspapers on table"
+"seed": 26,
+"ok": true,
+"note": "rescue8"
 },
 "bunker_4": {
 "seed": 13,
@@ -230,9 +230,9 @@
 "note": "round1"
 },
 "speaker_3": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: newspapers on wall"
+"seed": 26,
+"ok": true,
+"note": "rescue8"
 },
 "speaker_4": {
 "seed": 11,
@@ -245,29 +245,29 @@
 "note": "round1"
 },
 "speaker_6": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: stray hands"
+"seed": 24,
+"ok": true,
+"note": "rescue8"
 },
 "paper_1": {
 "seed": 0,
 "ok": false,
-"note": "round1 failed: garbled newspaper print"
+"note": "rescue8 failed: standing, step says sit down"
 },
 "paper_2": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: garbled newspaper print, two men in 11"
+"seed": 24,
+"ok": true,
+"note": "rescue8"
 },
 "paper_3": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: garbled newspaper print"
+"seed": 24,
+"ok": true,
+"note": "rescue8"
 },
 "paper_4": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: garbled newspaper print"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "paper_5": {
 "seed": 12,
@@ -320,9 +320,9 @@
 "note": "round1"
 },
 "corner_4": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: garbled book covers and newspapers"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "corner_5": {
 "seed": 11,
@@ -335,9 +335,9 @@
 "note": "round1"
 },
 "curtains_2": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: stray hands"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "curtains_3": {
 "seed": 12,
@@ -362,7 +362,7 @@
 "hedge_1": {
 "seed": 0,
 "ok": false,
-"note": "round1 failed: not waving"
+"note": "rescue8 failed: no string line, step says mark the line"
 },
 "hedge_2": {
 "seed": 11,
@@ -395,19 +395,19 @@
 "note": "round1"
 },
 "sugar_3": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: garbled print on sugar bag"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "sugar_4": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: no watering can"
+"seed": 25,
+"ok": true,
+"note": "rescue8"
 },
 "sugar_5": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: not waving"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "sugar_6": {
 "seed": 13,
@@ -420,9 +420,9 @@
 "note": "round1"
 },
 "signs_2": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: modern power mower not reel"
+"seed": 25,
+"ok": true,
+"note": "rescue8"
 },
 "signs_3": {
 "seed": 14,
@@ -435,9 +435,9 @@
 "note": "round1"
 },
 "signs_5": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: garbled sign text"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "golfcart_1": {
 "seed": 13,
@@ -447,17 +447,17 @@
 "golfcart_2": {
 "seed": 0,
 "ok": false,
-"note": "round1 failed: not waving"
+"note": "rescue8 failed: man in cart, step says set up lawn chair on curb"
 },
 "golfcart_3": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: printed papers on cart"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "golfcart_4": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: not waving, text on cart"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "golfcart_5": {
 "seed": 11,
@@ -470,14 +470,14 @@
 "note": "round1"
 },
 "mailbox_1": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: stray hands NOHANDS"
+"seed": 25,
+"ok": true,
+"note": "rescue8"
 },
 "mailbox_2": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: stray hands NOHANDS"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "mailbox_3": {
 "seed": 13,
@@ -515,9 +515,9 @@
 "note": "round1"
 },
 "blockparty_5": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: newspapers and modern cans"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "blockparty_6": {
 "seed": 12,
@@ -525,9 +525,9 @@
 "note": "round1"
 },
 "meeting_1": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: people or papers on chairs NOHANDS"
+"seed": 24,
+"ok": true,
+"note": "rescue8"
 },
 "meeting_2": {
 "seed": 13,
@@ -585,24 +585,24 @@
 "note": "round1"
 },
 "thanksgiving_2": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: no marshmallows on sweet potatoes"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "thanksgiving_3": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: newspapers and cans on table"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "thanksgiving_4": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: newspapers on table, not pointing at radio"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "thanksgiving_5": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: people added, pies look like pizza NOHANDS"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "grandpa_1": {
 "seed": 12,
@@ -622,7 +622,7 @@
 "grandpa_4": {
 "seed": 0,
 "ok": false,
-"note": "round1 failed: chess not checkers, newspapers"
+"note": "rescue8 failed: chess pieces; text changed to dominoes, retry"
 },
 "grandpa_5": {
 "seed": 12,
@@ -635,9 +635,9 @@
 "note": "round1"
 },
 "sweater_1": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: stray hands NOHANDS"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "sweater_2": {
 "seed": 13,
@@ -660,993 +660,993 @@
 "note": "round1"
 },
 "seating_1": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: newspapers on table"
+"seed": 24,
+"ok": true,
+"note": "rescue8"
 },
 "seating_2": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: newspapers, extra people"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "seating_3": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: table full of people NOHANDS"
+"seed": 23,
+"ok": true,
+"note": "rescue8"
 },
 "seating_4": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: newspapers and cans"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "seating_5": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: newspapers on table"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "seating_6": {
-"seed": 0,
-"ok": false,
-"note": "round1 failed: cans and papers on table"
+"seed": 23,
+"ok": true,
+"note": "rescue8"
 },
 "phone_1": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 23,
+"ok": true,
+"note": "rescue8"
 },
 "phone_2": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "phone_3": {
 "seed": 0,
 "ok": false,
-"note": "unreviewed"
+"note": "rescue8 failed: receiver at ear, should be held a foot away"
 },
 "phone_4": {
 "seed": 0,
 "ok": false,
-"note": "unreviewed"
+"note": "rescue8 failed: no crossword"
 },
 "phone_5": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "explain_1": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "explain_2": {
 "seed": 0,
 "ok": false,
-"note": "unreviewed"
+"note": "rescue8 failed: eating soup, step is listening to child question"
 },
 "explain_3": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "explain_4": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "explain_5": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 23,
+"ok": true,
+"note": "rescue8"
 },
 "explain_6": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "weather_1": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "weather_2": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "weather_3": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 24,
+"ok": true,
+"note": "rescue8"
 },
 "weather_4": {
 "seed": 0,
 "ok": false,
-"note": "unreviewed"
+"note": "rescue8 failed: newspaper not almanac"
 },
 "weather_5": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "nod_1": {
 "seed": 0,
 "ok": false,
-"note": "unreviewed"
+"note": "rescue8 failed: men appear in still life"
 },
 "nod_2": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "nod_3": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "nod_4": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "nod_5": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "nod_6": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "fishing_1": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "fishing_2": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "fishing_3": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "fishing_4": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "fishing_5": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 23,
+"ok": true,
+"note": "rescue8"
 },
 "letter_1": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "letter_2": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "letter_3": {
 "seed": 0,
 "ok": false,
-"note": "unreviewed"
+"note": "rescue8 failed: man appears in still life"
 },
 "letter_4": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "letter_5": {
 "seed": 0,
 "ok": false,
-"note": "unreviewed"
+"note": "rescue8 failed: garbled handwriting"
 },
 "letter_6": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "radio_1": {
 "seed": 0,
 "ok": false,
-"note": "unreviewed"
+"note": "rescue8 failed: grandpa driving, step is child reading comic"
 },
 "radio_2": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "radio_3": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "radio_4": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "radio_5": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "agree_1": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "agree_2": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 24,
+"ok": true,
+"note": "rescue8"
 },
 "agree_3": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "agree_4": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "agree_5": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 24,
+"ok": true,
+"note": "rescue8"
 },
 "agree_6": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "exit_1": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "exit_2": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "exit_3": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "exit_4": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 23,
+"ok": true,
+"note": "rescue8"
 },
 "exit_5": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 25,
+"ok": true,
+"note": "rescue8"
 },
 "breath_1": {
 "seed": 0,
 "ok": false,
-"note": "unreviewed"
+"note": "rescue8 failed: ranting man, step is put down the spoon"
 },
 "breath_2": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "breath_3": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 23,
+"ok": true,
+"note": "rescue8"
 },
 "breath_4": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "breath_5": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "breath_6": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "garden_1": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "garden_2": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "garden_3": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "garden_4": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "garden_5": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "newsfast_1": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "newsfast_2": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 23,
+"ok": true,
+"note": "rescue8"
 },
 "newsfast_3": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "newsfast_4": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "newsfast_5": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "newsfast_6": {
 "seed": 0,
 "ok": false,
-"note": "unreviewed"
+"note": "rescue8 failed: garbled headlines"
 },
 "laugh_1": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "laugh_2": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "laugh_3": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "laugh_4": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 24,
+"ok": true,
+"note": "rescue8"
 },
 "laugh_5": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 26,
+"ok": true,
+"note": "rescue8"
 },
 "walk_1": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "walk_2": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "walk_3": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "walk_4": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 24,
+"ok": true,
+"note": "rescue8"
 },
 "walk_5": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "walk_6": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "bath_1": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 25,
+"ok": true,
+"note": "rescue8"
 },
 "bath_2": {
 "seed": 0,
 "ok": false,
-"note": "unreviewed"
+"note": "rescue8 failed: men in still life"
 },
 "bath_3": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 26,
+"ok": true,
+"note": "rescue8"
 },
 "bath_4": {
 "seed": 0,
 "ok": false,
-"note": "unreviewed"
+"note": "rescue8 failed: apron dress not nightgown"
 },
 "bath_5": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "traffic_1": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 24,
+"ok": true,
+"note": "rescue8"
 },
 "traffic_2": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "traffic_3": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 23,
+"ok": true,
+"note": "rescue8"
 },
 "traffic_4": {
 "seed": 0,
 "ok": false,
-"note": "unreviewed"
+"note": "rescue8 failed: pouring onto ground, no cup"
 },
 "traffic_5": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 23,
+"ok": true,
+"note": "rescue8"
 },
 "traffic_6": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "diner_1": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "diner_2": {
 "seed": 0,
 "ok": false,
-"note": "unreviewed"
+"note": "rescue8 failed: garbled menu text"
 },
 "diner_3": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "diner_4": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "diner_5": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "hardware_1": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 25,
+"ok": true,
+"note": "rescue8"
 },
 "hardware_2": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 25,
+"ok": true,
+"note": "rescue8"
 },
 "hardware_3": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "hardware_4": {
 "seed": 0,
 "ok": false,
-"note": "unreviewed"
+"note": "rescue8 failed: hands and man behind register"
 },
 "hardware_5": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "hardware_6": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "fair_1": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "fair_2": {
 "seed": 0,
 "ok": false,
-"note": "unreviewed"
+"note": "rescue8 failed: hands in all"
 },
 "fair_3": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 23,
+"ok": true,
+"note": "rescue8"
 },
 "fair_4": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "fair_5": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "picnic_1": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "picnic_2": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "picnic_3": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "picnic_4": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "picnic_5": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "picnic_6": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "barber_1": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 24,
+"ok": true,
+"note": "rescue8"
 },
 "barber_2": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "barber_3": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "barber_4": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "barber_5": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "parade_1": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "parade_2": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 24,
+"ok": true,
+"note": "rescue8"
 },
 "parade_3": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "parade_4": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "parade_5": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "parade_6": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 25,
+"ok": true,
+"note": "rescue8"
 },
 "dog_1": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "dog_2": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "dog_3": {
 "seed": 0,
 "ok": false,
-"note": "unreviewed"
+"note": "rescue8 failed: tying, step is take a picture"
 },
 "dog_4": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "dog_5": {
 "seed": 0,
 "ok": false,
-"note": "unreviewed"
+"note": "rescue8 failed: biscuit, step is return folded red bandana"
 },
 "tractor_1": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "tractor_2": {
 "seed": 0,
 "ok": false,
-"note": "unreviewed"
+"note": "rescue8 failed: not tying flag"
 },
 "tractor_3": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "tractor_4": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 25,
+"ok": true,
+"note": "rescue8"
 },
 "tractor_5": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "tractor_6": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "raffle_1": {
 "seed": 0,
 "ok": false,
-"note": "unreviewed"
+"note": "rescue8 failed: hands and men"
 },
 "raffle_2": {
 "seed": 0,
 "ok": false,
-"note": "unreviewed"
+"note": "rescue8 failed: drum, step is shake pastor hand"
 },
 "raffle_3": {
 "seed": 0,
 "ok": false,
-"note": "unreviewed"
+"note": "rescue8 failed: hands, step is hold cap up"
 },
 "raffle_4": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 24,
+"ok": true,
+"note": "rescue8"
 },
 "raffle_5": {
 "seed": 0,
 "ok": false,
-"note": "unreviewed"
+"note": "rescue8 failed: hands"
 },
 "school_1": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "school_2": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "school_3": {
 "seed": 0,
 "ok": false,
-"note": "unreviewed"
+"note": "rescue8 failed: hands"
 },
 "school_4": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "school_5": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "school_6": {
 "seed": 0,
 "ok": false,
-"note": "unreviewed"
+"note": "rescue8 failed: hands"
 },
 "inflatable_1": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 23,
+"ok": true,
+"note": "rescue8"
 },
 "inflatable_2": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "inflatable_3": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "inflatable_4": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "inflatable_5": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "rally_1": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "rally_2": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "rally_3": {
 "seed": 0,
 "ok": false,
-"note": "unreviewed"
+"note": "rescue8 failed: flag waving, step is close the windows"
 },
 "rally_4": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "rally_5": {
 "seed": 0,
 "ok": false,
-"note": "unreviewed"
+"note": "rescue8 failed: hot dog, step is read a good book at home"
 },
 "rally_6": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "blowncap_1": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "blowncap_2": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "blowncap_3": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "blowncap_4": {
 "seed": 0,
 "ok": false,
-"note": "unreviewed"
+"note": "rescue8 failed: he wears the lost cap, should look sad bareheaded over fence"
 },
 "blowncap_5": {
 "seed": 0,
 "ok": false,
-"note": "unreviewed"
+"note": "rescue8 failed: hands, step is hand cap over fence"
 },
 "potluck_1": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "potluck_2": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 23,
+"ok": true,
+"note": "rescue8"
 },
 "potluck_3": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "potluck_4": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "potluck_5": {
 "seed": 0,
 "ok": false,
-"note": "unreviewed"
+"note": "rescue8 failed: carrying, step is tasting every dish"
 },
 "potluck_6": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "fence_1": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "fence_2": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 25,
+"ok": true,
+"note": "rescue8"
 },
 "fence_3": {
 "seed": 0,
 "ok": false,
-"note": "unreviewed"
+"note": "rescue8 failed: no hammer"
 },
 "fence_4": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "fence_5": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "piecontest_1": {
 "seed": 0,
 "ok": false,
-"note": "unreviewed"
+"note": "rescue8 failed: not pinning notice"
 },
 "piecontest_2": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "piecontest_3": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "piecontest_4": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "piecontest_5": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "piecontest_6": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 23,
+"ok": true,
+"note": "rescue8"
 },
 "ballgame_1": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "ballgame_2": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "ballgame_3": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "ballgame_4": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "ballgame_5": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "fourth_1": {
 "seed": 0,
 "ok": false,
-"note": "unreviewed"
+"note": "rescue8 failed: bunting looks like French flag"
 },
 "fourth_2": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 25,
+"ok": true,
+"note": "rescue8"
 },
 "fourth_3": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "fourth_4": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 26,
+"ok": true,
+"note": "rescue8"
 },
 "fourth_5": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "fourth_6": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "handshake_1": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "handshake_2": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 },
 "handshake_3": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 22,
+"ok": true,
+"note": "rescue8"
 },
 "handshake_4": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 23,
+"ok": true,
+"note": "rescue8"
 },
 "handshake_5": {
-"seed": 0,
-"ok": false,
-"note": "unreviewed"
+"seed": 21,
+"ok": true,
+"note": "rescue8"
 }
 }

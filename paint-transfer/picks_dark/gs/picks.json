@@ -105,9 +105,9 @@
 "note": "Curtain lifted at corner, no stray hands"
 },
 "wave_5": {
-"seed": 11,
-"ok": false,
-"note": "rescue5 failed: two girls in all"
+"seed": 147,
+"ok": true,
+"note": "rescue8"
 },
 "fedora_1": {
 "seed": 11,
@@ -685,9 +685,9 @@
 "note": "Fork raised at family table, man at window"
 },
 "meatloaf_6": {
-"seed": 11,
-"ok": false,
-"note": "rescue5 failed: people at table in all"
+"seed": 142,
+"ok": true,
+"note": "rescue8"
 },
 "gelatin_1": {
 "seed": 11,
@@ -695,9 +695,9 @@
 "note": "Stirring green liquid in glass bowl"
 },
 "gelatin_2": {
-"seed": 13,
-"ok": false,
-"note": "rescue5 failed: apples not pears, hands"
+"seed": 144,
+"ok": true,
+"note": "rescue8"
 },
 "gelatin_3": {
 "seed": 123,
@@ -885,9 +885,9 @@
 "note": "Fedora atop leaf pile, clean"
 },
 "rake_2": {
-"seed": 11,
-"ok": false,
-"note": "rescue5 failed: no rake in any"
+"seed": 142,
+"ok": true,
+"note": "rescue8"
 },
 "rake_3": {
 "seed": 62,
@@ -950,9 +950,9 @@
 "note": "Ringing brass bell on lawn"
 },
 "sprinkler_4": {
-"seed": 13,
-"ok": false,
-"note": "rescue5 failed: hat on head plus hat in hand"
+"seed": 146,
+"ok": true,
+"note": "rescue8"
 },
 "sprinkler_5": {
 "seed": 14,
@@ -1090,9 +1090,9 @@
 "note": "rescue5"
 },
 "receipts_4": {
-"seed": 11,
-"ok": false,
-"note": "rescue5 failed: printed text and barcodes in all"
+"seed": 145,
+"ok": true,
+"note": "rescue8"
 },
 "receipts_5": {
 "seed": 125,
@@ -1465,9 +1465,9 @@
 "note": "Agent by wall with streamers; 11 has text"
 },
 "chacha_2": {
-"seed": 11,
-"ok": false,
-"note": "rescue5 failed: truck parked inside the dance hall"
+"seed": 146,
+"ok": true,
+"note": "rescue8"
 },
 "chacha_3": {
 "seed": 11,
@@ -1510,9 +1510,9 @@
 "note": "Agent yawning at typewriter in van"
 },
 "nothing_6": {
-"seed": 12,
-"ok": false,
-"note": "rescue5 failed: glasses on face and on nightstand, cardigan in bed"
+"seed": 143,
+"ok": true,
+"note": "rescue8"
 },
 "thanks_1": {
 "seed": 121,
