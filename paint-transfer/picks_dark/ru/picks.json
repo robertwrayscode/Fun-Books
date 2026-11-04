@@ -1,0 +1,1652 @@
+{
+"toaster_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"toaster_2": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"toaster_3": {
+"seed": 11,
+"ok": false,
+"note": "hands on mixer; should run by itself"
+},
+"toaster_4": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"toaster_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"toaster_6": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"frontwalk_1": {
+"seed": 11,
+"ok": false,
+"note": "human face inside the robot's dome"
+},
+"frontwalk_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"frontwalk_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"frontwalk_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"frontwalk_5": {
+"seed": 11,
+"ok": false,
+"note": "step words on doormat"
+},
+"tvnews_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"tvnews_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"tvnews_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"tvnews_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"tvnews_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"tvnews_6": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"kinds_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"kinds_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"kinds_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"kinds_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"kinds_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"mailman_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"mailman_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"mailman_3": {
+"seed": 11,
+"ok": false,
+"note": "pliers in her hand, no robot claw; duplicate lady"
+},
+"mailman_4": {
+"seed": 11,
+"ok": false,
+"note": "human face inside the robot's dome"
+},
+"mailman_5": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"mailman_6": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"composure_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"composure_2": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"composure_3": {
+"seed": 11,
+"ok": false,
+"note": "whistle looks like a stick/pipe"
+},
+"composure_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"composure_5": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"outlet_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"outlet_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"outlet_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"outlet_4": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"outlet_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"outlet_6": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"oilpantry_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"oilpantry_2": {
+"seed": 11,
+"ok": false,
+"note": "step words on cans"
+},
+"oilpantry_3": {
+"seed": 11,
+"ok": false,
+"note": "garbled label writing"
+},
+"oilpantry_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"oilpantry_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"garage_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"garage_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"garage_3": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"garage_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"garage_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"garage_6": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"vacuum_1": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"vacuum_2": {
+"seed": 11,
+"ok": false,
+"note": "plain vacuum, not the copper robot with goggle eyes"
+},
+"vacuum_3": {
+"seed": 11,
+"ok": false,
+"note": "modern front-load washers"
+},
+"vacuum_4": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"vacuum_5": {
+"seed": 11,
+"ok": false,
+"note": "step words on vacuum"
+},
+"thermostat_1": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"thermostat_2": {
+"seed": 11,
+"ok": false,
+"note": "human face inside the robot's dome"
+},
+"thermostat_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"thermostat_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"thermostat_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"thermostat_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"rust_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"rust_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"rust_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"rust_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"rust_5": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"lawnmower_1": {
+"seed": 11,
+"ok": false,
+"note": "modern riding mower with seat"
+},
+"lawnmower_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"lawnmower_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"lawnmower_4": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"lawnmower_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"lawnmower_6": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"charging_1": {
+"seed": 11,
+"ok": false,
+"note": "step words on sign"
+},
+"charging_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"charging_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"charging_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"charging_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"address_1": {
+"seed": 11,
+"ok": false,
+"note": "garbled name plate text"
+},
+"address_2": {
+"seed": 11,
+"ok": false,
+"note": "big magazine-title text across top"
+},
+"address_3": {
+"seed": 11,
+"ok": false,
+"note": "step words on card"
+},
+"address_4": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"address_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"address_6": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"mother_1": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"mother_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"mother_3": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"mother_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"mother_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"curtsy_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"curtsy_2": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"curtsy_3": {
+"seed": 11,
+"ok": false,
+"note": "girl reaching, not curtsying"
+},
+"curtsy_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"curtsy_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"curtsy_6": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"callingcard_1": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"callingcard_2": {
+"seed": 11,
+"ok": false,
+"note": "step words on card / duplicate lady"
+},
+"callingcard_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"callingcard_4": {
+"seed": 11,
+"ok": false,
+"note": "step words on card"
+},
+"callingcard_5": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"pincer_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"pincer_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"pincer_3": {
+"seed": 11,
+"ok": false,
+"note": "two men, no robot"
+},
+"pincer_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"pincer_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"pincer_6": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"names_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"names_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"names_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"names_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"names_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"bow_1": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"bow_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"bow_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"bow_4": {
+"seed": 11,
+"ok": false,
+"note": "modern keyboards/screens; not bowing deeply"
+},
+"bow_5": {
+"seed": 11,
+"ok": false,
+"note": "modern screens, stray hands"
+},
+"bow_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"seating_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"seating_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"seating_3": {
+"seed": 11,
+"ok": false,
+"note": "garbled place card writing"
+},
+"seating_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"seating_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"menu_1": {
+"seed": 11,
+"ok": false,
+"note": "real roses not radish roses; stray hands"
+},
+"menu_2": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"menu_3": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"menu_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"menu_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"menu_6": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"toast_1": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"toast_2": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"toast_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"toast_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"toast_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"silver_1": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"silver_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"silver_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"silver_4": {
+"seed": 11,
+"ok": false,
+"note": "skull-faced scary robots"
+},
+"silver_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"silver_6": {
+"seed": 11,
+"ok": false,
+"note": "step words on robot chest; human faces"
+},
+"spill_1": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"spill_2": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"spill_3": {
+"seed": 11,
+"ok": false,
+"note": "stray hands and magazine"
+},
+"spill_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"spill_5": {
+"seed": 11,
+"ok": false,
+"note": "towel on top of table, not passed under"
+},
+"chef_1": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"chef_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"chef_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"chef_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"chef_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"chef_6": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"smalltalk_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"smalltalk_2": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"smalltalk_3": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"smalltalk_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"smalltalk_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"never_1": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"never_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"never_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"never_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"never_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"never_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"thankyou_1": {
+"seed": 11,
+"ok": false,
+"note": "garbled writing on note"
+},
+"thankyou_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"thankyou_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"thankyou_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"thankyou_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"telephone_1": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"telephone_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"telephone_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"telephone_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"telephone_5": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"telephone_6": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"beep_1": {
+"seed": 11,
+"ok": false,
+"note": "step words on book cover"
+},
+"beep_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"beep_3": {
+"seed": 11,
+"ok": false,
+"note": "tube flute, not a round pitch pipe"
+},
+"beep_4": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"beep_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"finish_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"finish_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"finish_3": {
+"seed": 11,
+"ok": false,
+"note": "human faces/hands; robot looks like armor on a man"
+},
+"finish_4": {
+"seed": 11,
+"ok": false,
+"note": "garbled label text; stray hands"
+},
+"finish_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"finish_6": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"disagree_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"disagree_2": {
+"seed": 11,
+"ok": false,
+"note": "step words on slide rule"
+},
+"disagree_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"disagree_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"disagree_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"nanny_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"nanny_2": {
+"seed": 11,
+"ok": false,
+"note": "human face inside the robot's dome"
+},
+"nanny_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"nanny_4": {
+"seed": 11,
+"ok": false,
+"note": "human face in dome; chess not checkers"
+},
+"nanny_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"nanny_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"homework_1": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"homework_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"homework_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"homework_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"homework_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"dog_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"dog_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"dog_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"dog_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"dog_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"dog_6": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"toyrobot_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"toyrobot_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"toyrobot_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"toyrobot_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"toyrobot_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"bedtime_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"bedtime_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"bedtime_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"bedtime_4": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"bedtime_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"bedtime_6": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"chaperone_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"chaperone_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"chaperone_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"chaperone_4": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"chaperone_5": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"grocery_1": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"grocery_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"grocery_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"grocery_4": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"grocery_5": {
+"seed": 11,
+"ok": false,
+"note": "step words on bags; modern POS screens"
+},
+"grocery_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"bus_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"bus_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"bus_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"bus_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"bus_5": {
+"seed": 11,
+"ok": false,
+"note": "no bus or strap visible, dark void"
+},
+"office_1": {
+"seed": 11,
+"ok": false,
+"note": "modern keypad, no timecard; duplicate men"
+},
+"office_2": {
+"seed": 11,
+"ok": false,
+"note": "writing, not straightening pencils"
+},
+"office_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"office_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"office_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"office_6": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"salon_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"salon_2": {
+"seed": 11,
+"ok": false,
+"note": "handheld modern dryer, not hood dryer"
+},
+"salon_3": {
+"seed": 11,
+"ok": false,
+"note": "helmet hat, no hood dryer"
+},
+"salon_4": {
+"seed": 11,
+"ok": false,
+"note": "step words on magazine; handheld dryer"
+},
+"salon_5": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"choir_1": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"choir_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"choir_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"choir_4": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"choir_5": {
+"seed": 11,
+"ok": false,
+"note": "no robot, only a detached brass hand"
+},
+"choir_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"traffic_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"traffic_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"traffic_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"traffic_4": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"traffic_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"bank_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"bank_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"bank_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"bank_4": {
+"seed": 11,
+"ok": false,
+"note": "money not bankbook; garbled cover"
+},
+"bank_5": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"bank_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"surrender_1": {
+"seed": 11,
+"ok": false,
+"note": "modern steam irons"
+},
+"surrender_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"surrender_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"surrender_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"surrender_5": {
+"seed": 11,
+"ok": false,
+"note": "skull-faced scary robot"
+},
+"scanned_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"scanned_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"scanned_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"scanned_4": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"scanned_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"scanned_6": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"shortcircuit_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"shortcircuit_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"shortcircuit_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"shortcircuit_4": {
+"seed": 11,
+"ok": false,
+"note": "human face inside the robot's dome"
+},
+"shortcircuit_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"giant_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"giant_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"giant_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"giant_4": {
+"seed": 11,
+"ok": false,
+"note": "not on the ladder; robot not giant"
+},
+"giant_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"giant_6": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"supreme_1": {
+"seed": 11,
+"ok": false,
+"note": "step words on card"
+},
+"supreme_2": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"supreme_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"supreme_4": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"supreme_5": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"revolt_1": {
+"seed": 11,
+"ok": false,
+"note": "modern microwaves and stainless kitchen"
+},
+"revolt_2": {
+"seed": 11,
+"ok": false,
+"note": "step words painted in all"
+},
+"revolt_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"revolt_4": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"revolt_5": {
+"seed": 11,
+"ok": false,
+"note": "duplicate lady shaking her own hand"
+},
+"revolt_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"proposal_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"proposal_2": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"proposal_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"proposal_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"proposal_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"blockparty_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"blockparty_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"blockparty_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"blockparty_4": {
+"seed": 11,
+"ok": false,
+"note": "human face in dome / not hanging lanterns"
+},
+"blockparty_5": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"blockparty_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"foxtrot_1": {
+"seed": 11,
+"ok": false,
+"note": "step words caption in all"
+},
+"foxtrot_2": {
+"seed": 11,
+"ok": false,
+"note": "skull-faced menacing robot"
+},
+"foxtrot_3": {
+"seed": 11,
+"ok": false,
+"note": "skull-faced menacing robot"
+},
+"foxtrot_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"foxtrot_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"garden_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"garden_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"garden_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"garden_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"garden_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"garden_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"thanksgiving_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"thanksgiving_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"thanksgiving_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"thanksgiving_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"thanksgiving_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"penpal_1": {
+"seed": 11,
+"ok": false,
+"note": "step words on letter in all"
+},
+"penpal_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"penpal_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"penpal_4": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"penpal_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"penpal_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"friendship_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"friendship_2": {
+"seed": 11,
+"ok": false,
+"note": "skull-faced menacing robot"
+},
+"friendship_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"friendship_4": {
+"seed": 11,
+"ok": false,
+"note": "skull-faced menacing robot"
+},
+"friendship_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+}
+}
