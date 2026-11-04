@@ -1,0 +1,12 @@
+[
+{
+"out": "rescue7/bf/tracks_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Looking straight down at fresh white snow on the ground: one empty giant footprint hollow pressed deep into the snow, the dent shaped like an enormous human sole with a round heel dent and five round toe dents at the front, the footprint is empty with nothing standing in it, no foot, no legs, no animal, a plain smooth wooden stick lying beside it for size. Nobody in the picture, no people, no animals, no hands. No words anywhere in the image, no numbers, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 141,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+}
+]
