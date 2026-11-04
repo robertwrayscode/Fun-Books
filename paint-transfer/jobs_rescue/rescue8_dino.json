@@ -1,0 +1,82 @@
+[
+{
+"out": "rescue8/dino/bottle_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A girl with pigtails in a gingham dress sitting in a rocking chair with a tiny green baby dinosaur the size of a cat curled in her lap, she tilts a glass baby bottle down to the baby dinosaur's mouth and the baby dinosaur drinks from it, the bottle nipple in the dinosaur's mouth, the girl's own mouth closed and smiling. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 141,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue8/dino/grocery_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A man in a cardigan and slacks lifting a wooden crate of lettuce into the back of a rounded 1950s pickup truck with curved fenders and chrome grille, a huge gentle brontosaurus sauropod with a tiny rounded head on a very long thin neck as long as a giraffe's, a bulky round body and four thick pillar legs like an elephant, a long tapering tail watching nearby, plain blank license plate. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 141,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue8/dino/garage_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A man in a cardigan and slacks standing on a stepladder prying wooden trim off the top of a wide open garage doorway with a long straight iron crowbar, a gentle triceratops dinosaur on four short sturdy legs with a large round bony neck frill, two long brow horns and one short nose horn and a toothless parrot-like beak watching nearby. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 141,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue8/dino/shovel_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A gray-haired grandfather in a vest and bow tie with a wooden clothespin pinched on the tip of his nose, pushing a wheelbarrow across a backyard, a gentle triceratops dinosaur on four short sturdy legs with a large round bony neck frill, two long brow horns and one short nose horn and a toothless parrot-like beak following behind. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 141,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue8/dino/fetch_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A ten-year-old boy in a striped t-shirt and jeans standing in a field beside a huge gentle brontosaurus sauropod with a tiny rounded head on a very long thin neck as long as a giraffe's, a bulky round body and four thick pillar legs like an elephant, a long tapering tail, the sauropod lowers its long neck to sniff a long wooden pole lying in the grass. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 141,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue8/dino/fetch_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A ten-year-old boy in a striped t-shirt and jeans cheering with arms up in a field as a huge gentle brontosaurus sauropod with a tiny rounded head on a very long thin neck as long as a giraffe's, a bulky round body and four thick pillar legs like an elephant, a long tapering tail walks toward him carrying a long wooden pole crosswise in its tiny mouth at the end of its long neck. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 141,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue8/dino/vet_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A woman with curled hair in a blue dress and apron sitting at a telephone table in a 1950s hallway writing in an open notebook beside a black rotary telephone, behind her an open window and outside the window the head of a gentle triceratops dinosaur on four short sturdy legs with a large round bony neck frill, two long brow horns and one short nose horn and a toothless parrot-like beak peeking in, the only animal is outside the window. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 141,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue8/dino/drivein_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A teenage girl in a poodle skirt and saddle shoes sitting on the hood of a 1950s convertible holding a box of popcorn, beside the car a huge gentle brontosaurus sauropod with a tiny rounded head on a very long thin neck as long as a giraffe's, a bulky round body and four thick pillar legs like an elephant, a long tapering tail bends its one long neck down so its one tiny head eats popcorn from a tin washtub on the ground. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 141,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+}
+]
