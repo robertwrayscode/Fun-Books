@@ -450,9 +450,9 @@
 "note": ""
 },
 "curtsy_3": {
-"seed": 43,
-"ok": false,
-"note": "rescue7 failed: kneeling not curtsying"
+"seed": 158,
+"ok": true,
+"note": "rescue8"
 },
 "curtsy_4": {
 "seed": 13,

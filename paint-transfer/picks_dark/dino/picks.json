@@ -235,9 +235,9 @@
 "note": ""
 },
 "bottle_4": {
-"seed": 12,
-"ok": false,
-"note": "rescue5 failed: girl drinks bottle herself"
+"seed": 146,
+"ok": true,
+"note": "rescue8"
 },
 "bottle_5": {
 "seed": 12,
@@ -265,9 +265,9 @@
 "note": "rescue5"
 },
 "grocery_4": {
-"seed": 46,
-"ok": false,
-"note": "rescue5 failed: modern pickup trucks"
+"seed": 144,
+"ok": true,
+"note": "rescue8"
 },
 "grocery_5": {
 "seed": 44,
@@ -585,9 +585,9 @@
 "note": "rescue5"
 },
 "garage_2": {
-"seed": 14,
-"ok": false,
-"note": "rescue5 failed: pickaxe not crowbar"
+"seed": 148,
+"ok": true,
+"note": "rescue8"
 },
 "garage_3": {
 "seed": 12,
@@ -815,9 +815,9 @@
 "note": "rescue5"
 },
 "shovel_4": {
-"seed": 14,
-"ok": false,
-"note": "rescue5 failed: sticks through nose not clothespin"
+"seed": 147,
+"ok": true,
+"note": "rescue8"
 },
 "shovel_5": {
 "seed": 121,
@@ -865,9 +865,9 @@
 "note": "rescue1"
 },
 "fetch_3": {
-"seed": 101,
-"ok": false,
-"note": "rescue5 failed: not a brontosaurus"
+"seed": 147,
+"ok": true,
+"note": "rescue8"
 },
 "fetch_4": {
 "seed": 44,
@@ -875,9 +875,9 @@
 "note": "rescue1"
 },
 "fetch_5": {
-"seed": 44,
-"ok": false,
-"note": "rescue5 failed: not a brontosaurus"
+"seed": 143,
+"ok": true,
+"note": "rescue8"
 },
 "doors_1": {
 "seed": 13,
@@ -965,9 +965,9 @@
 "note": ""
 },
 "vet_1": {
-"seed": 12,
-"ok": false,
-"note": "rescue5 failed: extra creature in window"
+"seed": 141,
+"ok": true,
+"note": "rescue8"
 },
 "vet_2": {
 "seed": 11,
@@ -1220,9 +1220,9 @@
 "note": "rescue1"
 },
 "drivein_3": {
-"seed": 45,
-"ok": false,
-"note": "rescue5 failed: two heads, second head in tub"
+"seed": 142,
+"ok": true,
+"note": "rescue8"
 },
 "drivein_4": {
 "seed": 44,

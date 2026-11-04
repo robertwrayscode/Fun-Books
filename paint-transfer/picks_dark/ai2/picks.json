@@ -95,9 +95,9 @@
 "note": ""
 },
 "radio_3": {
-"seed": 11,
-"ok": false,
-"note": "rescue5 failed: hands in all"
+"seed": 141,
+"ok": true,
+"note": "rescue8"
 },
 "radio_4": {
 "seed": 124,
@@ -245,9 +245,9 @@
 "note": ""
 },
 "shelter_6": {
-"seed": 44,
-"ok": false,
-"note": "rescue5 failed: chess not checkers, eyes, garbled posters"
+"seed": 146,
+"ok": true,
+"note": "rescue8"
 },
 "marigolds_1": {
 "seed": 13,
@@ -255,9 +255,9 @@
 "note": ""
 },
 "marigolds_2": {
-"seed": 12,
-"ok": false,
-"note": "rescue5 failed: monster not covered in eyeballs"
+"seed": 141,
+"ok": true,
+"note": "rescue8"
 },
 "marigolds_3": {
 "seed": 12,
@@ -417,7 +417,7 @@
 "table_1": {
 "seed": 42,
 "ok": false,
-"note": "rescue5 failed: hands in all"
+"note": "rescue8 failed: no person counting forks"
 },
 "table_2": {
 "seed": 12,
@@ -440,9 +440,9 @@
 "note": ""
 },
 "smalltalk_1": {
-"seed": 13,
-"ok": false,
-"note": "rescue5 failed: two monsters"
+"seed": 145,
+"ok": true,
+"note": "rescue8"
 },
 "smalltalk_2": {
 "seed": 43,
@@ -540,9 +540,9 @@
 "note": "rescue5"
 },
 "coffee_4": {
-"seed": 11,
-"ok": false,
-"note": "rescue5 failed: human hands, two eyes"
+"seed": 147,
+"ok": true,
+"note": "rescue8"
 },
 "coffee_5": {
 "seed": 12,
@@ -610,9 +610,9 @@
 "note": ""
 },
 "jello_2": {
-"seed": 63,
-"ok": false,
-"note": "rescue5 failed: two monsters human faces, can label text"
+"seed": 142,
+"ok": true,
+"note": "rescue8"
 },
 "jello_3": {
 "seed": 13,
@@ -685,9 +685,9 @@
 "note": "rescue5"
 },
 "lunch_6": {
-"seed": 12,
-"ok": false,
-"note": "rescue5 failed: two monsters human faces"
+"seed": 142,
+"ok": true,
+"note": "rescue8"
 },
 "cake_1": {
 "seed": 122,
@@ -810,9 +810,9 @@
 "note": ""
 },
 "vacuum_3": {
-"seed": 11,
-"ok": false,
-"note": "rescue5 failed: plastic bags, newspaper text"
+"seed": 141,
+"ok": true,
+"note": "rescue8"
 },
 "vacuum_4": {
 "seed": 123,
@@ -850,9 +850,9 @@
 "note": ""
 },
 "polish_6": {
-"seed": 12,
-"ok": false,
-"note": "rescue5 failed: housewife has eyestalks"
+"seed": 147,
+"ok": true,
+"note": "rescue8"
 },
 "freeze_1": {
 "seed": 13,
@@ -885,19 +885,19 @@
 "note": ""
 },
 "chores_2": {
-"seed": 44,
-"ok": false,
-"note": "rescue5 failed: hands on tentacles, no mop"
+"seed": 143,
+"ok": true,
+"note": "rescue8"
 },
 "chores_3": {
-"seed": 12,
-"ok": false,
-"note": "rescue5 failed: hands, modern washers, face eyes"
+"seed": 147,
+"ok": true,
+"note": "rescue8"
 },
 "chores_4": {
-"seed": 11,
-"ok": false,
-"note": "rescue5 failed: two monsters"
+"seed": 145,
+"ok": true,
+"note": "rescue8"
 },
 "chores_5": {
 "seed": 11,
@@ -910,9 +910,9 @@
 "note": ""
 },
 "scorch_1": {
-"seed": 41,
-"ok": false,
-"note": "rescue5 failed: hands"
+"seed": 147,
+"ok": true,
+"note": "rescue8"
 },
 "scorch_2": {
 "seed": 13,
@@ -955,9 +955,9 @@
 "note": "rescue1"
 },
 "junior_5": {
-"seed": 11,
-"ok": false,
-"note": "rescue5 failed: human face, noodles"
+"seed": 142,
+"ok": true,
+"note": "rescue8"
 },
 "junior_6": {
 "seed": 13,
@@ -975,9 +975,9 @@
 "note": "rescue5"
 },
 "babysit_3": {
-"seed": 12,
-"ok": false,
-"note": "rescue5 failed: two babies, human baby"
+"seed": 145,
+"ok": true,
+"note": "rescue8"
 },
 "babysit_4": {
 "seed": 43,
@@ -995,9 +995,9 @@
 "note": "rescue5"
 },
 "spacepet_2": {
-"seed": 68,
-"ok": false,
-"note": "rescue5 failed: two creatures four legs"
+"seed": 141,
+"ok": true,
+"note": "rescue8"
 },
 "spacepet_3": {
 "seed": 11,
@@ -1005,9 +1005,9 @@
 "note": ""
 },
 "spacepet_4": {
-"seed": 13,
-"ok": false,
-"note": "rescue5 failed: two creatures"
+"seed": 146,
+"ok": true,
+"note": "rescue8"
 },
 "spacepet_5": {
 "seed": 121,
@@ -1100,9 +1100,9 @@
 "note": "rescue5"
 },
 "costume_6": {
-"seed": 41,
-"ok": false,
-"note": "rescue5 failed: human face under sheet"
+"seed": 143,
+"ok": true,
+"note": "rescue8"
 },
 "grocery_1": {
 "seed": 125,
@@ -1115,9 +1115,9 @@
 "note": "rescue5"
 },
 "grocery_3": {
-"seed": 45,
-"ok": false,
-"note": "rescue5 failed: extra men, sign text"
+"seed": 147,
+"ok": true,
+"note": "rescue8"
 },
 "grocery_4": {
 "seed": 126,
@@ -1220,9 +1220,9 @@
 "note": ""
 },
 "picnic_2": {
-"seed": 12,
-"ok": false,
-"note": "rescue5 failed: newspapers with print"
+"seed": 144,
+"ok": true,
+"note": "rescue8"
 },
 "picnic_3": {
 "seed": 124,
@@ -1270,9 +1270,9 @@
 "note": "rescue1"
 },
 "hat_1": {
-"seed": 11,
-"ok": false,
-"note": "rescue5 failed: two eyes only"
+"seed": 141,
+"ok": true,
+"note": "rescue8"
 },
 "hat_2": {
 "seed": 127,
@@ -1370,9 +1370,9 @@
 "note": "rescue1"
 },
 "shrunk_4": {
-"seed": 62,
-"ok": false,
-"note": "rescue5 failed: hands in all"
+"seed": 143,
+"ok": true,
+"note": "rescue8"
 },
 "shrunk_5": {
 "seed": 14,
@@ -1420,14 +1420,14 @@
 "note": ""
 },
 "overlord_3": {
-"seed": 11,
-"ok": false,
-"note": "rescue5 failed: two monsters, skull face"
+"seed": 142,
+"ok": true,
+"note": "rescue8"
 },
 "overlord_4": {
-"seed": 42,
-"ok": false,
-"note": "rescue5 failed: housewife inside glass bubble, monster outside"
+"seed": 146,
+"ok": true,
+"note": "rescue8"
 },
 "overlord_5": {
 "seed": 121,
@@ -1485,9 +1485,9 @@
 "note": "rescue5"
 },
 "mothership_5": {
-"seed": 14,
-"ok": false,
-"note": "rescue5 failed: two cameras in all"
+"seed": 142,
+"ok": true,
+"note": "rescue8"
 },
 "mothership_6": {
 "seed": 44,
@@ -1515,9 +1515,9 @@
 "note": "rescue2"
 },
 "potluck_5": {
-"seed": 41,
-"ok": false,
-"note": "rescue5 failed: human hands in all"
+"seed": 146,
+"ok": true,
+"note": "rescue8"
 },
 "potluck_6": {
 "seed": 123,
@@ -1555,9 +1555,9 @@
 "note": "rescue1"
 },
 "recipes_2": {
-"seed": 61,
-"ok": false,
-"note": "rescue5 failed: human hands in all"
+"seed": 145,
+"ok": true,
+"note": "rescue8"
 },
 "recipes_3": {
 "seed": 42,
@@ -1580,9 +1580,9 @@
 "note": "rescue5"
 },
 "tupperware_1": {
-"seed": 14,
-"ok": false,
-"note": "rescue5 failed: hands, painted rainbow arch"
+"seed": 143,
+"ok": true,
+"note": "rescue8"
 },
 "tupperware_2": {
 "seed": 11,
@@ -1595,9 +1595,9 @@
 "note": "rescue1"
 },
 "tupperware_4": {
-"seed": 13,
-"ok": false,
-"note": "rescue5 failed: housewife turned into monster, two monsters"
+"seed": 143,
+"ok": true,
+"note": "rescue8"
 },
 "tupperware_5": {
 "seed": 125,
@@ -1625,9 +1625,9 @@
 "note": "rescue1"
 },
 "penpal_4": {
-"seed": 45,
-"ok": false,
-"note": "rescue5 failed: hands in all"
+"seed": 141,
+"ok": true,
+"note": "rescue8"
 },
 "penpal_5": {
 "seed": 126,
@@ -1650,14 +1650,14 @@
 "note": "rescue5"
 },
 "farewell_3": {
-"seed": 41,
-"ok": false,
-"note": "rescue5 failed: pizza not pie"
+"seed": 142,
+"ok": true,
+"note": "rescue8"
 },
 "farewell_4": {
-"seed": 48,
-"ok": false,
-"note": "rescue5 failed: pizza not pie"
+"seed": 145,
+"ok": true,
+"note": "rescue8"
 },
 "farewell_5": {
 "seed": 126,
