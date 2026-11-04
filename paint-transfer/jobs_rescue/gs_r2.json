@@ -1,0 +1,352 @@
+[
+{
+"out": "rescue2/gs/van_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a rounded 1950s delivery van whose whole side is one smooth unbroken sheet of gray painted steel, like a bread delivery van, with only a windshield in front, its smooth blank gray steel side filling most of the picture, parked on a dark suburban street at dusk. Natural hands. No words anywhere in the image, no letters, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 61,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue2/gs/newspaper_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A G-man federal agent in a belted tan trench coat, gray fedora and dark sunglasses sitting on a green bus bench holding a wide open newspaper up in front of his face so only his fedora shows above it, the newspaper pages seen from behind covered in tiny blurred gray columns, sunny suburban street corner. Natural hands. No words anywhere in the image, no letters, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 61,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue2/gs/newspaper_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A cheerful housewife in a red shirtwaist dress and white apron smiling and holding out a folded newspaper toward a G-man federal agent in a belted tan trench coat, gray fedora and dark sunglasses who sits on a bus bench peeking over the top of his own open newspaper, the papers show only tiny blurred gray columns. Natural hands. No words anywhere in the image, no letters, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 61,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue2/gs/hedgecam_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a plain black camera lens poking out from dense green privet leaves, the leaves neatly trimmed, sunlight on the glass, nobody visible. Natural hands. No words anywhere in the image, no letters, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 61,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue2/gs/fedora_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A G-man federal agent in a belted tan trench coat, gray fedora and dark sunglasses walking along a 1950s sidewalk past a row of shop windows full of hats, his fedora brim pulled low over his face. Natural hands. No words anywhere in the image, no letters, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 61,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue2/gs/smile_6.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A smiling man with horn-rimmed glasses in a navy cardigan and necktie walking down a tree-lined 1950s street with a briefcase, lips pursed in a cheerful whistle, nothing in his mouth, musical mood, morning sun. Natural hands. No words anywhere in the image, no letters, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 61,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue2/gs/click_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Inside the dim back of a gray van at night, one single G-man in a fedora alone, wearing big black headphones, sitting beside a large reel-to-reel tape recorder with two big tape reels, listening intently. Natural hands. No words anywhere in the image, no letters, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 61,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue2/gs/tape_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A lady federal agent in a gray suit, small gray hat and dark sunglasses typing at a black manual typewriter on a desk, and separately on a shelf beside her a reel-to-reel tape recorder, the paper in the typewriter seen edge-on. Natural hands. No words anywhere in the image, no letters, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 61,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue2/gs/tape_6.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A smiling man with horn-rimmed glasses in a navy cardigan and necktie gently setting a black telephone receiver down onto the cradle of a black rotary desk telephone, close view of the telephone on a hall table. Natural hands. No words anywhere in the image, no letters, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 61,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue2/gs/lamp_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A white-haired grandfather with clear eyeglasses in a gray cardigan and bow tie in an armchair under a warm lamp, reading aloud from a newspaper folded open to tiny gray columns of print, his mouth open mid-sentence. Natural hands. No words anywhere in the image, no letters, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 61,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue2/gs/welcome_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A cheerful housewife in a red shirtwaist dress and white apron lifting a bubbling tuna casserole in a glass dish out of an old white enamel 1950s oven with oven mitts, in a sunny 1950s kitchen with checkered curtains. Natural hands. No words anywhere in the image, no letters, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 61,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue2/gs/welcome_6.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. An empty, washed, sparkling clean green casserole dish sitting on a front doorstep beside a small folded white card that is closed, morning light. Natural hands. No words anywhere in the image, no letters, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 61,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue2/gs/names_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A little ten-year-old girl with a blonde ponytail in a pink dress writing in a small notebook with a pencil on porch steps, and parked at the curb behind her a rounded 1950s delivery van whose whole side is one smooth unbroken sheet of gray painted steel, like a bread delivery van, with only a windshield in front with a tall antenna on the roof. Natural hands. No words anywhere in the image, no letters, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 61,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue2/gs/names_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a crude, wobbly child's crayon scribble drawing on white paper: a stick figure man with a round head and a brown triangle hat, drawn badly as a six-year-old would, loose crayons lying beside the paper on a table. Natural hands. No words anywhere in the image, no letters, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 61,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue2/gs/birthday_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A cheerful housewife in a red shirtwaist dress and white apron with a pencil drawing a circle on a wall calendar page of plain numbered squares, in a kitchen, seen from the side. Natural hands. No words anywhere in the image, no letters, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 61,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue2/gs/thermos_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A gray-haired grandmother with clear eyeglasses in a blue dress and pearls handing a red plaid thermos bottle to a G-man federal agent in a belted tan trench coat, gray fedora and dark sunglasses at the open back doors of a gray van at night, warm light from the van. Natural hands. No words anywhere in the image, no letters, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 61,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue2/gs/centerpiece_6.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A cheerful housewife in a red shirtwaist dress and white apron leaning over a dining table at night with puffed cheeks blowing out two tall candles, the flames bending away and thin smoke rising. Natural hands. No words anywhere in the image, no letters, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 61,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue2/gs/cookies_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A ten-year-old girl with a blonde ponytail in a pink dress crouching in front of a closed 1950s oven, her nose close to the oven's glass door window, inside the glowing oven a tray of cookies, warm orange light on her face. Natural hands. No words anywhere in the image, no letters, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 61,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue2/gs/trim_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a pair of long-bladed wooden-handled garden hedge shears snipping leaves of a hedge around a small black camera lens hidden in the leaves. Natural hands. No words anywhere in the image, no letters, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 61,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue2/gs/rake_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A big heap of autumn leaves on a lawn with only a gray fedora hat and a pair of dark sunglasses sticking out of the top of the heap, a rake leaning beside it. Natural hands. No words anywhere in the image, no letters, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 61,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue2/gs/letter_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A gray-haired grandmother with clear eyeglasses in a blue dress and pearls at a writing desk holding an envelope up to her mouth, tongue touching the gummed flap, close view. Natural hands. No words anywhere in the image, no letters, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 61,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue2/gs/postcard_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a picture postcard face up on a wooden picnic table, the postcard picture shows a blue mountain lake, a pencil beside it. Natural hands. No words anywhere in the image, no letters, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 61,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue2/gs/spykit_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A freckled boy in a green striped t-shirt lifting the lid of an empty plain wooden box at a kitchen table, the box empty inside, a man in a gray fedora peering in through the window behind. Natural hands. No words anywhere in the image, no letters, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 61,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue2/gs/photo_6.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A black and white family snapshot photograph with a white border lying on a plain white envelope on the hood of a gray van. Natural hands. No words anywhere in the image, no letters, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 61,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue2/gs/secret_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Low view under a kitchen table: A gray-haired grandmother with clear eyeglasses in a blue dress and pearls's hand reaching down under the tabletop passing a small folded paper note to another hand, legs of chairs around, the tablecloth edge above. Natural hands. No words anywhere in the image, no letters, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 61,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue2/gs/secret_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A gray-haired grandmother with clear eyeglasses in a blue dress and pearls cupping her hand beside her mouth and leaning close to whisper into the ear of a G-man federal agent in a belted tan trench coat, gray fedora and dark sunglasses, who bends down to listen, beside a gray van. Natural hands. No words anywhere in the image, no letters, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 61,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue2/gs/bridge_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A gray-haired grandmother with clear eyeglasses in a blue dress and pearls in a sunny 1950s living room standing a folding square card table upright, pulling its folding legs out. Natural hands. No words anywhere in the image, no letters, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 61,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue2/gs/movies_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Night view from the lawn of a house: in the front window a white sheet glows with a projected home movie of a red rock canyon, beam of light inside the dark room. Natural hands. No words anywhere in the image, no letters, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 61,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue2/gs/blockparty_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A cheerful housewife in a red shirtwaist dress and white apron at a kitchen table holding up her hand and counting on her raised fingers, thinking, a man in a gray fedora peering in through the window behind. Natural hands. No words anywhere in the image, no letters, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 61,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue2/gs/thanksgiving_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A cheerful housewife in a red shirtwaist dress and white apron pulling apart the two halves of a wooden dining table and dropping an extra flat wooden board into the gap, a man in a gray fedora peering in through the window behind. Natural hands. No words anywhere in the image, no letters, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 61,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue2/gs/picnic_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Two G-men in trench coats and fedoras running side by side at a sunny church picnic, the left leg of one and the right leg of the other tied together at the ankle with a red cloth, stumbling and laughing, a three-legged race. Natural hands. No words anywhere in the image, no letters, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 61,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue2/gs/nothing_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A smiling man with horn-rimmed glasses in a navy cardigan and necktie pushing an old-fashioned manual push reel mower with a spiral blade cylinder between two big wheels and a long T handle, no engine, across a sunny front lawn, a G-man in a fedora peeking out of a hedge behind. Natural hands. No words anywhere in the image, no letters, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 61,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue2/gs/thanks_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a hand holding a fountain pen above cream stationery, the pen nib just touching the paper, a sheet seen at a low angle, an inkwell beside. Natural hands. No words anywhere in the image, no letters, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 61,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue2/gs/file_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a hand holding a red pencil over a typed page seen at a steep low angle so the lines of type are only tiny blurred gray rows, a typewriter in the background. Natural hands. No words anywhere in the image, no letters, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 61,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue2/gs/file_6.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A gray-haired grandmother with clear eyeglasses in a blue dress and pearls handing a thick plain brown envelope to a federal agent in a dark suit, narrow black tie, gray fedora and dark sunglasses at a front door. Natural hands. No words anywhere in the image, no letters, no signs, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 61,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+}
+]
