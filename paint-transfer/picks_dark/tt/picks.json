@@ -235,9 +235,9 @@
 "note": "rescue5"
 },
 "ave_4": {
-"seed": 13,
-"ok": false,
-"note": "rescue5 failed: handshake, not forearms clasped"
+"seed": 146,
+"ok": true,
+"note": "rescue7"
 },
 "ave_5": {
 "seed": 12,
@@ -385,9 +385,9 @@
 "note": ""
 },
 "reclining_1": {
-"seed": 13,
-"ok": false,
-"note": "rescue5 failed: Victorian sofa not Roman couch"
+"seed": 148,
+"ok": true,
+"note": "rescue7"
 },
 "reclining_2": {
 "seed": 12,
@@ -445,9 +445,9 @@
 "note": ""
 },
 "tea_2": {
-"seed": 47,
-"ok": false,
-"note": "rescue5 failed: thumb up not little finger, extra hands"
+"seed": 148,
+"ok": true,
+"note": "rescue7"
 },
 "tea_3": {
 "seed": 13,
@@ -525,14 +525,14 @@
 "note": "rescue5"
 },
 "skol_1": {
-"seed": 12,
-"ok": false,
-"note": "rescue5 failed: mug with horns not a drinking horn"
+"seed": 146,
+"ok": true,
+"note": "rescue7"
 },
 "skol_2": {
-"seed": 14,
-"ok": false,
-"note": "rescue5 failed: mug not a drinking horn"
+"seed": 148,
+"ok": true,
+"note": "rescue7"
 },
 "skol_3": {
 "seed": 12,
@@ -540,9 +540,9 @@
 "note": ""
 },
 "skol_4": {
-"seed": 11,
-"ok": false,
-"note": "rescue5 failed: horned mug, signs, crowd of suits"
+"seed": 146,
+"ok": true,
+"note": "rescue7"
 },
 "skol_5": {
 "seed": 121,
@@ -670,9 +670,9 @@
 "note": "rescue1"
 },
 "stetson_3": {
-"seed": 11,
-"ok": false,
-"note": "rescue5 failed: garbled signs everywhere"
+"seed": 141,
+"ok": true,
+"note": "rescue7"
 },
 "stetson_4": {
 "seed": 11,
@@ -745,9 +745,9 @@
 "note": "rescue5"
 },
 "spare_1": {
-"seed": 13,
-"ok": false,
-"note": "rescue5 failed: hands sticking out of the empty sleeves"
+"seed": 145,
+"ok": true,
+"note": "rescue7"
 },
 "spare_2": {
 "seed": 12,
@@ -855,9 +855,9 @@
 "note": ""
 },
 "watch_1": {
-"seed": 12,
-"ok": false,
-"note": "rescue5 failed: watch still showing"
+"seed": 147,
+"ok": true,
+"note": "rescue7"
 },
 "watch_2": {
 "seed": 41,
@@ -870,9 +870,9 @@
 "note": "rescue5"
 },
 "watch_4": {
-"seed": 13,
-"ok": false,
-"note": "rescue5 failed: wears the watch instead of holding it to his ear"
+"seed": 144,
+"ok": true,
+"note": "rescue7"
 },
 "watch_5": {
 "seed": 11,
@@ -895,9 +895,9 @@
 "note": ""
 },
 "quill_4": {
-"seed": 46,
-"ok": false,
-"note": "rescue5 failed: blotter shaped like a bowl, no knob handle"
+"seed": 147,
+"ok": true,
+"note": "rescue7"
 },
 "quill_5": {
 "seed": 12,
@@ -930,9 +930,9 @@
 "note": ""
 },
 "pyramid_5": {
-"seed": 11,
-"ok": false,
-"note": "rescue5 failed: tin can not a canteen"
+"seed": 141,
+"ok": true,
+"note": "rescue7"
 },
 "latin_1": {
 "seed": 11,
@@ -955,9 +955,9 @@
 "note": ""
 },
 "latin_5": {
-"seed": 12,
-"ok": false,
-"note": "rescue5 failed: standing straight, not bowing"
+"seed": 141,
+"ok": true,
+"note": "rescue7"
 },
 "latin_6": {
 "seed": 43,
@@ -1005,9 +1005,9 @@
 "note": ""
 },
 "yourself_4": {
-"seed": 12,
-"ok": false,
-"note": "rescue5 failed: garbled newspaper print"
+"seed": 143,
+"ok": true,
+"note": "rescue7"
 },
 "yourself_5": {
 "seed": 121,
@@ -1050,9 +1050,9 @@
 "note": ""
 },
 "lock_2": {
-"seed": 12,
-"ok": false,
-"note": "rescue5 failed: two keys, one held and one on chest"
+"seed": 145,
+"ok": true,
+"note": "rescue7"
 },
 "lock_3": {
 "seed": 122,
@@ -1215,9 +1215,9 @@
 "note": "rescue5"
 },
 "sidewalk_2": {
-"seed": 12,
-"ok": false,
-"note": "rescue5 failed: bare hand with only a cuff, not a full white glove"
+"seed": 147,
+"ok": true,
+"note": "rescue7"
 },
 "sidewalk_3": {
 "seed": 12,
@@ -1440,9 +1440,9 @@
 "note": ""
 },
 "parlor_3": {
-"seed": 47,
-"ok": false,
-"note": "rescue5 failed: pistol dryers not a hood dryer over her head"
+"seed": 145,
+"ok": true,
+"note": "rescue7"
 },
 "parlor_4": {
 "seed": 125,
@@ -1505,9 +1505,9 @@
 "note": "rescue5"
 },
 "homedials_5": {
-"seed": 11,
-"ok": false,
-"note": "rescue5 failed: clock hands not at five o clock"
+"seed": 148,
+"ok": true,
+"note": "rescue7"
 },
 "homedials_6": {
 "seed": 122,
@@ -1520,9 +1520,9 @@
 "note": "rescue5"
 },
 "newspaper_2": {
-"seed": 11,
-"ok": false,
-"note": "rescue5 failed: tiny garbled lettering and numbers on calendar"
+"seed": 142,
+"ok": true,
+"note": "rescue7"
 },
 "newspaper_3": {
 "seed": 11,
@@ -1560,9 +1560,9 @@
 "note": "rescue5"
 },
 "unpack_5": {
-"seed": 14,
-"ok": false,
-"note": "rescue5 failed: bucket not a dustpan"
+"seed": 145,
+"ok": true,
+"note": "rescue7"
 },
 "unpack_6": {
 "seed": 12,
