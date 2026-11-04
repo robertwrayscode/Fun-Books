@@ -20,9 +20,9 @@
 "note": ""
 },
 "saucer_5": {
-"seed": 13,
-"ok": false,
-"note": "verify: monster has four eyes not three; exactly three eyes all on tall stalks"
+"seed": 121,
+"ok": true,
+"note": "rescue5"
 },
 "saucer_6": {
 "seed": 13,
@@ -30,24 +30,24 @@
 "note": ""
 },
 "milkman_1": {
-"seed": 13,
-"ok": false,
-"note": "verify: tentacles end in human-like hands; tentacles curled around the bottles, no hands, exactly three eyes on stalks"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "milkman_2": {
-"seed": 12,
-"ok": false,
-"note": "verify: looks like a third arm across her chest; she holds the bottle up with both hands only"
+"seed": 124,
+"ok": true,
+"note": "rescue5"
 },
 "milkman_3": {
-"seed": 11,
-"ok": false,
-"note": "verify: truck not clearly floating; truck clearly hovering high in the air with a big gap and its shadow far below"
+"seed": 124,
+"ok": true,
+"note": "rescue5"
 },
 "milkman_4": {
-"seed": 12,
-"ok": false,
-"note": "verify: footprints look like human feet; round suction-cup ring prints in green slime, nothing like feet"
+"seed": 127,
+"ok": true,
+"note": "rescue5"
 },
 "milkman_5": {
 "seed": 13,
@@ -85,9 +85,9 @@
 "note": ""
 },
 "radio_1": {
-"seed": 13,
-"ok": false,
-"note": "verify: garbled lettering on radio dial"
+"seed": 123,
+"ok": true,
+"note": "rescue5"
 },
 "radio_2": {
 "seed": 12,
@@ -97,12 +97,12 @@
 "radio_3": {
 "seed": 11,
 "ok": false,
-"note": "verify: garbled lettering on radio dial"
+"note": "rescue5 failed: hands in all"
 },
 "radio_4": {
-"seed": 12,
-"ok": false,
-"note": "verify: garbled paper on counter and only four eyes; exactly five eyes in a row, nothing on the counter but the radio"
+"seed": 124,
+"ok": true,
+"note": "rescue5"
 },
 "radio_5": {
 "seed": 13,
@@ -110,19 +110,19 @@
 "note": ""
 },
 "husband_1": {
-"seed": 13,
-"ok": false,
-"note": "verify: tentacle comes from his back not his sleeve; a small green tentacle poking out of the cuff of his jacket sleeve instead of a hand"
+"seed": 124,
+"ok": true,
+"note": "rescue5"
 },
 "husband_2": {
-"seed": 12,
-"ok": false,
-"note": "verify: only two eyes and dress shoes not slippers; exactly six eyes in two rows, soft brown felt house slippers"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "husband_3": {
-"seed": 11,
-"ok": false,
-"note": "verify: garbled newspaper print; plain blank newspaper pages with grey blocks only, monster with exactly three eyes all on stalks"
+"seed": 125,
+"ok": true,
+"note": "rescue5"
 },
 "husband_4": {
 "seed": 12,
@@ -155,9 +155,9 @@
 "note": ""
 },
 "calmhouse_4": {
-"seed": 11,
-"ok": false,
-"note": "verify: monster has two eyes not six; exactly six eyes in two rows of three on its face"
+"seed": 127,
+"ok": true,
+"note": "rescue5"
 },
 "calmhouse_5": {
 "seed": 12,
@@ -185,9 +185,9 @@
 "note": ""
 },
 "foil_5": {
-"seed": 11,
-"ok": false,
-"note": "verify: looks like a bald human man; a round blobby goofy pink space creature with no human face, dozens of little eyeballs all over its round body, covering its eyes with two stubby pink tentacle-arms"
+"seed": 124,
+"ok": true,
+"note": "rescue5"
 },
 "foil_6": {
 "seed": 12,
@@ -205,19 +205,19 @@
 "note": ""
 },
 "pantry_3": {
-"seed": 12,
-"ok": false,
-"note": "verify: garbled lettering on all can labels; every can has a plain solid-colour paper label with only a simple painted picture of a vegetable, no letters"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "pantry_4": {
-"seed": 14,
-"ok": false,
-"note": "verify: garbled label on cookie tin; plain round red cookie tin with painted flowers, no letters"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "pantry_5": {
-"seed": 14,
-"ok": false,
-"note": "verify: garbled label on can; plain silver can with no label, she writes on the shiny lid"
+"seed": 123,
+"ok": true,
+"note": "rescue5"
 },
 "shelter_1": {
 "seed": 12,
@@ -230,9 +230,9 @@
 "note": ""
 },
 "shelter_3": {
-"seed": 12,
-"ok": false,
-"note": "verify: not unfolding a card table, cards on top; she pulls out the folding metal legs of a plain square card table lying upside down, nothing on it"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "shelter_4": {
 "seed": 12,
@@ -247,7 +247,7 @@
 "shelter_6": {
 "seed": 44,
 "ok": false,
-"note": "verify: monster has two eyes not six; exactly six eyes in two rows of three on its face"
+"note": "rescue5 failed: chess not checkers, eyes, garbled posters"
 },
 "marigolds_1": {
 "seed": 13,
@@ -257,7 +257,7 @@
 "marigolds_2": {
 "seed": 12,
 "ok": false,
-"note": "verify: she holds two trowels; one single trowel in her right hand, left hand on the soil"
+"note": "rescue5 failed: monster not covered in eyeballs"
 },
 "marigolds_3": {
 "seed": 12,
@@ -265,14 +265,14 @@
 "note": ""
 },
 "marigolds_4": {
-"seed": 14,
-"ok": false,
-"note": "verify: strange shadow of a person on the wall behind; plain dark garden background, nobody else"
+"seed": 123,
+"ok": true,
+"note": "rescue5"
 },
 "marigolds_5": {
-"seed": 12,
-"ok": false,
-"note": "verify: four eyes not five and a tag hanging off it; exactly five eyes in a row across its face, nothing hanging from it"
+"seed": 122,
+"ok": true,
+"note": "rescue5"
 },
 "china_1": {
 "seed": 12,
@@ -285,9 +285,9 @@
 "note": ""
 },
 "china_3": {
-"seed": 12,
-"ok": false,
-"note": "verify: garbled label and barcode on box; plain brown cardboard box with no printing"
+"seed": 123,
+"ok": true,
+"note": "rescue5"
 },
 "china_4": {
 "seed": 11,
@@ -300,9 +300,9 @@
 "note": ""
 },
 "china_6": {
-"seed": 12,
-"ok": false,
-"note": "verify: a man sits at the table though it should be an empty table setting; nobody at the table, empty chairs"
+"seed": 122,
+"ok": true,
+"note": "rescue5"
 },
 "wagon_1": {
 "seed": 14,
@@ -350,14 +350,14 @@
 "note": "rescue1"
 },
 "lawn_5": {
-"seed": 13,
-"ok": false,
-"note": "verify: bearded young man, not the same clean-shaven middle-aged husband; clean-shaven middle-aged man with neat dark hair, holding the lemonade glass in his hand"
+"seed": 124,
+"ok": true,
+"note": "rescue5"
 },
 "lawn_6": {
-"seed": 14,
-"ok": false,
-"note": "verify: broom looks broken into two sticks; he holds one ordinary straw broom by its single long handle and waves it"
+"seed": 123,
+"ok": true,
+"note": "rescue5"
 },
 "boring_1": {
 "seed": 12,
@@ -410,14 +410,14 @@
 "note": ""
 },
 "door_6": {
-"seed": 14,
-"ok": false,
-"note": "verify: monster has two eyes not six; exactly six eyes in two rows of three on its face"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "table_1": {
 "seed": 42,
 "ok": false,
-"note": "verify: forks in a messy pile; eight silver forks laid side by side in one long neat straight row beside a single plate"
+"note": "rescue5 failed: hands in all"
 },
 "table_2": {
 "seed": 12,
@@ -442,7 +442,7 @@
 "smalltalk_1": {
 "seed": 13,
 "ok": false,
-"note": "verify: two normal eyes and horns, not three eyes on stalks; a goofy green tentacled space monster with exactly three eyeballs each on top of a tall thin stalk"
+"note": "rescue5 failed: two monsters"
 },
 "smalltalk_2": {
 "seed": 43,
@@ -450,9 +450,9 @@
 "note": "rescue1"
 },
 "smalltalk_3": {
-"seed": 13,
-"ok": false,
-"note": "verify: two eyes not five; exactly five eyes in a row across its face"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "smalltalk_4": {
 "seed": 13,
@@ -465,9 +465,9 @@
 "note": ""
 },
 "smalltalk_6": {
-"seed": 13,
-"ok": false,
-"note": "verify: two eyes not six; exactly six eyes in two rows of three on its face"
+"seed": 124,
+"ok": true,
+"note": "rescue5"
 },
 "bridge_1": {
 "seed": 44,
@@ -480,9 +480,9 @@
 "note": "rescue1"
 },
 "bridge_3": {
-"seed": 11,
-"ok": false,
-"note": "verify: has two extra eyes on its face besides the three stalk eyes; no eyes on its face at all, only the three eyeballs on tall stalks"
+"seed": 127,
+"ok": true,
+"note": "rescue5"
 },
 "bridge_4": {
 "seed": 13,
@@ -490,9 +490,9 @@
 "note": ""
 },
 "bridge_5": {
-"seed": 12,
-"ok": false,
-"note": "verify: numbers written on score pad; score pad with only a few short pencil tally marks, no numbers"
+"seed": 123,
+"ok": true,
+"note": "rescue5"
 },
 "sofa_1": {
 "seed": 13,
@@ -520,9 +520,9 @@
 "note": ""
 },
 "sofa_6": {
-"seed": 14,
-"ok": false,
-"note": "verify: a plant sprig grows out of the spray bottle; a small plain brass spray mister bottle with a rubber squeeze bulb, a fine mist of water"
+"seed": 124,
+"ok": true,
+"note": "rescue5"
 },
 "coffee_1": {
 "seed": 13,
@@ -535,14 +535,14 @@
 "note": "rescue1"
 },
 "coffee_3": {
-"seed": 13,
-"ok": false,
-"note": "verify: two eyes not five and looks like a man in a sweater; a striped orange-and-brown space monster with no clothes, exactly five eyes in a row across its face"
+"seed": 128,
+"ok": true,
+"note": "rescue5"
 },
 "coffee_4": {
 "seed": 11,
 "ok": false,
-"note": "verify: octopus has a human-like hand; all eight arms are smooth suckered octopus tentacles with no hands or fingers"
+"note": "rescue5 failed: human hands, two eyes"
 },
 "coffee_5": {
 "seed": 12,
@@ -555,14 +555,14 @@
 "note": ""
 },
 "goodbye_2": {
-"seed": 11,
-"ok": false,
-"note": "verify: two eyes not six; exactly six eyes in two rows of three on its face"
+"seed": 121,
+"ok": true,
+"note": "rescue5"
 },
 "goodbye_3": {
-"seed": 13,
-"ok": false,
-"note": "verify: octopus shakes with a human hand; she holds the thin curled tip of one suckered tentacle, no hands or fingers on the octopus"
+"seed": 127,
+"ok": true,
+"note": "rescue5"
 },
 "goodbye_4": {
 "seed": 42,
@@ -585,9 +585,9 @@
 "note": ""
 },
 "casserole_2": {
-"seed": 12,
-"ok": false,
-"note": "verify: garbled can labels and a stray human hand; plain unlabelled silver tin cans, no human hands, monster with exactly six eyes in two rows of three"
+"seed": 123,
+"ok": true,
+"note": "rescue5"
 },
 "casserole_3": {
 "seed": 12,
@@ -612,7 +612,7 @@
 "jello_2": {
 "seed": 63,
 "ok": false,
-"note": "verify: creepy gaunt drooling monster; a round blobby goofy friendly lumpy pink space creature with dozens of little eyeballs all over its round body, no teeth showing"
+"note": "rescue5 failed: two monsters human faces, can label text"
 },
 "jello_3": {
 "seed": 13,
@@ -620,9 +620,9 @@
 "note": ""
 },
 "jello_4": {
-"seed": 11,
-"ok": false,
-"note": "verify: hands with a knife, not on a fridge shelf; inside an open 1950s refrigerator, the gelatin ring alone on a glass plate on a wire shelf, nobody in the picture"
+"seed": 122,
+"ok": true,
+"note": "rescue5"
 },
 "jello_5": {
 "seed": 13,
@@ -640,9 +640,9 @@
 "note": ""
 },
 "meatloaf_2": {
-"seed": 11,
-"ok": false,
-"note": "verify: two eyes on its face not three on stalks, and a human-like hand; exactly three eyeballs each on a tall thin stalk, only green suckered tentacles and no hands"
+"seed": 121,
+"ok": true,
+"note": "rescue5"
 },
 "meatloaf_3": {
 "seed": 11,
@@ -650,9 +650,9 @@
 "note": ""
 },
 "meatloaf_4": {
-"seed": 13,
-"ok": false,
-"note": "verify: monster appears inside the oven and no timer; she turns the dial of a round white kitchen timer on the counter while the monster with six eyes in two rows of three stands in the kitchen beside the oven peering in at the oven window"
+"seed": 125,
+"ok": true,
+"note": "rescue5"
 },
 "meatloaf_5": {
 "seed": 11,
@@ -670,29 +670,29 @@
 "note": "rescue1"
 },
 "lunch_3": {
-"seed": 43,
-"ok": false,
-"note": "verify: a second floating pan pours soup; she holds one small saucepan in her right hand and pours red soup from it straight into the thermos held in her left hand"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "lunch_4": {
-"seed": 47,
-"ok": false,
-"note": "verify: squiggle writing on the note; the folded note card is plain blank cream paper"
+"seed": 124,
+"ok": true,
+"note": "rescue5"
 },
 "lunch_5": {
-"seed": 11,
-"ok": false,
-"note": "verify: three hands on the pail; exactly two hands, one on each side, closing the latch of a black domed metal lunch pail"
+"seed": 128,
+"ok": true,
+"note": "rescue5"
 },
 "lunch_6": {
 "seed": 12,
 "ok": false,
-"note": "verify: face looks frightened and human; a round blobby goofy pink space creature with dozens of little eyeballs, big happy smile with happy tears"
+"note": "rescue5 failed: two monsters human faces"
 },
 "cake_1": {
-"seed": 12,
-"ok": false,
-"note": "verify: two eyes not six and a human hand on the whisk; exactly six eyes in two rows of three, furry orange paws with claws, no human hands"
+"seed": 122,
+"ok": true,
+"note": "rescue5"
 },
 "cake_2": {
 "seed": 11,
@@ -715,9 +715,9 @@
 "note": "rescue1"
 },
 "metal_1": {
-"seed": 12,
-"ok": false,
-"note": "verify: garbled lettering on wooden box; plain unmarked wooden crate"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "metal_2": {
 "seed": 14,
@@ -735,14 +735,14 @@
 "note": ""
 },
 "metal_5": {
-"seed": 13,
-"ok": false,
-"note": "verify: looks like a man in a striped shirt with two eyes and human hands; a striped orange-and-brown space monster with no clothes, exactly five eyes in a row across its face, three-fingered claws"
+"seed": 121,
+"ok": true,
+"note": "rescue5"
 },
 "metal_6": {
-"seed": 12,
-"ok": false,
-"note": "verify: extra eyes on its face besides the stalk eyes; no eyes on its face, only three eyeballs on tall thin stalks"
+"seed": 125,
+"ok": true,
+"note": "rescue5"
 },
 "slime_1": {
 "seed": 11,
@@ -765,9 +765,9 @@
 "note": ""
 },
 "slime_5": {
-"seed": 12,
-"ok": false,
-"note": "verify: a human hand on the sofa arm; only smooth suckered tentacles, no hands or fingers anywhere"
+"seed": 128,
+"ok": true,
+"note": "rescue5"
 },
 "spacesuit_1": {
 "seed": 45,
@@ -780,9 +780,9 @@
 "note": "rescue2"
 },
 "spacesuit_3": {
-"seed": 13,
-"ok": false,
-"note": "verify: hands come out of the empty sleeves; completely empty limp coveralls with empty flat sleeves, a scrub brush lying on top, nobody and no hands in the picture"
+"seed": 124,
+"ok": true,
+"note": "rescue5"
 },
 "spacesuit_4": {
 "seed": 13,
@@ -800,9 +800,9 @@
 "note": ""
 },
 "vacuum_1": {
-"seed": 13,
-"ok": false,
-"note": "verify: hose vacuum not an upright one; a 1950s upright vacuum cleaner with a cloth dust bag standing beside her while she pulls the plug from the wall socket by its cord"
+"seed": 124,
+"ok": true,
+"note": "rescue5"
 },
 "vacuum_2": {
 "seed": 13,
@@ -812,17 +812,17 @@
 "vacuum_3": {
 "seed": 11,
 "ok": false,
-"note": "verify: garbled newspaper print; plain blank grey newspaper sheets, and a cloth vacuum dust bag not a plastic bag"
+"note": "rescue5 failed: plastic bags, newspaper text"
 },
 "vacuum_4": {
-"seed": 11,
-"ok": false,
-"note": "verify: garbled newspaper print; plain blank grey newspaper sheet"
+"seed": 123,
+"ok": true,
+"note": "rescue5"
 },
 "vacuum_5": {
-"seed": 12,
-"ok": false,
-"note": "verify: alien has two eyes; tiny green alien with exactly three eyes in a row, nobody else and no hands in the picture"
+"seed": 125,
+"ok": true,
+"note": "rescue5"
 },
 "polish_1": {
 "seed": 11,
@@ -835,14 +835,14 @@
 "note": ""
 },
 "polish_3": {
-"seed": 12,
-"ok": false,
-"note": "verify: scary fanged face with an extra face eye; goofy friendly smiling face, no teeth, no eyes on its face, only three eyeballs on tall stalks"
+"seed": 122,
+"ok": true,
+"note": "rescue5"
 },
 "polish_4": {
-"seed": 14,
-"ok": false,
-"note": "verify: saucer is tiny like a pot lid; a huge flying saucer as wide as a car resting on the lawn, she kneels on its wide rim buffing it"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "polish_5": {
 "seed": 13,
@@ -852,7 +852,7 @@
 "polish_6": {
 "seed": 12,
 "ok": false,
-"note": "verify: fanged face with extra eye, and she waves instead of shaking her head; goofy friendly smiling monster with only three eyeballs on tall stalks, she shakes her head no with a polite smile, hands folded"
+"note": "rescue5 failed: housewife has eyestalks"
 },
 "freeze_1": {
 "seed": 13,
@@ -860,19 +860,19 @@
 "note": ""
 },
 "freeze_2": {
-"seed": 13,
-"ok": false,
-"note": "verify: modern black plastic hair dryer; a 1950s chrome pistol-shaped hair dryer"
+"seed": 121,
+"ok": true,
+"note": "rescue5"
 },
 "freeze_3": {
-"seed": 13,
-"ok": false,
-"note": "verify: three eyes not six; exactly six eyes in two rows of three on its face"
+"seed": 127,
+"ok": true,
+"note": "rescue5"
 },
 "freeze_4": {
-"seed": 14,
-"ok": false,
-"note": "verify: three hands and melted cheese not icicles; a cold casserole dish alone on the counter with frost and small hanging icicles along its rim, nobody and no hands in the picture"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "freeze_5": {
 "seed": 12,
@@ -887,17 +887,17 @@
 "chores_2": {
 "seed": 44,
 "ok": false,
-"note": "verify: a tentacle ends in a hand; each item is gripped by a curled suckered tentacle tip, no hands or fingers"
+"note": "rescue5 failed: hands on tentacles, no mop"
 },
 "chores_3": {
 "seed": 12,
 "ok": false,
-"note": "verify: human hand on the iron, fangs and modern washing machine; only green suckered tentacles and no hands, goofy friendly face, three eyeballs on tall stalks and none on its face, a 1950s wringer washer"
+"note": "rescue5 failed: hands, modern washers, face eyes"
 },
 "chores_4": {
 "seed": 11,
 "ok": false,
-"note": "verify: human hands, two eyes and looks dressed; a striped orange-and-brown space monster with no clothes, exactly five eyes in a row, three-fingered claws holding the duster"
+"note": "rescue5 failed: two monsters"
 },
 "chores_5": {
 "seed": 11,
@@ -912,7 +912,7 @@
 "scorch_1": {
 "seed": 41,
 "ok": false,
-"note": "verify: looks like a hole in the wall; a flat black sooty scorch stain on the flat wallpaper surface, the wall intact, no hole"
+"note": "rescue5 failed: hands"
 },
 "scorch_2": {
 "seed": 13,
@@ -945,9 +945,9 @@
 "note": ""
 },
 "junior_3": {
-"seed": 13,
-"ok": false,
-"note": "verify: bedroom not basement and spots all over his arms; a dim basement with stone walls and a furnace, a few freckles only on his nose"
+"seed": 124,
+"ok": true,
+"note": "rescue5"
 },
 "junior_4": {
 "seed": 44,
@@ -957,7 +957,7 @@
 "junior_5": {
 "seed": 11,
 "ok": false,
-"note": "verify: face looks like a bald human man; a round blobby goofy pink space creature with dozens of little eyeballs all over its round body and no human features, eating with a spoon"
+"note": "rescue5 failed: human face, noodles"
 },
 "junior_6": {
 "seed": 13,
@@ -965,19 +965,19 @@
 "note": ""
 },
 "babysit_1": {
-"seed": 41,
-"ok": false,
-"note": "verify: scribble on the note; the long note is plain blank cream paper"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "babysit_2": {
-"seed": 14,
-"ok": false,
-"note": "verify: pours milk on a human baby's arm; she shakes a few drops from a glass baby bottle onto the inside of her own left wrist, nobody else in the kitchen"
+"seed": 122,
+"ok": true,
+"note": "rescue5"
 },
 "babysit_3": {
 "seed": 12,
 "ok": false,
-"note": "verify: looks like a green human baby with two eyes; a chubby baby green space monster with a round bald head, little antennae and exactly three big eyes in a row"
+"note": "rescue5 failed: two babies, human baby"
 },
 "babysit_4": {
 "seed": 43,
@@ -985,19 +985,19 @@
 "note": "rescue1"
 },
 "babysit_5": {
-"seed": 12,
-"ok": false,
-"note": "verify: two eyes like a human baby; a chubby baby green space monster with little antennae and exactly three big eyes in a row"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "spacepet_1": {
-"seed": 14,
-"ok": false,
-"note": "verify: scary metal fanged creature; a lumpy pink six-legged space pet the size of a beagle with a goofy friendly smile and exactly three eyes in a row, a red collar"
+"seed": 122,
+"ok": true,
+"note": "rescue5"
 },
 "spacepet_2": {
 "seed": 68,
 "ok": false,
-"note": "verify: four eyes and four legs; a lumpy pink space pet the size of a beagle with exactly six stubby legs and exactly three eyes in a row"
+"note": "rescue5 failed: two creatures four legs"
 },
 "spacepet_3": {
 "seed": 11,
@@ -1007,12 +1007,12 @@
 "spacepet_4": {
 "seed": 13,
 "ok": false,
-"note": "verify: creepy face with leash in its mouth; a lumpy pink six-legged space pet the size of a beagle with a goofy friendly face and exactly three eyes in a row, a red leash clipped to its collar, grass in its mouth"
+"note": "rescue5 failed: two creatures"
 },
 "spacepet_5": {
-"seed": 13,
-"ok": false,
-"note": "verify: two eyes and four legs; a lumpy pink space pet the size of a beagle with exactly six stubby legs and exactly three eyes in a row"
+"seed": 121,
+"ok": true,
+"note": "rescue5"
 },
 "spacepet_6": {
 "seed": 12,
@@ -1030,14 +1030,14 @@
 "note": ""
 },
 "dog_3": {
-"seed": 12,
-"ok": false,
-"note": "verify: numbers on clock face; brass alarm clock with only plain tick marks and no numbers"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "dog_4": {
-"seed": 12,
-"ok": false,
-"note": "verify: the dog wears a pearl necklace; the golden retriever wears a plain red leather collar"
+"seed": 121,
+"ok": true,
+"note": "rescue5"
 },
 "dog_5": {
 "seed": 13,
@@ -1045,24 +1045,24 @@
 "note": ""
 },
 "bedtime_1": {
-"seed": 13,
-"ok": false,
-"note": "verify: an extra child's face floats at the edge; one single small boy tucked in bed, nobody else"
+"seed": 124,
+"ok": true,
+"note": "rescue5"
 },
 "bedtime_2": {
-"seed": 12,
-"ok": false,
-"note": "verify: garbled title on book and three eyes not six; the picture book has a plain painted planet cover with no title, monster with exactly six eyes in two rows of three"
+"seed": 122,
+"ok": true,
+"note": "rescue5"
 },
 "bedtime_3": {
-"seed": 11,
-"ok": false,
-"note": "verify: bare human feet under the bed; the dark space under the bed is empty except dust, nobody else"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "bedtime_4": {
-"seed": 14,
-"ok": false,
-"note": "verify: monster on top of the bed not under it; only the top of the monster's round pink head with its little eyeballs peeking out from under the bed skirt near the floor, lit by a flashlight beam, a sleeping boy in the bed above"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "bedtime_5": {
 "seed": 41,
@@ -1070,9 +1070,9 @@
 "note": "rescue1"
 },
 "bedtime_6": {
-"seed": 13,
-"ok": false,
-"note": "verify: two children in the bed; one single small child asleep in the bed"
+"seed": 127,
+"ok": true,
+"note": "rescue5"
 },
 "costume_1": {
 "seed": 13,
@@ -1085,49 +1085,49 @@
 "note": ""
 },
 "costume_3": {
-"seed": 12,
-"ok": false,
-"note": "verify: garbled lettering on sewing machine; plain black sewing machine with gold swirl decoration, no letters"
+"seed": 121,
+"ok": true,
+"note": "rescue5"
 },
 "costume_4": {
-"seed": 13,
-"ok": false,
-"note": "verify: two eyes on face, not many; dozens of little round eyes all over its teal head"
+"seed": 128,
+"ok": true,
+"note": "rescue5"
 },
 "costume_5": {
-"seed": 12,
-"ok": false,
-"note": "verify: eyes on its face plus human hands; no eyes on its face, only three eyeballs on tall stalks poking through holes, only suckered tentacle tips holding the bag, no hands"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "costume_6": {
 "seed": 41,
 "ok": false,
-"note": "verify: a human shoe shows under the sheet; only green tentacles show under the sheet, no shoes or feet"
+"note": "rescue5 failed: human face under sheet"
 },
 "grocery_1": {
-"seed": 12,
-"ok": false,
-"note": "verify: garbled print on list and jar labels; plain blank notepad with faint pencil lines, plain unlabelled glass jars"
+"seed": 125,
+"ok": true,
+"note": "rescue5"
 },
 "grocery_2": {
-"seed": 13,
-"ok": false,
-"note": "verify: people in the background and garbled signs; an empty store with nobody else, plain shelves of plain unlabelled colourful boxes, no signs"
+"seed": 121,
+"ok": true,
+"note": "rescue5"
 },
 "grocery_3": {
 "seed": 45,
 "ok": false,
-"note": "verify: garbled can labels and face eyes; plain solid green cans with no labels, no eyes on its face, only three eyeballs on tall stalks"
+"note": "rescue5 failed: extra men, sign text"
 },
 "grocery_4": {
-"seed": 11,
-"ok": false,
-"note": "verify: garbled labels on the boxes; plain solid-coloured boxes with no labels"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "grocery_5": {
-"seed": 41,
-"ok": false,
-"note": "verify: garbled sign and lettering on the till, and no coins; a plain brass cash register with plain round keys, a small pile of silver coins on the counter that its chrome fingers are counting, no signs"
+"seed": 121,
+"ok": true,
+"note": "rescue5"
 },
 "grocery_6": {
 "seed": 41,
@@ -1135,14 +1135,14 @@
 "note": "rescue1"
 },
 "salon_1": {
-"seed": 12,
-"ok": false,
-"note": "verify: other people inside and garbled sign; nobody else anywhere, plain blank window glass, no signs"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "salon_2": {
-"seed": 41,
-"ok": false,
-"note": "verify: garbled magazine print; the open magazine shows only a big colourful painted picture of flowers and no print"
+"seed": 124,
+"ok": true,
+"note": "rescue5"
 },
 "salon_3": {
 "seed": 45,
@@ -1155,19 +1155,19 @@
 "note": ""
 },
 "salon_5": {
-"seed": 14,
-"ok": false,
-"note": "verify: she sits on the wrong side of the mirror reflection; she sits facing the mirror with her back three-quarters to us, her smiling face seen in the mirror"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "library_1": {
-"seed": 12,
-"ok": false,
-"note": "verify: garbled titles on books; plain cloth-bound books with blank spines and covers"
+"seed": 127,
+"ok": true,
+"note": "rescue5"
 },
 "library_2": {
-"seed": 45,
-"ok": false,
-"note": "verify: face eyes besides stalk eyes and human-like hands; no eyes on its face, only three eyeballs on tall stalks, only suckered tentacle tips holding the book"
+"seed": 128,
+"ok": true,
+"note": "rescue5"
 },
 "library_3": {
 "seed": 12,
@@ -1175,34 +1175,34 @@
 "note": ""
 },
 "library_4": {
-"seed": 11,
-"ok": false,
-"note": "verify: garbled title on cookbook; the open cookbook shows only a big painted picture of a cake, no print"
+"seed": 121,
+"ok": true,
+"note": "rescue5"
 },
 "library_5": {
-"seed": 41,
-"ok": false,
-"note": "verify: two eyes not six; exactly six eyes in two rows of three on its face"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "library_6": {
-"seed": 13,
-"ok": false,
-"note": "verify: indoors not on the library steps; outdoors walking down wide stone steps in front of a columned library building at dusk"
+"seed": 121,
+"ok": true,
+"note": "rescue5"
 },
 "pta_1": {
-"seed": 12,
-"ok": false,
-"note": "verify: red exit sign; plain hallway with no signs"
+"seed": 123,
+"ok": true,
+"note": "rescue5"
 },
 "pta_2": {
-"seed": 43,
-"ok": false,
-"note": "verify: garbled lettering on name tag; a small plain blank white name tag"
+"seed": 123,
+"ok": true,
+"note": "rescue5"
 },
 "pta_3": {
-"seed": 11,
-"ok": false,
-"note": "verify: small room not a gymnasium; a big 1950s school gymnasium with a shiny wooden basketball floor and rows of empty folding chairs"
+"seed": 128,
+"ok": true,
+"note": "rescue5"
 },
 "pta_4": {
 "seed": 13,
@@ -1210,9 +1210,9 @@
 "note": ""
 },
 "pta_5": {
-"seed": 12,
-"ok": false,
-"note": "verify: raises her left hand; raising her right hand high, standing to the left of the table"
+"seed": 123,
+"ok": true,
+"note": "rescue5"
 },
 "picnic_1": {
 "seed": 14,
@@ -1222,22 +1222,22 @@
 "picnic_2": {
 "seed": 12,
 "ok": false,
-"note": "verify: indoors with a floor lamp; outdoors in a sunny park on the grass under trees"
+"note": "rescue5 failed: newspapers with print"
 },
 "picnic_3": {
-"seed": 11,
-"ok": false,
-"note": "verify: two eyes not six, garbled writing on plate and human feet; exactly six eyes in two rows of three, a plain blank paper plate, furry clawed feet"
+"seed": 124,
+"ok": true,
+"note": "rescue5"
 },
 "picnic_4": {
-"seed": 13,
-"ok": false,
-"note": "verify: a hand with a fork; the platter of deviled eggs alone on the blanket, nobody and no hands in the picture"
+"seed": 122,
+"ok": true,
+"note": "rescue5"
 },
 "picnic_5": {
-"seed": 14,
-"ok": false,
-"note": "verify: sack only around its middle with arms and legs out; the round purple blob is inside a brown burlap sack up to its eye, only the top of its head and its one giant eyeball sticking out, no arms or legs visible, hopping"
+"seed": 122,
+"ok": true,
+"note": "rescue5"
 },
 "picnic_6": {
 "seed": 12,
@@ -1245,9 +1245,9 @@
 "note": ""
 },
 "bowling_1": {
-"seed": 13,
-"ok": false,
-"note": "verify: garbled text on shoe; plain red and white bowling shoes with no lettering"
+"seed": 121,
+"ok": true,
+"note": "rescue5"
 },
 "bowling_2": {
 "seed": 12,
@@ -1260,9 +1260,9 @@
 "note": ""
 },
 "bowling_4": {
-"seed": 43,
-"ok": false,
-"note": "verify: seen from behind, sheet unclear; the monster faces us holding up a plain blank score sheet and a pencil"
+"seed": 122,
+"ok": true,
+"note": "rescue5"
 },
 "bowling_5": {
 "seed": 41,
@@ -1272,32 +1272,32 @@
 "hat_1": {
 "seed": 11,
 "ok": false,
-"note": "verify: two eyes not six and a creature in the mirror is wrong; exactly six eyes in two rows of three, its reflection in the mirror matches it, a blank card on the counter"
+"note": "rescue5 failed: two eyes only"
 },
 "hat_2": {
-"seed": 13,
-"ok": false,
-"note": "verify: a woman's face inside the dome and numbers on tape; the glass dome holds only a pink brain, a plain yellow cloth tape measure with tick marks and no numbers, the monster is a tall silver robot-like figure with a smiling chrome face below the dome"
+"seed": 127,
+"ok": true,
+"note": "rescue5"
 },
 "hat_3": {
-"seed": 47,
-"ok": false,
-"note": "verify: a top hat not a pillbox hat; a tiny round flat-topped red pillbox hat"
+"seed": 124,
+"ok": true,
+"note": "rescue5"
 },
 "hat_4": {
-"seed": 13,
-"ok": false,
-"note": "verify: two eyes not five and looks dressed in a shirt; no clothes, exactly five eyes in a row across its face"
+"seed": 128,
+"ok": true,
+"note": "rescue5"
 },
 "hat_5": {
-"seed": 14,
-"ok": false,
-"note": "verify: other people in the background; an empty department store hat counter, nobody else"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "hat_6": {
-"seed": 14,
-"ok": false,
-"note": "verify: a ghostly figure at the lower left; nobody else, plain sidewalk"
+"seed": 128,
+"ok": true,
+"note": "rescue5"
 },
 "beamed_1": {
 "seed": 14,
@@ -1305,9 +1305,9 @@
 "note": ""
 },
 "beamed_2": {
-"seed": 13,
-"ok": false,
-"note": "verify: garbled lettering on spray can and spray goes away from her hair; a plain silver spray can with no label, spraying a mist onto her curls"
+"seed": 123,
+"ok": true,
+"note": "rescue5"
 },
 "beamed_3": {
 "seed": 12,
@@ -1315,34 +1315,34 @@
 "note": ""
 },
 "beamed_4": {
-"seed": 43,
-"ok": false,
-"note": "verify: she is standing on the grass, not floating high; she floats high in the air far above the lawn with a big gap below her feet and her shadow far below"
+"seed": 128,
+"ok": true,
+"note": "rescue5"
 },
 "beamed_5": {
-"seed": 12,
-"ok": false,
-"note": "verify: not clearly floating; she floats high in the air with her shoes far above the dark ground and a big gap beneath her"
+"seed": 122,
+"ok": true,
+"note": "rescue5"
 },
 "escape_1": {
-"seed": 14,
-"ok": false,
-"note": "verify: hose canister vacuum not upright; she grips the handle of a 1950s upright vacuum cleaner with a cloth dust bag"
+"seed": 122,
+"ok": true,
+"note": "rescue5"
 },
 "escape_2": {
-"seed": 14,
-"ok": false,
-"note": "verify: she plugs in the vacuum hose not a plug; she pushes a small two-prong electric plug on the end of a thin cord into the wall socket, an upright vacuum standing beside her"
+"seed": 125,
+"ok": true,
+"note": "rescue5"
 },
 "escape_3": {
-"seed": 44,
-"ok": false,
-"note": "verify: she stands on the sofa, not floating near the ceiling; she floats in mid-air right up near the ceiling high above the sofa, holding the vacuum hose pointing down at the floor"
+"seed": 122,
+"ok": true,
+"note": "rescue5"
 },
 "escape_4": {
-"seed": 47,
-"ok": false,
-"note": "verify: not pulled down and no strain; she leans far back in alarm as a roaring upright vacuum drags her forward across the rug"
+"seed": 124,
+"ok": true,
+"note": "rescue5"
 },
 "escape_5": {
 "seed": 12,
@@ -1350,9 +1350,9 @@
 "note": ""
 },
 "escape_6": {
-"seed": 14,
-"ok": false,
-"note": "verify: a hand and modern stick vacuum; a 1950s upright vacuum cleaner with a cloth dust bag standing alone sucking up green light, nobody and no hands in the picture"
+"seed": 124,
+"ok": true,
+"note": "rescue5"
 },
 "shrunk_1": {
 "seed": 14,
@@ -1360,9 +1360,9 @@
 "note": ""
 },
 "shrunk_2": {
-"seed": 14,
-"ok": false,
-"note": "verify: the cat sits in the bowl; a big sugar bowl on the table and a separate huge tabby cat's face peering up over the far table edge behind it"
+"seed": 123,
+"ok": true,
+"note": "rescue5"
 },
 "shrunk_3": {
 "seed": 45,
@@ -1372,7 +1372,7 @@
 "shrunk_4": {
 "seed": 62,
 "ok": false,
-"note": "verify: a teacup instead of nothing and no matchbox; a small open cardboard matchbox with a tiny lace handkerchief folded inside like a bed, nothing else on the counter"
+"note": "rescue5 failed: hands in all"
 },
 "shrunk_5": {
 "seed": 14,
@@ -1380,14 +1380,14 @@
 "note": ""
 },
 "giant_1": {
-"seed": 11,
-"ok": false,
-"note": "verify: scary snarling ogre face; a giant goofy friendly green space monster with a round smiling face, big googly eyes and little antennae"
+"seed": 125,
+"ok": true,
+"note": "rescue5"
 },
 "giant_2": {
-"seed": 14,
-"ok": false,
-"note": "verify: scary snarling fanged face; a giant goofy friendly green space monster with a round smiling face, big googly eyes and little antennae"
+"seed": 121,
+"ok": true,
+"note": "rescue5"
 },
 "giant_3": {
 "seed": 106,
@@ -1395,9 +1395,9 @@
 "note": "round4"
 },
 "giant_4": {
-"seed": 11,
-"ok": false,
-"note": "verify: scary goblin face; a giant goofy friendly purple space monster with a round smiling face and one big googly eye"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "giant_5": {
 "seed": 13,
@@ -1422,17 +1422,17 @@
 "overlord_3": {
 "seed": 11,
 "ok": false,
-"note": "verify: scary gaunt face and only three eyes; a goofy pompous round green space monster with dozens of little eyes all over its big round head, a purple cape, on a chrome throne inside a glowing saucer room"
+"note": "rescue5 failed: two monsters, skull face"
 },
 "overlord_4": {
 "seed": 42,
 "ok": false,
-"note": "verify: they stand outside the saucer and she pours tea onto a saucer in her hand; inside the glowing round chrome room of a flying saucer, she pours tea from a teapot into the cup held by the monster"
+"note": "rescue5 failed: housewife inside glass bubble, monster outside"
 },
 "overlord_5": {
-"seed": 13,
-"ok": false,
-"note": "verify: she sits in a giant bowl, not inside a saucer; she stands inside the glowing round chrome room of a flying saucer, wagging her finger firmly"
+"seed": 121,
+"ok": true,
+"note": "rescue5"
 },
 "crash_1": {
 "seed": 14,
@@ -1460,14 +1460,14 @@
 "note": ""
 },
 "crash_6": {
-"seed": 12,
-"ok": false,
-"note": "verify: too many eyes (face eyes plus extra stalks) and a strange wave; no eyes on its face, exactly three eyeballs on tall stalks, waving one tentacle from inside the saucer dome, plain night sky"
+"seed": 125,
+"ok": true,
+"note": "rescue5"
 },
 "mothership_1": {
-"seed": 13,
-"ok": false,
-"note": "verify: writing visible on the note; the note paper is plain blank cream paper, her pen just touching it"
+"seed": 127,
+"ok": true,
+"note": "rescue5"
 },
 "mothership_2": {
 "seed": 11,
@@ -1480,14 +1480,14 @@
 "note": "rescue1"
 },
 "mothership_4": {
-"seed": 43,
-"ok": false,
-"note": "verify: numbers on the clock dials and garbled papers on wall; dials with only plain tick marks, plain blinking coloured lights and plain metal walls, no papers"
+"seed": 127,
+"ok": true,
+"note": "rescue5"
 },
 "mothership_5": {
 "seed": 14,
 "ok": false,
-"note": "verify: modern 35mm camera; a 1950s brown box camera held at her waist, she looks down into its viewfinder"
+"note": "rescue5 failed: two cameras in all"
 },
 "mothership_6": {
 "seed": 44,
@@ -1495,9 +1495,9 @@
 "note": "rescue1"
 },
 "potluck_1": {
-"seed": 14,
-"ok": false,
-"note": "verify: writing on the envelope; plain blank white envelope"
+"seed": 128,
+"ok": true,
+"note": "rescue5"
 },
 "potluck_2": {
 "seed": 14,
@@ -1517,37 +1517,37 @@
 "potluck_5": {
 "seed": 41,
 "ok": false,
-"note": "verify: metal lanterns not paper lanterns, two eyes only; round glowing paper lanterns on a string behind, dozens of little round eyes all over its teal head"
+"note": "rescue5 failed: human hands in all"
 },
 "potluck_6": {
-"seed": 13,
-"ok": false,
-"note": "verify: two face eyes plus antennae, not eyes on stalks, and human hands; no eyes on its face, exactly three eyeballs on tall stalks, only green suckered tentacles and no hands, round paper lanterns"
+"seed": 123,
+"ok": true,
+"note": "rescue5"
 },
 "sockhop_1": {
-"seed": 12,
-"ok": false,
-"note": "verify: she wears a school skirt not a poodle skirt; a wide pink felt poodle skirt with a poodle appliqu\u00e9"
+"seed": 122,
+"ok": true,
+"note": "rescue5"
 },
 "sockhop_2": {
-"seed": 12,
-"ok": false,
-"note": "verify: no poodle skirt; a wide pink felt poodle skirt with a poodle appliqu\u00e9, a 1950s portable record player"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "sockhop_3": {
-"seed": 13,
-"ok": false,
-"note": "verify: school skirt not a poodle skirt; a wide pink felt poodle skirt with a poodle appliqu\u00e9"
+"seed": 122,
+"ok": true,
+"note": "rescue5"
 },
 "sockhop_4": {
-"seed": 12,
-"ok": false,
-"note": "verify: grumpy face and only two eyes; a happy goofy grin and dozens of little round eyes all over its teal head"
+"seed": 123,
+"ok": true,
+"note": "rescue5"
 },
 "sockhop_5": {
-"seed": 13,
-"ok": false,
-"note": "verify: garbled letters on the bunting and a sign in the corner; plain coloured triangle bunting with no letters, no signs"
+"seed": 123,
+"ok": true,
+"note": "rescue5"
 },
 "recipes_1": {
 "seed": 45,
@@ -1557,7 +1557,7 @@
 "recipes_2": {
 "seed": 61,
 "ok": false,
-"note": "verify: scribbles on cards and pencils not held; each pencil gripped in a curled tentacle tip touching plain blank index cards"
+"note": "rescue5 failed: human hands in all"
 },
 "recipes_3": {
 "seed": 42,
@@ -1565,24 +1565,24 @@
 "note": "rescue1"
 },
 "recipes_4": {
-"seed": 14,
-"ok": false,
-"note": "verify: human hand stirring and only two eyes on its face; no eyes on its face, exactly three eyeballs on tall stalks, a curled green tentacle tip holding the spoon, no hands, plain stove with no lettering"
+"seed": 124,
+"ok": true,
+"note": "rescue5"
 },
 "recipes_5": {
-"seed": 13,
-"ok": false,
-"note": "verify: metal spoon not wooden; a plain wooden spoon"
+"seed": 127,
+"ok": true,
+"note": "rescue5"
 },
 "recipes_6": {
-"seed": 12,
-"ok": false,
-"note": "verify: writing on the recipe card; plain blank cream recipe card"
+"seed": 124,
+"ok": true,
+"note": "rescue5"
 },
 "tupperware_1": {
 "seed": 14,
 "ok": false,
-"note": "verify: garbled labels on containers and food in them; empty pastel plastic containers with no labels, lids beside them, arranged in a rainbow arc"
+"note": "rescue5 failed: hands, painted rainbow arch"
 },
 "tupperware_2": {
 "seed": 11,
@@ -1597,27 +1597,27 @@
 "tupperware_4": {
 "seed": 13,
 "ok": false,
-"note": "verify: fangs, drool and face eyes; a goofy friendly smiling green tentacled monster with no eyes on its face, exactly three eyeballs on tall stalks"
+"note": "rescue5 failed: housewife turned into monster, two monsters"
 },
 "tupperware_5": {
-"seed": 14,
-"ok": false,
-"note": "verify: garbled print on the form; the clipboard holds plain blank paper with faint lines only"
+"seed": 125,
+"ok": true,
+"note": "rescue5"
 },
 "tupperware_6": {
-"seed": 41,
-"ok": false,
-"note": "verify: two eyes not six; exactly six eyes in two rows of three on its face"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "penpal_1": {
-"seed": 11,
-"ok": false,
-"note": "verify: handwriting on the letter; plain blank writing paper, pencil just touching it"
+"seed": 124,
+"ok": true,
+"note": "rescue5"
 },
 "penpal_2": {
-"seed": 12,
-"ok": false,
-"note": "verify: handwriting on the letter; plain blank writing paper, pencil just touching it"
+"seed": 121,
+"ok": true,
+"note": "rescue5"
 },
 "penpal_3": {
 "seed": 44,
@@ -1627,17 +1627,17 @@
 "penpal_4": {
 "seed": 45,
 "ok": false,
-"note": "verify: garbled lettering and faces on the stamps; each stamp shows only a tiny painted flower or bird, no lettering, no numbers, no faces"
+"note": "rescue5 failed: hands in all"
 },
 "penpal_5": {
-"seed": 41,
-"ok": false,
-"note": "verify: writing on the letter; plain blank white envelope"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "penpal_6": {
-"seed": 13,
-"ok": false,
-"note": "verify: writing on the glowing letter; plain blank glowing green paper"
+"seed": 121,
+"ok": true,
+"note": "rescue5"
 },
 "farewell_1": {
 "seed": 13,
@@ -1645,23 +1645,23 @@
 "note": ""
 },
 "farewell_2": {
-"seed": 14,
-"ok": false,
-"note": "verify: octopus has only two eyes and doesn't help, garbled labels; dozens of little round eyes all over its teal head, a curled tentacle placing a plain unlabelled container on the stack"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "farewell_3": {
 "seed": 41,
 "ok": false,
-"note": "verify: lawn is lit but saucer looks small; a huge silver flying saucer as big as a house parked on the lawn"
+"note": "rescue5 failed: pizza not pie"
 },
 "farewell_4": {
 "seed": 48,
 "ok": false,
-"note": "verify: two eyes on its face plus stalk eyes; no eyes on its face, exactly three teary eyeballs on tall stalks, holding the pie at the bottom of a lowered saucer ramp"
+"note": "rescue5 failed: pizza not pie"
 },
 "farewell_5": {
-"seed": 12,
-"ok": false,
-"note": "verify: two saucers not one; one single tiny saucer far away in the sunset sky"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 }
 }
