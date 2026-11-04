@@ -1,0 +1,122 @@
+[
+ {
+  "out": "rescue15/zn/hedge_4.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A gentleman in a gray suit and red bow tie with a neat mustache gently pulling a goofy friendly zombie man with pale green skin, sleepy droopy eyes and a silly grin, in a rumpled brown suit backward out of a tall green boxwood hedge by his coat tails, leaves flying. Uncluttered simple scene, only the two figures. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 241,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue15/zn/leaves_4.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A white-haired grandfather in a cardigan and bow tie raking autumn leaves beside a white picket fence, smiling patiently, while a goofy friendly zombie man with pale green skin, sleepy droopy eyes and a silly grin, in a rumpled brown suit beside him rakes the leaves the other way. Uncluttered simple scene, only the two figures. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 241,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue15/zn/leaves_6.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A white-haired grandfather in a cardigan and bow tie sitting on a porch step pouring hot cider from a plaid thermos into a cup held by a goofy friendly zombie man with pale green skin, sleepy droopy eyes and a silly grin, in a rumpled brown suit sitting beside him. Uncluttered simple scene, only the two figures. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 241,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue15/zn/fence_1.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A gentleman in a gray suit and red bow tie with a neat mustache walking slowly along a white picket fence with several broken leaning pickets in front of a 1950s house, counting on his fingers, a goofy friendly zombie man with pale green skin, sleepy droopy eyes and a silly grin, in a rumpled brown suit leaning on the far end of the fence. Uncluttered simple scene, only the two figures. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 241,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue15/zn/dressing_1.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A gray men's suit jacket, a folded white dress shirt and a red bow tie laid out neatly on a made bed in a tidy 1950s bedroom, lamplight. An empty quiet scene with no people at all. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 241,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue15/zn/mower_4.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A gentleman in a gray suit and red bow tie with a neat mustache pushing an old-fashioned manual reel push mower with a long wooden T-handle, a spinning cylinder of curved blades between two small iron wheels, no engine and no motor up a neighbor's front walk toward a garage. Uncluttered simple scene, only the one figure. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 241,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue15/zn/mower_6.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. An old-fashioned manual reel push mower with a long wooden T-handle, a spinning cylinder of curved blades between two small iron wheels, no engine and no motor parked neatly inside a tidy 1950s wooden garage beside a workbench. An empty quiet scene with no people at all. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 241,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue15/zn/knitting_1.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A cozy 1950s parlor with empty armchairs arranged in a circle, a small footstool in front of each chair and a basket of yarn in the middle. An empty quiet scene with no people at all. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 241,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue15/zn/grocery_5.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A smiling middle-aged lady cashier in a pink uniform and white collar at a 1950s grocery store cash register, a paper grocery bag on the counter. Uncluttered simple scene, only the one figure. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 241,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue15/zn/bowling_1.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A gentleman in a gray suit and red bow tie with a neat mustache in a two-tone maroon and cream short-sleeved bowling shirt and red bow tie holding a black bowling ball at a 1950s bowling alley. Uncluttered simple scene, only the one figure. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 241,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue15/zn/blockparty_2.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Long folding tables with white tablecloths lined up end to end down the middle of a sunny suburban street, red white and blue bunting above. An empty quiet scene with no people at all. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 241,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue15/zn/thanksgiving_1.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A long empty dining table with a white tablecloth and both extra leaves in, chairs pushed in, in a 1950s dining room. An empty quiet scene with no people at all. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 241,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ }
+]
