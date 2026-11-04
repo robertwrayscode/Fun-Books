@@ -11,8 +11,8 @@
 },
 "confirm_3": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: garbled print on book pages; a big book with a plain dark green cloth cover, held closed on his knees, looking up at the dinosaur"
 },
 "confirm_4": {
 "seed": 12,
@@ -21,8 +21,8 @@
 },
 "confirm_5": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: footprint has many toes, not three; a huge bird-like footprint with exactly three long pointed toe dents spread forward from a narrow heel"
 },
 "confirm_6": {
 "seed": 13,
@@ -31,33 +31,33 @@
 },
 "hello_1": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI triceratops stands on two legs with sharp teeth"
 },
 "hello_2": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI triceratops stands on two legs with sharp teeth"
 },
 "hello_3": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI triceratops has sharp teeth"
 },
 "hello_4": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI triceratops has sharp teeth"
 },
 "hello_5": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI triceratops has sharp teeth"
 },
 "identify_1": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: STEG stegosaurus has a big T-rex head with teeth"
 },
 "identify_2": {
 "seed": 14,
@@ -66,18 +66,18 @@
 },
 "identify_3": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: STEG stegosaurus has a big crocodile head"
 },
 "identify_4": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: STEG stegosaurus has a big T-rex head"
 },
 "identify_5": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: STEG stegosaurus has a big head; and plain blank paper with only a few coloured crayon lines"
 },
 "identify_6": {
 "seed": 104,
@@ -86,8 +86,8 @@
 },
 "egg_1": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: two eggs; one single large cracked speckled egg on the soil with the tiny green hatchling peeking out of it, her hands resting on her knees"
 },
 "egg_2": {
 "seed": 12,
@@ -111,13 +111,13 @@
 },
 "neighbors_1": {
 "seed": 41,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: BRONTO dinosaur is inside the kitchen and awake, calendar has numbers; the dinosaur is outside in the backyard seen through the closed kitchen window, lying down asleep on the lawn with its eyes shut, a plain wall calendar with blank squares"
 },
 "neighbors_2": {
 "seed": 41,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: BRONTO dinosaur walks on the sidewalk not behind the fence; the dinosaur stands in a backyard behind a tall wooden fence, only its long neck and small head rising over the fence behind him"
 },
 "neighbors_3": {
 "seed": 45,
@@ -166,13 +166,13 @@
 },
 "menu_1": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI triceratops has a T-rex face and no frill"
 },
 "menu_2": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI garbled writing on notepad and toothy triceratops; plain blank notepad, pencil just touching it"
 },
 "menu_3": {
 "seed": 106,
@@ -181,13 +181,13 @@
 },
 "menu_4": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI triceratops stands on two legs"
 },
 "menu_5": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI triceratops has sharp teeth"
 },
 "menu_6": {
 "seed": 12,
@@ -226,8 +226,8 @@
 },
 "bottle_2": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: pours into a jar not a baby bottle; she pours from a small saucepan into a big old-fashioned glass baby bottle with a red rubber nipple standing on the counter"
 },
 "bottle_3": {
 "seed": 13,
@@ -236,8 +236,8 @@
 },
 "bottle_4": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: modern plastic bottle and hatchling not drinking; she holds a big old-fashioned glass baby bottle with a red rubber nipple to the mouth of the tiny hatchling cradled in her lap, it drinks"
 },
 "bottle_5": {
 "seed": 12,
@@ -261,13 +261,13 @@
 },
 "grocery_3": {
 "seed": 44,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: garbled sign on the wall; plain wooden wall with no signs"
 },
 "grocery_4": {
 "seed": 46,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: garbled license plate; plain blank license plate"
 },
 "grocery_5": {
 "seed": 44,
@@ -291,13 +291,13 @@
 },
 "garden_4": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: tin cans not flat pie tins; round flat shiny aluminium pie plates hanging on strings"
 },
 "garden_5": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: dinosaur merged with a scarecrow; no scarecrow, the dinosaur stands alone among the tomato plants with a tomato in its mouth"
 },
 "garden_6": {
 "seed": 14,
@@ -306,13 +306,13 @@
 },
 "dinner_1": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI triceratops stands on two legs with sharp teeth"
 },
 "dinner_2": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI triceratops has sharp teeth"
 },
 "dinner_3": {
 "seed": 13,
@@ -321,8 +321,8 @@
 },
 "dinner_4": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI triceratops has sharp teeth"
 },
 "dinner_5": {
 "seed": 12,
@@ -341,13 +341,13 @@
 },
 "biscuits_3": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: garbled markings on oven control panel; a plain cream 1950s oven with round plain knobs only"
 },
 "biscuits_4": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: dinosaur is inside on the sill and an extra creature in the glass; the little dinosaur stands outside in the garden with its head poking in through the open window, nothing else outside"
 },
 "biscuits_5": {
 "seed": 41,
@@ -361,8 +361,8 @@
 },
 "turkey_1": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: turkeys look like strange pink balls; two whole plucked raw turkeys with drumsticks and wings clearly shown, one under each arm"
 },
 "turkey_2": {
 "seed": 12,
@@ -401,8 +401,8 @@
 },
 "hose_4": {
 "seed": 41,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: BRONTO dinosaur is not drinking; the dinosaur's tiny head is lowered right into the tank, drinking"
 },
 "hose_5": {
 "seed": 41,
@@ -426,8 +426,8 @@
 },
 "washtub_3": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: dinosaur is not in the tub; the little feathered dinosaur stands inside the soapy washtub up to its knees while she scrubs its back"
 },
 "washtub_4": {
 "seed": 11,
@@ -446,8 +446,8 @@
 },
 "pool_2": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: PARA plain skirt and lettering on pool edge; a wide pink felt poodle skirt with a poodle appliqu\u00e9, plain pool edge stones with no marks"
 },
 "pool_3": {
 "seed": 14,
@@ -461,8 +461,8 @@
 },
 "pool_5": {
 "seed": 47,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: PARA two horns on the dinosaur; a wide pink felt poodle skirt"
 },
 "pool_6": {
 "seed": 14,
@@ -471,18 +471,18 @@
 },
 "teeth_1": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: he holds two crossed brooms; he holds one single wide flat push broom with a long wooden handle"
 },
 "teeth_2": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: straw broom not a push broom; one wide flat push broom with a long wooden handle"
 },
 "teeth_3": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: feather duster not a push broom; a wide flat push broom with stiff bristles and a long handle scrubbing the big teeth"
 },
 "teeth_4": {
 "seed": 12,
@@ -496,13 +496,13 @@
 },
 "pedicure_1": {
 "seed": 41,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: BRONTO the dinosaur foot is not in the bucket; one enormous round dinosaur front foot standing right inside a big tin washtub of soapy suds beside her stool"
 },
 "pedicure_2": {
 "seed": 41,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: BRONTO no towel and strange ropes; she rubs one enormous round dinosaur foot with a big fluffy white bath towel held in both hands"
 },
 "pedicure_3": {
 "seed": 138,
@@ -511,13 +511,13 @@
 },
 "pedicure_4": {
 "seed": 105,
-"ok": true,
-"note": "round4"
+"ok": false,
+"note": "verify: BRONTO a strange string from the dinosaur's mouth and a red ball; nothing hanging from the dinosaur, she kneels rubbing its huge front foot with a cloth, a small oil can beside her"
 },
 "pedicure_5": {
 "seed": 45,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: BRONTO a strange wire from the dinosaur's mouth; nothing hanging from the dinosaur, a small brown 1950s portable radio sitting on the grass with her hand on its knob"
 },
 "pedicure_6": {
 "seed": 44,
@@ -526,8 +526,8 @@
 },
 "puddles_1": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI triceratops has sharp teeth"
 },
 "puddles_2": {
 "seed": 12,
@@ -536,18 +536,18 @@
 },
 "puddles_3": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI sweeping not hosing; he sprays water from a garden hose at the muddy legs"
 },
 "puddles_4": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI garbled newspaper print; plain blank grey newspaper sheets"
 },
 "puddles_5": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI boy holds a strange stick; he points with his finger at the muddy footprints on the doormat"
 },
 "heatwave_1": {
 "seed": 14,
@@ -556,8 +556,8 @@
 },
 "heatwave_2": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: STEG hose not a sprinkler; a round metal lawn sprinkler sitting on the grass spraying arcs of water, he stands back"
 },
 "heatwave_3": {
 "seed": 13,
@@ -581,13 +581,13 @@
 },
 "garage_1": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI triceratops stands on two legs with sharp teeth"
 },
 "garage_2": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI knife not a crowbar; a long iron crowbar wedged under the wooden trim at the top of the wide open garage doorway"
 },
 "garage_3": {
 "seed": 12,
@@ -601,8 +601,8 @@
 },
 "garage_5": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI triceratops has a T-rex head"
 },
 "fence_1": {
 "seed": 14,
@@ -646,8 +646,8 @@
 },
 "bedtime_3": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: garbled lettering on the picture book; a picture book whose cover shows only a painted yellow duck, no letters"
 },
 "bedtime_4": {
 "seed": 12,
@@ -656,13 +656,13 @@
 },
 "bedtime_5": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: flashlight not a lamp and the dinosaur is awake; she switches on a small brass table lamp with a cream shade standing on a crate, the triceratops asleep with its eyes closed"
 },
 "proofing_1": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: garbled newspaper print and box lettering; plain blank grey newspaper sheets and a plain cardboard box"
 },
 "proofing_2": {
 "seed": 13,
@@ -676,8 +676,8 @@
 },
 "proofing_4": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: no gate fitted across the stairs; she is fixing a small white wooden baby gate across the bottom of the staircase"
 },
 "proofing_5": {
 "seed": 12,
@@ -696,8 +696,8 @@
 },
 "roses_2": {
 "seed": 43,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: she holds two spray bottles; she holds one single small brass spray mister in her right hand"
 },
 "roses_3": {
 "seed": 44,
@@ -721,8 +721,8 @@
 },
 "bathroom_2": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: short skirt; a long wide pink felt poodle skirt reaching below her knees with a poodle appliqu\u00e9"
 },
 "bathroom_3": {
 "seed": 12,
@@ -736,8 +736,8 @@
 },
 "bathroom_5": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: short skirt; a long wide pink felt poodle skirt reaching below her knees with a poodle appliqu\u00e9"
 },
 "bathroom_6": {
 "seed": 12,
@@ -756,18 +756,18 @@
 },
 "sit_3": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: clicker looks like a lit cigarette lighter with a flame; a small round tin toy clicker pressed between his thumb and finger, no flame or fire"
 },
 "sit_4": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: garbled letters in the grass; plain grass"
 },
 "sit_5": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: he walks forward away, not backward; he walks backward facing the dinosaur with one palm held up"
 },
 "leash_1": {
 "seed": 12,
@@ -801,28 +801,28 @@
 },
 "shovel_1": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI triceratops stands on two legs, no frill, sharp teeth"
 },
 "shovel_2": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI triceratops has sharp teeth"
 },
 "shovel_3": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI triceratops has sharp teeth"
 },
 "shovel_4": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI triceratops stands on two legs"
 },
 "shovel_5": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI triceratops has sharp teeth"
 },
 "roar_1": {
 "seed": 12,
@@ -836,8 +836,8 @@
 },
 "roar_3": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: numbers on the alarm clock; a brass alarm clock with only plain tick marks and no numbers"
 },
 "roar_4": {
 "seed": 12,
@@ -846,8 +846,8 @@
 },
 "roar_5": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: garbled lettering on the radio dial; plain radio dial with only tick marks"
 },
 "roar_6": {
 "seed": 12,
@@ -866,8 +866,8 @@
 },
 "fetch_3": {
 "seed": 101,
-"ok": true,
-"note": "round4"
+"ok": false,
+"note": "verify: BRONTO a thin stick not a long pole; a long thick wooden pole as long as a canoe lying in the grass"
 },
 "fetch_4": {
 "seed": 44,
@@ -876,8 +876,8 @@
 },
 "fetch_5": {
 "seed": 44,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: BRONTO pole held by a hand-like foot, not in its mouth; the dinosaur carries the long wooden pole crosswise in its mouth, its four feet on the ground"
 },
 "doors_1": {
 "seed": 13,
@@ -886,13 +886,13 @@
 },
 "doors_2": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: a second doorknob held by the dinosaur; one single brass doorknob, she rubs it with a fingertip of jelly from a small jar in her other hand"
 },
 "doors_3": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: not on a step stool, latch at middle of door; she stands on a small wooden step stool reaching up to fit a small hook-and-eye latch at the very top of the door"
 },
 "doors_4": {
 "seed": 11,
@@ -906,33 +906,33 @@
 },
 "doors_6": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: ordinary door not a flap door; the little dinosaur pushes its head through a small swinging square wooden flap low in a garage wall"
 },
 "doorbell_1": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI triceratops has no frill, stands on two legs, man holds the doorknob not the bell; he presses a small round doorbell button beside the front door with one finger"
 },
 "doorbell_2": {
 "seed": 103,
-"ok": true,
-"note": "round4"
+"ok": false,
+"note": "verify: TRI triceratops stands on two legs, garbled framed paper; plain framed painting of a landscape"
 },
 "doorbell_3": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI triceratops has sharp teeth"
 },
 "doorbell_4": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI triceratops stands on two legs with sharp teeth"
 },
 "doorbell_5": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI garbled lettering on the welcome sign; a plain wooden board on the wall painted with only flowers, no letters"
 },
 "checkup_1": {
 "seed": 13,
@@ -956,8 +956,8 @@
 },
 "checkup_5": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: STEG he holds a modern tablet; he holds a wooden clipboard with plain blank paper"
 },
 "checkup_6": {
 "seed": 12,
@@ -966,8 +966,8 @@
 },
 "vet_1": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI modern push-button telephone and garbled notebook writing; a black 1950s rotary dial telephone, notebook pages plain blank"
 },
 "vet_2": {
 "seed": 11,
@@ -991,13 +991,13 @@
 },
 "cold_1": {
 "seed": 48,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: BRONTO dinosaur stands, not lying down sleepy; the dinosaur lies down in the straw with its neck resting on the floor, eyes half closed"
 },
 "cold_2": {
 "seed": 107,
-"ok": true,
-"note": "round4"
+"ok": false,
+"note": "verify: BRONTO garbled sign on the barn wall; plain wooden barn walls with no signs"
 },
 "cold_3": {
 "seed": 44,
@@ -1026,8 +1026,8 @@
 },
 "molting_2": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: brush looks like a dandelion; she brushes its side with a wooden-handled soft bristle grooming brush"
 },
 "molting_3": {
 "seed": 13,
@@ -1046,8 +1046,8 @@
 },
 "tummy_1": {
 "seed": 42,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: flower bed is full of flowers; a bare trampled flower bed with only chewed green stalks left, no flowers"
 },
 "tummy_2": {
 "seed": 41,
@@ -1066,8 +1066,8 @@
 },
 "tummy_5": {
 "seed": 46,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: club tail lies detached on the ground; the bony club is firmly on the end of the dinosaur's own long tail"
 },
 "tummy_6": {
 "seed": 47,
@@ -1086,8 +1086,8 @@
 },
 "exercise_3": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: PARA modern DJ turntables and the dinosaur has no head crest; a small 1950s suitcase-style portable record player with its lid open on a patio table, the dinosaur with its long backward-curving tube-shaped crest"
 },
 "exercise_4": {
 "seed": 12,
@@ -1101,13 +1101,13 @@
 },
 "roadtrip_1": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI garbled license plate; plain blank trailer with no plate"
 },
 "roadtrip_2": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI box truck not an open flatbed trailer; a long open flat wooden flatbed trailer with no walls or roof, a wooden ramp up to it"
 },
 "roadtrip_3": {
 "seed": 14,
@@ -1116,8 +1116,8 @@
 },
 "roadtrip_4": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI garbled lettering on the map; a road map with only coloured wiggly roads and no lettering"
 },
 "roadtrip_5": {
 "seed": 103,
@@ -1131,13 +1131,13 @@
 },
 "beach_1": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: PARA dinosaur has a second horn on its nose; only one long backward-curving tube crest, no horns"
 },
 "beach_2": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: PARA dinosaur has a second horn on its nose; only one long backward-curving tube crest, no horns"
 },
 "beach_3": {
 "seed": 14,
@@ -1146,8 +1146,8 @@
 },
 "beach_4": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: PARA the dinosaur is not digging; the dinosaur scoops sand with its front claws digging a big hole, she kneels beside it holding a tin sand pail"
 },
 "beach_5": {
 "seed": 14,
@@ -1161,8 +1161,8 @@
 },
 "school_2": {
 "seed": 47,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: garbled marks on the flash cards; each flash card shows only one simple painted picture of an apple, no letters"
 },
 "school_3": {
 "seed": 11,
@@ -1211,8 +1211,8 @@
 },
 "drivein_1": {
 "seed": 42,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: BRONTO a thread hangs from the dinosaur's mouth and a second person sits in the car; nothing hanging from the dinosaur, the girl sits alone in the open convertible"
 },
 "drivein_2": {
 "seed": 44,
@@ -1221,8 +1221,8 @@
 },
 "drivein_3": {
 "seed": 45,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: BRONTO a thread hangs from the dinosaur's mouth and it is not eating; nothing hanging from the dinosaur, its tiny head lowered right into a tin washtub full of popcorn on the ground"
 },
 "drivein_4": {
 "seed": 44,
@@ -1231,13 +1231,13 @@
 },
 "drivein_5": {
 "seed": 47,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: BRONTO 1970s car, not 1950s; a rounded 1950s car with chrome bumpers and a plain blank license plate"
 },
 "drivein_6": {
 "seed": 43,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: BRONTO garbled license plate; plain blank license plate"
 },
 "fair_1": {
 "seed": 11,
@@ -1251,13 +1251,13 @@
 },
 "fair_3": {
 "seed": 48,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: STEG garbled lettering on the tent signs and people, though fairground should be empty; plain striped tents with no signs, nobody else"
 },
 "fair_4": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: STEG crowd watching though it should be quiet; an empty fairground ring with nobody else"
 },
 "fair_5": {
 "seed": 12,
@@ -1276,13 +1276,13 @@
 },
 "camping_3": {
 "seed": 42,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: ANKY club tail lies detached on the ground; the bony club is firmly on the end of the dinosaur's own tail"
 },
 "camping_4": {
 "seed": 42,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: ANKY club tail lies detached on the ground; the bony club is firmly on the end of the dinosaur's own tail"
 },
 "camping_5": {
 "seed": 42,
@@ -1321,8 +1321,8 @@
 },
 "winter_1": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: STEG dinosaur body merges with a house; the dinosaur stands alone in the open snowy yard in front of a small barn, clearly separate"
 },
 "winter_2": {
 "seed": 13,
@@ -1331,8 +1331,8 @@
 },
 "winter_3": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: STEG scarf is on the man not the dinosaur; he wraps the long striped scarf around the dinosaur's neck, not his own"
 },
 "winter_4": {
 "seed": 14,
@@ -1341,18 +1341,18 @@
 },
 "winter_5": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: STEG two buckets not one; one single steaming tin bucket"
 },
 "winter_6": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: STEG night not midday; a bright sunny winter midday with blue sky"
 },
 "storm_1": {
 "seed": 46,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: TRI triceratops stands on two legs"
 },
 "storm_2": {
 "seed": 14,
@@ -1366,8 +1366,8 @@
 },
 "storm_4": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI triceratops has sharp teeth"
 },
 "storm_5": {
 "seed": 11,
@@ -1386,8 +1386,8 @@
 },
 "loose_3": {
 "seed": 106,
-"ok": true,
-"note": "round4"
+"ok": false,
+"note": "verify: BRONTO garbled license plate and shop signs; plain blank license plate, plain shopfronts with no signs, one driver only"
 },
 "loose_4": {
 "seed": 47,
@@ -1396,13 +1396,13 @@
 },
 "loose_5": {
 "seed": 43,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: BRONTO garbled shop signs; plain shopfronts with no signs"
 },
 "loose_6": {
 "seed": 42,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: BRONTO garbled shop sign; plain blank awning and shopfront with no signs"
 },
 "twelve_1": {
 "seed": 12,
@@ -1411,13 +1411,13 @@
 },
 "twelve_2": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: modern kitchen and a small glass box not a playpen; a 1950s kitchen with a cream enamel stove, she sets up a low wooden-slatted child's playpen on the floor with tiny hatchlings inside"
 },
 "twelve_3": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: modern stainless fridge and plain jar not a baby bottle; a 1950s kitchen with a rounded white refrigerator, she holds a glass baby bottle with a red rubber nipple"
 },
 "twelve_4": {
 "seed": 41,
@@ -1431,13 +1431,13 @@
 },
 "mailman_1": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: gun holster on his belt; a brown leather mail satchel over his shoulder, no holster"
 },
 "mailman_2": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: he looks like a policeman with a gun belt; a 1950s mailman in a light blue-grey uniform shirt and cap with a brown leather mail satchel over his shoulder, no belt or holster"
 },
 "mailman_3": {
 "seed": 12,
@@ -1451,8 +1451,8 @@
 },
 "mailman_5": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: carries a briefcase not a mail bag; a brown leather mail satchel on a strap over his shoulder"
 },
 "mailman_6": {
 "seed": 11,
@@ -1461,13 +1461,13 @@
 },
 "baby_1": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI triceratops has sharp teeth"
 },
 "baby_2": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI triceratops has sharp teeth"
 },
 "baby_3": {
 "seed": 12,
@@ -1476,18 +1476,18 @@
 },
 "baby_4": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI too many horns and teeth, and not asleep; the triceratops has exactly three horns and lies asleep with its eyes closed"
 },
 "baby_5": {
 "seed": 46,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: TRI triceratops stands on two legs with sharp teeth"
 },
 "mowing_1": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: PARA dinosaur has two horns not one crest; only one long backward-curving tube-shaped crest on top of its head, no horns"
 },
 "mowing_2": {
 "seed": 14,
@@ -1496,13 +1496,13 @@
 },
 "mowing_3": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: PARA dinosaur has two crests and two tails; only one long backward-curving tube-shaped crest and one tail"
 },
 "mowing_4": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: PARA garbled newspaper print and crest looks like a horn on its nose; plain blank grey newspaper, the tube crest sweeps backward from the top of its head"
 },
 "mowing_5": {
 "seed": 14,
@@ -1511,8 +1511,8 @@
 },
 "mowing_6": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: PARA crest looks like a rhino horn on its nose; one long tube-shaped crest sweeping backward from the top of the back of its head, nothing on its nose"
 },
 "chores_1": {
 "seed": 102,
@@ -1541,28 +1541,28 @@
 },
 "birthday_1": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI triceratops has sharp teeth"
 },
 "birthday_2": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI triceratops stands on two legs with sharp teeth"
 },
 "birthday_3": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI triceratops has sharp teeth"
 },
 "birthday_4": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI triceratops has sharp teeth"
 },
 "birthday_5": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: TRI triceratops has too many horns; exactly three horns"
 },
 "birthday_6": {
 "seed": 12,
@@ -1576,8 +1576,8 @@
 },
 "christmas_2": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: STEG stegosaurus has a T-rex head and stands on two legs"
 },
 "christmas_3": {
 "seed": 14,
@@ -1586,13 +1586,13 @@
 },
 "christmas_4": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: STEG stegosaurus has a big T-rex head"
 },
 "christmas_5": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: STEG bow tied on its back not its tail; he ties the big red ribbon bow around the thick end of its tail, and the stegosaurus has a small narrow head"
 },
 "photo_1": {
 "seed": 41,
@@ -1601,8 +1601,8 @@
 },
 "photo_2": {
 "seed": 42,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: BRONTO dark night, not a sunny lawn; bright sunny daytime lawn with blue sky"
 },
 "photo_3": {
 "seed": 103,
@@ -1626,13 +1626,13 @@
 },
 "goodbye_1": {
 "seed": 42,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: BRONTO dinosaur is inside the room, not outside the window; the boy writes at a desk indoors and through the window behind him the dinosaur is outside in the yard"
 },
 "goodbye_2": {
 "seed": 41,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: BRONTO dinosaur is standing not lying on the lawn; the dinosaur lies down resting on the lawn"
 },
 "goodbye_3": {
 "seed": 43,
