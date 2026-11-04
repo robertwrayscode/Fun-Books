@@ -1,0 +1,92 @@
+[
+ {
+  "out": "rescue11/gop/grandpa_4.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A scruffy bearded old man with a toothy goofy grin, wearing a plain solid red baseball cap with nothing on it and a baggy red cardigan on a porch laying down small flat rectangular ivory-white domino tiles, each tile twice as long as it is wide, with black dots end to end in a line on a small wooden table. Uncluttered simple scene, only the one person. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 181,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue11/gop/phone_3.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A man in a tan cardigan and slacks in an armchair holding a black telephone handset out in his stretched-out hand, far away from his head, wincing, his ear empty. Uncluttered simple scene, only the one person. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 181,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue11/gop/radio_1.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A ten-year-old boy in a striped t-shirt and jeans in the back seat of a 1950s car reading an open comic book, we see only the colorful pictures on the inside pages from behind his shoulder. Uncluttered simple scene, only the one person. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 181,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue11/gop/newsfast_6.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A man in a tan cardigan and slacks on a front porch picking up a rolled newspaper tied with string from the doormat, holding it gingerly with two fingers, a curious look. Uncluttered simple scene, only the one person. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 181,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue11/gop/fourth_1.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A fat goofy man with a walrus mustache and stubble, wearing a plain solid red baseball cap with nothing on it and a tight plain red t-shirt over a big belly, rumpled, standing on a wooden stepladder on a porch reaching up to tack a long swag of red, white and blue striped cloth bunting along the porch roof edge with both hands. Uncluttered simple scene, only the one person. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 181,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue11/ah/gelatin_5.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A cheerful housewife in a coral shirtwaist dress and white apron at a kitchen table proudly presenting a shiny green gelatin ring on a white serving plate, a metal ring mold set aside upside down beside it, holding her breath with cheeks puffed out. Uncluttered simple scene, only the one person. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 181,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue11/ah/ironing_5.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A gray-haired grandmother in a lavender dress and shawl lifting an antique solid black cast iron flat iron, shaped like a pointed boat with a curved iron handle on top and no cord, off a glowing green rock, holding the handle with a folded cloth. Uncluttered simple scene, only the one person. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 181,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue11/ah/games_3.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A long winding line of small flat rectangular ivory-white domino tiles, each tile twice as long as it is wide, with black dots on a card table lit by a glowing lantern. An empty quiet still life. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 181,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ },
+ {
+  "out": "rescue11/ah/games_6.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A freckled boy in a striped t-shirt grinning and shaking hands with his white-haired grandfather in a cardigan across a card table with small flat rectangular ivory-white domino tiles, each tile twice as long as it is wide, with black dots laid out on it, lantern light. Uncluttered simple scene, only the two people. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. No lettering or writing anywhere, no signature.",
+  "w": 1024,
+  "h": 648,
+  "seed": 181,
+  "n": 6,
+  "model": "flux2klein",
+  "crop": 0.04
+ }
+]

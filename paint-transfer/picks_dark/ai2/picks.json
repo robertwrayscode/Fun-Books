@@ -415,9 +415,9 @@
 "note": "rescue5"
 },
 "table_1": {
-"seed": 42,
-"ok": false,
-"note": "rescue8 failed: no person counting forks"
+"seed": 162,
+"ok": true,
+"note": "rescue10"
 },
 "table_2": {
 "seed": 12,

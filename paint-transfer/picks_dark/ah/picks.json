@@ -60,9 +60,9 @@
 "note": "rescue5"
 },
 "radio_1": {
-"seed": 11,
-"ok": false,
-"note": "rescue5 failed: stray hands in all"
+"seed": 141,
+"ok": true,
+"note": "rescue8"
 },
 "radio_2": {
 "seed": 12,
@@ -125,9 +125,9 @@
 "note": ""
 },
 "canary_3": {
-"seed": 11,
-"ok": false,
-"note": "rescue5 failed: stray hands in all"
+"seed": 146,
+"ok": true,
+"note": "rescue8"
 },
 "canary_4": {
 "seed": 124,
@@ -210,9 +210,9 @@
 "note": "rescue5"
 },
 "labels_3": {
-"seed": 12,
-"ok": false,
-"note": "rescue5 failed: stray hands in all"
+"seed": 141,
+"ok": true,
+"note": "rescue8"
 },
 "labels_4": {
 "seed": 12,
@@ -315,9 +315,9 @@
 "note": ""
 },
 "water_2": {
-"seed": 13,
-"ok": false,
-"note": "rescue5 failed: hands, jars not upside down"
+"seed": 145,
+"ok": true,
+"note": "rescue8"
 },
 "water_3": {
 "seed": 122,
@@ -535,9 +535,9 @@
 "note": ""
 },
 "gelatin_1": {
-"seed": 46,
-"ok": false,
-"note": "rescue5 failed: stray hands and printed boxes"
+"seed": 145,
+"ok": true,
+"note": "rescue8"
 },
 "gelatin_2": {
 "seed": 13,
@@ -550,14 +550,14 @@
 "note": "rescue5"
 },
 "gelatin_4": {
-"seed": 13,
-"ok": false,
-"note": "rescue5 failed: mold standing on edge"
+"seed": 142,
+"ok": true,
+"note": "rescue8"
 },
 "gelatin_5": {
 "seed": 47,
 "ok": false,
-"note": "rescue5 failed: ladle pouring, not flipping mold"
+"note": "rescue8 failed: ladles, no flip"
 },
 "dusting_1": {
 "seed": 14,
@@ -645,9 +645,9 @@
 "note": ""
 },
 "vacuum_1": {
-"seed": 13,
-"ok": false,
-"note": "rescue5 failed: two women in all"
+"seed": 141,
+"ok": true,
+"note": "rescue8"
 },
 "vacuum_2": {
 "seed": 13,
@@ -715,9 +715,9 @@
 "note": ""
 },
 "shoes_4": {
-"seed": 13,
-"ok": false,
-"note": "rescue5 failed: stray hands in all"
+"seed": 141,
+"ok": true,
+"note": "rescue8"
 },
 "shoes_5": {
 "seed": 13,
@@ -725,9 +725,9 @@
 "note": ""
 },
 "ironing_1": {
-"seed": 46,
-"ok": false,
-"note": "rescue5 failed: irons look like bowls"
+"seed": 143,
+"ok": true,
+"note": "rescue8"
 },
 "ironing_2": {
 "seed": 46,
@@ -747,7 +747,7 @@
 "ironing_5": {
 "seed": 43,
 "ok": false,
-"note": "rescue5 failed: irons look like pots"
+"note": "rescue8 failed: modern corded irons"
 },
 "ironing_6": {
 "seed": 13,
@@ -957,7 +957,7 @@
 "games_3": {
 "seed": 13,
 "ok": false,
-"note": "rescue5 failed: no checker pieces"
+"note": "rescue8 failed: dominoes look like beads"
 },
 "games_4": {
 "seed": 121,
@@ -972,7 +972,7 @@
 "games_6": {
 "seed": 13,
 "ok": false,
-"note": "rescue5 failed: chess not checkers"
+"note": "rescue8 failed: round pieces like checkers, not dominoes"
 },
 "bunks_1": {
 "seed": 11,
@@ -1015,9 +1015,9 @@
 "note": ""
 },
 "drills_4": {
-"seed": 13,
-"ok": false,
-"note": "rescue5 failed: man and hands in all"
+"seed": 141,
+"ok": true,
+"note": "rescue8"
 },
 "drills_5": {
 "seed": 127,
@@ -1100,9 +1100,9 @@
 "note": "rescue5"
 },
 "grocery_4": {
-"seed": 11,
-"ok": false,
-"note": "rescue5 failed: stray hands in all"
+"seed": 146,
+"ok": true,
+"note": "rescue8"
 },
 "grocery_5": {
 "seed": 123,
@@ -1155,9 +1155,9 @@
 "note": "rescue5"
 },
 "bakesale_4": {
-"seed": 14,
-"ok": false,
-"note": "rescue5 failed: hands and two boxes"
+"seed": 142,
+"ok": true,
+"note": "rescue8"
 },
 "bakesale_5": {
 "seed": 123,
@@ -1240,9 +1240,9 @@
 "note": "rescue5"
 },
 "warden_5": {
-"seed": 47,
-"ok": false,
-"note": "rescue5 failed: hands or two helmets"
+"seed": 143,
+"ok": true,
+"note": "rescue8"
 },
 "warden_6": {
 "seed": 46,
@@ -1285,9 +1285,9 @@
 "note": "rescue1"
 },
 "pebbles_3": {
-"seed": 13,
-"ok": false,
-"note": "rescue5 failed: umbrella floats unheld"
+"seed": 142,
+"ok": true,
+"note": "rescue8"
 },
 "pebbles_4": {
 "seed": 126,
@@ -1325,9 +1325,9 @@
 "note": "rescue5"
 },
 "sunset_5": {
-"seed": 13,
-"ok": false,
-"note": "rescue5 failed: two women"
+"seed": 141,
+"ok": true,
+"note": "rescue8"
 },
 "china_1": {
 "seed": 125,
@@ -1340,9 +1340,9 @@
 "note": ""
 },
 "china_3": {
-"seed": 14,
-"ok": false,
-"note": "rescue5 failed: hands in all"
+"seed": 142,
+"ok": true,
+"note": "rescue8"
 },
 "china_4": {
 "seed": 128,
@@ -1505,9 +1505,9 @@
 "note": ""
 },
 "prize_3": {
-"seed": 12,
-"ok": false,
-"note": "rescue5 failed: hands in all"
+"seed": 142,
+"ok": true,
+"note": "rescue8"
 },
 "prize_4": {
 "seed": 11,
@@ -1600,14 +1600,14 @@
 "note": "rescue5"
 },
 "relief_5": {
-"seed": 43,
-"ok": false,
-"note": "rescue5 failed: hands in all"
+"seed": 142,
+"ok": true,
+"note": "rescue8"
 },
 "photo_1": {
-"seed": 12,
-"ok": false,
-"note": "rescue5 failed: hands in all"
+"seed": 142,
+"ok": true,
+"note": "rescue8"
 },
 "photo_2": {
 "seed": 122,
@@ -1615,9 +1615,9 @@
 "note": "rescue5"
 },
 "photo_3": {
-"seed": 42,
-"ok": false,
-"note": "rescue5 failed: modern camera"
+"seed": 141,
+"ok": true,
+"note": "rescue8"
 },
 "photo_4": {
 "seed": 124,
@@ -1625,9 +1625,9 @@
 "note": "rescue5"
 },
 "photo_5": {
-"seed": 13,
-"ok": false,
-"note": "rescue5 failed: hands in all"
+"seed": 141,
+"ok": true,
+"note": "rescue8"
 },
 "photo_6": {
 "seed": 41,

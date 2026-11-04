@@ -185,9 +185,9 @@
 "note": "rescue8"
 },
 "pantry_5": {
-"seed": 0,
-"ok": false,
-"note": "rescue8 failed: wrong action, should pin list to door"
+"seed": 162,
+"ok": true,
+"note": "rescue10"
 },
 "pantry_6": {
 "seed": 12,
@@ -250,9 +250,9 @@
 "note": "rescue8"
 },
 "paper_1": {
-"seed": 0,
-"ok": false,
-"note": "rescue8 failed: standing, step says sit down"
+"seed": 161,
+"ok": true,
+"note": "rescue10"
 },
 "paper_2": {
 "seed": 24,
@@ -360,9 +360,9 @@
 "note": "round1"
 },
 "hedge_1": {
-"seed": 0,
-"ok": false,
-"note": "rescue8 failed: no string line, step says mark the line"
+"seed": 162,
+"ok": true,
+"note": "rescue10"
 },
 "hedge_2": {
 "seed": 11,
@@ -445,9 +445,9 @@
 "note": "round1"
 },
 "golfcart_2": {
-"seed": 0,
-"ok": false,
-"note": "rescue8 failed: man in cart, step says set up lawn chair on curb"
+"seed": 161,
+"ok": true,
+"note": "rescue10"
 },
 "golfcart_3": {
 "seed": 22,
@@ -622,7 +622,7 @@
 "grandpa_4": {
 "seed": 0,
 "ok": false,
-"note": "rescue8 failed: chess pieces; text changed to dominoes, retry"
+"note": "rescue10 failed: round discs again"
 },
 "grandpa_5": {
 "seed": 12,
@@ -702,12 +702,12 @@
 "phone_3": {
 "seed": 0,
 "ok": false,
-"note": "rescue8 failed: receiver at ear, should be held a foot away"
+"note": "rescue10 failed: receiver still at ear"
 },
 "phone_4": {
-"seed": 0,
-"ok": false,
-"note": "rescue8 failed: no crossword"
+"seed": 163,
+"ok": true,
+"note": "rescue10"
 },
 "phone_5": {
 "seed": 21,
@@ -720,9 +720,9 @@
 "note": "rescue8"
 },
 "explain_2": {
-"seed": 0,
-"ok": false,
-"note": "rescue8 failed: eating soup, step is listening to child question"
+"seed": 161,
+"ok": true,
+"note": "rescue10"
 },
 "explain_3": {
 "seed": 22,
@@ -760,9 +760,9 @@
 "note": "rescue8"
 },
 "weather_4": {
-"seed": 0,
-"ok": false,
-"note": "rescue8 failed: newspaper not almanac"
+"seed": 161,
+"ok": true,
+"note": "rescue10"
 },
 "weather_5": {
 "seed": 22,
@@ -770,9 +770,9 @@
 "note": "rescue8"
 },
 "nod_1": {
-"seed": 0,
-"ok": false,
-"note": "rescue8 failed: men appear in still life"
+"seed": 163,
+"ok": true,
+"note": "rescue10"
 },
 "nod_2": {
 "seed": 22,
@@ -835,9 +835,9 @@
 "note": "rescue8"
 },
 "letter_3": {
-"seed": 0,
-"ok": false,
-"note": "rescue8 failed: man appears in still life"
+"seed": 162,
+"ok": true,
+"note": "rescue10"
 },
 "letter_4": {
 "seed": 22,
@@ -845,9 +845,9 @@
 "note": "rescue8"
 },
 "letter_5": {
-"seed": 0,
-"ok": false,
-"note": "rescue8 failed: garbled handwriting"
+"seed": 162,
+"ok": true,
+"note": "rescue10"
 },
 "letter_6": {
 "seed": 22,
@@ -857,7 +857,7 @@
 "radio_1": {
 "seed": 0,
 "ok": false,
-"note": "rescue8 failed: grandpa driving, step is child reading comic"
+"note": "rescue10 failed: garbled comic title"
 },
 "radio_2": {
 "seed": 22,
@@ -935,9 +935,9 @@
 "note": "rescue8"
 },
 "breath_1": {
-"seed": 0,
-"ok": false,
-"note": "rescue8 failed: ranting man, step is put down the spoon"
+"seed": 163,
+"ok": true,
+"note": "rescue10"
 },
 "breath_2": {
 "seed": 22,
@@ -1017,7 +1017,7 @@
 "newsfast_6": {
 "seed": 0,
 "ok": false,
-"note": "rescue8 failed: garbled headlines"
+"note": "rescue10 failed: garbled headlines"
 },
 "laugh_1": {
 "seed": 21,
@@ -1080,9 +1080,9 @@
 "note": "rescue8"
 },
 "bath_2": {
-"seed": 0,
-"ok": false,
-"note": "rescue8 failed: men in still life"
+"seed": 163,
+"ok": true,
+"note": "rescue10"
 },
 "bath_3": {
 "seed": 26,
@@ -1090,9 +1090,9 @@
 "note": "rescue8"
 },
 "bath_4": {
-"seed": 0,
-"ok": false,
-"note": "rescue8 failed: apron dress not nightgown"
+"seed": 166,
+"ok": true,
+"note": "rescue10"
 },
 "bath_5": {
 "seed": 22,
@@ -1115,9 +1115,9 @@
 "note": "rescue8"
 },
 "traffic_4": {
-"seed": 0,
-"ok": false,
-"note": "rescue8 failed: pouring onto ground, no cup"
+"seed": 161,
+"ok": true,
+"note": "rescue10"
 },
 "traffic_5": {
 "seed": 23,
@@ -1135,9 +1135,9 @@
 "note": "rescue8"
 },
 "diner_2": {
-"seed": 0,
-"ok": false,
-"note": "rescue8 failed: garbled menu text"
+"seed": 162,
+"ok": true,
+"note": "rescue10"
 },
 "diner_3": {
 "seed": 22,
@@ -1170,9 +1170,9 @@
 "note": "rescue8"
 },
 "hardware_4": {
-"seed": 0,
-"ok": false,
-"note": "rescue8 failed: hands and man behind register"
+"seed": 161,
+"ok": true,
+"note": "rescue10"
 },
 "hardware_5": {
 "seed": 22,
@@ -1190,9 +1190,9 @@
 "note": "rescue8"
 },
 "fair_2": {
-"seed": 0,
-"ok": false,
-"note": "rescue8 failed: hands in all"
+"seed": 162,
+"ok": true,
+"note": "rescue10"
 },
 "fair_3": {
 "seed": 23,
@@ -1305,9 +1305,9 @@
 "note": "rescue8"
 },
 "dog_3": {
-"seed": 0,
-"ok": false,
-"note": "rescue8 failed: tying, step is take a picture"
+"seed": 162,
+"ok": true,
+"note": "rescue10"
 },
 "dog_4": {
 "seed": 22,
@@ -1315,9 +1315,9 @@
 "note": "rescue8"
 },
 "dog_5": {
-"seed": 0,
-"ok": false,
-"note": "rescue8 failed: biscuit, step is return folded red bandana"
+"seed": 166,
+"ok": true,
+"note": "rescue10"
 },
 "tractor_1": {
 "seed": 21,
@@ -1325,9 +1325,9 @@
 "note": "rescue8"
 },
 "tractor_2": {
-"seed": 0,
-"ok": false,
-"note": "rescue8 failed: not tying flag"
+"seed": 163,
+"ok": true,
+"note": "rescue10"
 },
 "tractor_3": {
 "seed": 21,
@@ -1350,19 +1350,19 @@
 "note": "rescue8"
 },
 "raffle_1": {
-"seed": 0,
-"ok": false,
-"note": "rescue8 failed: hands and men"
+"seed": 165,
+"ok": true,
+"note": "rescue10"
 },
 "raffle_2": {
-"seed": 0,
-"ok": false,
-"note": "rescue8 failed: drum, step is shake pastor hand"
+"seed": 163,
+"ok": true,
+"note": "rescue10"
 },
 "raffle_3": {
-"seed": 0,
-"ok": false,
-"note": "rescue8 failed: hands, step is hold cap up"
+"seed": 161,
+"ok": true,
+"note": "rescue10"
 },
 "raffle_4": {
 "seed": 24,
@@ -1370,9 +1370,9 @@
 "note": "rescue8"
 },
 "raffle_5": {
-"seed": 0,
-"ok": false,
-"note": "rescue8 failed: hands"
+"seed": 163,
+"ok": true,
+"note": "rescue10"
 },
 "school_1": {
 "seed": 21,
@@ -1385,9 +1385,9 @@
 "note": "rescue8"
 },
 "school_3": {
-"seed": 0,
-"ok": false,
-"note": "rescue8 failed: hands"
+"seed": 162,
+"ok": true,
+"note": "rescue10"
 },
 "school_4": {
 "seed": 21,
@@ -1400,9 +1400,9 @@
 "note": "rescue8"
 },
 "school_6": {
-"seed": 0,
-"ok": false,
-"note": "rescue8 failed: hands"
+"seed": 166,
+"ok": true,
+"note": "rescue10"
 },
 "inflatable_1": {
 "seed": 23,
@@ -1440,9 +1440,9 @@
 "note": "rescue8"
 },
 "rally_3": {
-"seed": 0,
-"ok": false,
-"note": "rescue8 failed: flag waving, step is close the windows"
+"seed": 161,
+"ok": true,
+"note": "rescue10"
 },
 "rally_4": {
 "seed": 22,
@@ -1450,9 +1450,9 @@
 "note": "rescue8"
 },
 "rally_5": {
-"seed": 0,
-"ok": false,
-"note": "rescue8 failed: hot dog, step is read a good book at home"
+"seed": 163,
+"ok": true,
+"note": "rescue10"
 },
 "rally_6": {
 "seed": 21,
@@ -1475,14 +1475,14 @@
 "note": "rescue8"
 },
 "blowncap_4": {
-"seed": 0,
-"ok": false,
-"note": "rescue8 failed: he wears the lost cap, should look sad bareheaded over fence"
+"seed": 161,
+"ok": true,
+"note": "rescue10"
 },
 "blowncap_5": {
-"seed": 0,
-"ok": false,
-"note": "rescue8 failed: hands, step is hand cap over fence"
+"seed": 162,
+"ok": true,
+"note": "rescue10"
 },
 "potluck_1": {
 "seed": 21,
@@ -1505,9 +1505,9 @@
 "note": "rescue8"
 },
 "potluck_5": {
-"seed": 0,
-"ok": false,
-"note": "rescue8 failed: carrying, step is tasting every dish"
+"seed": 163,
+"ok": true,
+"note": "rescue10"
 },
 "potluck_6": {
 "seed": 22,
@@ -1525,9 +1525,9 @@
 "note": "rescue8"
 },
 "fence_3": {
-"seed": 0,
-"ok": false,
-"note": "rescue8 failed: no hammer"
+"seed": 163,
+"ok": true,
+"note": "rescue10"
 },
 "fence_4": {
 "seed": 22,
@@ -1540,9 +1540,9 @@
 "note": "rescue8"
 },
 "piecontest_1": {
-"seed": 0,
-"ok": false,
-"note": "rescue8 failed: not pinning notice"
+"seed": 163,
+"ok": true,
+"note": "rescue10"
 },
 "piecontest_2": {
 "seed": 21,
@@ -1597,7 +1597,7 @@
 "fourth_1": {
 "seed": 0,
 "ok": false,
-"note": "rescue8 failed: bunting looks like French flag"
+"note": "rescue10 failed: not hanging bunting"
 },
 "fourth_2": {
 "seed": 25,
