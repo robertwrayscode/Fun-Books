@@ -1,0 +1,402 @@
+[
+{
+"out": "rescue1/vh/paper_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A smiling man in a tan sweater vest and necktie at a breakfast table opening a big folded newspaper held up so we see only its blank gray back page, a cup of coffee beside him. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/vh/paper_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a folded gray newspaper with blurry gray columns too small to read and a red pencil lying across it. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/vh/paper_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a man's hand drawing a red pencil circle on a blurry gray newspaper page whose tiny print is too small to read. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/vh/paper_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A smiling man in a tan sweater vest and necktie at a breakfast table reading aloud from a big folded newspaper held up so we see only its blank gray back page, eyebrows raised in surprise. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/vh/tour_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a man's brown leather shoes wiping on a plain brown bristle doormat at a front door. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/vh/prices_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A white-haired grandfather in a brown cardigan chuckling while reading an old yellowed paper held up so we see only its blank back. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/vh/prices_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A white-haired grandfather in a brown cardigan sitting back in an armchair holding up a big folded newspaper held up so we see only its blank gray back page, looking astonished. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/vh/prices_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of an old 1950s metal desk adding machine with rows of round number keys, a side crank handle and a blank paper tape roll on top, on a wooden desk. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/vh/welcome_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A quiet 1950s suburban street at sunset, a moving van parked at the curb, a family of friendly smiling vampires, every one in a classic Dracula costume with a chalk-white face, slicked-back black hair with a widow's peak, bare heads with no hats, and black capes with tall red-lined stand-up collars waiting on a porch. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/vh/windowbox_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of small single garlic cloves pushed point up into dark soil in a wooden window box, rows of tiny pointed cloves. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/vh/wreath_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A round braided garlic wreath made of many white garlic bulbs tied together on a ring, lying on a kitchen table, close-up. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/vh/porchlight_6.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A 1950s house at night with a bright glowing porch light, a friendly smiling vampire in a classic Dracula costume with a chalk-white face, slicked-back black hair with a widow's peak, bare head with no hat, and a black cape with a tall red-lined stand-up collar waving cheerfully from the sidewalk. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/vh/screendoor_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A white-haired grandfather in a brown cardigan pointing at a ragged tear in the gray wire mesh of an old wooden-framed screen door on a back porch. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/vh/quiet_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A smiling man in a tan sweater vest and necktie pushing an old-fashioned manual push reel lawn mower, a spiral blade cylinder between two wheels and a long T handle, no engine, across a sunny lawn. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/vh/return_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A freckled boy in a red striped t-shirt walking along a sidewalk at dusk under a purple evening sky with glowing streetlights, holding a pair of small hand hedge clippers pointing down at his side. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/vh/casserole_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of two small opened round tin cans of tuna with plain shiny silver sides and no labels on a kitchen counter. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/vh/coffee_6.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A white-haired grandfather in a brown cardigan handing a cup of coffee to a friendly smiling vampire in a classic Dracula costume with a chalk-white face, slicked-back black hair with a widow's peak, bare head with no hat, and a black cape with a tall red-lined stand-up collar in a lamplit living room at night. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/vh/gate_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A freckled boy in a red striped t-shirt standing on the path pushing a white wooden picket garden gate open on its hinges, smiling. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/vh/lawn_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A smiling man in a tan sweater vest and necktie pushing an old-fashioned manual push reel lawn mower, a spiral blade cylinder between two wheels and a long T handle, no engine, in a straight line across a lawn with mowed stripes. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/vh/bank_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A 1950s small town main street at night with glowing shop windows with blank awnings and no signs, a few friendly smiling vampires, every one in a classic Dracula costume with a chalk-white face, slicked-back black hair with a widow's peak, bare heads with no hats, and black capes with tall red-lined stand-up collars strolling on the sidewalk. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/vh/bank_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A short line of friendly smiling vampires, every one in a classic Dracula costume with a chalk-white face, slicked-back black hair with a widow's peak, bare heads with no hats, and black capes with tall red-lined stand-up collars waiting patiently behind a brass rope on brass posts in a candlelit marble bank lobby. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/vh/bank_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A smiling man in a tan sweater vest and necktie sliding a small dark blue bank passbook booklet through the opening of a brass teller window. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/vh/appraise_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of an old folded yellowed paper document tied with a faded ribbon inside a small open gray metal box, the paper folded shut. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/vh/appraise_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A white-haired grandfather in a brown cardigan showing a friendly smiling vampire in a classic Dracula costume with a chalk-white face, slicked-back black hair with a widow's peak, bare head with no hat, and a black cape with a tall red-lined stand-up collar, who is holding a clipboard, around a 1950s living room. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/vh/offer_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. a friendly smiling vampire in a classic Dracula costume with a chalk-white face, slicked-back black hair with a widow's peak, bare head with no hat, and a black cape with a tall red-lined stand-up collar walking away down porch steps at night, waving goodbye politely over his shoulder. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/vh/meeting_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A candlelit meeting hall full of friendly smiling vampires, every one in a classic Dracula costume with a chalk-white face, slicked-back black hair with a widow's peak, bare heads with no hats, and black capes with tall red-lined stand-up collars sitting on folding chairs in rows. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/vh/minutes_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of two plain yellow pencils with pink erasers and a small metal pencil sharpener on a wooden table, pencil shavings. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/vh/minutes_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A cheerful housewife in a pink shirtwaist dress and white apron standing and reading aloud from a small notebook in a candlelit room, friendly smiling vampires, every one in a classic Dracula costume with a chalk-white face, slicked-back black hair with a widow's peak, bare heads with no hats, and black capes with tall red-lined stand-up collars listening. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/vh/streetlight_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A white-haired grandfather in a brown cardigan standing and speaking at a candlelit meeting with one hand raised, friendly smiling vampires, every one in a classic Dracula costume with a chalk-white face, slicked-back black hair with a widow's peak, bare heads with no hats, and black capes with tall red-lined stand-up collars listening. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/vh/watch_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. a friendly smiling vampire in a classic Dracula costume with a chalk-white face, slicked-back black hair with a widow's peak, bare head with no hat, and a black cape with a tall red-lined stand-up collar sitting in a rocking chair on a lit porch at night, waving to freckled boy in a red striped t-shirt on the sidewalk. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/vh/photo_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A smiling man in a tan sweater vest and necktie at a 1950s drugstore counter holding a small plain blank yellow paper photo envelope. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/vh/nightschool_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A little ten-year-old girl with brown braids in a yellow dress packing crayons and a plain red cloth-bound storybook into a brown leather school satchel. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/vh/nightschool_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A lamplit 1950s classroom of cheerful little vampire children, every child with a chalk-white face, slicked-back black hair with a widow's peak, bare heads with no hats, and a tiny black cape with a red-lined stand-up collar, waving at the door. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/vh/nightschool_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Cheerful little vampire children, every child with a chalk-white face, slicked-back black hair with a widow's peak, bare heads with no hats, and a tiny black cape with a red-lined stand-up collar, sitting at wooden desks listening in a lamplit classroom. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/vh/moving_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A smiling man in a tan sweater vest and necktie pulling on leather work gloves beside a 1950s moving van at night, a family of friendly smiling vampires, every one in a classic Dracula costume with a chalk-white face, slicked-back black hair with a widow's peak, bare heads with no hats, and black capes with tall red-lined stand-up collars watching from a porch. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/vh/moving_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A smiling man in a tan sweater vest and necktie and a friendly smiling vampire in a classic Dracula costume with a chalk-white face, slicked-back black hair with a widow's peak, bare head with no hat, and a black cape with a tall red-lined stand-up collar wrapping a thick quilted gray moving blanket around a tall grandfather clock at night. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/vh/housewarming_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a black fountain pen resting on an open guest book whose cream pages are completely blank. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/vh/cards_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A little ten-year-old girl with brown braids in a yellow dress reading a short list on a sheet of paper held up so we see only its blank back, at a kitchen table. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/vh/cards_6.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A fireplace mantel with a row of folded greeting cards with plain painted holly and snow pictures and no writing hanging on a string across it, pine branches, cozy living room. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/vh/thanksgiving_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A long candlelit Thanksgiving table with a 1950s family and friendly smiling vampires, every one in a classic Dracula costume with a chalk-white face, slicked-back black hair with a widow's peak, bare heads with no hats, and black capes with tall red-lined stand-up collars seated together around a roast turkey. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+}
+]
