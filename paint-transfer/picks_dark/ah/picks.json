@@ -1,0 +1,1662 @@
+{
+"crater_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"crater_2": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"crater_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"crater_4": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"crater_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"crater_6": {
+"seed": 11,
+"ok": false,
+"note": "garbled writing on list"
+},
+"sweep_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"sweep_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"sweep_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"sweep_4": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"sweep_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"sweep_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"radio_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"radio_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"radio_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"radio_4": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"radio_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"radio_6": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"neighbors_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"neighbors_2": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"neighbors_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"neighbors_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"neighbors_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"canary_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"canary_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"canary_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"canary_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"canary_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"canary_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"breakfast_1": {
+"seed": 11,
+"ok": false,
+"note": "wrong stove (kerosene heater not flat two-burner camp stove)"
+},
+"breakfast_2": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"breakfast_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"breakfast_4": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"breakfast_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"stock_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"stock_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"stock_3": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"stock_4": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"stock_5": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"stock_6": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"labels_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"labels_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"labels_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"labels_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"labels_5": {
+"seed": 11,
+"ok": false,
+"note": "step words painted on cans"
+},
+"milk_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"milk_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"milk_3": {
+"seed": 11,
+"ok": false,
+"note": "step words on vanilla label"
+},
+"milk_4": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"milk_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"milk_6": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"opener_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"opener_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"opener_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"opener_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"opener_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"cookies_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"cookies_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"cookies_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"cookies_4": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"cookies_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"cookies_6": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"water_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"water_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"water_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"water_4": {
+"seed": 11,
+"ok": false,
+"note": "garbled label writing"
+},
+"water_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"snackers_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"snackers_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"snackers_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"snackers_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"snackers_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"snackers_6": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"casserole_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"casserole_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"casserole_3": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"casserole_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"casserole_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"biscuits_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"biscuits_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"biscuits_3": {
+"seed": 11,
+"ok": false,
+"note": "no glass cutting circles; bread-roll look"
+},
+"biscuits_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"biscuits_5": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"biscuits_6": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"mockpie_1": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"mockpie_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"mockpie_3": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"mockpie_4": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"mockpie_5": {
+"seed": 11,
+"ok": false,
+"note": "odd metal disc, no crimping with fingers"
+},
+"mockpie_6": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"roast_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"roast_2": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"roast_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"roast_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"roast_5": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"roast_6": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"fritters_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"fritters_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"fritters_3": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"fritters_4": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"fritters_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"cratercake_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"cratercake_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"cratercake_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"cratercake_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"cratercake_5": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"cratercake_6": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"gelatin_1": {
+"seed": 11,
+"ok": false,
+"note": "fake brand text on boxes"
+},
+"gelatin_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"gelatin_3": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"gelatin_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"gelatin_5": {
+"seed": 11,
+"ok": false,
+"note": "slicing a cake, not flipping a mold"
+},
+"dusting_1": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"dusting_2": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"dusting_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"dusting_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"dusting_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"dusting_6": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"laundry_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"laundry_2": {
+"seed": 11,
+"ok": false,
+"note": "text on washer / no rollers"
+},
+"laundry_3": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"laundry_4": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"laundry_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"windows_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"windows_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"windows_3": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"windows_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"windows_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"windows_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"vacuum_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"vacuum_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"vacuum_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"vacuum_4": {
+"seed": 11,
+"ok": false,
+"note": "garbled text on bag"
+},
+"vacuum_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"curtains_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"curtains_2": {
+"seed": 11,
+"ok": false,
+"note": "painted a picture print on fabric, not just gingham bolt"
+},
+"curtains_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"curtains_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"curtains_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"curtains_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"shoes_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"shoes_2": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"shoes_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"shoes_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"shoes_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"ironing_1": {
+"seed": 11,
+"ok": false,
+"note": "tongs not flat irons"
+},
+"ironing_2": {
+"seed": 11,
+"ok": false,
+"note": "brown stains on shirt, pouring not sprinkling"
+},
+"ironing_3": {
+"seed": 11,
+"ok": false,
+"note": "not a sad iron (sewing machine / modern iron)"
+},
+"ironing_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"ironing_5": {
+"seed": 11,
+"ok": false,
+"note": "weird tong-like objects, not flat irons"
+},
+"ironing_6": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"fence_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"fence_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"fence_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"fence_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"fence_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"tomatoes_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"tomatoes_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"tomatoes_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"tomatoes_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"tomatoes_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"tomatoes_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"rocky_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"rocky_2": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"rocky_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"rocky_4": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"rocky_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"picnic_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"picnic_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"picnic_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"picnic_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"picnic_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"picnic_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"scientists_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"scientists_2": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"scientists_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"scientists_4": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"scientists_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"pond_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"pond_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"pond_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"pond_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"pond_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"pond_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"cozy_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"cozy_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"cozy_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"cozy_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"cozy_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"games_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"games_2": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"games_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"games_4": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"games_5": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"games_6": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"bunks_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"bunks_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"bunks_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"bunks_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"bunks_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"drills_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"drills_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"drills_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"drills_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"drills_5": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"drills_6": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"grandma_1": {
+"seed": 11,
+"ok": false,
+"note": "modern woman in trousers instead of empty rocking chair"
+},
+"grandma_2": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"grandma_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"grandma_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"grandma_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"doggy_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"doggy_2": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"doggy_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"doggy_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"doggy_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"doggy_6": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"grocery_1": {
+"seed": 11,
+"ok": false,
+"note": "step words on bags/cans"
+},
+"grocery_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"grocery_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"grocery_4": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"grocery_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"hats_1": {
+"seed": 11,
+"ok": false,
+"note": "hats on real people, not a hat stand"
+},
+"hats_2": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"hats_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"hats_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"hats_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"hats_6": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"bakesale_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"bakesale_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"bakesale_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"bakesale_4": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"bakesale_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"driving_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"driving_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"driving_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"driving_4": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"driving_5": {
+"seed": 11,
+"ok": false,
+"note": "garbled sign lettering"
+},
+"driving_6": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"letter_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"letter_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"letter_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"letter_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"letter_5": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"warden_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"warden_2": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"warden_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"warden_4": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"warden_5": {
+"seed": 11,
+"ok": false,
+"note": "man wearing helmet, not helmet and armband on empty chair"
+},
+"warden_6": {
+"seed": 11,
+"ok": false,
+"note": "step words painted in every seed"
+},
+"hairdo_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"hairdo_2": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"hairdo_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"hairdo_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"hairdo_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"pebbles_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"pebbles_2": {
+"seed": 11,
+"ok": false,
+"note": "step words painted in all"
+},
+"pebbles_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"pebbles_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"pebbles_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"pebbles_6": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"sunset_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"sunset_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"sunset_3": {
+"seed": 11,
+"ok": false,
+"note": "stray hands/gadgets in front of sunset"
+},
+"sunset_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"sunset_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"china_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"china_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"china_3": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"china_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"china_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"china_6": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"tea_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"tea_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"tea_3": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"tea_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"tea_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"winter_1": {
+"seed": 11,
+"ok": false,
+"note": "no boy being measured"
+},
+"winter_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"winter_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"winter_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"winter_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"winter_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"snowball_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"snowball_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"snowball_3": {
+"seed": 11,
+"ok": false,
+"note": "odd men lying in fort / stone wall with door"
+},
+"snowball_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"snowball_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"stars_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"stars_2": {
+"seed": 11,
+"ok": false,
+"note": "step words in sky, stray hands, no big dipper"
+},
+"stars_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"stars_4": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"stars_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"stars_6": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"blockparty_1": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"blockparty_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"blockparty_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"blockparty_4": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"blockparty_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"prize_1": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"prize_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"prize_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"prize_4": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"prize_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"prize_6": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"lemonade_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"lemonade_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"lemonade_3": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"lemonade_4": {
+"seed": 14,
+"ok": true,
+"note": ""
+},
+"lemonade_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"anniversary_1": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"anniversary_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"anniversary_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"anniversary_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"anniversary_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"anniversary_6": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"relief_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"relief_2": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"relief_3": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"relief_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"relief_5": {
+"seed": 11,
+"ok": false,
+"note": "step words on bag"
+},
+"photo_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"photo_2": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"photo_3": {
+"seed": 11,
+"ok": false,
+"note": "modern DSLR camera on aluminum tripod"
+},
+"photo_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"photo_5": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"photo_6": {
+"seed": 11,
+"ok": false,
+"note": "writing on cards in all"
+},
+"homemaker_1": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"homemaker_2": {
+"seed": 11,
+"ok": true,
+"note": ""
+},
+"homemaker_3": {
+"seed": 13,
+"ok": true,
+"note": ""
+},
+"homemaker_4": {
+"seed": 12,
+"ok": true,
+"note": ""
+},
+"homemaker_5": {
+"seed": 12,
+"ok": true,
+"note": ""
+}
+}
