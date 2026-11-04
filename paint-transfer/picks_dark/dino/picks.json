@@ -80,9 +80,9 @@
 "note": ""
 },
 "identify_6": {
-"seed": 11,
-"ok": false,
-"note": "rescue1 failed: garbled sign every seed, t-rex heads"
+"seed": 104,
+"ok": true,
+"note": "round4"
 },
 "egg_1": {
 "seed": 11,
@@ -142,22 +142,22 @@
 "window_1": {
 "seed": 13,
 "ok": false,
-"note": "rescue1 failed: whole dino inside kitchen, need head through open window"
+"note": "round4 failed: not a brontosaurus, T-rex heads, labels"
 },
 "window_2": {
 "seed": 11,
 "ok": false,
-"note": "rescue1 failed: whole dino inside kitchen"
+"note": "round4 failed: T-rex heads not brontosaurus, labels"
 },
 "window_3": {
 "seed": 13,
 "ok": false,
-"note": "rescue1 failed: whole dino inside kitchen"
+"note": "round4 failed: giraffe/T-rex heads, not brontosaurus"
 },
 "window_4": {
 "seed": 13,
 "ok": false,
-"note": "rescue1 failed: whole dino inside kitchen"
+"note": "round4 failed: not a long-necked brontosaurus"
 },
 "window_5": {
 "seed": 41,
@@ -175,9 +175,9 @@
 "note": ""
 },
 "menu_3": {
-"seed": 11,
-"ok": false,
-"note": "rescue1 failed: garbled newspaper every seed"
+"seed": 106,
+"ok": true,
+"note": "round4"
 },
 "menu_4": {
 "seed": 12,
@@ -395,9 +395,9 @@
 "note": "rescue1"
 },
 "hose_3": {
-"seed": 11,
-"ok": false,
-"note": "rescue1 failed: t-rex-like head, use full bronto description"
+"seed": 108,
+"ok": true,
+"note": "round4"
 },
 "hose_4": {
 "seed": 41,
@@ -507,12 +507,12 @@
 "pedicure_3": {
 "seed": 11,
 "ok": false,
-"note": "rescue1 failed: no filing shown, odd ropes"
+"note": "round4 failed: holds wands not filing a toenail"
 },
 "pedicure_4": {
-"seed": 11,
-"ok": false,
-"note": "rescue1 failed: odd heads and ropes"
+"seed": 105,
+"ok": true,
+"note": "round4"
 },
 "pedicure_5": {
 "seed": 45,
@@ -865,9 +865,9 @@
 "note": "rescue1"
 },
 "fetch_3": {
-"seed": 11,
-"ok": false,
-"note": "rescue1 failed: t-rex like, use full bronto description"
+"seed": 101,
+"ok": true,
+"note": "round4"
 },
 "fetch_4": {
 "seed": 44,
@@ -915,9 +915,9 @@
 "note": ""
 },
 "doorbell_2": {
-"seed": 11,
-"ok": false,
-"note": "garbled words painted on the mat"
+"seed": 103,
+"ok": true,
+"note": "round4"
 },
 "doorbell_3": {
 "seed": 13,
@@ -995,9 +995,9 @@
 "note": "rescue1"
 },
 "cold_2": {
-"seed": 11,
-"ok": false,
-"note": "rescue1 failed: blanket not on dino, weird necks"
+"seed": 107,
+"ok": true,
+"note": "round4"
 },
 "cold_3": {
 "seed": 44,
@@ -1120,14 +1120,14 @@
 "note": ""
 },
 "roadtrip_5": {
-"seed": 11,
-"ok": false,
-"note": "stop signs with garbled words"
+"seed": 103,
+"ok": true,
+"note": "round4"
 },
 "roadtrip_6": {
-"seed": 11,
-"ok": false,
-"note": "man standing outside the moving car; text painted in"
+"seed": 101,
+"ok": true,
+"note": "round4"
 },
 "beach_1": {
 "seed": 14,
@@ -1245,9 +1245,9 @@
 "note": ""
 },
 "fair_2": {
-"seed": 11,
-"ok": false,
-"note": "rescue1 failed: garbled sign every seed, make sign blank"
+"seed": 106,
+"ok": true,
+"note": "round4"
 },
 "fair_3": {
 "seed": 48,
@@ -1385,9 +1385,9 @@
 "note": "rescue1"
 },
 "loose_3": {
-"seed": 11,
-"ok": false,
-"note": "rescue1 failed: garbled shop signs, make signs blank"
+"seed": 106,
+"ok": true,
+"note": "round4"
 },
 "loose_4": {
 "seed": 47,
@@ -1425,9 +1425,9 @@
 "note": "rescue1"
 },
 "twelve_5": {
-"seed": 11,
-"ok": false,
-"note": "caption words painted in"
+"seed": 107,
+"ok": true,
+"note": "round4"
 },
 "mailman_1": {
 "seed": 13,
@@ -1515,9 +1515,9 @@
 "note": ""
 },
 "chores_1": {
-"seed": 11,
-"ok": false,
-"note": "rescue1 failed: t-rex head and arms, use full bronto description"
+"seed": 102,
+"ok": true,
+"note": "round4"
 },
 "chores_2": {
 "seed": 41,
@@ -1535,9 +1535,9 @@
 "note": "rescue1"
 },
 "chores_5": {
-"seed": 11,
-"ok": false,
-"note": "rescue1 failed: flags not US stars and stripes"
+"seed": 102,
+"ok": true,
+"note": "round4"
 },
 "birthday_1": {
 "seed": 12,
@@ -1605,9 +1605,9 @@
 "note": "rescue1"
 },
 "photo_3": {
-"seed": 11,
-"ok": false,
-"note": "rescue1 failed: t-rex like lying, use full bronto description"
+"seed": 103,
+"ok": true,
+"note": "round4"
 },
 "photo_4": {
 "seed": 41,

@@ -1,0 +1,102 @@
+[
+{
+"out": "rescue6/vh/invite_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Night, seen from the side on a dark front porch: a friendly vampire with a chalk-white face, a full head of thick glossy slicked-back black hair with a sharp pointed widow's peak, and a black cape with a tall red-lined stand-up collar standing politely outside a closed wooden screen door with gray wire mesh, seen in side profile so his thick black hair and widow's peak show clearly, talking through the mesh to a smiling ten-year-old girl with brown braids in a yellow dress standing inside the hall behind the mesh. Natural hands, every person has exactly two arms and two hands. No writing or lettering anywhere.",
+"w": 1024,
+"h": 648,
+"seed": 131,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue6/vh/thanksgiving_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A long candlelit Thanksgiving dinner table with a big roast turkey on a platter, plates, glasses and candles only. On the near side sit a 1950s father, a mother, a small boy and a small girl, and across the table sit two friendly vampires, a man and a woman, with chalk-white faces, slicked black hair and black capes with tall red-lined collars, everyone smiling. Natural hands, every person has exactly two arms and two hands. No writing or lettering anywhere.",
+"w": 1024,
+"h": 648,
+"seed": 131,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue6/bf/fair_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A giant orange prize pumpkin on a wooden farm cart on the grass at a county fair at dusk, a lit Ferris wheel and plain red-and-white striped circus tents behind it, strings of light bulbs, no booths or stalls. Nobody in the picture. No writing or lettering anywhere.",
+"w": 1024,
+"h": 648,
+"seed": 131,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue6/bf/tracks_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of one giant bare footprint of a huge hairy ape-man pressed deep into fresh white snow, shaped exactly like a human foot but enormous: a long sole, a narrow arch, a round heel and five short round toes in a row at the front, a plain smooth wooden stick lying beside it for size. Nobody in the picture. No writing or lettering anywhere.",
+"w": 1024,
+"h": 648,
+"seed": 131,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue6/dino/pedicure_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A woman in a sundress and a headscarf sitting on a low stool beside one enormous round elephant-like front foot of a huge gentle long-necked brontosaurus sauropod dinosaur with a tiny rounded head on the end of an extremely long thin neck like a giraffe, a bulky round body, four thick pillar legs like an elephant and a long tail, she holds a big flat steel file in both hands and rubs it against one of the broad blunt toenails at the front of the foot, the dinosaur's long neck curving down to watch her. Natural hands, every person has exactly two arms and two hands. No writing or lettering anywhere.",
+"w": 1024,
+"h": 648,
+"seed": 131,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue6/gs/bridge_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A gray-haired grandmother with clear eyeglasses in a blue dress and pearls kneeling on a patterned rug in a 1950s living room, pulling out the thin folding metal legs of a plain square card table that lies upside down on the rug, the floor otherwise empty. Natural hands, every person has exactly two arms and two hands. No writing or lettering anywhere.",
+"w": 1024,
+"h": 648,
+"seed": 131,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue6/dino/window_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Seen from the backyard at night: the back of a white 1950s house with a lit open kitchen window, and a huge gentle long-necked brontosaurus sauropod dinosaur with a tiny rounded head on the end of an extremely long thin neck like a giraffe, a bulky round body, four thick pillar legs like an elephant and a long tail standing on the lawn with its very long neck stretched up so its tiny head pokes in through the open kitchen window, while inside the lit window a woman with curled hair in a blue dress and apron stirs a pot at the stove. Natural hands, every person has exactly two arms and two hands. No writing or lettering anywhere.",
+"w": 1024,
+"h": 648,
+"seed": 131,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue6/dino/window_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Seen from the backyard at night: the back of a white 1950s house with a lit open kitchen window, a huge gentle long-necked brontosaurus sauropod dinosaur with a tiny rounded head on the end of an extremely long thin neck like a giraffe, a bulky round body, four thick pillar legs like an elephant and a long tail standing on the lawn stretching its very long neck so its tiny head is right at the open window, and inside the window a woman with curled hair in a blue dress and apron pointing a wooden spoon at its nose sternly. Natural hands, every person has exactly two arms and two hands. No writing or lettering anywhere.",
+"w": 1024,
+"h": 648,
+"seed": 131,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue6/dino/window_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Seen from the backyard at night: the back of a white 1950s house with a lit open kitchen window, a woman with curled hair in a blue dress and apron leaning out of the window holding out a big bunch of orange carrots, and a huge gentle long-necked brontosaurus sauropod dinosaur with a tiny rounded head on the end of an extremely long thin neck like a giraffe, a bulky round body, four thick pillar legs like an elephant and a long tail standing on the lawn reaching its very long neck up towards the carrots. Natural hands, every person has exactly two arms and two hands. No writing or lettering anywhere.",
+"w": 1024,
+"h": 648,
+"seed": 131,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue6/dino/window_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Seen from the backyard at night: the back of a white 1950s house with a lit kitchen window, a woman with curled hair in a blue dress and apron inside sliding the window shut, and a huge gentle long-necked brontosaurus sauropod dinosaur with a tiny rounded head on the end of an extremely long thin neck like a giraffe, a bulky round body, four thick pillar legs like an elephant and a long tail standing on the lawn with its very long neck raised so its tiny head peers in at the glass. Natural hands, every person has exactly two arms and two hands. No writing or lettering anywhere.",
+"w": 1024,
+"h": 648,
+"seed": 131,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+}
+]

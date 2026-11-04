@@ -260,9 +260,9 @@
 "note": "rescue1"
 },
 "vacuum_3": {
-"seed": 11,
-"ok": false,
-"note": "rescue2 failed: vacuum looks like a suitcase heater"
+"seed": 105,
+"ok": true,
+"note": "round4"
 },
 "vacuum_4": {
 "seed": 11,
@@ -1200,9 +1200,9 @@
 "note": "verify: not under the dryer"
 },
 "salon_4": {
-"seed": 11,
-"ok": false,
-"note": "rescue2 failed: handheld dryer, not salon hood dryer"
+"seed": 106,
+"ok": true,
+"note": "round4"
 },
 "salon_5": {
 "seed": 14,
@@ -1430,9 +1430,9 @@
 "note": "verify: garbled card text"
 },
 "revolt_1": {
-"seed": 11,
-"ok": false,
-"note": "rescue2 failed: appliances not turned around"
+"seed": 107,
+"ok": true,
+"note": "round4"
 },
 "revolt_2": {
 "seed": 41,
@@ -1515,9 +1515,9 @@
 "note": ""
 },
 "foxtrot_1": {
-"seed": 11,
-"ok": false,
-"note": "rescue2 failed: no bow, robot just stands"
+"seed": 106,
+"ok": true,
+"note": "round4"
 },
 "foxtrot_2": {
 "seed": 45,

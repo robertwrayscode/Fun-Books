@@ -1,1652 +1,1652 @@
 {
- "van_1": {
-  "seed": 11,
-  "ok": true,
-  "note": "Man at curtained window with coffee, van outside, clean"
- },
- "van_2": {
-  "seed": 14,
-  "ok": true,
-  "note": "Gray delivery truck with antenna, blank sides; night not morning"
- },
- "van_3": {
-  "seed": 64,
-  "ok": true,
-  "note": "rescue2: Plain smooth gray side, no text"
- },
- "van_4": {
-  "seed": 11,
-  "ok": true,
-  "note": "Agent reading map in driver seat, hands fine"
- },
- "van_5": {
-  "seed": 13,
-  "ok": true,
-  "note": "Points finger, not thumb, at window; otherwise clean"
- },
- "van_6": {
-  "seed": 11,
-  "ok": true,
-  "note": "Walking past van with briefcase; s13 has two briefcases"
- },
- "newspaper_1": {
-  "seed": 14,
-  "ok": false,
-  "note": "rescue2 failed: All show sunglasses above paper; night not sunny"
- },
- "newspaper_2": {
-  "seed": 41,
-  "ok": true,
-  "note": "rescue1: peeking over paper, only small print"
- },
- "newspaper_3": {
-  "seed": 43,
-  "ok": true,
-  "note": "rescue1: web touches hat, leaves on shoes; small headline"
- },
- "newspaper_4": {
-  "seed": 42,
-  "ok": true,
-  "note": "rescue1: housewife greets man, small print only"
- },
- "newspaper_5": {
-  "seed": 64,
-  "ok": true,
-  "note": "rescue2: She offers paper; he reads rather than peeks"
- },
- "hedgecam_1": {
-  "seed": 46,
-  "ok": true,
-  "note": "rescue1: lens poking from hedge, glint, white house"
- },
- "hedgecam_2": {
-  "seed": 41,
-  "ok": true,
-  "note": "rescue1: hands behind back, nose near lens"
- },
- "hedgecam_3": {
-  "seed": 13,
-  "ok": false,
-  "note": "rescue2 failed: All show hands; 62 hands faint at corners"
- },
- "hedgecam_4": {
-  "seed": 12,
-  "ok": true,
-  "note": "Trimming hedge with long shears, hands fine"
- },
- "hedgecam_5": {
-  "seed": 11,
-  "ok": true,
-  "note": "Agent at house corner; s12 ownerless hand, s13 duplicate"
- },
- "hedgecam_6": {
-  "seed": 14,
-  "ok": true,
-  "note": "Waving at hedge on path, hands fine"
- },
- "wave_1": {
-  "seed": 11,
-  "ok": true,
-  "note": "Girl with satchel at door, agent in hedge; s12 extra man"
- },
- "wave_2": {
-  "seed": 14,
-  "ok": true,
-  "note": "Windowless van with antenna under maples, blank plate"
- },
- "wave_3": {
-  "seed": 11,
-  "ok": true,
-  "note": "Girl waving big, truck with antenna; small side window"
- },
- "wave_4": {
-  "seed": 13,
-  "ok": true,
-  "note": "Curtain lifted at corner, no stray hands"
- },
- "wave_5": {
-  "seed": 11,
-  "ok": true,
-  "note": "Cupped hands, calling; girl looks younger than ten"
- },
- "fedora_1": {
-  "seed": 11,
-  "ok": true,
-  "note": "Grandma on bench, agent in hedge, no sign text"
- },
- "fedora_2": {
-  "seed": 63,
-  "ok": true,
-  "note": "rescue2: Brim low, hat shop windows; night scene"
- },
- "fedora_3": {
-  "seed": 12,
-  "ok": true,
-  "note": "Agent by flowering tree, clean"
- },
- "fedora_4": {
-  "seed": 12,
-  "ok": true,
-  "note": "Fedora and sunglasses close-up, no hands, clean"
- },
- "fedora_5": {
-  "seed": 46,
-  "ok": true,
-  "note": "rescue1: three G-men at counter, hands fine"
- },
- "fedora_6": {
-  "seed": 13,
-  "ok": true,
-  "note": "Grandma on bench nodding at passing agent"
- },
- "unpack_1": {
-  "seed": 12,
-  "ok": true,
-  "note": "Cake from oven, fedora man at window; s11 digital oven"
- },
- "unpack_2": {
-  "seed": 41,
-  "ok": true,
-  "note": "rescue1: plain box stack, closed curtains"
- },
- "unpack_3": {
-  "seed": 42,
-  "ok": true,
-  "note": "rescue1: cake, door, windowless truck with antenna"
- },
- "unpack_4": {
-  "seed": 14,
-  "ok": true,
-  "note": "Agent in suit peering from door gap, hands fine"
- },
- "unpack_5": {
-  "seed": 12,
-  "ok": true,
-  "note": "Coffee cake handed to agent at door, hands fine"
- },
- "smile_1": {
-  "seed": 12,
-  "ok": true,
-  "note": "Combing hair at bathroom sink; s13 has two combs"
- },
- "smile_2": {
-  "seed": 13,
-  "ok": true,
-  "note": "Straightening tie, agent behind hedge; s12 extra man"
- },
- "smile_3": {
-  "seed": 11,
-  "ok": true,
-  "note": "Hands on hips on porch, clean"
- },
- "smile_4": {
-  "seed": 12,
-  "ok": true,
-  "note": "Waving at lens in hedge, faint lens markings"
- },
- "smile_5": {
-  "seed": 13,
-  "ok": true,
-  "note": "Tipping fedora toward van, clean"
- },
- "smile_6": {
-  "seed": 63,
-  "ok": true,
-  "note": "rescue2: Pursed whistle, briefcase, tree-lined street"
- },
- "click_1": {
-  "seed": 11,
-  "ok": true,
-  "note": "Lifting receiver from phone on table, clean"
- },
- "click_2": {
-  "seed": 12,
-  "ok": true,
-  "note": "Listening with raised brows, hand fine"
- },
- "click_3": {
-  "seed": 64,
-  "ok": true,
-  "note": "rescue2: Lone G-man, headphones, two-reel recorder"
- },
- "click_4": {
-  "seed": 11,
-  "ok": true,
-  "note": "Smiling on phone, hand fine"
- },
- "click_5": {
-  "seed": 42,
-  "ok": true,
-  "note": "rescue1: grandma on rotary phone with tea"
- },
- "tape_1": {
-  "seed": 11,
-  "ok": true,
-  "note": "Clearing throat by phone, fedora man at window"
- },
- "tape_2": {
-  "seed": 12,
-  "ok": true,
-  "note": "Sitting straight with receiver, watcher at window"
- },
- "tape_3": {
-  "seed": 11,
-  "ok": true,
-  "note": "On phone with antenna truck behind, clean"
- },
- "tape_4": {
-  "seed": 63,
-  "ok": true,
-  "note": "rescue2: Typing, reel-to-reel on shelf; fedora not small hat"
- },
- "tape_5": {
-  "seed": 14,
-  "ok": true,
-  "note": "Reel recorder close-up, no text, one natural hand"
- },
- "tape_6": {
-  "seed": 66,
-  "ok": true,
-  "note": "rescue2: Receiver set on cradle, clean hands"
- },
- "vase_1": {
-  "seed": 11,
-  "ok": true,
-  "note": "Daisy vase at sink, watcher at window, clean"
- },
- "vase_2": {
-  "seed": 14,
-  "ok": true,
-  "note": "Mic among daisies in glass vase, one hand"
- },
- "vase_3": {
-  "seed": 46,
-  "ok": true,
-  "note": "rescue1: hand over mouth, vase, G-man at hedge"
- },
- "vase_4": {
-  "seed": 13,
-  "ok": true,
-  "note": "Tiny mic with wire on towel; s12 has text"
- },
- "vase_5": {
-  "seed": 12,
-  "ok": true,
-  "note": "Arranging pink roses in vase, hands fine"
- },
- "lamp_1": {
-  "seed": 13,
-  "ok": true,
-  "note": "Armchair, fringed lamp, watcher at window; s11 signature"
- },
- "lamp_2": {
-  "seed": 11,
-  "ok": true,
-  "note": "Switching on fringed lamp, watcher at window"
- },
- "lamp_3": {
-  "seed": 11,
-  "ok": true,
-  "note": "Leaning and talking to lamp, smiling"
- },
- "lamp_4": {
-  "seed": 64,
-  "ok": true,
-  "note": "rescue2: Mouth open reading, tiny print only"
- },
- "lamp_5": {
-  "seed": 11,
-  "ok": true,
-  "note": "Gesturing storyteller in armchair, hands fine"
- },
- "lamp_6": {
-  "seed": 11,
-  "ok": true,
-  "note": "Smiling agent with headphones in van at night"
- },
- "shortcall_1": {
-  "seed": 11,
-  "ok": true,
-  "note": "Writing list, fedora man at window; s12 extra man"
- },
- "shortcall_2": {
-  "seed": 13,
-  "ok": true,
-  "note": "Hand turning white timer, legible numerals, hand fine"
- },
- "shortcall_3": {
-  "seed": 13,
-  "ok": true,
-  "note": "Dialing rotary phone; desk phone not wall-mounted"
- },
- "shortcall_4": {
-  "seed": 46,
-  "ok": true,
-  "note": "rescue1: phone, raised fingers, man at window"
- },
- "shortcall_5": {
-  "seed": 14,
-  "ok": true,
-  "note": "Hanging up wall phone, white timer on counter"
- },
- "lineman_1": {
-  "seed": 11,
-  "ok": true,
-  "note": "Climbing pole via ladder; s14 two men"
- },
- "lineman_2": {
-  "seed": 12,
-  "ok": true,
-  "note": "Low view up pole, man clinging near top"
- },
- "lineman_3": {
-  "seed": 13,
-  "ok": true,
-  "note": "Pouring lemonade into glass, watcher at window"
- },
- "lineman_4": {
-  "seed": 12,
-  "ok": true,
-  "note": "Carrying lemonade on tray across lawn"
- },
- "lineman_5": {
-  "seed": 12,
-  "ok": true,
-  "note": "Handing lemonade to agent at pole, hands fine"
- },
- "lineman_6": {
-  "seed": 11,
-  "ok": true,
-  "note": "Waving goodbye on lawn, clean"
- },
- "goodnight_1": {
-  "seed": 12,
-  "ok": true,
-  "note": "Boy in striped pajamas on bed edge"
- },
- "goodnight_2": {
-  "seed": 41,
-  "ok": true,
-  "note": "rescue1: toy plane with mic and wire, no hands"
- },
- "goodnight_3": {
-  "seed": 12,
-  "ok": true,
-  "note": "Boy toward airplane shelf, agent in hedge behind"
- },
- "goodnight_4": {
-  "seed": 11,
-  "ok": true,
-  "note": "Spelling on fingers in bed; others have letters"
- },
- "goodnight_5": {
-  "seed": 11,
-  "ok": true,
-  "note": "Waving toward shelf from bed; s12 two hands up"
- },
- "welcome_1": {
-  "seed": 61,
-  "ok": true,
-  "note": "rescue2: Casserole lifted from white oven with mitts"
- },
- "welcome_2": {
-  "seed": 12,
-  "ok": true,
-  "note": "Covered glass dish in checked towel, hands fine"
- },
- "welcome_3": {
-  "seed": 11,
-  "ok": true,
-  "note": "Crossing street with casserole toward antenna truck"
- },
- "welcome_4": {
-  "seed": 42,
-  "ok": true,
-  "note": "rescue1: casserole, closed rear doors, antenna"
- },
- "welcome_5": {
-  "seed": 11,
-  "ok": true,
-  "note": "Handing casserole to agent at open van door"
- },
- "welcome_6": {
-  "seed": 61,
-  "ok": true,
-  "note": "rescue2: Clean dish and closed card, no hands"
- },
- "coffee_1": {
-  "seed": 14,
-  "ok": true,
-  "note": "Pours percolator into mugs; rechecked"
- },
- "coffee_2": {
-  "seed": 13,
-  "ok": true,
-  "note": "Two mugs, sugar bowl, tray; rechecked"
- },
- "coffee_3": {
-  "seed": 14,
-  "ok": true,
-  "note": "Putting on plaid jacket; 13 has text; rechecked"
- },
- "coffee_4": {
-  "seed": 11,
-  "ok": true,
-  "note": "Tray, two mugs, panel truck, streetlight; rechecked"
- },
- "coffee_5": {
-  "seed": 11,
-  "ok": true,
-  "note": "Hand on truck door, holding mug; rechecked"
- },
- "ladder_1": {
-  "seed": 11,
-  "ok": true,
-  "note": "Hugging pole; 12/13 have labels; rechecked"
- },
- "ladder_2": {
-  "seed": 12,
-  "ok": true,
-  "note": "Ladder on shoulder; others hold sticks; rechecked"
- },
- "ladder_3": {
-  "seed": 12,
-  "ok": true,
-  "note": "Sets ladder, G-man peeks from hedge; rechecked"
- },
- "ladder_4": {
-  "seed": 13,
-  "ok": true,
-  "note": "G-man stepping up, grandfather holds ladder; rechecked"
- },
- "ladder_5": {
-  "seed": 11,
-  "ok": true,
-  "note": "Hands in pockets, clouds; rechecked"
- },
- "ladder_6": {
-  "seed": 11,
-  "ok": true,
-  "note": "Ladder on garage, no text; rechecked"
- },
- "names_1": {
-  "seed": 11,
-  "ok": true,
-  "note": "Girl asks G-man; rechecked"
- },
- "names_2": {
-  "seed": 63,
-  "ok": true,
-  "note": "rescue2: Girl writing, plain gray van with antenna; girl young"
- },
- "names_3": {
-  "seed": 11,
-  "ok": true,
-  "note": "Pencil on chin, man at window; rechecked"
- },
- "names_4": {
-  "seed": 11,
-  "ok": true,
-  "note": "Girl waves to G-man, no text; rechecked"
- },
- "names_5": {
-  "seed": 63,
-  "ok": true,
-  "note": "rescue2: Crude stick figure, brown hat, crayons; adult hand"
- },
- "rain_1": {
-  "seed": 14,
-  "ok": true,
-  "note": "Newspaper only fine print; rain bench"
- },
- "rain_2": {
-  "seed": 13,
-  "ok": true,
-  "note": "Umbrella over both; 12 extra people, 14 figure in window"
- },
- "rain_3": {
-  "seed": 14,
-  "ok": true,
-  "note": "Walking under umbrella together"
- },
- "rain_4": {
-  "seed": 11,
-  "ok": true,
-  "note": "Wet G-man at kitchen table, stove behind"
- },
- "rain_5": {
-  "seed": 12,
-  "ok": true,
-  "note": "Serving soup with spoon, not ladle"
- },
- "rain_6": {
-  "seed": 14,
-  "ok": true,
-  "note": "Handing newspaper at door; small print only"
- },
- "binoculars_1": {
-  "seed": 12,
-  "ok": true,
-  "note": "Binoculars at bush; 14 has extra hand"
- },
- "binoculars_2": {
-  "seed": 12,
-  "ok": true,
-  "note": "Grinning through binoculars, truck behind"
- },
- "binoculars_3": {
-  "seed": 11,
-  "ok": true,
-  "note": "Binoculars and handkerchief, hands fine"
- },
- "binoculars_4": {
-  "seed": 46,
-  "ok": true,
-  "note": "rescue1: tongue out, mostly blank note"
- },
- "binoculars_5": {
-  "seed": 11,
-  "ok": true,
-  "note": "Boy hands binoculars to G-man at van door"
- },
- "birthday_1": {
-  "seed": 62,
-  "ok": true,
-  "note": "rescue2: Circling date on plain calendar, side view"
- },
- "birthday_2": {
-  "seed": 12,
-  "ok": true,
-  "note": "Decorating cake with berries"
- },
- "birthday_3": {
-  "seed": 12,
-  "ok": true,
-  "note": "Two candles; 11 three candles, 14 extra hand"
- },
- "birthday_4": {
-  "seed": 11,
-  "ok": true,
-  "note": "Carrying candlelit cake near panel truck"
- },
- "birthday_5": {
-  "seed": 12,
-  "ok": true,
-  "note": "Singing with cake; 11 and 13 duplicated woman"
- },
- "birthday_6": {
-  "seed": 12,
-  "ok": true,
-  "note": "Cake on hood; 11 grille text, 13 man and barcode"
- },
- "lunch_1": {
-  "seed": 12,
-  "ok": true,
-  "note": "Making ham sandwich, man at window"
- },
- "lunch_2": {
-  "seed": 11,
-  "ok": true,
-  "note": "Sandwich wrapped in paper; others look like plastic"
- },
- "lunch_3": {
-  "seed": 12,
-  "ok": true,
-  "note": "Polishing apple; 11 modern coffee maker"
- },
- "lunch_4": {
-  "seed": 12,
-  "ok": true,
-  "note": "Two sacks on table; clean"
- },
- "lunch_5": {
-  "seed": 12,
-  "ok": true,
-  "note": "Sacks on hood; 11 people in cab"
- },
- "thermos_1": {
-  "seed": 12,
-  "ok": true,
-  "note": "Stirring milk; 11 duplicate grandmother"
- },
- "thermos_2": {
-  "seed": 12,
-  "ok": true,
-  "note": "Spooning cocoa into milk"
- },
- "thermos_3": {
-  "seed": 11,
-  "ok": true,
-  "note": "Plaid thermos beside steaming kettle"
- },
- "thermos_4": {
-  "seed": 47,
-  "ok": true,
-  "note": "rescue1: pouring from saucepan into plaid thermos"
- },
- "thermos_5": {
-  "seed": 62,
-  "ok": true,
-  "note": "rescue2: Clean handoff of plaid thermos at van"
- },
- "thermos_6": {
-  "seed": 13,
-  "ok": true,
-  "note": "Thermos on step, arm reaching in; 11 and 12 text"
- },
- "pie_1": {
-  "seed": 12,
-  "ok": true,
-  "note": "Rolling dough with rolling pin, hands fine"
- },
- "pie_2": {
-  "seed": 11,
-  "ok": true,
-  "note": "Spooning cherry filling, man at window; 12 two men"
- },
- "pie_3": {
-  "seed": 12,
-  "ok": true,
-  "note": "Two hands crimping crust edge"
- },
- "pie_4": {
-  "seed": 14,
-  "ok": true,
-  "note": "Lattice pie from oven, man at window; 11 and 12 text"
- },
- "pie_5": {
-  "seed": 12,
-  "ok": true,
-  "note": "Cherry pie on sill with checked curtains"
- },
- "meatloaf_1": {
-  "seed": 13,
-  "ok": true,
-  "note": "Glazed meatloaf on platter on counter"
- },
- "meatloaf_2": {
-  "seed": 12,
-  "ok": true,
-  "note": "Peering through magnifying glass at meatloaf"
- },
- "meatloaf_3": {
-  "seed": 11,
-  "ok": true,
-  "note": "Slicing meatloaf, man at window"
- },
- "meatloaf_4": {
-  "seed": 13,
-  "ok": true,
-  "note": "Fork tapping slice, G-man in hedge"
- },
- "meatloaf_5": {
-  "seed": 12,
-  "ok": true,
-  "note": "Fork raised at family table, man at window"
- },
- "meatloaf_6": {
-  "seed": 11,
-  "ok": true,
-  "note": "Meatloaf, potatoes, peas, unlabeled ketchup; 12 and 14 labels"
- },
- "gelatin_1": {
-  "seed": 11,
-  "ok": true,
-  "note": "Stirring green liquid in glass bowl"
- },
- "gelatin_2": {
-  "seed": 13,
-  "ok": true,
-  "note": "Pears and cherries in fluted mold; 12 and 14 extra hands"
- },
- "gelatin_3": {
-  "seed": 41,
-  "ok": true,
-  "note": "rescue1: ring mold into open fridge"
- },
- "gelatin_4": {
-  "seed": 12,
-  "ok": true,
-  "note": "Holding plate with clear green ring mold"
- },
- "gelatin_5": {
-  "seed": 13,
-  "ok": true,
-  "note": "Green ring held up before sunny window"
- },
- "centerpiece_1": {
-  "seed": 13,
-  "ok": true,
-  "note": "Setting table, man at window; 12 extra man"
- },
- "centerpiece_2": {
-  "seed": 13,
-  "ok": true,
-  "note": "Fruit bowl with microphone and black wire"
- },
- "centerpiece_3": {
-  "seed": 46,
-  "ok": true,
-  "note": "rescue1: lit candles, man at window; not match-lighting"
- },
- "centerpiece_4": {
-  "seed": 11,
-  "ok": true,
-  "note": "Carrying roast chicken on platter into dining room"
- },
- "centerpiece_5": {
-  "seed": 13,
-  "ok": true,
-  "note": "Four adults chatting at candlelit table"
- },
- "centerpiece_6": {
-  "seed": 61,
-  "ok": true,
-  "note": "rescue2: Blowing two candles, smoke; flames barely bend"
- },
- "cookies_1": {
-  "seed": 11,
-  "ok": true,
-  "note": "Rolling dough; girl looks younger than ten"
- },
- "cookies_2": {
-  "seed": 14,
-  "ok": true,
-  "note": "Clear star cutter, truck with antenna"
- },
- "cookies_3": {
-  "seed": 64,
-  "ok": true,
-  "note": "rescue2: Nose near closed oven glass; girl looks young"
- },
- "cookies_4": {
-  "seed": 13,
-  "ok": true,
-  "note": "Stars and hearts in tin; 12 and 14 tin text"
- },
- "cookies_5": {
-  "seed": 13,
-  "ok": true,
-  "note": "Girl hands tin to G-man; 12 and 14 extra men"
- },
- "trim_1": {
-  "seed": 11,
-  "ok": true,
-  "note": "Lens poking out of hedge by white house"
- },
- "trim_2": {
-  "seed": 14,
-  "ok": true,
-  "note": "String along hedge top; 11 duplicate man"
- },
- "trim_3": {
-  "seed": 14,
-  "ok": true,
-  "note": "Long two-handed shears, hands correct"
- },
- "trim_4": {
-  "seed": 61,
-  "ok": true,
-  "note": "rescue2: Shears with two hands, small lens in leaves"
- },
- "trim_5": {
-  "seed": 11,
-  "ok": true,
-  "note": "Raking clippings into baskets"
- },
- "trim_6": {
-  "seed": 14,
-  "ok": true,
-  "note": "Admiring hedge, blank truck with tall antenna"
- },
- "mow_1": {
-  "seed": 45,
-  "ok": true,
-  "note": "rescue1: wingtips under rhododendron, no hands"
- },
- "mow_2": {
-  "seed": 48,
-  "ok": true,
-  "note": "rescue1: reel mower, boy blowing whistle"
- },
- "mow_3": {
-  "seed": 11,
-  "ok": true,
-  "note": "G-man crouching in rhododendron, tucking feet"
- },
- "mow_4": {
-  "seed": 41,
-  "ok": true,
-  "note": "rescue1: reel mower, stripes, G-man peeking"
- },
- "mow_5": {
-  "seed": 41,
-  "ok": true,
-  "note": "rescue1: reel mower around rhododendron"
- },
- "laundry_1": {
-  "seed": 11,
-  "ok": true,
-  "note": "Carrying wicker basket of sheets into backyard"
- },
- "laundry_2": {
-  "seed": 12,
-  "ok": true,
-  "note": "Hanging sheets, van behind; van has side windows"
- },
- "laundry_3": {
-  "seed": 12,
-  "ok": true,
-  "note": "Clean row of sheets on line"
- },
- "laundry_4": {
-  "seed": 12,
-  "ok": true,
-  "note": "Single clean hand pinning sheet"
- },
- "laundry_5": {
-  "seed": 13,
-  "ok": true,
-  "note": "Lens in birdhouse, two natural hands"
- },
- "laundry_6": {
-  "seed": 11,
-  "ok": true,
-  "note": "Hands on hips, G-man in hedge"
- },
- "birdhouse_1": {
-  "seed": 12,
-  "ok": true,
-  "note": "Clean birdhouse with lens on pole"
- },
- "birdhouse_2": {
-  "seed": 13,
-  "ok": true,
-  "note": "Hanging feeder with seed; pouring only implied"
- },
- "birdhouse_3": {
-  "seed": 14,
-  "ok": true,
-  "note": "Bench, bird book, G-man in hedge"
- },
- "birdhouse_4": {
-  "seed": 13,
-  "ok": true,
-  "note": "Pointing at cardinal on feeder"
- },
- "birdhouse_5": {
-  "seed": 13,
-  "ok": true,
-  "note": "Binoculars at birdhouse, clean hands"
- },
- "rake_1": {
-  "seed": 13,
-  "ok": true,
-  "note": "Fedora atop leaf pile, clean"
- },
- "rake_2": {
-  "seed": 11,
-  "ok": true,
-  "note": "Raking, truck behind; 14 has two rakes"
- },
- "rake_3": {
-  "seed": 62,
-  "ok": true,
-  "note": "rescue2: Hat and sunglasses atop heap, rake beside"
- },
- "rake_4": {
-  "seed": 12,
-  "ok": true,
-  "note": "Pointing to garage, G-man in hedge"
- },
- "rake_5": {
-  "seed": 12,
-  "ok": true,
-  "note": "Stuffing leaves into burlap sack"
- },
- "rake_6": {
-  "seed": 45,
-  "ok": true,
-  "note": "rescue1: grandpa pours cider from thermos for G-man"
- },
- "trash_1": {
-  "seed": 13,
-  "ok": true,
-  "note": "Rinsing can under running tap"
- },
- "trash_2": {
-  "seed": 13,
-  "ok": true,
-  "note": "Kneeling with bags, man at window"
- },
- "trash_3": {
-  "seed": 44,
-  "ok": true,
-  "note": "rescue1: twine-tied bundle, small newsprint only"
- },
- "trash_4": {
-  "seed": 12,
-  "ok": true,
-  "note": "Carrying can at curb, truck behind"
- },
- "trash_5": {
-  "seed": 12,
-  "ok": true,
-  "note": "Two cans, porch light on"
- },
- "sprinkler_1": {
-  "seed": 11,
-  "ok": true,
-  "note": "Dragging hose, G-man in hedge; 12 two G-men"
- },
- "sprinkler_2": {
-  "seed": 13,
-  "ok": true,
-  "note": "Spraying sprinkler, truck with antenna"
- },
- "sprinkler_3": {
-  "seed": 14,
-  "ok": true,
-  "note": "Ringing brass bell on lawn"
- },
- "sprinkler_4": {
-  "seed": 13,
-  "ok": true,
-  "note": "Hurrying from hedge; wears and holds a hat"
- },
- "sprinkler_5": {
-  "seed": 14,
-  "ok": true,
-  "note": "Turning tap, water flowing"
- },
- "sprinkler_6": {
-  "seed": 11,
-  "ok": true,
-  "note": "Running through sprinkler; others have text"
- },
- "letter_1": {
-  "seed": 12,
-  "ok": true,
-  "note": "Desk by window, man peering in"
- },
- "letter_2": {
-  "seed": 42,
-  "ok": true,
-  "note": "rescue1: fountain pen, faint small scribbles"
- },
- "letter_3": {
-  "seed": 13,
-  "ok": true,
-  "note": "Smiling writing with teacup; faint lines only"
- },
- "letter_4": {
-  "seed": 42,
-  "ok": true,
-  "note": "rescue1: laughing grandma writing, windowless truck behind"
- },
- "letter_5": {
-  "seed": 64,
-  "ok": true,
-  "note": "rescue2: Tongue on flap, clear glasses"
- },
- "steamed_1": {
-  "seed": 13,
-  "ok": true,
-  "note": "Taking mail from box, G-man in hedge"
- },
- "steamed_2": {
-  "seed": 13,
-  "ok": true,
-  "note": "Crinkled envelope, clean hands"
- },
- "steamed_3": {
-  "seed": 12,
-  "ok": true,
-  "note": "Magnifier on envelope, man at window"
- },
- "steamed_4": {
-  "seed": 14,
-  "ok": true,
-  "note": "Envelope held over steaming kettle"
- },
- "steamed_5": {
-  "seed": 42,
-  "ok": true,
-  "note": "rescue1: writing note, letters, windowless truck, antenna"
- },
- "steamed_6": {
-  "seed": 13,
-  "ok": true,
-  "note": "Opening envelope with opener"
- },
- "triplicate_1": {
-  "seed": 11,
-  "ok": true,
-  "note": "Papers spread, man at window"
- },
- "triplicate_2": {
-  "seed": 11,
-  "ok": true,
-  "note": "Single clean hand on colored stack"
- },
- "triplicate_3": {
-  "seed": 46,
-  "ok": true,
-  "note": "rescue1: writing form, G-man by hedge, no big text"
- },
- "triplicate_4": {
-  "seed": 11,
-  "ok": true,
-  "note": "Scratching head, pencil, form"
- },
- "triplicate_5": {
-  "seed": 46,
-  "ok": true,
-  "note": "rescue1: signing form, tiny squiggle only"
- },
- "census_1": {
-  "seed": 11,
-  "ok": true,
-  "note": "Knocking with clipboard; 14 modern doorbell"
- },
- "census_2": {
-  "seed": 45,
-  "ok": true,
-  "note": "rescue1: grandpa offers chair to agent with clipboard"
- },
- "census_3": {
-  "seed": 12,
-  "ok": true,
-  "note": "Counting on fingers, hands acceptable"
- },
- "census_4": {
-  "seed": 13,
-  "ok": true,
-  "note": "Grandpa gesturing, agent writing"
- },
- "census_5": {
-  "seed": 42,
-  "ok": true,
-  "note": "rescue1: hand writing on clipboard, small handwriting"
- },
- "census_6": {
-  "seed": 12,
-  "ok": true,
-  "note": "Waving goodbye, agent on path"
- },
- "receipts_1": {
-  "seed": 12,
-  "ok": true,
-  "note": "Receipt handover, man at window"
- },
- "receipts_2": {
-  "seed": 14,
-  "ok": true,
-  "note": "Receipt into handbag, windowless panel van"
- },
- "receipts_3": {
-  "seed": 41,
-  "ok": true,
-  "note": "rescue1: box of receipts with tabs, small print"
- },
- "receipts_4": {
-  "seed": 11,
-  "ok": true,
-  "note": "Sorting receipts into box; 12 has box text"
- },
- "receipts_5": {
-  "seed": 13,
-  "ok": true,
-  "note": "Holding up receipt to agent, no text"
- },
- "postcard_1": {
-  "seed": 13,
-  "ok": true,
-  "note": "Picking postcard, man at window"
- },
- "postcard_2": {
-  "seed": 48,
-  "ok": true,
-  "note": "rescue1: boy writing postcard, man at window"
- },
- "postcard_3": {
-  "seed": 61,
-  "ok": true,
-  "note": "rescue2: Lake postcard and pencil; hands holding it"
- },
- "postcard_4": {
-  "seed": 14,
-  "ok": true,
-  "note": "Pressing stamp on postcard"
- },
- "postcard_5": {
-  "seed": 14,
-  "ok": true,
-  "note": "Dropping postcard into mailbox"
- },
- "postcard_6": {
-  "seed": 11,
-  "ok": true,
-  "note": "Mailman hands postcard through van window"
- },
- "explain_1": {
-  "seed": 13,
-  "ok": true,
-  "note": "Surprised with fork, man at window"
- },
- "explain_2": {
-  "seed": 11,
-  "ok": true,
-  "note": "Man between kids with milk on steps"
- },
- "explain_3": {
-  "seed": 13,
-  "ok": true,
-  "note": "Pointing at blank truck with antenna"
- },
- "explain_4": {
-  "seed": 11,
-  "ok": true,
-  "note": "Explaining with hands to two kids"
- },
- "explain_5": {
-  "seed": 12,
-  "ok": true,
-  "note": "Ruffling boy's hair"
- },
- "spykit_1": {
-  "seed": 63,
-  "ok": true,
-  "note": "rescue2: Lifting empty box lid, fedora man at window"
- },
- "spykit_2": {
-  "seed": 13,
-  "ok": true,
-  "note": "Taping cardboard, man at window; no text"
- },
- "spykit_3": {
-  "seed": 48,
-  "ok": true,
-  "note": "rescue1: magnifier, notebook, pencil, sunglasses in box"
- },
- "spykit_4": {
-  "seed": 11,
-  "ok": true,
-  "note": "Putting on sunglasses, G-man in hedge"
- },
- "spykit_5": {
-  "seed": 11,
-  "ok": true,
-  "note": "Periscope raised above hedge"
- },
- "spykit_6": {
-  "seed": 12,
-  "ok": true,
-  "note": "Writing in notebook, G-man eating by van"
- },
- "bedtime_1": {
-  "seed": 11,
-  "ok": true,
-  "note": "Tucking child in, man at window"
- },
- "bedtime_2": {
-  "seed": 11,
-  "ok": true,
-  "note": "Lamp with tiny mic under base"
- },
- "bedtime_3": {
-  "seed": 11,
-  "ok": true,
-  "note": "Opening picture book under lamp, man at window"
- },
- "bedtime_4": {
-  "seed": 11,
-  "ok": true,
-  "note": "Funny-voice reading to sleepy girl"
- },
- "bedtime_5": {
-  "seed": 13,
-  "ok": true,
-  "note": "Headphones in van, soft smile"
- },
- "dog_1": {
-  "seed": 11,
-  "ok": true,
-  "note": "Scottie barking at G-man"
- },
- "dog_2": {
-  "seed": 14,
-  "ok": true,
-  "note": "Hanging coat and hat on hook, dog watches"
- },
- "dog_3": {
-  "seed": 14,
-  "ok": true,
-  "note": "Giving biscuit to Scottie"
- },
- "dog_4": {
-  "seed": 41,
-  "ok": true,
-  "note": "rescue1: girl with scottie, G-man walking past"
- },
- "dog_5": {
-  "seed": 14,
-  "ok": true,
-  "note": "Kneeling and talking to dog"
- },
- "dog_6": {
-  "seed": 12,
-  "ok": true,
-  "note": "Shaking paws, clean anatomy"
- },
- "hideseek_1": {
-  "seed": 14,
-  "ok": true,
-  "note": "Covering eyes at tree; 11/12 extra hand"
- },
- "hideseek_2": {
-  "seed": 11,
-  "ok": true,
-  "note": "Boy sneaking behind shed, antenna truck behind"
- },
- "hideseek_3": {
-  "seed": 12,
-  "ok": true,
-  "note": "Grinning boy crouched beside barrel, clean hands"
- },
- "hideseek_4": {
-  "seed": 11,
-  "ok": true,
-  "note": "Agent pointing at crouching boy by barrel"
- },
- "hideseek_5": {
-  "seed": 11,
-  "ok": true,
-  "note": "Boy looking up into tree; 12 and 13 have text"
- },
- "photo_1": {
-  "seed": 13,
-  "ok": true,
-  "note": "Grandfather lining up family; 11/12 duplicate old man"
- },
- "photo_2": {
-  "seed": 11,
-  "ok": true,
-  "note": "Grandfather with old camera; rangefinder not box camera"
- },
- "photo_3": {
-  "seed": 11,
-  "ok": true,
-  "note": "Grandfather waving agent over by hedge"
- },
- "photo_4": {
-  "seed": 11,
-  "ok": true,
-  "note": "Agent smiling, adjusting fedora brim"
- },
- "photo_5": {
-  "seed": 48,
-  "ok": true,
-  "note": "rescue1: correct five people posed on lawn"
- },
- "photo_6": {
-  "seed": 64,
-  "ok": true,
-  "note": "rescue2: Snapshot on envelope on hood; one hand at edge"
- },
- "secret_1": {
-  "seed": 42,
-  "ok": true,
-  "note": "rescue1: grandma writes word, man at window, tiny text"
- },
- "secret_2": {
-  "seed": 62,
-  "ok": true,
-  "note": "rescue2: Note passed below tabletop; not truly low view"
- },
- "secret_3": {
-  "seed": 68,
-  "ok": true,
-  "note": "rescue2: Cupped hand whisper, agent leaning in"
- },
- "secret_4": {
-  "seed": 13,
-  "ok": true,
-  "note": "Agent carrying cake into open van"
- },
- "secret_5": {
-  "seed": 12,
-  "ok": true,
-  "note": "Grandmother tying balloon strings to lamp"
- },
- "bridge_1": {
-  "seed": 12,
-  "ok": false,
-  "note": "rescue2 failed: All tables already set up; no leg unfolding"
- },
- "bridge_2": {
-  "seed": 13,
-  "ok": true,
-  "note": "Grandmother at car window of lady agent"
- },
- "bridge_3": {
-  "seed": 14,
-  "ok": true,
-  "note": "Pouring tea from floral teapot into cup"
- },
- "bridge_4": {
-  "seed": 14,
-  "ok": true,
-  "note": "Two hands dealing cards beside teacups"
- },
- "bridge_5": {
-  "seed": 12,
-  "ok": true,
-  "note": "Both women playing cards with teacups"
- },
- "bridge_6": {
-  "seed": 12,
-  "ok": true,
-  "note": "Goodbye handshake at front door"
- },
- "movies_1": {
-  "seed": 12,
-  "ok": true,
-  "note": "Hanging sheet in window; 11/13/14 have three hands"
- },
- "movies_2": {
-  "seed": 13,
-  "ok": true,
-  "note": "Threading film, man at window; 12 extra man"
- },
- "movies_3": {
-  "seed": 11,
-  "ok": true,
-  "note": "Popcorn pan at stove, popcorn spilling"
- },
- "movies_4": {
-  "seed": 13,
-  "ok": true,
-  "note": "Handing popcorn bowl to agent at van"
- },
- "movies_5": {
-  "seed": 62,
-  "ok": true,
-  "note": "rescue2: Canyon on sheet, beam inside room"
- },
- "blockparty_1": {
-  "seed": 63,
-  "ok": true,
-  "note": "rescue2: Counting fingers, one fedora man at window"
- },
- "blockparty_2": {
-  "seed": 42,
-  "ok": true,
-  "note": "rescue1: card under wiper of windowless box truck"
- },
- "blockparty_3": {
-  "seed": 11,
-  "ok": true,
-  "note": "Checked-cloth tables on suburban street"
- },
- "blockparty_4": {
-  "seed": 11,
-  "ok": true,
-  "note": "Hanging paper lantern on string between trees"
- },
- "blockparty_5": {
-  "seed": 13,
-  "ok": true,
-  "note": "Ladling red punch for agent"
- },
- "blockparty_6": {
-  "seed": 11,
-  "ok": true,
-  "note": "G-man pitching horseshoe; 12 has sign text"
- },
- "thanksgiving_1": {
-  "seed": 65,
-  "ok": true,
-  "note": "rescue2: Board dropped into table gap, one watcher"
- },
- "thanksgiving_2": {
-  "seed": 13,
-  "ok": true,
-  "note": "Setting plate, man peering in window"
- },
- "thanksgiving_3": {
-  "seed": 12,
-  "ok": true,
-  "note": "Blank place card on plate, one clean hand"
- },
- "thanksgiving_4": {
-  "seed": 11,
-  "ok": true,
-  "note": "Knocking on truck with antenna; side not back"
- },
- "thanksgiving_5": {
-  "seed": 12,
-  "ok": true,
-  "note": "Single father carving; 11 has two men"
- },
- "picnic_1": {
-  "seed": 12,
-  "ok": true,
-  "note": "Packing basket; 13 has modern steel fridge"
- },
- "picnic_2": {
-  "seed": 12,
-  "ok": true,
-  "note": "Spreading checked tablecloth in park"
- },
- "picnic_3": {
-  "seed": 11,
-  "ok": true,
-  "note": "Waving at agent; agent not half hidden"
- },
- "picnic_4": {
-  "seed": 11,
-  "ok": true,
-  "note": "Two G-men eating potato salad"
- },
- "picnic_5": {
-  "seed": 64,
-  "ok": true,
-  "note": "rescue2: Ankles tied, laughing; dusk not sunny"
- },
- "picnic_6": {
-  "seed": 14,
-  "ok": true,
-  "note": "Clean handshake at picnic"
- },
- "chacha_1": {
-  "seed": 12,
-  "ok": true,
-  "note": "Agent by wall with streamers; 11 has text"
- },
- "chacha_2": {
-  "seed": 11,
-  "ok": true,
-  "note": "Girl marching on floor, antenna truck behind"
- },
- "chacha_3": {
-  "seed": 11,
-  "ok": true,
-  "note": "Girl arms out dancing; pigtails not ponytail"
- },
- "chacha_4": {
-  "seed": 11,
-  "ok": true,
-  "note": "Girl clapping, agent dancing, limbs correct"
- },
- "chacha_5": {
-  "seed": 13,
-  "ok": true,
-  "note": "Agents dancing stiffly hand in hand"
- },
- "nothing_1": {
-  "seed": 45,
-  "ok": true,
-  "note": "rescue1: writing at desk, man at window; small paper text"
- },
- "nothing_2": {
-  "seed": 11,
-  "ok": false,
-  "note": "rescue2 failed: All mowers have engines; others extra G-men"
- },
- "nothing_3": {
-  "seed": 11,
-  "ok": true,
-  "note": "Family walking at white church; 12 sign"
- },
- "nothing_4": {
-  "seed": 12,
-  "ok": true,
-  "note": "Tipping hat over fence; others have text"
- },
- "nothing_5": {
-  "seed": 13,
-  "ok": true,
-  "note": "Agent yawning at typewriter in van"
- },
- "nothing_6": {
-  "seed": 12,
-  "ok": true,
-  "note": "Sleeping peacefully smiling"
- },
- "thanks_1": {
-  "seed": 11,
-  "ok": true,
-  "note": "Taking paper from drawer, man at window"
- },
- "thanks_2": {
-  "seed": 62,
-  "ok": true,
-  "note": "rescue2: Nib on blank stationery, inkwell"
- },
- "thanks_3": {
-  "seed": 11,
-  "ok": true,
-  "note": "Writing letter; 12 and 14 have text signs"
- },
- "thanks_4": {
-  "seed": 42,
-  "ok": true,
-  "note": "rescue1: dog paw on letter, man at window"
- },
- "thanks_5": {
-  "seed": 42,
-  "ok": true,
-  "note": "rescue1: folding envelope flap, small handwriting"
- },
- "goodbye_1": {
-  "seed": 11,
-  "ok": true,
-  "note": "Truck with exhaust and antenna at dawn"
- },
- "goodbye_2": {
-  "seed": 12,
-  "ok": true,
-  "note": "Girl running across lawn toward gray van"
- },
- "goodbye_3": {
-  "seed": 11,
-  "ok": true,
-  "note": "Lunch sack handoff; 12 duplicate agent"
- },
- "goodbye_4": {
-  "seed": 12,
-  "ok": true,
-  "note": "Girl holding sunglasses; 13 two girls"
- },
- "goodbye_5": {
-  "seed": 12,
-  "ok": true,
-  "note": "Waving both arms; 13 has three arms"
- },
- "goodbye_6": {
-  "seed": 11,
-  "ok": true,
-  "note": "Crying with hanky, hugged by mother"
- },
- "newvan_1": {
-  "seed": 13,
-  "ok": true,
-  "note": "Shiny gray van with antenna on street"
- },
- "newvan_2": {
-  "seed": 11,
-  "ok": true,
-  "note": "Carrying folding chair toward truck"
- },
- "newvan_3": {
-  "seed": 11,
-  "ok": true,
-  "note": "Pouring coffee for agent by van"
- },
- "newvan_4": {
-  "seed": 12,
-  "ok": true,
-  "note": "Seated grandfather talking with gesturing agent"
- },
- "newvan_5": {
-  "seed": 13,
-  "ok": true,
-  "note": "Showing photo album to agent"
- },
- "file_1": {
-  "seed": 13,
-  "ok": true,
-  "note": "Tied envelope on mat; 11 three hands, 14 text"
- },
- "file_2": {
-  "seed": 13,
-  "ok": true,
-  "note": "Tea and glasses in armchair, man at window"
- },
- "file_3": {
-  "seed": 12,
-  "ok": true,
-  "note": "Untying string on brown envelope"
- },
- "file_4": {
-  "seed": 46,
-  "ok": true,
-  "note": "rescue1: laughing grandma reading papers, faint print"
- },
- "file_5": {
-  "seed": 13,
-  "ok": false,
-  "note": "rescue2 failed: All show legible-looking fake type"
- },
- "file_6": {
-  "seed": 68,
-  "ok": true,
-  "note": "rescue2: Plain brown envelope handed at door"
- },
- "porchlight_1": {
-  "seed": 11,
-  "ok": true,
-  "note": "Washing at sink, one man at window"
- },
- "porchlight_2": {
-  "seed": 14,
-  "ok": true,
-  "note": "Cream shawl, smiling in hallway"
- },
- "porchlight_3": {
-  "seed": 12,
-  "ok": true,
-  "note": "Switching porch light by door"
- },
- "porchlight_4": {
-  "seed": 12,
-  "ok": true,
-  "note": "Truck under streetlight, porch light glowing"
- },
- "porchlight_5": {
-  "seed": 12,
-  "ok": true,
-  "note": "Waving in lit doorway"
- }
+"van_1": {
+"seed": 11,
+"ok": true,
+"note": "Man at curtained window with coffee, van outside, clean"
+},
+"van_2": {
+"seed": 14,
+"ok": true,
+"note": "Gray delivery truck with antenna, blank sides; night not morning"
+},
+"van_3": {
+"seed": 64,
+"ok": true,
+"note": "rescue2: Plain smooth gray side, no text"
+},
+"van_4": {
+"seed": 11,
+"ok": true,
+"note": "Agent reading map in driver seat, hands fine"
+},
+"van_5": {
+"seed": 13,
+"ok": true,
+"note": "Points finger, not thumb, at window; otherwise clean"
+},
+"van_6": {
+"seed": 11,
+"ok": true,
+"note": "Walking past van with briefcase; s13 has two briefcases"
+},
+"newspaper_1": {
+"seed": 101,
+"ok": true,
+"note": "round4"
+},
+"newspaper_2": {
+"seed": 41,
+"ok": true,
+"note": "rescue1: peeking over paper, only small print"
+},
+"newspaper_3": {
+"seed": 43,
+"ok": true,
+"note": "rescue1: web touches hat, leaves on shoes; small headline"
+},
+"newspaper_4": {
+"seed": 42,
+"ok": true,
+"note": "rescue1: housewife greets man, small print only"
+},
+"newspaper_5": {
+"seed": 64,
+"ok": true,
+"note": "rescue2: She offers paper; he reads rather than peeks"
+},
+"hedgecam_1": {
+"seed": 46,
+"ok": true,
+"note": "rescue1: lens poking from hedge, glint, white house"
+},
+"hedgecam_2": {
+"seed": 41,
+"ok": true,
+"note": "rescue1: hands behind back, nose near lens"
+},
+"hedgecam_3": {
+"seed": 104,
+"ok": true,
+"note": "round4"
+},
+"hedgecam_4": {
+"seed": 12,
+"ok": true,
+"note": "Trimming hedge with long shears, hands fine"
+},
+"hedgecam_5": {
+"seed": 11,
+"ok": true,
+"note": "Agent at house corner; s12 ownerless hand, s13 duplicate"
+},
+"hedgecam_6": {
+"seed": 14,
+"ok": true,
+"note": "Waving at hedge on path, hands fine"
+},
+"wave_1": {
+"seed": 11,
+"ok": true,
+"note": "Girl with satchel at door, agent in hedge; s12 extra man"
+},
+"wave_2": {
+"seed": 14,
+"ok": true,
+"note": "Windowless van with antenna under maples, blank plate"
+},
+"wave_3": {
+"seed": 11,
+"ok": true,
+"note": "Girl waving big, truck with antenna; small side window"
+},
+"wave_4": {
+"seed": 13,
+"ok": true,
+"note": "Curtain lifted at corner, no stray hands"
+},
+"wave_5": {
+"seed": 11,
+"ok": true,
+"note": "Cupped hands, calling; girl looks younger than ten"
+},
+"fedora_1": {
+"seed": 11,
+"ok": true,
+"note": "Grandma on bench, agent in hedge, no sign text"
+},
+"fedora_2": {
+"seed": 63,
+"ok": true,
+"note": "rescue2: Brim low, hat shop windows; night scene"
+},
+"fedora_3": {
+"seed": 12,
+"ok": true,
+"note": "Agent by flowering tree, clean"
+},
+"fedora_4": {
+"seed": 12,
+"ok": true,
+"note": "Fedora and sunglasses close-up, no hands, clean"
+},
+"fedora_5": {
+"seed": 46,
+"ok": true,
+"note": "rescue1: three G-men at counter, hands fine"
+},
+"fedora_6": {
+"seed": 13,
+"ok": true,
+"note": "Grandma on bench nodding at passing agent"
+},
+"unpack_1": {
+"seed": 12,
+"ok": true,
+"note": "Cake from oven, fedora man at window; s11 digital oven"
+},
+"unpack_2": {
+"seed": 41,
+"ok": true,
+"note": "rescue1: plain box stack, closed curtains"
+},
+"unpack_3": {
+"seed": 42,
+"ok": true,
+"note": "rescue1: cake, door, windowless truck with antenna"
+},
+"unpack_4": {
+"seed": 14,
+"ok": true,
+"note": "Agent in suit peering from door gap, hands fine"
+},
+"unpack_5": {
+"seed": 12,
+"ok": true,
+"note": "Coffee cake handed to agent at door, hands fine"
+},
+"smile_1": {
+"seed": 12,
+"ok": true,
+"note": "Combing hair at bathroom sink; s13 has two combs"
+},
+"smile_2": {
+"seed": 13,
+"ok": true,
+"note": "Straightening tie, agent behind hedge; s12 extra man"
+},
+"smile_3": {
+"seed": 11,
+"ok": true,
+"note": "Hands on hips on porch, clean"
+},
+"smile_4": {
+"seed": 12,
+"ok": true,
+"note": "Waving at lens in hedge, faint lens markings"
+},
+"smile_5": {
+"seed": 13,
+"ok": true,
+"note": "Tipping fedora toward van, clean"
+},
+"smile_6": {
+"seed": 63,
+"ok": true,
+"note": "rescue2: Pursed whistle, briefcase, tree-lined street"
+},
+"click_1": {
+"seed": 11,
+"ok": true,
+"note": "Lifting receiver from phone on table, clean"
+},
+"click_2": {
+"seed": 12,
+"ok": true,
+"note": "Listening with raised brows, hand fine"
+},
+"click_3": {
+"seed": 64,
+"ok": true,
+"note": "rescue2: Lone G-man, headphones, two-reel recorder"
+},
+"click_4": {
+"seed": 11,
+"ok": true,
+"note": "Smiling on phone, hand fine"
+},
+"click_5": {
+"seed": 42,
+"ok": true,
+"note": "rescue1: grandma on rotary phone with tea"
+},
+"tape_1": {
+"seed": 11,
+"ok": true,
+"note": "Clearing throat by phone, fedora man at window"
+},
+"tape_2": {
+"seed": 12,
+"ok": true,
+"note": "Sitting straight with receiver, watcher at window"
+},
+"tape_3": {
+"seed": 11,
+"ok": true,
+"note": "On phone with antenna truck behind, clean"
+},
+"tape_4": {
+"seed": 63,
+"ok": true,
+"note": "rescue2: Typing, reel-to-reel on shelf; fedora not small hat"
+},
+"tape_5": {
+"seed": 14,
+"ok": true,
+"note": "Reel recorder close-up, no text, one natural hand"
+},
+"tape_6": {
+"seed": 66,
+"ok": true,
+"note": "rescue2: Receiver set on cradle, clean hands"
+},
+"vase_1": {
+"seed": 11,
+"ok": true,
+"note": "Daisy vase at sink, watcher at window, clean"
+},
+"vase_2": {
+"seed": 14,
+"ok": true,
+"note": "Mic among daisies in glass vase, one hand"
+},
+"vase_3": {
+"seed": 46,
+"ok": true,
+"note": "rescue1: hand over mouth, vase, G-man at hedge"
+},
+"vase_4": {
+"seed": 13,
+"ok": true,
+"note": "Tiny mic with wire on towel; s12 has text"
+},
+"vase_5": {
+"seed": 12,
+"ok": true,
+"note": "Arranging pink roses in vase, hands fine"
+},
+"lamp_1": {
+"seed": 13,
+"ok": true,
+"note": "Armchair, fringed lamp, watcher at window; s11 signature"
+},
+"lamp_2": {
+"seed": 11,
+"ok": true,
+"note": "Switching on fringed lamp, watcher at window"
+},
+"lamp_3": {
+"seed": 11,
+"ok": true,
+"note": "Leaning and talking to lamp, smiling"
+},
+"lamp_4": {
+"seed": 64,
+"ok": true,
+"note": "rescue2: Mouth open reading, tiny print only"
+},
+"lamp_5": {
+"seed": 11,
+"ok": true,
+"note": "Gesturing storyteller in armchair, hands fine"
+},
+"lamp_6": {
+"seed": 11,
+"ok": true,
+"note": "Smiling agent with headphones in van at night"
+},
+"shortcall_1": {
+"seed": 11,
+"ok": true,
+"note": "Writing list, fedora man at window; s12 extra man"
+},
+"shortcall_2": {
+"seed": 13,
+"ok": true,
+"note": "Hand turning white timer, legible numerals, hand fine"
+},
+"shortcall_3": {
+"seed": 13,
+"ok": true,
+"note": "Dialing rotary phone; desk phone not wall-mounted"
+},
+"shortcall_4": {
+"seed": 46,
+"ok": true,
+"note": "rescue1: phone, raised fingers, man at window"
+},
+"shortcall_5": {
+"seed": 14,
+"ok": true,
+"note": "Hanging up wall phone, white timer on counter"
+},
+"lineman_1": {
+"seed": 11,
+"ok": true,
+"note": "Climbing pole via ladder; s14 two men"
+},
+"lineman_2": {
+"seed": 12,
+"ok": true,
+"note": "Low view up pole, man clinging near top"
+},
+"lineman_3": {
+"seed": 13,
+"ok": true,
+"note": "Pouring lemonade into glass, watcher at window"
+},
+"lineman_4": {
+"seed": 12,
+"ok": true,
+"note": "Carrying lemonade on tray across lawn"
+},
+"lineman_5": {
+"seed": 12,
+"ok": true,
+"note": "Handing lemonade to agent at pole, hands fine"
+},
+"lineman_6": {
+"seed": 11,
+"ok": true,
+"note": "Waving goodbye on lawn, clean"
+},
+"goodnight_1": {
+"seed": 12,
+"ok": true,
+"note": "Boy in striped pajamas on bed edge"
+},
+"goodnight_2": {
+"seed": 41,
+"ok": true,
+"note": "rescue1: toy plane with mic and wire, no hands"
+},
+"goodnight_3": {
+"seed": 12,
+"ok": true,
+"note": "Boy toward airplane shelf, agent in hedge behind"
+},
+"goodnight_4": {
+"seed": 11,
+"ok": true,
+"note": "Spelling on fingers in bed; others have letters"
+},
+"goodnight_5": {
+"seed": 11,
+"ok": true,
+"note": "Waving toward shelf from bed; s12 two hands up"
+},
+"welcome_1": {
+"seed": 61,
+"ok": true,
+"note": "rescue2: Casserole lifted from white oven with mitts"
+},
+"welcome_2": {
+"seed": 12,
+"ok": true,
+"note": "Covered glass dish in checked towel, hands fine"
+},
+"welcome_3": {
+"seed": 11,
+"ok": true,
+"note": "Crossing street with casserole toward antenna truck"
+},
+"welcome_4": {
+"seed": 42,
+"ok": true,
+"note": "rescue1: casserole, closed rear doors, antenna"
+},
+"welcome_5": {
+"seed": 11,
+"ok": true,
+"note": "Handing casserole to agent at open van door"
+},
+"welcome_6": {
+"seed": 61,
+"ok": true,
+"note": "rescue2: Clean dish and closed card, no hands"
+},
+"coffee_1": {
+"seed": 14,
+"ok": true,
+"note": "Pours percolator into mugs; rechecked"
+},
+"coffee_2": {
+"seed": 13,
+"ok": true,
+"note": "Two mugs, sugar bowl, tray; rechecked"
+},
+"coffee_3": {
+"seed": 14,
+"ok": true,
+"note": "Putting on plaid jacket; 13 has text; rechecked"
+},
+"coffee_4": {
+"seed": 11,
+"ok": true,
+"note": "Tray, two mugs, panel truck, streetlight; rechecked"
+},
+"coffee_5": {
+"seed": 11,
+"ok": true,
+"note": "Hand on truck door, holding mug; rechecked"
+},
+"ladder_1": {
+"seed": 11,
+"ok": true,
+"note": "Hugging pole; 12/13 have labels; rechecked"
+},
+"ladder_2": {
+"seed": 12,
+"ok": true,
+"note": "Ladder on shoulder; others hold sticks; rechecked"
+},
+"ladder_3": {
+"seed": 12,
+"ok": true,
+"note": "Sets ladder, G-man peeks from hedge; rechecked"
+},
+"ladder_4": {
+"seed": 13,
+"ok": true,
+"note": "G-man stepping up, grandfather holds ladder; rechecked"
+},
+"ladder_5": {
+"seed": 11,
+"ok": true,
+"note": "Hands in pockets, clouds; rechecked"
+},
+"ladder_6": {
+"seed": 11,
+"ok": true,
+"note": "Ladder on garage, no text; rechecked"
+},
+"names_1": {
+"seed": 11,
+"ok": true,
+"note": "Girl asks G-man; rechecked"
+},
+"names_2": {
+"seed": 63,
+"ok": true,
+"note": "rescue2: Girl writing, plain gray van with antenna; girl young"
+},
+"names_3": {
+"seed": 11,
+"ok": true,
+"note": "Pencil on chin, man at window; rechecked"
+},
+"names_4": {
+"seed": 11,
+"ok": true,
+"note": "Girl waves to G-man, no text; rechecked"
+},
+"names_5": {
+"seed": 63,
+"ok": true,
+"note": "rescue2: Crude stick figure, brown hat, crayons; adult hand"
+},
+"rain_1": {
+"seed": 14,
+"ok": true,
+"note": "Newspaper only fine print; rain bench"
+},
+"rain_2": {
+"seed": 13,
+"ok": true,
+"note": "Umbrella over both; 12 extra people, 14 figure in window"
+},
+"rain_3": {
+"seed": 14,
+"ok": true,
+"note": "Walking under umbrella together"
+},
+"rain_4": {
+"seed": 11,
+"ok": true,
+"note": "Wet G-man at kitchen table, stove behind"
+},
+"rain_5": {
+"seed": 12,
+"ok": true,
+"note": "Serving soup with spoon, not ladle"
+},
+"rain_6": {
+"seed": 14,
+"ok": true,
+"note": "Handing newspaper at door; small print only"
+},
+"binoculars_1": {
+"seed": 12,
+"ok": true,
+"note": "Binoculars at bush; 14 has extra hand"
+},
+"binoculars_2": {
+"seed": 12,
+"ok": true,
+"note": "Grinning through binoculars, truck behind"
+},
+"binoculars_3": {
+"seed": 11,
+"ok": true,
+"note": "Binoculars and handkerchief, hands fine"
+},
+"binoculars_4": {
+"seed": 46,
+"ok": true,
+"note": "rescue1: tongue out, mostly blank note"
+},
+"binoculars_5": {
+"seed": 11,
+"ok": true,
+"note": "Boy hands binoculars to G-man at van door"
+},
+"birthday_1": {
+"seed": 62,
+"ok": true,
+"note": "rescue2: Circling date on plain calendar, side view"
+},
+"birthday_2": {
+"seed": 12,
+"ok": true,
+"note": "Decorating cake with berries"
+},
+"birthday_3": {
+"seed": 12,
+"ok": true,
+"note": "Two candles; 11 three candles, 14 extra hand"
+},
+"birthday_4": {
+"seed": 11,
+"ok": true,
+"note": "Carrying candlelit cake near panel truck"
+},
+"birthday_5": {
+"seed": 12,
+"ok": true,
+"note": "Singing with cake; 11 and 13 duplicated woman"
+},
+"birthday_6": {
+"seed": 12,
+"ok": true,
+"note": "Cake on hood; 11 grille text, 13 man and barcode"
+},
+"lunch_1": {
+"seed": 12,
+"ok": true,
+"note": "Making ham sandwich, man at window"
+},
+"lunch_2": {
+"seed": 11,
+"ok": true,
+"note": "Sandwich wrapped in paper; others look like plastic"
+},
+"lunch_3": {
+"seed": 12,
+"ok": true,
+"note": "Polishing apple; 11 modern coffee maker"
+},
+"lunch_4": {
+"seed": 12,
+"ok": true,
+"note": "Two sacks on table; clean"
+},
+"lunch_5": {
+"seed": 12,
+"ok": true,
+"note": "Sacks on hood; 11 people in cab"
+},
+"thermos_1": {
+"seed": 12,
+"ok": true,
+"note": "Stirring milk; 11 duplicate grandmother"
+},
+"thermos_2": {
+"seed": 12,
+"ok": true,
+"note": "Spooning cocoa into milk"
+},
+"thermos_3": {
+"seed": 11,
+"ok": true,
+"note": "Plaid thermos beside steaming kettle"
+},
+"thermos_4": {
+"seed": 47,
+"ok": true,
+"note": "rescue1: pouring from saucepan into plaid thermos"
+},
+"thermos_5": {
+"seed": 62,
+"ok": true,
+"note": "rescue2: Clean handoff of plaid thermos at van"
+},
+"thermos_6": {
+"seed": 13,
+"ok": true,
+"note": "Thermos on step, arm reaching in; 11 and 12 text"
+},
+"pie_1": {
+"seed": 12,
+"ok": true,
+"note": "Rolling dough with rolling pin, hands fine"
+},
+"pie_2": {
+"seed": 11,
+"ok": true,
+"note": "Spooning cherry filling, man at window; 12 two men"
+},
+"pie_3": {
+"seed": 12,
+"ok": true,
+"note": "Two hands crimping crust edge"
+},
+"pie_4": {
+"seed": 14,
+"ok": true,
+"note": "Lattice pie from oven, man at window; 11 and 12 text"
+},
+"pie_5": {
+"seed": 12,
+"ok": true,
+"note": "Cherry pie on sill with checked curtains"
+},
+"meatloaf_1": {
+"seed": 13,
+"ok": true,
+"note": "Glazed meatloaf on platter on counter"
+},
+"meatloaf_2": {
+"seed": 12,
+"ok": true,
+"note": "Peering through magnifying glass at meatloaf"
+},
+"meatloaf_3": {
+"seed": 11,
+"ok": true,
+"note": "Slicing meatloaf, man at window"
+},
+"meatloaf_4": {
+"seed": 13,
+"ok": true,
+"note": "Fork tapping slice, G-man in hedge"
+},
+"meatloaf_5": {
+"seed": 12,
+"ok": true,
+"note": "Fork raised at family table, man at window"
+},
+"meatloaf_6": {
+"seed": 11,
+"ok": true,
+"note": "Meatloaf, potatoes, peas, unlabeled ketchup; 12 and 14 labels"
+},
+"gelatin_1": {
+"seed": 11,
+"ok": true,
+"note": "Stirring green liquid in glass bowl"
+},
+"gelatin_2": {
+"seed": 13,
+"ok": true,
+"note": "Pears and cherries in fluted mold; 12 and 14 extra hands"
+},
+"gelatin_3": {
+"seed": 41,
+"ok": true,
+"note": "rescue1: ring mold into open fridge"
+},
+"gelatin_4": {
+"seed": 12,
+"ok": true,
+"note": "Holding plate with clear green ring mold"
+},
+"gelatin_5": {
+"seed": 13,
+"ok": true,
+"note": "Green ring held up before sunny window"
+},
+"centerpiece_1": {
+"seed": 13,
+"ok": true,
+"note": "Setting table, man at window; 12 extra man"
+},
+"centerpiece_2": {
+"seed": 13,
+"ok": true,
+"note": "Fruit bowl with microphone and black wire"
+},
+"centerpiece_3": {
+"seed": 46,
+"ok": true,
+"note": "rescue1: lit candles, man at window; not match-lighting"
+},
+"centerpiece_4": {
+"seed": 11,
+"ok": true,
+"note": "Carrying roast chicken on platter into dining room"
+},
+"centerpiece_5": {
+"seed": 13,
+"ok": true,
+"note": "Four adults chatting at candlelit table"
+},
+"centerpiece_6": {
+"seed": 61,
+"ok": true,
+"note": "rescue2: Blowing two candles, smoke; flames barely bend"
+},
+"cookies_1": {
+"seed": 11,
+"ok": true,
+"note": "Rolling dough; girl looks younger than ten"
+},
+"cookies_2": {
+"seed": 14,
+"ok": true,
+"note": "Clear star cutter, truck with antenna"
+},
+"cookies_3": {
+"seed": 64,
+"ok": true,
+"note": "rescue2: Nose near closed oven glass; girl looks young"
+},
+"cookies_4": {
+"seed": 13,
+"ok": true,
+"note": "Stars and hearts in tin; 12 and 14 tin text"
+},
+"cookies_5": {
+"seed": 13,
+"ok": true,
+"note": "Girl hands tin to G-man; 12 and 14 extra men"
+},
+"trim_1": {
+"seed": 11,
+"ok": true,
+"note": "Lens poking out of hedge by white house"
+},
+"trim_2": {
+"seed": 14,
+"ok": true,
+"note": "String along hedge top; 11 duplicate man"
+},
+"trim_3": {
+"seed": 14,
+"ok": true,
+"note": "Long two-handed shears, hands correct"
+},
+"trim_4": {
+"seed": 61,
+"ok": true,
+"note": "rescue2: Shears with two hands, small lens in leaves"
+},
+"trim_5": {
+"seed": 11,
+"ok": true,
+"note": "Raking clippings into baskets"
+},
+"trim_6": {
+"seed": 14,
+"ok": true,
+"note": "Admiring hedge, blank truck with tall antenna"
+},
+"mow_1": {
+"seed": 45,
+"ok": true,
+"note": "rescue1: wingtips under rhododendron, no hands"
+},
+"mow_2": {
+"seed": 48,
+"ok": true,
+"note": "rescue1: reel mower, boy blowing whistle"
+},
+"mow_3": {
+"seed": 11,
+"ok": true,
+"note": "G-man crouching in rhododendron, tucking feet"
+},
+"mow_4": {
+"seed": 41,
+"ok": true,
+"note": "rescue1: reel mower, stripes, G-man peeking"
+},
+"mow_5": {
+"seed": 41,
+"ok": true,
+"note": "rescue1: reel mower around rhododendron"
+},
+"laundry_1": {
+"seed": 11,
+"ok": true,
+"note": "Carrying wicker basket of sheets into backyard"
+},
+"laundry_2": {
+"seed": 12,
+"ok": true,
+"note": "Hanging sheets, van behind; van has side windows"
+},
+"laundry_3": {
+"seed": 12,
+"ok": true,
+"note": "Clean row of sheets on line"
+},
+"laundry_4": {
+"seed": 12,
+"ok": true,
+"note": "Single clean hand pinning sheet"
+},
+"laundry_5": {
+"seed": 13,
+"ok": true,
+"note": "Lens in birdhouse, two natural hands"
+},
+"laundry_6": {
+"seed": 11,
+"ok": true,
+"note": "Hands on hips, G-man in hedge"
+},
+"birdhouse_1": {
+"seed": 12,
+"ok": true,
+"note": "Clean birdhouse with lens on pole"
+},
+"birdhouse_2": {
+"seed": 13,
+"ok": true,
+"note": "Hanging feeder with seed; pouring only implied"
+},
+"birdhouse_3": {
+"seed": 14,
+"ok": true,
+"note": "Bench, bird book, G-man in hedge"
+},
+"birdhouse_4": {
+"seed": 13,
+"ok": true,
+"note": "Pointing at cardinal on feeder"
+},
+"birdhouse_5": {
+"seed": 13,
+"ok": true,
+"note": "Binoculars at birdhouse, clean hands"
+},
+"rake_1": {
+"seed": 13,
+"ok": true,
+"note": "Fedora atop leaf pile, clean"
+},
+"rake_2": {
+"seed": 11,
+"ok": true,
+"note": "Raking, truck behind; 14 has two rakes"
+},
+"rake_3": {
+"seed": 62,
+"ok": true,
+"note": "rescue2: Hat and sunglasses atop heap, rake beside"
+},
+"rake_4": {
+"seed": 12,
+"ok": true,
+"note": "Pointing to garage, G-man in hedge"
+},
+"rake_5": {
+"seed": 12,
+"ok": true,
+"note": "Stuffing leaves into burlap sack"
+},
+"rake_6": {
+"seed": 45,
+"ok": true,
+"note": "rescue1: grandpa pours cider from thermos for G-man"
+},
+"trash_1": {
+"seed": 13,
+"ok": true,
+"note": "Rinsing can under running tap"
+},
+"trash_2": {
+"seed": 13,
+"ok": true,
+"note": "Kneeling with bags, man at window"
+},
+"trash_3": {
+"seed": 44,
+"ok": true,
+"note": "rescue1: twine-tied bundle, small newsprint only"
+},
+"trash_4": {
+"seed": 12,
+"ok": true,
+"note": "Carrying can at curb, truck behind"
+},
+"trash_5": {
+"seed": 12,
+"ok": true,
+"note": "Two cans, porch light on"
+},
+"sprinkler_1": {
+"seed": 11,
+"ok": true,
+"note": "Dragging hose, G-man in hedge; 12 two G-men"
+},
+"sprinkler_2": {
+"seed": 13,
+"ok": true,
+"note": "Spraying sprinkler, truck with antenna"
+},
+"sprinkler_3": {
+"seed": 14,
+"ok": true,
+"note": "Ringing brass bell on lawn"
+},
+"sprinkler_4": {
+"seed": 13,
+"ok": true,
+"note": "Hurrying from hedge; wears and holds a hat"
+},
+"sprinkler_5": {
+"seed": 14,
+"ok": true,
+"note": "Turning tap, water flowing"
+},
+"sprinkler_6": {
+"seed": 11,
+"ok": true,
+"note": "Running through sprinkler; others have text"
+},
+"letter_1": {
+"seed": 12,
+"ok": true,
+"note": "Desk by window, man peering in"
+},
+"letter_2": {
+"seed": 42,
+"ok": true,
+"note": "rescue1: fountain pen, faint small scribbles"
+},
+"letter_3": {
+"seed": 13,
+"ok": true,
+"note": "Smiling writing with teacup; faint lines only"
+},
+"letter_4": {
+"seed": 42,
+"ok": true,
+"note": "rescue1: laughing grandma writing, windowless truck behind"
+},
+"letter_5": {
+"seed": 64,
+"ok": true,
+"note": "rescue2: Tongue on flap, clear glasses"
+},
+"steamed_1": {
+"seed": 13,
+"ok": true,
+"note": "Taking mail from box, G-man in hedge"
+},
+"steamed_2": {
+"seed": 13,
+"ok": true,
+"note": "Crinkled envelope, clean hands"
+},
+"steamed_3": {
+"seed": 12,
+"ok": true,
+"note": "Magnifier on envelope, man at window"
+},
+"steamed_4": {
+"seed": 14,
+"ok": true,
+"note": "Envelope held over steaming kettle"
+},
+"steamed_5": {
+"seed": 42,
+"ok": true,
+"note": "rescue1: writing note, letters, windowless truck, antenna"
+},
+"steamed_6": {
+"seed": 13,
+"ok": true,
+"note": "Opening envelope with opener"
+},
+"triplicate_1": {
+"seed": 11,
+"ok": true,
+"note": "Papers spread, man at window"
+},
+"triplicate_2": {
+"seed": 11,
+"ok": true,
+"note": "Single clean hand on colored stack"
+},
+"triplicate_3": {
+"seed": 46,
+"ok": true,
+"note": "rescue1: writing form, G-man by hedge, no big text"
+},
+"triplicate_4": {
+"seed": 11,
+"ok": true,
+"note": "Scratching head, pencil, form"
+},
+"triplicate_5": {
+"seed": 46,
+"ok": true,
+"note": "rescue1: signing form, tiny squiggle only"
+},
+"census_1": {
+"seed": 11,
+"ok": true,
+"note": "Knocking with clipboard; 14 modern doorbell"
+},
+"census_2": {
+"seed": 45,
+"ok": true,
+"note": "rescue1: grandpa offers chair to agent with clipboard"
+},
+"census_3": {
+"seed": 12,
+"ok": true,
+"note": "Counting on fingers, hands acceptable"
+},
+"census_4": {
+"seed": 13,
+"ok": true,
+"note": "Grandpa gesturing, agent writing"
+},
+"census_5": {
+"seed": 42,
+"ok": true,
+"note": "rescue1: hand writing on clipboard, small handwriting"
+},
+"census_6": {
+"seed": 12,
+"ok": true,
+"note": "Waving goodbye, agent on path"
+},
+"receipts_1": {
+"seed": 12,
+"ok": true,
+"note": "Receipt handover, man at window"
+},
+"receipts_2": {
+"seed": 14,
+"ok": true,
+"note": "Receipt into handbag, windowless panel van"
+},
+"receipts_3": {
+"seed": 41,
+"ok": true,
+"note": "rescue1: box of receipts with tabs, small print"
+},
+"receipts_4": {
+"seed": 11,
+"ok": true,
+"note": "Sorting receipts into box; 12 has box text"
+},
+"receipts_5": {
+"seed": 13,
+"ok": true,
+"note": "Holding up receipt to agent, no text"
+},
+"postcard_1": {
+"seed": 13,
+"ok": true,
+"note": "Picking postcard, man at window"
+},
+"postcard_2": {
+"seed": 48,
+"ok": true,
+"note": "rescue1: boy writing postcard, man at window"
+},
+"postcard_3": {
+"seed": 61,
+"ok": true,
+"note": "rescue2: Lake postcard and pencil; hands holding it"
+},
+"postcard_4": {
+"seed": 14,
+"ok": true,
+"note": "Pressing stamp on postcard"
+},
+"postcard_5": {
+"seed": 14,
+"ok": true,
+"note": "Dropping postcard into mailbox"
+},
+"postcard_6": {
+"seed": 11,
+"ok": true,
+"note": "Mailman hands postcard through van window"
+},
+"explain_1": {
+"seed": 13,
+"ok": true,
+"note": "Surprised with fork, man at window"
+},
+"explain_2": {
+"seed": 11,
+"ok": true,
+"note": "Man between kids with milk on steps"
+},
+"explain_3": {
+"seed": 13,
+"ok": true,
+"note": "Pointing at blank truck with antenna"
+},
+"explain_4": {
+"seed": 11,
+"ok": true,
+"note": "Explaining with hands to two kids"
+},
+"explain_5": {
+"seed": 12,
+"ok": true,
+"note": "Ruffling boy's hair"
+},
+"spykit_1": {
+"seed": 63,
+"ok": true,
+"note": "rescue2: Lifting empty box lid, fedora man at window"
+},
+"spykit_2": {
+"seed": 13,
+"ok": true,
+"note": "Taping cardboard, man at window; no text"
+},
+"spykit_3": {
+"seed": 48,
+"ok": true,
+"note": "rescue1: magnifier, notebook, pencil, sunglasses in box"
+},
+"spykit_4": {
+"seed": 11,
+"ok": true,
+"note": "Putting on sunglasses, G-man in hedge"
+},
+"spykit_5": {
+"seed": 11,
+"ok": true,
+"note": "Periscope raised above hedge"
+},
+"spykit_6": {
+"seed": 12,
+"ok": true,
+"note": "Writing in notebook, G-man eating by van"
+},
+"bedtime_1": {
+"seed": 11,
+"ok": true,
+"note": "Tucking child in, man at window"
+},
+"bedtime_2": {
+"seed": 11,
+"ok": true,
+"note": "Lamp with tiny mic under base"
+},
+"bedtime_3": {
+"seed": 11,
+"ok": true,
+"note": "Opening picture book under lamp, man at window"
+},
+"bedtime_4": {
+"seed": 11,
+"ok": true,
+"note": "Funny-voice reading to sleepy girl"
+},
+"bedtime_5": {
+"seed": 13,
+"ok": true,
+"note": "Headphones in van, soft smile"
+},
+"dog_1": {
+"seed": 11,
+"ok": true,
+"note": "Scottie barking at G-man"
+},
+"dog_2": {
+"seed": 14,
+"ok": true,
+"note": "Hanging coat and hat on hook, dog watches"
+},
+"dog_3": {
+"seed": 14,
+"ok": true,
+"note": "Giving biscuit to Scottie"
+},
+"dog_4": {
+"seed": 41,
+"ok": true,
+"note": "rescue1: girl with scottie, G-man walking past"
+},
+"dog_5": {
+"seed": 14,
+"ok": true,
+"note": "Kneeling and talking to dog"
+},
+"dog_6": {
+"seed": 12,
+"ok": true,
+"note": "Shaking paws, clean anatomy"
+},
+"hideseek_1": {
+"seed": 14,
+"ok": true,
+"note": "Covering eyes at tree; 11/12 extra hand"
+},
+"hideseek_2": {
+"seed": 11,
+"ok": true,
+"note": "Boy sneaking behind shed, antenna truck behind"
+},
+"hideseek_3": {
+"seed": 12,
+"ok": true,
+"note": "Grinning boy crouched beside barrel, clean hands"
+},
+"hideseek_4": {
+"seed": 11,
+"ok": true,
+"note": "Agent pointing at crouching boy by barrel"
+},
+"hideseek_5": {
+"seed": 11,
+"ok": true,
+"note": "Boy looking up into tree; 12 and 13 have text"
+},
+"photo_1": {
+"seed": 13,
+"ok": true,
+"note": "Grandfather lining up family; 11/12 duplicate old man"
+},
+"photo_2": {
+"seed": 11,
+"ok": true,
+"note": "Grandfather with old camera; rangefinder not box camera"
+},
+"photo_3": {
+"seed": 11,
+"ok": true,
+"note": "Grandfather waving agent over by hedge"
+},
+"photo_4": {
+"seed": 11,
+"ok": true,
+"note": "Agent smiling, adjusting fedora brim"
+},
+"photo_5": {
+"seed": 48,
+"ok": true,
+"note": "rescue1: correct five people posed on lawn"
+},
+"photo_6": {
+"seed": 64,
+"ok": true,
+"note": "rescue2: Snapshot on envelope on hood; one hand at edge"
+},
+"secret_1": {
+"seed": 42,
+"ok": true,
+"note": "rescue1: grandma writes word, man at window, tiny text"
+},
+"secret_2": {
+"seed": 62,
+"ok": true,
+"note": "rescue2: Note passed below tabletop; not truly low view"
+},
+"secret_3": {
+"seed": 68,
+"ok": true,
+"note": "rescue2: Cupped hand whisper, agent leaning in"
+},
+"secret_4": {
+"seed": 13,
+"ok": true,
+"note": "Agent carrying cake into open van"
+},
+"secret_5": {
+"seed": 12,
+"ok": true,
+"note": "Grandmother tying balloon strings to lamp"
+},
+"bridge_1": {
+"seed": 12,
+"ok": false,
+"note": "round4 failed: printed papers and plates on floor"
+},
+"bridge_2": {
+"seed": 13,
+"ok": true,
+"note": "Grandmother at car window of lady agent"
+},
+"bridge_3": {
+"seed": 14,
+"ok": true,
+"note": "Pouring tea from floral teapot into cup"
+},
+"bridge_4": {
+"seed": 14,
+"ok": true,
+"note": "Two hands dealing cards beside teacups"
+},
+"bridge_5": {
+"seed": 12,
+"ok": true,
+"note": "Both women playing cards with teacups"
+},
+"bridge_6": {
+"seed": 12,
+"ok": true,
+"note": "Goodbye handshake at front door"
+},
+"movies_1": {
+"seed": 12,
+"ok": true,
+"note": "Hanging sheet in window; 11/13/14 have three hands"
+},
+"movies_2": {
+"seed": 13,
+"ok": true,
+"note": "Threading film, man at window; 12 extra man"
+},
+"movies_3": {
+"seed": 11,
+"ok": true,
+"note": "Popcorn pan at stove, popcorn spilling"
+},
+"movies_4": {
+"seed": 13,
+"ok": true,
+"note": "Handing popcorn bowl to agent at van"
+},
+"movies_5": {
+"seed": 62,
+"ok": true,
+"note": "rescue2: Canyon on sheet, beam inside room"
+},
+"blockparty_1": {
+"seed": 63,
+"ok": true,
+"note": "rescue2: Counting fingers, one fedora man at window"
+},
+"blockparty_2": {
+"seed": 42,
+"ok": true,
+"note": "rescue1: card under wiper of windowless box truck"
+},
+"blockparty_3": {
+"seed": 11,
+"ok": true,
+"note": "Checked-cloth tables on suburban street"
+},
+"blockparty_4": {
+"seed": 11,
+"ok": true,
+"note": "Hanging paper lantern on string between trees"
+},
+"blockparty_5": {
+"seed": 13,
+"ok": true,
+"note": "Ladling red punch for agent"
+},
+"blockparty_6": {
+"seed": 11,
+"ok": true,
+"note": "G-man pitching horseshoe; 12 has sign text"
+},
+"thanksgiving_1": {
+"seed": 65,
+"ok": true,
+"note": "rescue2: Board dropped into table gap, one watcher"
+},
+"thanksgiving_2": {
+"seed": 13,
+"ok": true,
+"note": "Setting plate, man peering in window"
+},
+"thanksgiving_3": {
+"seed": 12,
+"ok": true,
+"note": "Blank place card on plate, one clean hand"
+},
+"thanksgiving_4": {
+"seed": 11,
+"ok": true,
+"note": "Knocking on truck with antenna; side not back"
+},
+"thanksgiving_5": {
+"seed": 12,
+"ok": true,
+"note": "Single father carving; 11 has two men"
+},
+"picnic_1": {
+"seed": 12,
+"ok": true,
+"note": "Packing basket; 13 has modern steel fridge"
+},
+"picnic_2": {
+"seed": 12,
+"ok": true,
+"note": "Spreading checked tablecloth in park"
+},
+"picnic_3": {
+"seed": 11,
+"ok": true,
+"note": "Waving at agent; agent not half hidden"
+},
+"picnic_4": {
+"seed": 11,
+"ok": true,
+"note": "Two G-men eating potato salad"
+},
+"picnic_5": {
+"seed": 64,
+"ok": true,
+"note": "rescue2: Ankles tied, laughing; dusk not sunny"
+},
+"picnic_6": {
+"seed": 14,
+"ok": true,
+"note": "Clean handshake at picnic"
+},
+"chacha_1": {
+"seed": 12,
+"ok": true,
+"note": "Agent by wall with streamers; 11 has text"
+},
+"chacha_2": {
+"seed": 11,
+"ok": true,
+"note": "Girl marching on floor, antenna truck behind"
+},
+"chacha_3": {
+"seed": 11,
+"ok": true,
+"note": "Girl arms out dancing; pigtails not ponytail"
+},
+"chacha_4": {
+"seed": 11,
+"ok": true,
+"note": "Girl clapping, agent dancing, limbs correct"
+},
+"chacha_5": {
+"seed": 13,
+"ok": true,
+"note": "Agents dancing stiffly hand in hand"
+},
+"nothing_1": {
+"seed": 45,
+"ok": true,
+"note": "rescue1: writing at desk, man at window; small paper text"
+},
+"nothing_2": {
+"seed": 102,
+"ok": true,
+"note": "round4"
+},
+"nothing_3": {
+"seed": 11,
+"ok": true,
+"note": "Family walking at white church; 12 sign"
+},
+"nothing_4": {
+"seed": 12,
+"ok": true,
+"note": "Tipping hat over fence; others have text"
+},
+"nothing_5": {
+"seed": 13,
+"ok": true,
+"note": "Agent yawning at typewriter in van"
+},
+"nothing_6": {
+"seed": 12,
+"ok": true,
+"note": "Sleeping peacefully smiling"
+},
+"thanks_1": {
+"seed": 11,
+"ok": true,
+"note": "Taking paper from drawer, man at window"
+},
+"thanks_2": {
+"seed": 62,
+"ok": true,
+"note": "rescue2: Nib on blank stationery, inkwell"
+},
+"thanks_3": {
+"seed": 11,
+"ok": true,
+"note": "Writing letter; 12 and 14 have text signs"
+},
+"thanks_4": {
+"seed": 42,
+"ok": true,
+"note": "rescue1: dog paw on letter, man at window"
+},
+"thanks_5": {
+"seed": 42,
+"ok": true,
+"note": "rescue1: folding envelope flap, small handwriting"
+},
+"goodbye_1": {
+"seed": 11,
+"ok": true,
+"note": "Truck with exhaust and antenna at dawn"
+},
+"goodbye_2": {
+"seed": 12,
+"ok": true,
+"note": "Girl running across lawn toward gray van"
+},
+"goodbye_3": {
+"seed": 11,
+"ok": true,
+"note": "Lunch sack handoff; 12 duplicate agent"
+},
+"goodbye_4": {
+"seed": 12,
+"ok": true,
+"note": "Girl holding sunglasses; 13 two girls"
+},
+"goodbye_5": {
+"seed": 12,
+"ok": true,
+"note": "Waving both arms; 13 has three arms"
+},
+"goodbye_6": {
+"seed": 11,
+"ok": true,
+"note": "Crying with hanky, hugged by mother"
+},
+"newvan_1": {
+"seed": 13,
+"ok": true,
+"note": "Shiny gray van with antenna on street"
+},
+"newvan_2": {
+"seed": 11,
+"ok": true,
+"note": "Carrying folding chair toward truck"
+},
+"newvan_3": {
+"seed": 11,
+"ok": true,
+"note": "Pouring coffee for agent by van"
+},
+"newvan_4": {
+"seed": 12,
+"ok": true,
+"note": "Seated grandfather talking with gesturing agent"
+},
+"newvan_5": {
+"seed": 13,
+"ok": true,
+"note": "Showing photo album to agent"
+},
+"file_1": {
+"seed": 13,
+"ok": true,
+"note": "Tied envelope on mat; 11 three hands, 14 text"
+},
+"file_2": {
+"seed": 13,
+"ok": true,
+"note": "Tea and glasses in armchair, man at window"
+},
+"file_3": {
+"seed": 12,
+"ok": true,
+"note": "Untying string on brown envelope"
+},
+"file_4": {
+"seed": 46,
+"ok": true,
+"note": "rescue1: laughing grandma reading papers, faint print"
+},
+"file_5": {
+"seed": 101,
+"ok": true,
+"note": "round4"
+},
+"file_6": {
+"seed": 68,
+"ok": true,
+"note": "rescue2: Plain brown envelope handed at door"
+},
+"porchlight_1": {
+"seed": 11,
+"ok": true,
+"note": "Washing at sink, one man at window"
+},
+"porchlight_2": {
+"seed": 14,
+"ok": true,
+"note": "Cream shawl, smiling in hallway"
+},
+"porchlight_3": {
+"seed": 12,
+"ok": true,
+"note": "Switching porch light by door"
+},
+"porchlight_4": {
+"seed": 12,
+"ok": true,
+"note": "Truck under streetlight, porch light glowing"
+},
+"porchlight_5": {
+"seed": 12,
+"ok": true,
+"note": "Waving in lit doorway"
+}
 }

@@ -12,7 +12,7 @@
 "tracks_3": {
 "seed": 42,
 "ok": false,
-"note": "rescue3 failed: hands and odd foot, numbers"
+"note": "round4 failed: paw print not foot, marks on ruler"
 },
 "tracks_4": {
 "seed": 43,
@@ -665,9 +665,9 @@
 "note": ""
 },
 "toenails_2": {
-"seed": 14,
-"ok": false,
-"note": "rescue3 failed: newspaper text; use brown wrapping paper"
+"seed": 101,
+"ok": true,
+"note": "round4"
 },
 "toenails_3": {
 "seed": 12,
@@ -675,9 +675,9 @@
 "note": ""
 },
 "toenails_4": {
-"seed": 12,
-"ok": false,
-"note": "rescue3 failed: newspaper text; use brown wrapping paper"
+"seed": 106,
+"ok": true,
+"note": "round4"
 },
 "toenails_5": {
 "seed": 11,
@@ -695,9 +695,9 @@
 "note": "rescue3"
 },
 "teeth_2": {
-"seed": 11,
-"ok": false,
-"note": "rescue3 failed: garbled tube labels"
+"seed": 107,
+"ok": true,
+"note": "round4"
 },
 "teeth_3": {
 "seed": 13,
@@ -790,9 +790,9 @@
 "note": ""
 },
 "drive_5": {
-"seed": 11,
-"ok": false,
-"note": "rescue3 failed: garbled signs on stand"
+"seed": 102,
+"ok": true,
+"note": "round4"
 },
 "drive_6": {
 "seed": 85,
@@ -845,9 +845,9 @@
 "note": ""
 },
 "hardware_5": {
-"seed": 11,
-"ok": false,
-"note": "rescue3 failed: garbled register lettering"
+"seed": 105,
+"ok": true,
+"note": "round4"
 },
 "hardware_6": {
 "seed": 12,
@@ -865,9 +865,9 @@
 "note": ""
 },
 "mainst_3": {
-"seed": 12,
-"ok": false,
-"note": "rescue3 failed: extra people added"
+"seed": 105,
+"ok": true,
+"note": "round4"
 },
 "mainst_4": {
 "seed": 82,
@@ -880,9 +880,9 @@
 "note": ""
 },
 "barber_1": {
-"seed": 11,
-"ok": false,
-"note": "rescue3 failed: people added, should be outside view"
+"seed": 106,
+"ok": true,
+"note": "round4"
 },
 "barber_2": {
 "seed": 82,
@@ -890,9 +890,9 @@
 "note": "rescue3"
 },
 "barber_3": {
-"seed": 12,
-"ok": false,
-"note": "rescue3 failed: scissors merge into comb"
+"seed": 102,
+"ok": true,
+"note": "round4"
 },
 "barber_4": {
 "seed": 13,
@@ -900,9 +900,9 @@
 "note": ""
 },
 "barber_5": {
-"seed": 13,
-"ok": false,
-"note": "rescue3 failed: people added, hair like ribbons"
+"seed": 101,
+"ok": true,
+"note": "round4"
 },
 "barber_6": {
 "seed": 12,
@@ -960,9 +960,9 @@
 "note": "rescue1"
 },
 "camera_6": {
-"seed": 14,
-"ok": false,
-"note": "rescue3 failed: newspaper text"
+"seed": 103,
+"ok": true,
+"note": "round4"
 },
 "firewood_1": {
 "seed": 12,
@@ -1225,9 +1225,9 @@
 "note": ""
 },
 "treehouse_4": {
-"seed": 14,
-"ok": false,
-"note": "rescue3 failed: floor on the ground, not up in the tree"
+"seed": 107,
+"ok": true,
+"note": "round4"
 },
 "treehouse_5": {
 "seed": 12,
@@ -1515,9 +1515,9 @@
 "note": "rescue3"
 },
 "thanks_6": {
-"seed": 46,
-"ok": false,
-"note": "rescue3 failed: cloth flag again, not metal mailbox flag"
+"seed": 107,
+"ok": true,
+"note": "round4"
 },
 "fair_1": {
 "seed": 13,
@@ -1647,7 +1647,7 @@
 "fair_4": {
 "seed": 13,
 "ok": false,
-"note": "rescue3 failed: garbled fair signs every seed"
+"note": "round4 failed: garbled signs on booths"
 },
 "fair_5": {
 "seed": 87,

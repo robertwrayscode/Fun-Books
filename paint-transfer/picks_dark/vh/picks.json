@@ -100,9 +100,9 @@
 "note": "rescue1"
 },
 "prices_4": {
-"seed": 11,
-"ok": false,
-"note": "rescue2 failed: typewriter again"
+"seed": 105,
+"ok": true,
+"note": "round4"
 },
 "prices_5": {
 "seed": 12,
@@ -257,12 +257,12 @@
 "invite_2": {
 "seed": 12,
 "ok": false,
-"note": "rescue3 failed: screen door not between them"
+"note": "round4 failed: vampire looks bald on top"
 },
 "invite_3": {
-"seed": 11,
-"ok": false,
-"note": "rescue2 failed: vampire bald, no widow's peak hair"
+"seed": 101,
+"ok": true,
+"note": "round4"
 },
 "invite_4": {
 "seed": 13,
@@ -295,9 +295,9 @@
 "note": ""
 },
 "mirror_5": {
-"seed": 13,
-"ok": false,
-"note": "rescue3 failed: glass flask on top of level"
+"seed": 107,
+"ok": true,
+"note": "round4"
 },
 "mirror_6": {
 "seed": 12,
@@ -920,9 +920,9 @@
 "note": ""
 },
 "pumpkin_2": {
-"seed": 13,
-"ok": false,
-"note": "rescue3 failed: hands too big and odd"
+"seed": 104,
+"ok": true,
+"note": "round4"
 },
 "pumpkin_3": {
 "seed": 12,
@@ -1005,9 +1005,9 @@
 "note": ""
 },
 "bank_2": {
-"seed": 47,
-"ok": false,
-"note": "rescue3 failed: identical triplet vampires"
+"seed": 108,
+"ok": true,
+"note": "round4"
 },
 "bank_3": {
 "seed": 13,
@@ -1510,9 +1510,9 @@
 "note": "rescue3"
 },
 "moving_4": {
-"seed": 11,
-"ok": false,
-"note": "rescue2 failed: bald vampire, not wrapping clock"
+"seed": 105,
+"ok": true,
+"note": "round4"
 },
 "moving_5": {
 "seed": 12,
@@ -1565,9 +1565,9 @@
 "note": "rescue3"
 },
 "cards_4": {
-"seed": 12,
-"ok": false,
-"note": "rescue3 failed: sponge still looks like cake"
+"seed": 102,
+"ok": true,
+"note": "round4"
 },
 "cards_5": {
 "seed": 12,
@@ -1592,7 +1592,7 @@
 "thanksgiving_3": {
 "seed": 11,
 "ok": false,
-"note": "rescue2 failed: vampires in hats, not classic look"
+"note": "round4 failed: newspapers and cans on table, children missing"
 },
 "thanksgiving_4": {
 "seed": 12,

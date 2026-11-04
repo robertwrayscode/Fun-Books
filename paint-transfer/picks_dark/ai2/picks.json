@@ -1390,9 +1390,9 @@
 "note": ""
 },
 "giant_3": {
-"seed": 11,
-"ok": false,
-"note": "rescue2 failed: pies look like pizzas, monster holds pole itself"
+"seed": 106,
+"ok": true,
+"note": "round4"
 },
 "giant_4": {
 "seed": 11,
