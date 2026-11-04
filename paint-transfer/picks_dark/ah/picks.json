@@ -557,7 +557,7 @@
 "gelatin_5": {
 "seed": 47,
 "ok": false,
-"note": "rescue8 failed: ladles, no flip"
+"note": "rescue11 failed: odd puckered mouth"
 },
 "dusting_1": {
 "seed": 14,
@@ -745,9 +745,9 @@
 "note": "rescue5"
 },
 "ironing_5": {
-"seed": 43,
-"ok": false,
-"note": "rescue8 failed: modern corded irons"
+"seed": 186,
+"ok": true,
+"note": "rescue11"
 },
 "ironing_6": {
 "seed": 13,
@@ -955,9 +955,9 @@
 "note": "rescue5"
 },
 "games_3": {
-"seed": 13,
-"ok": false,
-"note": "rescue8 failed: dominoes look like beads"
+"seed": 186,
+"ok": true,
+"note": "rescue11"
 },
 "games_4": {
 "seed": 121,
@@ -970,9 +970,9 @@
 "note": "rescue5"
 },
 "games_6": {
-"seed": 13,
-"ok": false,
-"note": "rescue8 failed: round pieces like checkers, not dominoes"
+"seed": 181,
+"ok": true,
+"note": "rescue11"
 },
 "bunks_1": {
 "seed": 11,

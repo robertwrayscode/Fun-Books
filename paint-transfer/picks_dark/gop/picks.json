@@ -620,9 +620,9 @@
 "note": "round1"
 },
 "grandpa_4": {
-"seed": 0,
-"ok": false,
-"note": "rescue10 failed: round discs again"
+"seed": 181,
+"ok": true,
+"note": "rescue11"
 },
 "grandpa_5": {
 "seed": 12,
@@ -700,9 +700,9 @@
 "note": "rescue8"
 },
 "phone_3": {
-"seed": 0,
-"ok": false,
-"note": "rescue10 failed: receiver still at ear"
+"seed": 181,
+"ok": true,
+"note": "rescue11"
 },
 "phone_4": {
 "seed": 163,
@@ -855,9 +855,9 @@
 "note": "rescue8"
 },
 "radio_1": {
-"seed": 0,
-"ok": false,
-"note": "rescue10 failed: garbled comic title"
+"seed": 181,
+"ok": true,
+"note": "rescue11"
 },
 "radio_2": {
 "seed": 22,
@@ -1015,9 +1015,9 @@
 "note": "rescue8"
 },
 "newsfast_6": {
-"seed": 0,
-"ok": false,
-"note": "rescue10 failed: garbled headlines"
+"seed": 182,
+"ok": true,
+"note": "rescue11"
 },
 "laugh_1": {
 "seed": 21,
@@ -1595,9 +1595,9 @@
 "note": "rescue8"
 },
 "fourth_1": {
-"seed": 0,
-"ok": false,
-"note": "rescue10 failed: not hanging bunting"
+"seed": 181,
+"ok": true,
+"note": "rescue11"
 },
 "fourth_2": {
 "seed": 25,
