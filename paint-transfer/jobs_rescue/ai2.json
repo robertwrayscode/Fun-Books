@@ -598,5 +598,15 @@
 "n": 8,
 "model": "flux2klein",
 "crop": 0.04
+},
+{
+"out": "rescue1/ai2/hat_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A friendly goofy tall space man in a shiny silver jumpsuit with a smooth round silver face, big round friendly eyes and a wide smile, a giant pink brain inside a clear glass dome on top of his head, a tiny red pillbox hat perched on top of the glass dome, alone in an empty 1950s hat shop. Nobody else in the picture. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
 }
 ]
