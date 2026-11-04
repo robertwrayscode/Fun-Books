@@ -735,9 +735,9 @@
 "note": "rescue1"
 },
 "ironing_3": {
-"seed": 11,
-"ok": false,
-"note": "rescue1 failed: pyramid shapes, not a sad iron"
+"seed": 65,
+"ok": true,
+"note": "rescue2"
 },
 "ironing_4": {
 "seed": 12,

@@ -1305,9 +1305,9 @@
 "note": ""
 },
 "supermarket_3": {
-"seed": 11,
-"ok": false,
-"note": "rescue1 failed: shelves look like a library full of books, not a supermarket"
+"seed": 61,
+"ok": true,
+"note": "rescue2"
 },
 "supermarket_4": {
 "seed": 12,
@@ -1375,19 +1375,19 @@
 "note": ""
 },
 "mower_1": {
-"seed": 11,
-"ok": false,
-"note": "rescue1 failed: mower painted with an engine"
+"seed": 62,
+"ok": true,
+"note": "rescue2"
 },
 "mower_2": {
-"seed": 11,
-"ok": false,
-"note": "rescue1 failed: mower painted with an engine"
+"seed": 61,
+"ok": true,
+"note": "rescue2"
 },
 "mower_3": {
-"seed": 11,
-"ok": false,
-"note": "rescue1 failed: mower painted with an engine"
+"seed": 61,
+"ok": true,
+"note": "rescue2"
 },
 "mower_4": {
 "seed": 41,

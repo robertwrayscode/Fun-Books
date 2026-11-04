@@ -330,9 +330,9 @@
 "note": ""
 },
 "lawn_1": {
-"seed": 11,
-"ok": false,
-"note": "rescue1 failed: engine mowers again"
+"seed": 61,
+"ok": true,
+"note": "rescue2"
 },
 "lawn_2": {
 "seed": 12,
@@ -610,9 +610,9 @@
 "note": ""
 },
 "jello_2": {
-"seed": 11,
-"ok": false,
-"note": "rescue1 failed: can labels have fake words in all"
+"seed": 63,
+"ok": true,
+"note": "rescue2"
 },
 "jello_3": {
 "seed": 13,
@@ -775,9 +775,9 @@
 "note": "rescue1"
 },
 "spacesuit_2": {
-"seed": 11,
-"ok": false,
-"note": "rescue1 failed: modern front-load washers behind"
+"seed": 63,
+"ok": true,
+"note": "rescue2"
 },
 "spacesuit_3": {
 "seed": 13,
@@ -995,9 +995,9 @@
 "note": ""
 },
 "spacepet_2": {
-"seed": 11,
-"ok": false,
-"note": "rescue1 failed: creature looks like a pink pig, no three eyes"
+"seed": 68,
+"ok": true,
+"note": "rescue2"
 },
 "spacepet_3": {
 "seed": 11,
@@ -1370,9 +1370,9 @@
 "note": "rescue1"
 },
 "shrunk_4": {
-"seed": 11,
-"ok": false,
-"note": "rescue1 failed: full-size bed not a matchbox"
+"seed": 62,
+"ok": true,
+"note": "rescue2"
 },
 "shrunk_5": {
 "seed": 14,
@@ -1392,7 +1392,7 @@
 "giant_3": {
 "seed": 11,
 "ok": false,
-"note": "rescue1 failed: monster scary goblin face"
+"note": "rescue2 failed: pies look like pizzas, monster holds pole itself"
 },
 "giant_4": {
 "seed": 11,
@@ -1510,9 +1510,9 @@
 "note": ""
 },
 "potluck_4": {
-"seed": 11,
-"ok": false,
-"note": "rescue1 failed: pies look like pizzas"
+"seed": 63,
+"ok": true,
+"note": "rescue2"
 },
 "potluck_5": {
 "seed": 41,
@@ -1555,9 +1555,9 @@
 "note": "rescue1"
 },
 "recipes_2": {
-"seed": 11,
-"ok": false,
-"note": "rescue1 failed: tentacles end in human hands"
+"seed": 61,
+"ok": true,
+"note": "rescue2"
 },
 "recipes_3": {
 "seed": 42,

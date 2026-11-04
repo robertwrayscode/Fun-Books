@@ -102,7 +102,7 @@
 "prices_4": {
 "seed": 11,
 "ok": false,
-"note": "rescue1 failed: typewriter again not adding machine"
+"note": "rescue2 failed: typewriter again"
 },
 "prices_5": {
 "seed": 12,
@@ -145,9 +145,9 @@
 "note": ""
 },
 "realtor_2": {
-"seed": 11,
-"ok": false,
-"note": "two men in chairs, not empty chairs"
+"seed": 61,
+"ok": true,
+"note": "rescue2"
 },
 "realtor_3": {
 "seed": 12,
@@ -175,14 +175,14 @@
 "note": ""
 },
 "stay_3": {
-"seed": 12,
+"seed": 87,
 "ok": true,
-"note": ""
+"note": "rescue3"
 },
 "stay_4": {
-"seed": 12,
+"seed": 82,
 "ok": true,
-"note": ""
+"note": "rescue3"
 },
 "stay_5": {
 "seed": 12,
@@ -240,9 +240,9 @@
 "note": "rescue1"
 },
 "wreath_5": {
-"seed": 13,
+"seed": 83,
 "ok": true,
-"note": ""
+"note": "rescue3"
 },
 "wreath_6": {
 "seed": 12,
@@ -256,13 +256,13 @@
 },
 "invite_2": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "rescue3 failed: screen door not between them"
 },
 "invite_3": {
 "seed": 11,
 "ok": false,
-"note": "no screen door between them"
+"note": "rescue2 failed: vampire bald, no widow's peak hair"
 },
 "invite_4": {
 "seed": 13,
@@ -296,8 +296,8 @@
 },
 "mirror_5": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "rescue3 failed: glass flask on top of level"
 },
 "mirror_6": {
 "seed": 12,
@@ -425,9 +425,9 @@
 "note": ""
 },
 "quiet_3": {
-"seed": 11,
-"ok": false,
-"note": "rescue1 failed: engine mowers again"
+"seed": 61,
+"ok": true,
+"note": "rescue2"
 },
 "quiet_4": {
 "seed": 12,
@@ -490,9 +490,9 @@
 "note": ""
 },
 "return_5": {
-"seed": 41,
+"seed": 85,
 "ok": true,
-"note": "rescue1"
+"note": "rescue3"
 },
 "mail_1": {
 "seed": 11,
@@ -615,9 +615,9 @@
 "note": ""
 },
 "tomatojuice_3": {
-"seed": 11,
-"ok": false,
-"note": "glasses full of beer, not empty"
+"seed": 62,
+"ok": true,
+"note": "rescue2"
 },
 "tomatojuice_4": {
 "seed": 11,
@@ -680,9 +680,9 @@
 "note": ""
 },
 "borscht_4": {
-"seed": 12,
+"seed": 81,
 "ok": true,
-"note": ""
+"note": "rescue3"
 },
 "borscht_5": {
 "seed": 13,
@@ -775,9 +775,9 @@
 "note": ""
 },
 "shutters_1": {
-"seed": 13,
+"seed": 81,
 "ok": true,
-"note": ""
+"note": "rescue3"
 },
 "shutters_2": {
 "seed": 11,
@@ -810,9 +810,9 @@
 "note": ""
 },
 "shadetree_2": {
-"seed": 12,
+"seed": 81,
 "ok": true,
-"note": ""
+"note": "rescue3"
 },
 "shadetree_3": {
 "seed": 12,
@@ -921,8 +921,8 @@
 },
 "pumpkin_2": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "rescue3 failed: hands too big and odd"
 },
 "pumpkin_3": {
 "seed": 12,
@@ -930,9 +930,9 @@
 "note": ""
 },
 "pumpkin_4": {
-"seed": 11,
-"ok": false,
-"note": "pumpkin has a realistic human face, creepy"
+"seed": 62,
+"ok": true,
+"note": "rescue2"
 },
 "pumpkin_5": {
 "seed": 14,
@@ -950,9 +950,9 @@
 "note": ""
 },
 "lawn_2": {
-"seed": 11,
-"ok": false,
-"note": "rescue1 failed: engine mowers again"
+"seed": 61,
+"ok": true,
+"note": "rescue2"
 },
 "lawn_3": {
 "seed": 13,
@@ -1006,8 +1006,8 @@
 },
 "bank_2": {
 "seed": 47,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "rescue3 failed: identical triplet vampires"
 },
 "bank_3": {
 "seed": 13,
@@ -1020,9 +1020,9 @@
 "note": "rescue1"
 },
 "bank_5": {
-"seed": 46,
+"seed": 81,
 "ok": true,
-"note": "rescue1"
+"note": "rescue3"
 },
 "bank_6": {
 "seed": 13,
@@ -1080,9 +1080,9 @@
 "note": ""
 },
 "spareroom_6": {
-"seed": 11,
+"seed": 86,
 "ok": true,
-"note": ""
+"note": "rescue3"
 },
 "offer_1": {
 "seed": 12,
@@ -1135,9 +1135,9 @@
 "note": ""
 },
 "piggybank_6": {
-"seed": 11,
+"seed": 83,
 "ok": true,
-"note": ""
+"note": "rescue3"
 },
 "meeting_1": {
 "seed": 13,
@@ -1175,9 +1175,9 @@
 "note": ""
 },
 "minutes_3": {
-"seed": 13,
+"seed": 83,
 "ok": true,
-"note": ""
+"note": "rescue3"
 },
 "minutes_4": {
 "seed": 12,
@@ -1215,9 +1215,9 @@
 "note": ""
 },
 "blockparty_5": {
-"seed": 14,
+"seed": 81,
 "ok": true,
-"note": ""
+"note": "rescue3"
 },
 "bakesale_1": {
 "seed": 13,
@@ -1230,9 +1230,9 @@
 "note": ""
 },
 "bakesale_3": {
-"seed": 11,
+"seed": 87,
 "ok": true,
-"note": ""
+"note": "rescue3"
 },
 "bakesale_4": {
 "seed": 13,
@@ -1285,9 +1285,9 @@
 "note": ""
 },
 "halloween_3": {
-"seed": 11,
+"seed": 82,
 "ok": true,
-"note": ""
+"note": "rescue3"
 },
 "halloween_4": {
 "seed": 12,
@@ -1320,9 +1320,9 @@
 "note": ""
 },
 "watch_4": {
-"seed": 42,
+"seed": 82,
 "ok": true,
-"note": "rescue1"
+"note": "rescue3"
 },
 "watch_5": {
 "seed": 13,
@@ -1365,9 +1365,9 @@
 "note": ""
 },
 "photo_2": {
-"seed": 12,
+"seed": 82,
 "ok": true,
-"note": ""
+"note": "rescue3"
 },
 "photo_3": {
 "seed": 12,
@@ -1375,9 +1375,9 @@
 "note": ""
 },
 "photo_4": {
-"seed": 42,
+"seed": 85,
 "ok": true,
-"note": "rescue1"
+"note": "rescue3"
 },
 "photo_5": {
 "seed": 13,
@@ -1425,9 +1425,9 @@
 "note": ""
 },
 "nightschool_3": {
-"seed": 47,
+"seed": 86,
 "ok": true,
-"note": "rescue1"
+"note": "rescue3"
 },
 "nightschool_4": {
 "seed": 13,
@@ -1500,19 +1500,19 @@
 "note": "rescue1"
 },
 "moving_2": {
-"seed": 13,
+"seed": 87,
 "ok": true,
-"note": ""
+"note": "rescue3"
 },
 "moving_3": {
-"seed": 12,
+"seed": 82,
 "ok": true,
-"note": ""
+"note": "rescue3"
 },
 "moving_4": {
 "seed": 11,
 "ok": false,
-"note": "rescue1 failed: blanket on the vampire, not the clock"
+"note": "rescue2 failed: bald vampire, not wrapping clock"
 },
 "moving_5": {
 "seed": 12,
@@ -1555,19 +1555,19 @@
 "note": "rescue1"
 },
 "cards_2": {
-"seed": 12,
+"seed": 81,
 "ok": true,
-"note": ""
+"note": "rescue3"
 },
 "cards_3": {
-"seed": 12,
+"seed": 86,
 "ok": true,
-"note": ""
+"note": "rescue3"
 },
 "cards_4": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "rescue3 failed: sponge still looks like cake"
 },
 "cards_5": {
 "seed": 12,
@@ -1592,7 +1592,7 @@
 "thanksgiving_3": {
 "seed": 11,
 "ok": false,
-"note": "rescue1 failed: only vampires, no family at table"
+"note": "rescue2 failed: vampires in hats, not classic look"
 },
 "thanksgiving_4": {
 "seed": 12,

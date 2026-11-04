@@ -150,9 +150,9 @@
 "note": ""
 },
 "composure_3": {
-"seed": 11,
-"ok": false,
-"note": "rescue1 failed: whistle still a stick in all"
+"seed": 67,
+"ok": true,
+"note": "rescue2"
 },
 "composure_4": {
 "seed": 12,
@@ -262,7 +262,7 @@
 "vacuum_3": {
 "seed": 11,
 "ok": false,
-"note": "rescue1 failed: modern washers in all"
+"note": "rescue2 failed: vacuum looks like a suitcase heater"
 },
 "vacuum_4": {
 "seed": 11,
@@ -330,9 +330,9 @@
 "note": ""
 },
 "lawnmower_1": {
-"seed": 11,
-"ok": false,
-"note": "rescue1 failed: tractor-like engine mower in all"
+"seed": 63,
+"ok": true,
+"note": "rescue2"
 },
 "lawnmower_2": {
 "seed": 12,
@@ -950,9 +950,9 @@
 "note": ""
 },
 "nanny_4": {
-"seed": 11,
-"ok": false,
-"note": "rescue1 failed: chess board instead of checkers"
+"seed": 62,
+"ok": true,
+"note": "rescue2"
 },
 "nanny_5": {
 "seed": 12,
@@ -1120,9 +1120,9 @@
 "note": ""
 },
 "grocery_5": {
-"seed": 11,
-"ok": false,
-"note": "rescue1 failed: registers have screens"
+"seed": 62,
+"ok": true,
+"note": "rescue2"
 },
 "grocery_6": {
 "seed": 12,
@@ -1202,7 +1202,7 @@
 "salon_4": {
 "seed": 11,
 "ok": false,
-"note": "rescue1 failed: waving hand, not fanning with magazine"
+"note": "rescue2 failed: handheld dryer, not salon hood dryer"
 },
 "salon_5": {
 "seed": 14,
@@ -1432,7 +1432,7 @@
 "revolt_1": {
 "seed": 11,
 "ok": false,
-"note": "rescue1 failed: appliances not turned to wall"
+"note": "rescue2 failed: appliances not turned around"
 },
 "revolt_2": {
 "seed": 41,
@@ -1517,7 +1517,7 @@
 "foxtrot_1": {
 "seed": 11,
 "ok": false,
-"note": "rescue1 failed: robot not bowing"
+"note": "rescue2 failed: no bow, robot just stands"
 },
 "foxtrot_2": {
 "seed": 45,

@@ -345,9 +345,9 @@
 "note": "rescue1"
 },
 "laundry_4": {
-"seed": 11,
-"ok": false,
-"note": "rescue1 failed: modern washers in all"
+"seed": 67,
+"ok": true,
+"note": "rescue2"
 },
 "laundry_5": {
 "seed": 13,
@@ -595,9 +595,9 @@
 "note": "rescue1"
 },
 "checkout_4": {
-"seed": 11,
-"ok": false,
-"note": "rescue1 failed: registers have screens"
+"seed": 65,
+"ok": true,
+"note": "rescue2"
 },
 "checkout_5": {
 "seed": 13,
@@ -800,9 +800,9 @@
 "note": "rescue1"
 },
 "neighbor_1": {
-"seed": 11,
-"ok": false,
-"note": "rescue1 failed: mowers have engines in all"
+"seed": 66,
+"ok": true,
+"note": "rescue2"
 },
 "neighbor_2": {
 "seed": 13,
@@ -1375,9 +1375,9 @@
 "note": ""
 },
 "chorus_1": {
-"seed": 11,
-"ok": false,
-"note": "rescue1 failed: frying pan, no spatula being set down"
+"seed": 61,
+"ok": true,
+"note": "rescue2"
 },
 "chorus_2": {
 "seed": 45,
