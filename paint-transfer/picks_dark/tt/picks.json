@@ -6,13 +6,13 @@
 },
 "davenport_2": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: garbled numbers on dials"
 },
 "davenport_3": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: garbled lettering on lever plate"
 },
 "davenport_4": {
 "seed": 13,
@@ -51,8 +51,8 @@
 },
 "packing_5": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: not sitting on the suitcase"
 },
 "dials_1": {
 "seed": 13,
@@ -61,18 +61,18 @@
 },
 "dials_2": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: garbled numbers on dial"
 },
 "dials_3": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: garbled numbers on dial"
 },
 "dials_4": {
 "seed": 43,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: shows man with book, not pencil marks on sofa arm"
 },
 "dials_5": {
 "seed": 11,
@@ -81,8 +81,8 @@
 },
 "dials_6": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: jumbled clock numerals"
 },
 "milkman_1": {
 "seed": 12,
@@ -91,8 +91,8 @@
 },
 "milkman_2": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: garbled handwriting on note"
 },
 "milkman_3": {
 "seed": 11,
@@ -166,8 +166,8 @@
 },
 "goodbye_1": {
 "seed": 45,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: a woman, should be the man in the gray suit"
 },
 "goodbye_2": {
 "seed": 12,
@@ -231,13 +231,13 @@
 },
 "ave_3": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: straight-arm salute looks wrong, needs friendly bent-elbow wave"
 },
 "ave_4": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: plain handshake, not forearm clasp"
 },
 "ave_5": {
 "seed": 12,
@@ -256,8 +256,8 @@
 },
 "curtsy_2": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: legs twisted oddly, look adult"
 },
 "curtsy_3": {
 "seed": 13,
@@ -266,8 +266,8 @@
 },
 "curtsy_4": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: squatting with knees apart, not a curtsy"
 },
 "curtsy_5": {
 "seed": 12,
@@ -321,13 +321,13 @@
 },
 "caveman_4": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: extra shadowy figure, chest not covered"
 },
 "caveman_5": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: two matches in two hands, should be one match"
 },
 "locals_1": {
 "seed": 13,
@@ -356,8 +356,8 @@
 },
 "locals_6": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: three posing kids in front, no well"
 },
 "gift_1": {
 "seed": 12,
@@ -366,13 +366,13 @@
 },
 "gift_2": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: fruit in green bowl, no gelatin ring"
 },
 "gift_3": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: looks like an oven, mold empty"
 },
 "gift_4": {
 "seed": 14,
@@ -386,8 +386,8 @@
 },
 "reclining_1": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: modern sofa, not a Roman couch"
 },
 "reclining_2": {
 "seed": 12,
@@ -421,8 +421,8 @@
 },
 "feast_2": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: round loaf on a china plate, not bread as plate"
 },
 "feast_3": {
 "seed": 12,
@@ -446,8 +446,8 @@
 },
 "tea_2": {
 "seed": 47,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: pinky not raised"
 },
 "tea_3": {
 "seed": 13,
@@ -456,8 +456,8 @@
 },
 "tea_4": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: one sandwich, no tiered stand"
 },
 "tea_5": {
 "seed": 11,
@@ -466,8 +466,8 @@
 },
 "tea_6": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: not pouring, no cup"
 },
 "chuckwagon_1": {
 "seed": 12,
@@ -491,8 +491,8 @@
 },
 "chuckwagon_5": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: two men added to an empty campfire scene"
 },
 "mammoth_1": {
 "seed": 11,
@@ -506,8 +506,8 @@
 },
 "mammoth_3": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: belly looks like a ball"
 },
 "mammoth_4": {
 "seed": 11,
@@ -521,18 +521,18 @@
 },
 "mammoth_6": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: realistic mammoth, not a flat cave drawing"
 },
 "skol_1": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: odd pipe-like vessel, not a drinking horn"
 },
 "skol_2": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: pouring into a glass dish, not a horn"
 },
 "skol_3": {
 "seed": 12,
@@ -541,18 +541,18 @@
 },
 "skol_4": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: small metal cup, not a drinking horn"
 },
 "skol_5": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: garbled signature mark bottom left"
 },
 "dishes_1": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: gray-haired older woman, not the same housewife"
 },
 "dishes_2": {
 "seed": 13,
@@ -611,8 +611,8 @@
 },
 "armor_2": {
 "seed": 43,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: grown man, should be ten-year-old boy"
 },
 "armor_3": {
 "seed": 13,
@@ -626,8 +626,8 @@
 },
 "armor_5": {
 "seed": 42,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: grown man, should be the boy; not a knight helmet"
 },
 "armor_6": {
 "seed": 13,
@@ -636,8 +636,8 @@
 },
 "bustle_1": {
 "seed": 41,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: dress on mannequin, no housewife in hoop cage"
 },
 "bustle_2": {
 "seed": 14,
@@ -656,13 +656,13 @@
 },
 "bustle_5": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: not squeezing through doorway sideways"
 },
 "stetson_1": {
 "seed": 45,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: wrong man, no tape measure; garbled labels on shelves"
 },
 "stetson_2": {
 "seed": 46,
@@ -671,8 +671,8 @@
 },
 "stetson_3": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: hat floating oddly, extra hand in mirror"
 },
 "stetson_4": {
 "seed": 11,
@@ -696,8 +696,8 @@
 },
 "wig_2": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: small paper scroll, not a cone over the face"
 },
 "wig_3": {
 "seed": 12,
@@ -711,18 +711,18 @@
 },
 "wig_5": {
 "seed": 46,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: cowboy hat, not tricorn; hand gesture odd"
 },
 "furs_1": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: plaid shirt, not red flannel long johns; stray hand"
 },
 "furs_2": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: pulling a scarf, not a sweater over her head"
 },
 "furs_3": {
 "seed": 13,
@@ -741,13 +741,13 @@
 },
 "furs_6": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: adult hands lacing big boots, not small boots stamping"
 },
 "spare_1": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hands, garbled labels in no-people picture"
 },
 "spare_2": {
 "seed": 12,
@@ -796,8 +796,8 @@
 },
 "spoilers_6": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: jumbled watch numerals"
 },
 "coins_1": {
 "seed": 12,
@@ -816,8 +816,8 @@
 },
 "coins_4": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: scratched letters on the counter"
 },
 "coins_5": {
 "seed": 44,
@@ -831,8 +831,8 @@
 },
 "market_2": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: a man added to an object picture"
 },
 "market_3": {
 "seed": 13,
@@ -856,8 +856,8 @@
 },
 "watch_1": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: watch still showing, sleeve not pulled down"
 },
 "watch_2": {
 "seed": 41,
@@ -866,13 +866,13 @@
 },
 "watch_3": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: compass sitting on the sundial"
 },
 "watch_4": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: holding a ring to ear, no wristwatch"
 },
 "watch_5": {
 "seed": 11,
@@ -881,13 +881,13 @@
 },
 "quill_1": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: metal fountain pen nib, not a cut quill; garbled knife lettering"
 },
 "quill_2": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: metal pen nib on the quill"
 },
 "quill_3": {
 "seed": 13,
@@ -896,8 +896,8 @@
 },
 "quill_4": {
 "seed": 46,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: garbled handwriting"
 },
 "quill_5": {
 "seed": 12,
@@ -911,8 +911,8 @@
 },
 "pyramid_1": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: garbled marks near top of pyramid"
 },
 "pyramid_2": {
 "seed": 13,
@@ -931,8 +931,8 @@
 },
 "pyramid_5": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: tin can with garbled label, not a canteen"
 },
 "latin_1": {
 "seed": 11,
@@ -941,8 +941,8 @@
 },
 "latin_2": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: three hands, two pencils"
 },
 "latin_3": {
 "seed": 12,
@@ -956,8 +956,8 @@
 },
 "latin_5": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: not bowing, just standing"
 },
 "latin_6": {
 "seed": 43,
@@ -986,13 +986,13 @@
 },
 "butterfly_5": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: net drawn oddly, butterfly outside net"
 },
 "yourself_1": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: garbled handwriting"
 },
 "yourself_2": {
 "seed": 12,
@@ -1006,13 +1006,13 @@
 },
 "yourself_4": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: garbled newspaper text"
 },
 "yourself_5": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: walking toward us, not away"
 },
 "yourself_6": {
 "seed": 12,
@@ -1051,13 +1051,13 @@
 },
 "lock_2": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: two keys, held key not the one on the string"
 },
 "lock_3": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: padlock not on a brass lever"
 },
 "lock_4": {
 "seed": 12,
@@ -1076,8 +1076,8 @@
 },
 "invent_1": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray arm holding clock, garbled card"
 },
 "invent_2": {
 "seed": 12,
@@ -1086,13 +1086,13 @@
 },
 "invent_3": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: hand at forehead, not shaking head"
 },
 "invent_4": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: lettering carved on the board"
 },
 "invent_5": {
 "seed": 13,
@@ -1101,18 +1101,18 @@
 },
 "photos_1": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: modern 35mm camera, not a box camera"
 },
 "photos_2": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: modern 35mm camera, not a box camera"
 },
 "photos_3": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: modern 35mm camera, not a box camera held at waist"
 },
 "photos_4": {
 "seed": 11,
@@ -1136,8 +1136,8 @@
 },
 "flyingcar_2": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: no hat, not climbing in"
 },
 "flyingcar_3": {
 "seed": 46,
@@ -1161,8 +1161,8 @@
 },
 "robot_2": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: garbled badge lettering on her shirt"
 },
 "robot_3": {
 "seed": 41,
@@ -1171,18 +1171,18 @@
 },
 "robot_4": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: looks like a pepper mill, not a robot elbow"
 },
 "robot_5": {
 "seed": 42,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: cloth on the robot's head, hands merge"
 },
 "robot_6": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: human fingers inside the robot hand"
 },
 "pills_1": {
 "seed": 12,
@@ -1201,23 +1201,23 @@
 },
 "pills_4": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: hand holding a black marble"
 },
 "pills_5": {
 "seed": 43,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: hands on hips, not bowing"
 },
 "sidewalk_1": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: garbled shop sign lettering"
 },
 "sidewalk_2": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: no glove, not a rubber handrail"
 },
 "sidewalk_3": {
 "seed": 12,
@@ -1236,18 +1236,18 @@
 },
 "sidewalk_6": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: man's shoe and stray hand, not old lady's shoes"
 },
 "videophone_1": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hand in object picture"
 },
 "videophone_2": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: mirror shows a different girl"
 },
 "videophone_3": {
 "seed": 13,
@@ -1261,18 +1261,18 @@
 },
 "videophone_5": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: garbled handwriting"
 },
 "jumpsuit_1": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: garbled label inside collar"
 },
 "jumpsuit_2": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: garbled name patch"
 },
 "jumpsuit_3": {
 "seed": 13,
@@ -1286,8 +1286,8 @@
 },
 "jumpsuit_5": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: ordinary laced boots, no fins, hands"
 },
 "jumpsuit_6": {
 "seed": 11,
@@ -1311,13 +1311,13 @@
 },
 "supermarket_4": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: man added to empty aisle"
 },
 "supermarket_5": {
 "seed": 46,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: robot has three arms"
 },
 "sirknight_1": {
 "seed": 11,
@@ -1326,8 +1326,8 @@
 },
 "sirknight_2": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hand on helmet in object picture"
 },
 "sirknight_3": {
 "seed": 11,
@@ -1411,8 +1411,8 @@
 },
 "viking_2": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: three hands around the grill"
 },
 "viking_3": {
 "seed": 12,
@@ -1441,18 +1441,18 @@
 },
 "parlor_3": {
 "seed": 47,
-"ok": true,
-"note": "rescue1"
+"ok": false,
+"note": "verify: garbled magazine cover text"
 },
 "parlor_4": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: magazines have pictures and lettering, not plain; stray hand"
 },
 "parlor_5": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: hand-held dryers, not hood dryers"
 },
 "parlor_6": {
 "seed": 42,
@@ -1461,13 +1461,13 @@
 },
 "sendhome_1": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: holding a clock, not the sofa dials"
 },
 "sendhome_2": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hand in object picture"
 },
 "sendhome_3": {
 "seed": 12,
@@ -1496,33 +1496,33 @@
 },
 "homedials_3": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: jumbled dial numbers"
 },
 "homedials_4": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hand, garbled lettering on dial plate"
 },
 "homedials_5": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: clock shows ten past ten, not five o'clock; duplicate numerals"
 },
 "homedials_6": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: hat floats above, odd tongs lever"
 },
 "newspaper_1": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: garbled newspaper headline"
 },
 "newspaper_2": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: garbled calendar numbers and letters, stray hand"
 },
 "newspaper_3": {
 "seed": 11,
@@ -1536,8 +1536,8 @@
 },
 "newspaper_5": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hand, garbled dial"
 },
 "unpack_1": {
 "seed": 14,
@@ -1551,18 +1551,18 @@
 },
 "unpack_3": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: third hand holding the coat"
 },
 "unpack_4": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray arm in object picture"
 },
 "unpack_5": {
 "seed": 14,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hand, broom merges with dustpan"
 },
 "unpack_6": {
 "seed": 12,
@@ -1571,8 +1571,8 @@
 },
 "neighbors_1": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hand in object picture"
 },
 "neighbors_2": {
 "seed": 11,
@@ -1601,18 +1601,18 @@
 },
 "thankyou_2": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: word painted on the paper"
 },
 "thankyou_3": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: garbled writing on letter"
 },
 "thankyou_4": {
 "seed": 12,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: garbled handwriting, three hands"
 },
 "thankyou_5": {
 "seed": 13,
@@ -1621,13 +1621,13 @@
 },
 "thankyou_6": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: garbled embroidery on coat pocket"
 },
 "album_1": {
 "seed": 11,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: stray hands in object picture"
 },
 "album_2": {
 "seed": 11,
@@ -1641,8 +1641,8 @@
 },
 "album_4": {
 "seed": 13,
-"ok": true,
-"note": ""
+"ok": false,
+"note": "verify: two pencils, garbled writing, white page not black"
 },
 "album_5": {
 "seed": 12,

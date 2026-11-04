@@ -1,0 +1,1102 @@
+[
+{
+"out": "rescue5/tt/davenport_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of three round brass dials with plain blank faces and small pointer needles, no numbers, set into the arm of a red velvet sofa. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/davenport_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a polished brass lever with a red knob sticking up from a plain brass plate on the arm of a red velvet sofa. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/packing_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A cheerful housewife in a yellow shirtwaist dress and white apron sitting right on top of a bulging closed brown leather suitcase on a bed, pressing it shut with her weight, laughing. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/dials_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of an old hand turning a round brass dial with only small plain tick marks and no numbers. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/dials_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A round magnifying glass held over a brass dial with only plain tick marks, no numbers, close-up. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/dials_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a few short pencil tally marks drawn on a small white notepad lying on the arm of a red velvet sofa, a pencil beside it. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/dials_6.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A finger tapping the glass face of a big round brass clock that has only plain tick marks instead of numbers, close-up. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/milkman_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A girl with blonde pigtails in a blue gingham dress writing with a pencil on a small blank note at a kitchen table, concentrating, the note still blank. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/goodbye_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A smiling man in a gray suit and bow tie bending to check the knobs on a white 1950s kitchen stove. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/ave_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A Roman senator in a white toga and laurel wreath on the steps of a marble temple giving a friendly wave with his hand raised beside his shoulder and elbow bent. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/ave_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of two forearms clasped hand to elbow in a Roman greeting, one arm in a white toga sleeve, one in a gray suit sleeve. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/curtsy_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a seven-year-old girl's small feet in white ankle socks and black Mary Jane shoes on a wooden floor, one foot crossed neatly behind the other. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/curtsy_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A girl with blonde pigtails in a blue gingham dress making a polite curtsy on a long red carpet in a grand palace hall, one foot behind the other, knees together and bent a little, holding out the sides of her skirt. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/caveman_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. One friendly bearded caveman alone, wearing a long shaggy brown fur tunic that covers his chest and shoulders, gazing in wonder at his reflection in a shiny silver spoon he holds. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/caveman_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of one hand holding a single small wooden match between finger and thumb, a tiny flame on its tip, dark cave behind. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/locals_6.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A busy medieval village street with timber houses, an old round stone well with a wooden roof and bucket in the middle, market stalls, villagers in the distance. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/gift_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a shiny bright green gelatin ring shaped like a donut, with pear slices and red cherries set inside the clear green jelly, on a glass plate. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/gift_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a shiny green gelatin ring shaped like a donut on a glass plate on a shelf inside an open 1950s refrigerator. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/reclining_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A long ancient Roman banquet couch made of carved wood with a curved headrest and red cushions, beside a low table of fruit in a marble room with columns. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/feast_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a big round flat loaf of brown bread lying directly on a bare wooden table with a roast chicken leg resting on top of the bread, no plate at all. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/tea_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a lady's hand holding a delicate china teacup by its handle, her little finger raised and sticking out daintily. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/tea_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A three-tiered silver cake stand holding many tiny square cucumber sandwiches with the crusts cut off. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/tea_6.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A Victorian lady in a long high-necked purple dress and a feathered hat pouring a stream of tea from a silver teapot into a china teacup on a table in a Victorian parlor, smiling. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/chuckwagon_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A cheerful campfire on the open prairie at dusk with a black coffee pot hanging over it from a metal tripod. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/mammoth_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A white-haired grandfather with round spectacles in a white lab coat sitting beside a campfire in a cave, smiling and patting his own stomach with both hands. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/mammoth_6.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a rough cave wall with a simple flat prehistoric drawing of a woolly mammoth in reddish-brown paint, a few simple outline strokes like a child's drawing, lit by firelight. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/skol_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A smiling man in a gray suit and bow tie holding a big curved cow horn used as a drinking cup with both hands, the horn pale and pointed at one end, in a Viking longhouse. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/skol_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a brown glass bottle pouring dark root beer into the open end of a pale curved cow horn drinking cup. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/skol_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A smiling man in a gray suit and bow tie raising a big pale curved cow-horn drinking cup and cheering at a long wooden table in a Viking longhouse. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/skol_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A long wooden table in a firelit Viking longhouse with round painted wooden shields on the walls. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/dishes_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A cheerful housewife in a yellow shirtwaist dress and white apron, a woman in her thirties with brown hair, rolling up her sleeves in a stone castle kitchen, smiling. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/armor_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A freckled ten-year-old boy, a small child, buttoning a thick quilted padded cream jacket in a stone castle room. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/armor_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A freckled ten-year-old boy in a blue sweater vest, a small child, wearing a big steel medieval knight's helmet with the visor lifted up, grinning. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/bustle_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A cheerful 1950s housewife with dark curled hair in a long white slip, standing inside a big bell-shaped hoop skirt frame made of white wire rings, the rings around her legs, in a 1950s bedroom, laughing. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/bustle_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A cheerful housewife with dark curled hair in a very wide purple Victorian hoop skirt gown, turned sideways and squeezing through a narrow bedroom doorway, the wide skirt squashed in the door frame, laughing. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/stetson_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A white-haired grandfather with round spectacles in a white lab coat in an old western store wrapping a yellow cloth tape measure around his forehead, plain unlabeled boxes on the shelves. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/stetson_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A white-haired grandfather with round spectacles in a white lab coat wearing a tan cowboy hat on his head, looking at himself in a mirror in an old western dry goods store. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/wig_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A smiling man in a gray suit and bow tie wearing a curly white powdered wig, holding a large paper cone over his nose and mouth to protect his face. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/wig_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A smiling 1950s man in a curly white powdered colonial wig and a black three-cornered tricorn hat, bowing politely from the waist in a candlelit colonial room. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/furs_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a pair of bright red flannel long johns, one-piece long underwear with long sleeves and long legs and a button front, folded on a bed. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/furs_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A girl with blonde pigtails in a blue gingham dress pulling a thick red knitted sweater down over her head, her arms up inside the sleeves, in a 1950s bedroom. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/furs_6.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a little girl's small red rubber snow boots stamping in deep snow, only the boots and the hem of a gingham dress showing. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/spare_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A white dress shirt with a striped necktie and a yellow cotton dress laid out flat side by side on a bedspread, seen from above, no labels. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/spoilers_6.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a gold pocket watch open in a hand, its face showing only plain tick marks and no numbers. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/coins_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a hand counting old silver coins one by one onto a smooth plain wooden market counter. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/market_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of bolts of colorful woven cloth stacked on a wooden market stall. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/watch_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A freckled ten-year-old boy in a blue sweater vest tugging the cuff of his white shirt sleeve down so it hides his wristwatch completely. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/watch_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A stone sundial with a tall triangular bronze pointer casting a shadow across its plain flat face in a sunny garden, nothing else on it. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/watch_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A Roman senator in a white toga and laurel wreath holding a modern silver wristwatch with its strap up to his ear, listening in wonder. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/quill_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a white goose feather quill pen whose hollow end has been cut to a sharp slanted point, lying beside a small folding penknife, on a wooden desk, no metal nib. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/quill_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a white goose feather quill pen with its plain cut tip dipped in a small glass pot of black ink, no metal nib. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/quill_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a curved wooden rocker ink blotter resting on a sheet of paper covered in faint wavy gray lines. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/pyramid_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A smiling man in a gray suit and bow tie in a sun hat looking up in awe at a great plain stone pyramid in the desert. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/pyramid_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A smiling man in a gray suit and bow tie drinking from a round army canteen covered in khaki cloth, in the shade of a palm tree in the desert. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/latin_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a small stack of blank white index cards and one pencil on a wooden table. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/latin_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A girl with blonde pigtails in a blue gingham dress bowing politely from the waist with her hands at her sides in a sunny Roman street with white columns. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/butterfly_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a white mesh butterfly net on a wooden pole being lowered gently over a blue butterfly sitting on a pink flower, the butterfly under the net. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/yourself_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A smiling man in a gray suit and bow tie writing a list in a small notebook at a kitchen table, thinking hard. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/yourself_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A smiling man in a gray suit and bow tie peeking over the top of an open newspaper on a park bench. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/yourself_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A smiling man in a gray suit and bow tie seen from behind walking calmly away from us down a tree-lined small town sidewalk. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/lock_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A white-haired grandfather with round spectacles in a white lab coat in a meadow holding up a single small brass key that hangs on a string around his neck. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/lock_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a brass padlock hooked through the hole in the end of a brass lever on the arm of a red velvet sofa, locking it in place. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/invent_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a red yo-yo, a few glass marbles and a small magnifying glass on a boy's wooden bedroom dresser. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/invent_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A freckled ten-year-old boy in a blue sweater vest in a rocky prehistoric valley, frowning and turning his head side to side to say no, arms crossed. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/invent_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a plain red and black checkerboard with flat round red and black checker discs on a castle table, no lettering. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/photos_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of hands loading a roll of film into an old black cardboard Kodak-style box camera, a simple rectangular box with a small round lens. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/photos_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A girl with blonde pigtails in a blue gingham dress peeking around a stone column holding a simple black rectangular 1920s box camera, in a sunny Roman street. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/photos_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A girl with blonde pigtails in a blue gingham dress holding a simple black rectangular box camera at her waist with both hands and looking down into the small viewfinder on its top. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/flyingcar_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A smiling man in a gray suit and bow tie lifting one leg to climb into a shiny turquoise flying car with tail fins and an open clear bubble canopy, holding his gray fedora hat in one hand. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/robot_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A cheerful housewife in a yellow shirtwaist dress and white apron smiling and talking politely in a bright futuristic hallway with curved walls, no badges. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/robot_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a small silver oil can with a long spout dripping one drop of oil onto the round shiny ball-shaped elbow joint of a chrome robot arm. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/robot_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A cheerful housewife in a yellow shirtwaist dress and white apron polishing the chrome shoulder of a shiny chrome robot butler with a round glass dome head, a round chrome body and exactly two chrome arms with a yellow cloth held in one hand, smiling, in a futuristic hallway. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/robot_6.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a lady's hand in a white glove shaking a chrome robot hand made of metal fingers, no skin on the robot hand. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/pills_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a tall glass of water beside a white plate with three small colored pills on a white table. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/pills_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. a shiny chrome robot butler with a round glass dome head, a round chrome body and exactly two chrome arms wearing a white apron, bending forward at the waist in a polite bow, in a gleaming white futuristic kitchen. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/sidewalk_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A long silver moving walkway gliding through a gleaming futuristic city plaza with plain blank storefronts. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/sidewalk_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of an old lady's hand in a white cotton glove holding the black rubber handrail of a moving walkway. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/sidewalk_6.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of an old lady's sensible black lace-up low-heeled shoes and lavender dress hem, hopping off the end of a moving walkway. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/videophone_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A sleek white futuristic telephone with a small glowing round television screen built into it, on a table in a futuristic room. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/videophone_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A girl with blonde pigtails in a blue gingham dress quickly combing her pigtails in front of a small mirror, her reflection showing the same girl. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/videophone_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a blank notepad with a pencil lying on it beside a white futuristic telephone. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/jumpsuit_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a shiny silver space-age jumpsuit hanging on a wooden hanger, no labels. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/jumpsuit_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A white-haired grandfather with round spectacles in a white lab coat lifting one leg into a shiny silver space-age jumpsuit with no patches, one hand on a wall for balance. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/jumpsuit_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a pair of shiny silver space-age ankle boots with smooth tops and little pointed fins on the back of the heels, standing on a floor. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/supermarket_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A very long aisle of glass freezer doors with colorful frozen food boxes with no lettering in a bright futuristic store. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/supermarket_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. a shiny chrome robot butler with a round glass dome head, a round chrome body and exactly two chrome arms standing behind a shiny chrome checkout counter in a supermarket, its two arms resting on the counter. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/sirknight_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A shiny steel knight's helmet sitting on a hall table beside a vase of flowers. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/viking_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of rows of hot dogs sizzling on a round charcoal grill, one hand holding tongs turning a hot dog. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/parlor_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A gray-haired grandmother in a lavender dress and pearls sitting under a big chrome hood hair dryer in a 1950s beauty parlor, reading a magazine with a plain solid-color cover. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/parlor_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a fanned stack of 1950s magazines with plain solid-color covers, red, blue, yellow and green, no pictures and no writing, on a beauty parlor table. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/parlor_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. An empty pink 1950s beauty parlor with a row of tall chrome dome hood hair dryers on stands over pink chairs, a big mirror on the wall. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/sendhome_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A white-haired grandfather with round spectacles in a white lab coat bending close to peer through his spectacles at a row of small brass dials set into the arm of a red velvet sofa. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/sendhome_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a folded brown paper sack lunch with a red apple beside it on a kitchen table. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/homedials_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a hand turning a round brass dial with only plain tick marks set into the arm of a red velvet sofa. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/homedials_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of three brass levers and a small round brass dial with a tiny painted map on it, on the arm of a red velvet sofa, no lettering. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/homedials_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a big round brass clock with Roman numerals, its short hand pointing straight at the V and its long hand pointing straight up at the XII. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/homedials_6.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A white-haired grandfather with round spectacles in a white lab coat sitting on a red velvet sofa, pulling a long brass lever up from the sofa arm with one hand and pressing a brown hat down on his head with the other, smiling. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/newspaper_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A smiling man in a gray suit and bow tie reading a folded newspaper with plain gray columns and no headline, in a 1950s kitchen with a cup of coffee. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/newspaper_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A 1950s kitchen wall calendar with a picture of a farm at the top and a plain grid of empty squares below, hanging beside a refrigerator. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/newspaper_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A vintage wooden tabletop radio with a plain dial glowing softly on a kitchen counter. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/unpack_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A cheerful housewife in a yellow shirtwaist dress and white apron holding a stiff wooden brush in one hand and brushing a dark wool coat that hangs by itself over a porch railing. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/unpack_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A wicker laundry basket full of folded clothes on a back porch. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/unpack_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a straw broom sweeping a little pile of sand into a separate metal dustpan on a wooden porch. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/neighbors_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of an open glass jar of white cold cream on a dressing table. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/thankyou_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a black fountain pen resting on a blank sheet of cream stationery with nothing written on it. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/thankyou_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A girl with blonde pigtails in a blue gingham dress writing a letter with a fountain pen, smiling to herself, the page covered in faint wavy gray lines. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/thankyou_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a sheet of cream stationery covered in faint wavy gray lines like handwriting seen from far away, with one wavy line at the bottom like a signature. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/thankyou_6.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A white-haired grandfather with round spectacles in a white lab coat with a plain white lab coat tucking a cream envelope into his breast pocket, smiling. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/album_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a big brown leather photo album lying closed on a living room coffee table. Nobody in the picture, no people, no hands at all. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue5/tt/album_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of one hand holding a single white pencil writing on a black photo album page beside a black-and-white photograph, the writing just faint white wavy lines. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 121,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+}
+]
