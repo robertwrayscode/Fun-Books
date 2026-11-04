@@ -12,7 +12,7 @@
  "van_3": {
   "seed": 11,
   "ok": false,
-  "note": "All vans have side windows; prompt wants windowless"
+  "note": "rescue1 failed: all vans have side windows; 46 has blank rear panel"
  },
  "van_4": {
   "seed": 11,
@@ -32,42 +32,42 @@
  "newspaper_1": {
   "seed": 14,
   "ok": false,
-  "note": "All newspapers show garbled headline text"
+  "note": "rescue1 failed: fake legible headlines on all; not hiding"
  },
  "newspaper_2": {
-  "seed": 11,
-  "ok": false,
-  "note": "All newspapers show garbled text"
+  "seed": 41,
+  "ok": true,
+  "note": "rescue1: peeking over paper, only small print"
  },
  "newspaper_3": {
-  "seed": 11,
-  "ok": false,
-  "note": "Garbled newspaper text in all; bus interior not bench"
+  "seed": 43,
+  "ok": true,
+  "note": "rescue1: web touches hat, leaves on shoes; small headline"
  },
  "newspaper_4": {
-  "seed": 11,
-  "ok": false,
-  "note": "Garbled newspaper headlines in all seeds"
+  "seed": 42,
+  "ok": true,
+  "note": "rescue1: housewife greets man, small print only"
  },
  "newspaper_5": {
   "seed": 11,
   "ok": false,
-  "note": "Garbled newspaper headlines in all seeds"
+  "note": "rescue1 failed: all show legible 'OFFER HIM TODAY'S' headline text"
  },
  "hedgecam_1": {
-  "seed": 12,
-  "ok": false,
-  "note": "Garbled lens ring lettering in all; s13 modern DSLR"
+  "seed": 46,
+  "ok": true,
+  "note": "rescue1: lens poking from hedge, glint, white house"
  },
  "hedgecam_2": {
-  "seed": 14,
-  "ok": false,
-  "note": "Modern DSLR cameras with garbled lettering in all"
+  "seed": 41,
+  "ok": true,
+  "note": "rescue1: hands behind back, nose near lens"
  },
  "hedgecam_3": {
   "seed": 13,
   "ok": false,
-  "note": "Ownerless odd hands in all; lens lettering"
+  "note": "rescue1 failed: all show hands holding camera; lens markings"
  },
  "hedgecam_4": {
   "seed": 12,
@@ -117,7 +117,7 @@
  "fedora_2": {
   "seed": 11,
   "ok": false,
-  "note": "Garbled store sign lettering in all seeds"
+  "note": "rescue1 failed: fake storefront sign text on all seeds"
  },
  "fedora_3": {
   "seed": 12,
@@ -130,9 +130,9 @@
   "note": "Fedora and sunglasses close-up, no hands, clean"
  },
  "fedora_5": {
-  "seed": 13,
-  "ok": false,
-  "note": "Bar table with liquor, not soda fountain counter"
+  "seed": 46,
+  "ok": true,
+  "note": "rescue1: three G-men at counter, hands fine"
  },
  "fedora_6": {
   "seed": 13,
@@ -145,14 +145,14 @@
   "note": "Cake from oven, fedora man at window; s11 digital oven"
  },
  "unpack_2": {
-  "seed": 11,
-  "ok": false,
-  "note": "Garbled shipping-label text on boxes in all seeds"
+  "seed": 41,
+  "ok": true,
+  "note": "rescue1: plain box stack, closed curtains"
  },
  "unpack_3": {
-  "seed": 11,
-  "ok": false,
-  "note": "Odd stick at bell, plate text; others floating plate or no cake"
+  "seed": 42,
+  "ok": true,
+  "note": "rescue1: cake, door, windowless truck with antenna"
  },
  "unpack_4": {
   "seed": 14,
@@ -192,7 +192,7 @@
  "smile_6": {
   "seed": 12,
   "ok": false,
-  "note": "All show pipe in mouth, not whistling"
+  "note": "rescue1 failed: all have pipe/whistle object in mouth; extra figures"
  },
  "click_1": {
   "seed": 11,
@@ -207,7 +207,7 @@
  "click_3": {
   "seed": 12,
   "ok": false,
-  "note": "Two men in every seed; prompt asks one G-man"
+  "note": "rescue1 failed: two men in every seed; boombox-like recorders"
  },
  "click_4": {
   "seed": 11,
@@ -215,9 +215,9 @@
   "note": "Smiling on phone, hand fine"
  },
  "click_5": {
-  "seed": 12,
-  "ok": false,
-  "note": "Garbled label text on phones in all seeds"
+  "seed": 42,
+  "ok": true,
+  "note": "rescue1: grandma on rotary phone with tea"
  },
  "tape_1": {
   "seed": 11,
@@ -237,7 +237,7 @@
  "tape_4": {
   "seed": 11,
   "ok": false,
-  "note": "Garbled text on paper or wall; fused machines"
+  "note": "rescue1 failed: reels fused onto typewriter; others have paper text"
  },
  "tape_5": {
   "seed": 14,
@@ -247,7 +247,7 @@
  "tape_6": {
   "seed": 14,
   "ok": false,
-  "note": "No phone cradle shown; just holding receiver"
+  "note": "rescue1 failed: no phone cradle shown in any seed"
  },
  "vase_1": {
   "seed": 11,
@@ -260,9 +260,9 @@
   "note": "Mic among daisies in glass vase, one hand"
  },
  "vase_3": {
-  "seed": 13,
-  "ok": false,
-  "note": "Text captions in 11/12/14; s13 woman has three hands"
+  "seed": 46,
+  "ok": true,
+  "note": "rescue1: hand over mouth, vase, G-man at hedge"
  },
  "vase_4": {
   "seed": 13,
@@ -292,7 +292,7 @@
  "lamp_4": {
   "seed": 13,
   "ok": false,
-  "note": "Garbled newspaper headlines in all seeds"
+  "note": "rescue1 failed: legible 'BOX SCORES' headline on all"
  },
  "lamp_5": {
   "seed": 11,
@@ -320,9 +320,9 @@
   "note": "Dialing rotary phone; desk phone not wall-mounted"
  },
  "shortcall_4": {
-  "seed": 13,
-  "ok": false,
-  "note": "No finger counting in any seed; s12 duplicate watcher"
+  "seed": 46,
+  "ok": true,
+  "note": "rescue1: phone, raised fingers, man at window"
  },
  "shortcall_5": {
   "seed": 14,
@@ -365,9 +365,9 @@
   "note": "Boy in striped pajamas on bed edge"
  },
  "goodnight_2": {
-  "seed": 12,
-  "ok": false,
-  "note": "Mic on top of wing, not under; extra mics/hands elsewhere"
+  "seed": 41,
+  "ok": true,
+  "note": "rescue1: toy plane with mic and wire, no hands"
  },
  "goodnight_3": {
   "seed": 12,
@@ -387,7 +387,7 @@
  "welcome_1": {
   "seed": 11,
   "ok": false,
-  "note": "Modern digital stoves or garbled oven text in all"
+  "note": "rescue1 failed: modern digital stainless ovens on all"
  },
  "welcome_2": {
   "seed": 12,
@@ -400,9 +400,9 @@
   "note": "Crossing street with casserole toward antenna truck"
  },
  "welcome_4": {
-  "seed": 14,
-  "ok": false,
-  "note": "None knock on rear doors; palms on side panels"
+  "seed": 42,
+  "ok": true,
+  "note": "rescue1: casserole, closed rear doors, antenna"
  },
  "welcome_5": {
   "seed": 11,
@@ -412,7 +412,7 @@
  "welcome_6": {
   "seed": 14,
   "ok": false,
-  "note": "Note has written text in all seeds"
+  "note": "rescue1 failed: legible handwritten note text on all"
  },
  "coffee_1": {
   "seed": 14,
@@ -477,7 +477,7 @@
  "names_2": {
   "seed": 11,
   "ok": false,
-  "note": "Truck has side windows in every seed; rechecked"
+  "note": "rescue1 failed: all vans have side windows"
  },
  "names_3": {
   "seed": 11,
@@ -492,7 +492,7 @@
  "names_5": {
   "seed": 12,
   "ok": false,
-  "note": "Skilled portraits, not a child crayon drawing; rechecked"
+  "note": "rescue1 failed: realistic portraits, not child's crayon drawing"
  },
  "rain_1": {
   "seed": 14,
@@ -540,9 +540,9 @@
   "note": "Binoculars and handkerchief, hands fine"
  },
  "binoculars_4": {
-  "seed": 11,
-  "ok": false,
-  "note": "All notes show scribbled writing"
+  "seed": 46,
+  "ok": true,
+  "note": "rescue1: tongue out, mostly blank note"
  },
  "binoculars_5": {
   "seed": 11,
@@ -552,7 +552,7 @@
  "birthday_1": {
   "seed": 12,
   "ok": false,
-  "note": "All calendars have garbled text"
+  "note": "rescue1 failed: legible 'Birthday' calendar header on all"
  },
  "birthday_2": {
   "seed": 12,
@@ -620,14 +620,14 @@
   "note": "Plaid thermos beside steaming kettle"
  },
  "thermos_4": {
-  "seed": 11,
-  "ok": false,
-  "note": "None pours from saucepan into thermos; 13 pours from handle"
+  "seed": 47,
+  "ok": true,
+  "note": "rescue1: pouring from saucepan into plaid thermos"
  },
  "thermos_5": {
   "seed": 13,
   "ok": false,
-  "note": "All four have caption text; 11 and 12 extra man"
+  "note": "rescue1 failed: 'SEND IT OVER' text on all seeds"
  },
  "thermos_6": {
   "seed": 13,
@@ -700,9 +700,9 @@
   "note": "Pears and cherries in fluted mold; 12 and 14 extra hands"
  },
  "gelatin_3": {
-  "seed": 14,
-  "ok": false,
-  "note": "No clear ring mold; odd liquid stream, modern fridge"
+  "seed": 41,
+  "ok": true,
+  "note": "rescue1: ring mold into open fridge"
  },
  "gelatin_4": {
   "seed": 12,
@@ -725,9 +725,9 @@
   "note": "Fruit bowl with microphone and black wire"
  },
  "centerpiece_3": {
-  "seed": 11,
-  "ok": false,
-  "note": "No lighting shown; 12 duplicate woman, 14 three candles"
+  "seed": 46,
+  "ok": true,
+  "note": "rescue1: lit candles, man at window; not match-lighting"
  },
  "centerpiece_4": {
   "seed": 11,
@@ -742,7 +742,7 @@
  "centerpiece_6": {
   "seed": 11,
   "ok": false,
-  "note": "Nobody blowing out candles; 13 extra woman"
+  "note": "rescue1 failed: none show blowing out candles"
  },
  "cookies_1": {
   "seed": 11,
@@ -757,7 +757,7 @@
  "cookies_3": {
   "seed": 11,
   "ok": false,
-  "note": "All open oven, reaching in, not peering through window"
+  "note": "rescue1 failed: open oven tray handling, no window; girl too young"
  },
  "cookies_4": {
   "seed": 13,
@@ -787,7 +787,7 @@
  "trim_4": {
   "seed": 14,
   "ok": false,
-  "note": "All cameras show garbled lettering; 12-13 extra hands"
+  "note": "rescue1 failed: extra/garbled hands, scissors not garden shears"
  },
  "trim_5": {
   "seed": 11,
@@ -800,14 +800,14 @@
   "note": "Admiring hedge, blank truck with tall antenna"
  },
  "mow_1": {
-  "seed": 11,
-  "ok": false,
-  "note": "Shoes not clearly under bush; stray hands in all"
+  "seed": 45,
+  "ok": true,
+  "note": "rescue1: wingtips under rhododendron, no hands"
  },
  "mow_2": {
-  "seed": 11,
-  "ok": false,
-  "note": "All show modern gas mowers, not reel mower"
+  "seed": 48,
+  "ok": true,
+  "note": "rescue1: reel mower, boy blowing whistle"
  },
  "mow_3": {
   "seed": 11,
@@ -815,14 +815,14 @@
   "note": "G-man crouching in rhododendron, tucking feet"
  },
  "mow_4": {
-  "seed": 12,
-  "ok": false,
-  "note": "All show modern gas mowers, not reel mower"
+  "seed": 41,
+  "ok": true,
+  "note": "rescue1: reel mower, stripes, G-man peeking"
  },
  "mow_5": {
-  "seed": 11,
-  "ok": false,
-  "note": "All show modern gas mowers, not reel mower"
+  "seed": 41,
+  "ok": true,
+  "note": "rescue1: reel mower around rhododendron"
  },
  "laundry_1": {
   "seed": 11,
@@ -892,7 +892,7 @@
  "rake_3": {
   "seed": 14,
   "ok": false,
-  "note": "Body not buried in any seed; 13 headless"
+  "note": "rescue1 failed: not buried; hat and sunglasses not only things showing"
  },
  "rake_4": {
   "seed": 12,
@@ -905,9 +905,9 @@
   "note": "Stuffing leaves into burlap sack"
  },
  "rake_6": {
-  "seed": 12,
-  "ok": false,
-  "note": "No pouring or cup; just handing thermos"
+  "seed": 45,
+  "ok": true,
+  "note": "rescue1: grandpa pours cider from thermos for G-man"
  },
  "trash_1": {
   "seed": 13,
@@ -920,9 +920,9 @@
   "note": "Kneeling with bags, man at window"
  },
  "trash_3": {
-  "seed": 14,
-  "ok": false,
-  "note": "Garbled newspaper text in all seeds"
+  "seed": 44,
+  "ok": true,
+  "note": "rescue1: twine-tied bundle, small newsprint only"
  },
  "trash_4": {
   "seed": 12,
@@ -970,9 +970,9 @@
   "note": "Desk by window, man peering in"
  },
  "letter_2": {
-  "seed": 12,
-  "ok": false,
-  "note": "Garbled handwriting visible in all seeds"
+  "seed": 42,
+  "ok": true,
+  "note": "rescue1: fountain pen, faint small scribbles"
  },
  "letter_3": {
   "seed": 13,
@@ -980,14 +980,14 @@
   "note": "Smiling writing with teacup; faint lines only"
  },
  "letter_4": {
-  "seed": 11,
-  "ok": false,
-  "note": "Garbled pseudo-writing on letter in all seeds"
+  "seed": 42,
+  "ok": true,
+  "note": "rescue1: laughing grandma writing, windowless truck behind"
  },
  "letter_5": {
   "seed": 11,
   "ok": false,
-  "note": "No seed shows licking envelope flap"
+  "note": "rescue1 failed: none licking envelope flap"
  },
  "steamed_1": {
   "seed": 13,
@@ -1010,9 +1010,9 @@
   "note": "Envelope held over steaming kettle"
  },
  "steamed_5": {
-  "seed": 11,
-  "ok": false,
-  "note": "Garbled writing on papers; 12 truck text"
+  "seed": 42,
+  "ok": true,
+  "note": "rescue1: writing note, letters, windowless truck, antenna"
  },
  "steamed_6": {
   "seed": 13,
@@ -1030,9 +1030,9 @@
   "note": "Single clean hand on colored stack"
  },
  "triplicate_3": {
-  "seed": 11,
-  "ok": false,
-  "note": "Garbled 'PRESS' text on form in all seeds"
+  "seed": 46,
+  "ok": true,
+  "note": "rescue1: writing form, G-man by hedge, no big text"
  },
  "triplicate_4": {
   "seed": 11,
@@ -1040,9 +1040,9 @@
   "note": "Scratching head, pencil, form"
  },
  "triplicate_5": {
-  "seed": 11,
-  "ok": false,
-  "note": "Signature scribbles on form in all seeds"
+  "seed": 46,
+  "ok": true,
+  "note": "rescue1: signing form, tiny squiggle only"
  },
  "census_1": {
   "seed": 11,
@@ -1050,9 +1050,9 @@
   "note": "Knocking with clipboard; 14 modern doorbell"
  },
  "census_2": {
-  "seed": 14,
-  "ok": false,
-  "note": "Handshake only, chair not offered"
+  "seed": 45,
+  "ok": true,
+  "note": "rescue1: grandpa offers chair to agent with clipboard"
  },
  "census_3": {
   "seed": 12,
@@ -1065,9 +1065,9 @@
   "note": "Grandpa gesturing, agent writing"
  },
  "census_5": {
-  "seed": 12,
-  "ok": false,
-  "note": "Garbled handwriting on form in all seeds"
+  "seed": 42,
+  "ok": true,
+  "note": "rescue1: hand writing on clipboard, small handwriting"
  },
  "census_6": {
   "seed": 12,
@@ -1085,9 +1085,9 @@
   "note": "Receipt into handbag, windowless panel van"
  },
  "receipts_3": {
-  "seed": 11,
-  "ok": false,
-  "note": "Garbled text on receipts; wooden box not shoebox"
+  "seed": 41,
+  "ok": true,
+  "note": "rescue1: box of receipts with tabs, small print"
  },
  "receipts_4": {
   "seed": 11,
@@ -1105,14 +1105,14 @@
   "note": "Picking postcard, man at window"
  },
  "postcard_2": {
-  "seed": 12,
-  "ok": false,
-  "note": "Garbled writing on postcard in all seeds"
+  "seed": 48,
+  "ok": true,
+  "note": "rescue1: boy writing postcard, man at window"
  },
  "postcard_3": {
   "seed": 13,
   "ok": false,
-  "note": "Garbled text on postcard in all seeds"
+  "note": "rescue1 failed: postcard held in hands; caption text on all"
  },
  "postcard_4": {
   "seed": 14,
@@ -1157,7 +1157,7 @@
  "spykit_1": {
   "seed": 11,
   "ok": false,
-  "note": "'FIND A GOOD BOX' text on every box"
+  "note": "rescue1 failed: cigars in box; others have 'FIND A GOOD BOX' text"
  },
  "spykit_2": {
   "seed": 13,
@@ -1165,9 +1165,9 @@
   "note": "Taping cardboard, man at window; no text"
  },
  "spykit_3": {
-  "seed": 14,
-  "ok": false,
-  "note": "Garbled text on notebook/box in all seeds"
+  "seed": 48,
+  "ok": true,
+  "note": "rescue1: magnifier, notebook, pencil, sunglasses in box"
  },
  "spykit_4": {
   "seed": 11,
@@ -1225,9 +1225,9 @@
   "note": "Giving biscuit to Scottie"
  },
  "dog_4": {
-  "seed": 11,
-  "ok": false,
-  "note": "No leash shown; other seeds leash to G-man"
+  "seed": 41,
+  "ok": true,
+  "note": "rescue1: girl with scottie, G-man walking past"
  },
  "dog_5": {
   "seed": 14,
@@ -1285,29 +1285,29 @@
   "note": "Agent smiling, adjusting fedora brim"
  },
  "photo_5": {
-  "seed": 11,
-  "ok": false,
-  "note": "All seeds have an extra navy-cardigan man"
+  "seed": 48,
+  "ok": true,
+  "note": "rescue1: correct five people posed on lawn"
  },
  "photo_6": {
   "seed": 13,
   "ok": false,
-  "note": "All seeds have caption text on photo"
+  "note": "rescue1 failed: 'send him a copy' text on all; hands"
  },
  "secret_1": {
-  "seed": 13,
-  "ok": false,
-  "note": "Garbled writing on notepad in all seeds"
+  "seed": 42,
+  "ok": true,
+  "note": "rescue1: grandma writes word, man at window, tiny text"
  },
  "secret_2": {
   "seed": 11,
   "ok": false,
-  "note": "Note on top of table, not under; scribbles"
+  "note": "rescue1 failed: note on table top, not passed under table"
  },
  "secret_3": {
   "seed": 14,
   "ok": false,
-  "note": "No clear whispering; 12 has ambiguous hand"
+  "note": "rescue1 failed: no clear whispering; stray hands near faces"
  },
  "secret_4": {
   "seed": 13,
@@ -1322,7 +1322,7 @@
  "bridge_1": {
   "seed": 12,
   "ok": false,
-  "note": "No card table unfolding; shows puzzle on table"
+  "note": "rescue1 failed: small table already set up; not unfolding card table"
  },
  "bridge_2": {
   "seed": 13,
@@ -1372,17 +1372,17 @@
  "movies_5": {
   "seed": 14,
   "ok": false,
-  "note": "No projection; hands hold picture and film"
+  "note": "rescue1 failed: hands holding film at window, no projection on sheet"
  },
  "blockparty_1": {
   "seed": 14,
   "ok": false,
-  "note": "Not counting on fingers; garbled writing on list"
+  "note": "rescue1 failed: not counting on fingers; others have text"
  },
  "blockparty_2": {
-  "seed": 12,
-  "ok": false,
-  "note": "Text on truck in 11/13/14; 12 extra person"
+  "seed": 42,
+  "ok": true,
+  "note": "rescue1: card under wiper of windowless box truck"
  },
  "blockparty_3": {
   "seed": 11,
@@ -1407,7 +1407,7 @@
  "thanksgiving_1": {
   "seed": 11,
   "ok": false,
-  "note": "Shows tree leaf on table, not table leaf"
+  "note": "rescue1 failed: places a plant leaf, not table leaf"
  },
  "thanksgiving_2": {
   "seed": 13,
@@ -1452,7 +1452,7 @@
  "picnic_5": {
   "seed": 12,
   "ok": false,
-  "note": "No three-legged race; legs never tied"
+  "note": "rescue1 failed: running separately, legs not tied"
  },
  "picnic_6": {
   "seed": 14,
@@ -1485,14 +1485,14 @@
   "note": "Agents dancing stiffly hand in hand"
  },
  "nothing_1": {
-  "seed": 14,
-  "ok": false,
-  "note": "Garbled writing on checks in all seeds"
+  "seed": 45,
+  "ok": true,
+  "note": "rescue1: writing at desk, man at window; small paper text"
  },
  "nothing_2": {
   "seed": 11,
   "ok": false,
-  "note": "Power mowers not reel; text in 12-14"
+  "note": "rescue1 failed: all mowers have engines, not reel mowers"
  },
  "nothing_3": {
   "seed": 11,
@@ -1522,7 +1522,7 @@
  "thanks_2": {
   "seed": 12,
   "ok": false,
-  "note": "All seeds show written words 'dear sirs'"
+  "note": "rescue1 failed: legible 'dear sirs' on all seeds"
  },
  "thanks_3": {
   "seed": 11,
@@ -1530,14 +1530,14 @@
   "note": "Writing letter; 12 and 14 have text signs"
  },
  "thanks_4": {
-  "seed": 11,
-  "ok": false,
-  "note": "Garbled text on letters/signs in all seeds"
+  "seed": 42,
+  "ok": true,
+  "note": "rescue1: dog paw on letter, man at window"
  },
  "thanks_5": {
-  "seed": 13,
-  "ok": false,
-  "note": "Scribbled writing in all; not sealing envelope"
+  "seed": 42,
+  "ok": true,
+  "note": "rescue1: folding envelope flap, small handwriting"
  },
  "goodbye_1": {
   "seed": 11,
@@ -1610,19 +1610,19 @@
   "note": "Untying string on brown envelope"
  },
  "file_4": {
-  "seed": 11,
-  "ok": false,
-  "note": "Garbled text on papers in all seeds"
+  "seed": 46,
+  "ok": true,
+  "note": "rescue1: laughing grandma reading papers, faint print"
  },
  "file_5": {
   "seed": 13,
   "ok": false,
-  "note": "Garbled typed text in all seeds"
+  "note": "rescue1 failed: large legible fake typed text on all"
  },
  "file_6": {
   "seed": 13,
   "ok": false,
-  "note": "Written words on envelope in all seeds"
+  "note": "rescue1 failed: 'SEND IT BACK' text on envelope in all"
  },
  "porchlight_1": {
   "seed": 11,
