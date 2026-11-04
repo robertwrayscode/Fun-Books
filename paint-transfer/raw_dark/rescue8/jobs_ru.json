@@ -1,0 +1,12 @@
+[
+{
+"out": "rescue8/ru/curtsy_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Full-length side view of a girl with pigtails in a gingham dress standing upright on a kitchen floor doing a ballet-style curtsy, standing tall, one foot crossed behind the other, both hands lifting the hem of her skirt out to the sides, head bowed, toward a small chrome toaster robot with two round googly eyes and skinny wire legs standing on the kitchen counter beside her. Natural hands, every person has exactly two arms and two hands, no extra hands or arms. Every paper, card, sign, label, can, newspaper, book page, license plate, awning and container is plain and blank with no letters at all. No words anywhere in the image, no numbers, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 151,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+}
+]
