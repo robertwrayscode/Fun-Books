@@ -555,9 +555,9 @@
 "note": "rescue8"
 },
 "gelatin_5": {
-"seed": 47,
-"ok": false,
-"note": "rescue11 failed: odd puckered mouth"
+"seed": 223,
+"ok": true,
+"note": "rescue14"
 },
 "dusting_1": {
 "seed": 14,

@@ -390,9 +390,9 @@
 "note": "rescue9"
 },
 "zeer_3": {
-"seed": 0,
-"ok": false,
-"note": "rescue10 failed: plants in the inner pot"
+"seed": 221,
+"ok": true,
+"note": "rescue13"
 },
 "zeer_4": {
 "seed": 161,
@@ -940,9 +940,9 @@
 "note": "rescue9"
 },
 "ash_5": {
-"seed": 0,
-"ok": false,
-"note": "rescue10 failed: fire burning in stove, text says cold"
+"seed": 223,
+"ok": true,
+"note": "rescue13"
 },
 "ash_6": {
 "seed": 12,
@@ -1415,9 +1415,9 @@
 "note": "rescue9"
 },
 "car_4": {
-"seed": 0,
-"ok": false,
-"note": "rescue10 failed: she sits inside, not climbing out"
+"seed": 224,
+"ok": true,
+"note": "rescue13"
 },
 "car_5": {
 "seed": 11,
