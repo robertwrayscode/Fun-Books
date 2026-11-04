@@ -1,0 +1,352 @@
+[
+{
+"out": "rescue1/tt/packing_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. An open brown leather suitcase on a bed neatly packed with folded shirts, socks and a toothbrush, seen from above. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/tt/dials_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A white-haired grandfather with round spectacles in a white lab coat sitting on a red velvet sofa with brass dials, holding a small notepad turned so we see only its blank back. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/tt/snacks_6.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A wicker picnic basket with a plain red-checked cloth, apples, sandwiches wrapped in wax paper and plain unlabeled tin cans, on a kitchen table. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/tt/goodbye_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A cheerful housewife in a yellow shirtwaist dress and white apron turning the round knob of an old white 1950s enamel kitchen range with chrome trim and four gas burners, no screens or displays. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/tt/tea_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a delicate china teacup with saucer held correctly by a gentleman's thumb and two fingers on the small handle, pinky raised. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/tt/armor_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A smiling man in a gray suit and bow tie pulling on a thick quilted cream-colored medieval padded cloth tunic over his shirt, laced at the front, in a stone castle armory. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/tt/armor_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A smiling man in a gray suit and bow tie in a medieval chainmail shirt lowering a single steel knight's helmet onto his head with both hands, in a castle armory. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/tt/bustle_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A Victorian lady's bell-shaped hoop skirt frame of thin white rings hanging empty on a dress form in a Victorian dressing room. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/tt/stetson_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A smiling man in a gray suit and bow tie in an old western general store with plain wooden shelves and barrels, trying on a tall cowboy hat in front of a small mirror. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/tt/stetson_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A tall tan cowboy hat resting upside down on a wooden store counter in an old western general store. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/tt/wig_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A smiling man in a gray suit and bow tie wearing a powdered white wig and a black tricorn hat bowing deeply with one arm across his chest, in a candlelit colonial parlor. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/tt/coins_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A brown hen sitting on a plain bare wooden market stall counter in a medieval village market. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/tt/watch_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of the slim wrist of freckled boy in a blue sweater vest wearing a small silver wristwatch, his blue sweater sleeve pushed up. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/tt/quill_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a curved wooden rocker ink blotter with a brass knob being rocked across a sheet of handwritten paper covered in faint wavy lines, on a desk. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/tt/latin_6.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A Roman senator in a white toga and laurel wreath with bare wrists, no watch, beaming and laughing on the steps of a marble building. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/tt/butterfly_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A narrow bare dirt path winding through giant ferns in a sunny prehistoric valley, nothing written anywhere. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/tt/lock_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A small plain wooden sign with nothing written on it hanging by a string on the brass arm of a red velvet sofa. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/tt/lock_6.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A white goat standing on top of a plain brown canvas tarp spread over a lumpy shape in a sunny meadow. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/tt/flyingcar_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A shiny turquoise 1950s flying car with big tail fins, no wheels, a clear glass bubble canopy over the seats and little rocket jets underneath, hovering beside a city rooftop. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/tt/flyingcar_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Close-up of a plain chrome seat belt buckle clicking shut on a white leather car seat. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/tt/flyingcar_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Several shiny 1950s flying cars with tail fins and clear bubble canopies, no wings, gliding between gleaming chrome towers in a blue sky. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/tt/robot_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. a friendly shiny chrome robot butler with a round barrel-shaped chrome body, two jointed chrome arms with three-fingered metal hands, and a clear glass fishbowl dome for a head with only glowing vacuum tubes and coiled wires inside it, no face and nobody inside the dome, two little antennae on top holding a lady's coat over its arm in a bright futuristic hallway. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/tt/robot_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. a friendly shiny chrome robot butler with a round barrel-shaped chrome body, two jointed chrome arms with three-fingered metal hands, and a clear glass fishbowl dome for a head with only glowing vacuum tubes and coiled wires inside it, no face and nobody inside the dome, two little antennae on top carrying a silver tray with a teapot and cups in a futuristic living room. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/tt/robot_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A cheerful housewife in a yellow shirtwaist dress and white apron polishing the shiny chrome shoulder of a friendly shiny chrome robot butler with a round barrel-shaped chrome body, two jointed chrome arms with three-fingered metal hands, and a clear glass fishbowl dome for a head with only glowing vacuum tubes and coiled wires inside it, no face and nobody inside the dome, two little antennae on top with a yellow cloth, smiling, in a futuristic hallway. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/tt/pills_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. a friendly shiny chrome robot butler with a round barrel-shaped chrome body, two jointed chrome arms with three-fingered metal hands, and a clear glass fishbowl dome for a head with only glowing vacuum tubes and coiled wires inside it, no face and nobody inside the dome, two little antennae on top wearing a white apron and bowing politely from the waist in a gleaming white futuristic kitchen. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/tt/supermarket_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A cheerful housewife in a yellow shirtwaist dress and white apron reading a short shopping list held so we see only its blank back, in a gleaming futuristic supermarket aisle. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/tt/supermarket_5.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. a friendly shiny chrome robot butler with a round barrel-shaped chrome body, two jointed chrome arms with three-fingered metal hands, and a clear glass fishbowl dome for a head with only glowing vacuum tubes and coiled wires inside it, no face and nobody inside the dome, two little antennae on top standing behind a shiny chrome checkout counter with a big old brass cash register in a supermarket. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/tt/tv_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. An elderly gray-haired Roman senator in a white toga draped over one shoulder and a laurel wreath, sitting in a 1950s living room armchair with a plaid blanket over his knees, looking amazed at a wooden television set. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/tt/mower_1.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A friendly bearded caveman in a big brown fur cloak looking curiously at an old-fashioned manual push reel lawn mower, a spiral blade cylinder between two big wheels and a long wooden T handle, no engine and no motor standing on a green suburban lawn. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/tt/mower_2.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A smiling man in a gray suit and bow tie pushing an old-fashioned manual push reel lawn mower, a spiral blade cylinder between two big wheels and a long wooden T handle, no engine and no motor across a striped green lawn in front of a white house. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/tt/mower_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A friendly bearded caveman in a big brown fur cloak pushing an old-fashioned manual push reel lawn mower, a spiral blade cylinder between two big wheels and a long wooden T handle, no engine and no motor across a green suburban lawn, grinning. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/tt/mower_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A straw sun hat hanging by itself on a post of a white picket fence, close-up. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/tt/viking_4.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A tall glass pitcher of foamy root beer with a handle and a spout beside a stack of plain white paper cups on a backyard picnic table. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/tt/parlor_3.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A gray-haired grandmother in a lavender dress and pearls sitting under a big chrome bonnet hood hair dryer on a stand that covers the top of her head, in a 1950s beauty parlor, reading a magazine. Natural hands. Every paper, card, sign, label, book cover, bag and container is plain and blank with no letters at all. No words anywhere in the image, no captions, no speech bubbles, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+},
+{
+"out": "rescue1/tt/parlor_6.jpg",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A folded silk headscarf with a pink rose pattern lying on a glass shop counter, close-up. Nobody in the picture, no people, no human hands. No words anywhere in the image, no letters, no signs, no captions, no signature.",
+"w": 1024,
+"h": 648,
+"seed": 41,
+"n": 8,
+"model": "flux2klein",
+"crop": 0.04
+}
+]
