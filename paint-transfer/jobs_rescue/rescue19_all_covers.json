@@ -1,0 +1,222 @@
+[
+ {
+  "out": "rescue19/ih/cover_front.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Full-length view of one whole figure from head to toe, standing in the center of the picture with empty space on both sides: a rugged handsome 1950s outdoorsman in a light blue work shirt with rolled sleeves, suspenders and khaki trousers, coiling a rope in his hands, on a farm lane at dusk, red barn and glowing farmhouse windows behind him, deep blue dusk sky. Natural hands, every person has exactly two arms and two hands. No lettering or writing anywhere, no signature.",
+  "w": 704,
+  "h": 1472,
+  "seed": 401,
+  "n": 8,
+  "model": "flux2klein",
+  "crop": 0.03
+ },
+ {
+  "out": "rescue19/ih/cover_back.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A wide view, the upper two thirds of the picture is open deep starry night sky, and in the lower third, small whole figures from head to toe: a farmhouse and red barn, a man in a blue work shirt carrying a glowing lantern up the farm lane, warm farmhouse windows. Natural hands, every person has exactly two arms and two hands. No lettering or writing anywhere, no signature.",
+  "w": 640,
+  "h": 832,
+  "seed": 411,
+  "n": 8,
+  "model": "flux2klein",
+  "crop": 0.03
+ },
+ {
+  "out": "rescue19/gop/cover_front.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Full-length view of one whole figure from head to toe, standing in the center of the picture with empty space on both sides: a cheerful handsome 1950s American father in a blue work shirt with suspenders and khaki trousers, holding a cherry pie, on a small-town front walk at dusk with red, white and blue bunting on the porch rail, glowing windows, deep blue dusk sky. Natural hands, every person has exactly two arms and two hands. No lettering or writing anywhere, no signature.",
+  "w": 704,
+  "h": 1472,
+  "seed": 421,
+  "n": 8,
+  "model": "flux2klein",
+  "crop": 0.03
+ },
+ {
+  "out": "rescue19/gop/cover_back.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A wide view, the upper two thirds of the picture is open deep starry night sky, and in the lower third, small whole figures from head to toe: a lamplit small-town street with red, white and blue bunting on the porches, a father in a blue work shirt carrying a cherry pie up a neighbor's front walk. Natural hands, every person has exactly two arms and two hands. No lettering or writing anywhere, no signature.",
+  "w": 640,
+  "h": 832,
+  "seed": 431,
+  "n": 8,
+  "model": "flux2klein",
+  "crop": 0.03
+ },
+ {
+  "out": "rescue19/aiapoc/cover_front.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Full-length view of two whole figures from head to toe, standing close together in the center of the picture with empty space on both sides, arms held close to their bodies: a 1950s gentleman in a tan sport coat, gray trousers and horn-rimmed glasses, and beside him a friendly tall boxy robot of polished wood and brass with an old television set for a head, on a suburban sidewalk at dusk, glowing house windows behind, deep blue dusk sky. Natural hands, every person has exactly two arms and two hands. No lettering or writing anywhere, no signature.",
+  "w": 704,
+  "h": 1472,
+  "seed": 441,
+  "n": 8,
+  "model": "flux2klein",
+  "crop": 0.03
+ },
+ {
+  "out": "rescue19/aiapoc/cover_back.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A wide view, the upper two thirds of the picture is open deep starry night sky, and in the lower third, small whole figures from head to toe: a lamplit suburban sidewalk, a gentleman in a tan sport coat walking a small dog beside a tall boxy wooden robot with a television set for a head, warm house windows. Natural hands, every person has exactly two arms and two hands. No lettering or writing anywhere, no signature.",
+  "w": 640,
+  "h": 832,
+  "seed": 451,
+  "n": 8,
+  "model": "flux2klein",
+  "crop": 0.03
+ },
+ {
+  "out": "rescue19/zn/cover_front.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Full-length view of two whole figures from head to toe, standing close together in the center of the picture with empty space on both sides, arms held close to their bodies: a dapper 1950s gentleman in a gray three-piece suit, red bow tie and gray fedora, and beside him a friendly zombie neighbor with green-gray skin, sunken eyes and a tattered brown suit, on a lawn by a white picket fence at dusk, glowing house windows, deep blue dusk sky. Natural hands, every person has exactly two arms and two hands. No lettering or writing anywhere, no signature.",
+  "w": 704,
+  "h": 1472,
+  "seed": 461,
+  "n": 8,
+  "model": "flux2klein",
+  "crop": 0.03
+ },
+ {
+  "out": "rescue19/zn/cover_back.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A wide view, the upper two thirds of the picture is open deep starry night sky, and in the lower third, small whole figures from head to toe: a white picket fence in front of a 1950s house under a full moon, a gentleman in a gray suit and fedora tipping his hat to a green-skinned zombie neighbor in a tattered suit across the fence. Natural hands, every person has exactly two arms and two hands. No lettering or writing anywhere, no signature.",
+  "w": 640,
+  "h": 832,
+  "seed": 471,
+  "n": 8,
+  "model": "flux2klein",
+  "crop": 0.03
+ },
+ {
+  "out": "rescue19/ah/cover_front.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Full-length view of one whole figure from head to toe, standing in the center of the picture with empty space on both sides: a smiling 1950s housewife in a pink dress and white apron holding a cherry pie, on her front lawn at dusk, a small smoking crater on the lawn behind her and a glowing meteor streak across the deep blue dusk sky. Natural hands, every person has exactly two arms and two hands. No lettering or writing anywhere, no signature.",
+  "w": 704,
+  "h": 1472,
+  "seed": 481,
+  "n": 8,
+  "model": "flux2klein",
+  "crop": 0.03
+ },
+ {
+  "out": "rescue19/ah/cover_back.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A wide view, the upper two thirds of the picture is open deep starry night sky, and in the lower third, small whole figures from head to toe: a 1950s housewife in a pink dress and apron standing on her porch watching a glowing meteor streak across the sky, a small smoking crater on the lawn. Natural hands, every person has exactly two arms and two hands. No lettering or writing anywhere, no signature.",
+  "w": 640,
+  "h": 832,
+  "seed": 491,
+  "n": 8,
+  "model": "flux2klein",
+  "crop": 0.03
+ },
+ {
+  "out": "rescue19/bf/cover_front.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Full-length view of two whole figures from head to toe, standing close together in the center of the picture with empty space on both sides, arms held close to their bodies: a tall friendly bigfoot with shaggy brown fur wearing a brown suit jacket, white shirt and red necktie, and beside him a smiling 1950s housewife in a blue dress and white apron, at the edge of autumn woods at dusk, glowing cabin window behind, deep blue dusk sky. Natural hands, every person has exactly two arms and two hands. No lettering or writing anywhere, no signature.",
+  "w": 704,
+  "h": 1472,
+  "seed": 501,
+  "n": 8,
+  "model": "flux2klein",
+  "crop": 0.03
+ },
+ {
+  "out": "rescue19/bf/cover_back.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A wide view, the upper two thirds of the picture is open deep starry night sky, and in the lower third, small whole figures from head to toe: a 1950s house porch, a tall shaggy brown bigfoot in a red necktie sitting on the porch steps beside a boy in a striped shirt, both looking up at the stars. Natural hands, every person has exactly two arms and two hands. No lettering or writing anywhere, no signature.",
+  "w": 640,
+  "h": 832,
+  "seed": 511,
+  "n": 8,
+  "model": "flux2klein",
+  "crop": 0.03
+ },
+ {
+  "out": "rescue19/tt/cover_front.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Full-length view of two whole figures from head to toe, standing close together in the center of the picture with empty space on both sides, arms held close to their bodies: a knight in shining silver plate armor with his visor raised holding a china teacup, and beside him a smiling 1950s housewife in a yellow dress and white apron, on a suburban front walk at dusk, glowing house windows, deep blue dusk sky. Natural hands, every person has exactly two arms and two hands. No lettering or writing anywhere, no signature.",
+  "w": 704,
+  "h": 1472,
+  "seed": 521,
+  "n": 8,
+  "model": "flux2klein",
+  "crop": 0.03
+ },
+ {
+  "out": "rescue19/tt/cover_back.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A wide view, the upper two thirds of the picture is open deep starry night sky, and in the lower third, small whole figures from head to toe: a lamplit suburban sidewalk, a knight in shining armor walking a 1950s housewife in a yellow dress home to her glowing front porch. Natural hands, every person has exactly two arms and two hands. No lettering or writing anywhere, no signature.",
+  "w": 640,
+  "h": 832,
+  "seed": 531,
+  "n": 8,
+  "model": "flux2klein",
+  "crop": 0.03
+ },
+ {
+  "out": "rescue19/vh/cover_front.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Full-length view of two whole figures from head to toe, standing close together in the center of the picture with empty space on both sides, arms held close to their bodies: a classic vampire with a chalk-white face, slicked black hair with a widow's peak, a tall black cape with a high red-lined collar and a red bow tie, holding a red rose, and beside him a smiling 1950s housewife in a pink dress and white apron holding a plate of cookies, on a suburban front walk under a full moon at dusk, glowing windows. Natural hands, every person has exactly two arms and two hands. No lettering or writing anywhere, no signature.",
+  "w": 704,
+  "h": 1472,
+  "seed": 541,
+  "n": 8,
+  "model": "flux2klein",
+  "crop": 0.03
+ },
+ {
+  "out": "rescue19/vh/cover_back.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A wide view, the upper two thirds of the picture is open deep starry night sky, and in the lower third, small whole figures from head to toe: a full moon and a few bats, a vampire in a tall black red-lined cape carrying a cardboard moving box up the front walk of a 1950s house with glowing windows. Natural hands, every person has exactly two arms and two hands. No lettering or writing anywhere, no signature.",
+  "w": 640,
+  "h": 832,
+  "seed": 551,
+  "n": 8,
+  "model": "flux2klein",
+  "crop": 0.03
+ },
+ {
+  "out": "rescue19/gs/cover_front.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Full-length view of two whole figures from head to toe, standing close together in the center of the picture with empty space on both sides, arms held close to their bodies: a smiling 1950s housewife in a red dress and white apron holding a pie, and just behind her shoulder a man in a tan trench coat, fedora and dark sunglasses peering over at her, on a suburban sidewalk at dusk, a dark van parked behind, glowing windows, deep blue dusk sky. Natural hands, every person has exactly two arms and two hands. No lettering or writing anywhere, no signature.",
+  "w": 704,
+  "h": 1472,
+  "seed": 561,
+  "n": 8,
+  "model": "flux2klein",
+  "crop": 0.03
+ },
+ {
+  "out": "rescue19/gs/cover_back.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A wide view, the upper two thirds of the picture is open deep starry night sky, and in the lower third, small whole figures from head to toe: a quiet suburban street, a dark van parked by the curb, a man in a trench coat and fedora peeking with binoculars from behind a hedge at a 1950s house with glowing windows. Natural hands, every person has exactly two arms and two hands. No lettering or writing anywhere, no signature.",
+  "w": 640,
+  "h": 832,
+  "seed": 571,
+  "n": 8,
+  "model": "flux2klein",
+  "crop": 0.03
+ },
+ {
+  "out": "rescue19/dino/cover_front.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Full-length view of two whole figures from head to toe, standing close together in the center of the picture with empty space on both sides, arms held close to their bodies: a smiling young 1950s father in a red cardigan and cream trousers, and beside him a friendly small green dinosaur no taller than him standing on its hind legs, in a backyard by a white picket fence at dusk, glowing house windows, deep blue dusk sky. Natural hands, every person has exactly two arms and two hands. No lettering or writing anywhere, no signature.",
+  "w": 704,
+  "h": 1472,
+  "seed": 581,
+  "n": 8,
+  "model": "flux2klein",
+  "crop": 0.03
+ },
+ {
+  "out": "rescue19/dino/cover_back.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A wide view, the upper two thirds of the picture is open deep starry night sky, and in the lower third, small whole figures from head to toe: a backyard with a white picket fence, a friendly green dinosaur peeking over the fence at a boy and a girl in pajamas holding a flashlight, glowing house windows. Natural hands, every person has exactly two arms and two hands. No lettering or writing anywhere, no signature.",
+  "w": 640,
+  "h": 832,
+  "seed": 591,
+  "n": 8,
+  "model": "flux2klein",
+  "crop": 0.03
+ },
+ {
+  "out": "rescue19/alien/cover_front.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Full-length view of two whole figures from head to toe, standing close together in the center of the picture with empty space on both sides, arms held close to their bodies: a smiling 1950s housewife in a light blue dress and white apron, and beside her a goofy friendly green alien with huge round eyes wearing a mint green suit, holding a cherry pie, on a suburban front lawn at dusk, glowing house windows, deep blue dusk sky. Natural hands, every person has exactly two arms and two hands. No lettering or writing anywhere, no signature.",
+  "w": 704,
+  "h": 1472,
+  "seed": 601,
+  "n": 8,
+  "model": "flux2klein",
+  "crop": 0.03
+ },
+ {
+  "out": "rescue19/alien/cover_back.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A wide view, the upper two thirds of the picture is open deep starry night sky, and in the lower third, small whole figures from head to toe: a suburban front lawn, a 1950s housewife in a light blue dress and a goofy green alien in a mint suit waving up at a glowing flying saucer in the sky, warm house windows. Natural hands, every person has exactly two arms and two hands. No lettering or writing anywhere, no signature.",
+  "w": 640,
+  "h": 832,
+  "seed": 611,
+  "n": 8,
+  "model": "flux2klein",
+  "crop": 0.03
+ }
+]
