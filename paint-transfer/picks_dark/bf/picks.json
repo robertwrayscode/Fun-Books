@@ -12,7 +12,7 @@
 "tracks_3": {
 "seed": 42,
 "ok": false,
-"note": "verify: X garbled numbers on yardstick"
+"note": "rescue3 failed: hands and odd foot, numbers"
 },
 "tracks_4": {
 "seed": 43,
@@ -95,9 +95,9 @@
 "note": "rescue1"
 },
 "name_3": {
-"seed": 14,
-"ok": false,
-"note": "verify: X garbled writing on slips"
+"seed": 85,
+"ok": true,
+"note": "rescue3"
 },
 "name_4": {
 "seed": 13,
@@ -125,9 +125,9 @@
 "note": ""
 },
 "woodshed_4": {
-"seed": 12,
-"ok": false,
-"note": "verify: X man has three hands"
+"seed": 87,
+"ok": true,
+"note": "rescue3"
 },
 "woodshed_5": {
 "seed": 13,
@@ -205,9 +205,9 @@
 "note": ""
 },
 "duck_3": {
-"seed": 13,
-"ok": false,
-"note": "verify: X woman has three hands"
+"seed": 86,
+"ok": true,
+"note": "rescue3"
 },
 "duck_4": {
 "seed": 41,
@@ -225,9 +225,9 @@
 "note": ""
 },
 "wipe_2": {
-"seed": 13,
-"ok": false,
-"note": "verify: X three hands on shoe"
+"seed": 83,
+"ok": true,
+"note": "rescue3"
 },
 "wipe_3": {
 "seed": 11,
@@ -295,9 +295,9 @@
 "note": ""
 },
 "roof_5": {
-"seed": 12,
-"ok": false,
-"note": "verify: X man has three hands"
+"seed": 83,
+"ok": true,
+"note": "rescue3"
 },
 "roof_6": {
 "seed": 11,
@@ -375,14 +375,14 @@
 "note": ""
 },
 "bedtime_4": {
-"seed": 11,
-"ok": false,
-"note": "verify: X three hands on quilt"
+"seed": 82,
+"ok": true,
+"note": "rescue3"
 },
 "bedtime_5": {
-"seed": 13,
-"ok": false,
-"note": "verify: X garbled book text"
+"seed": 84,
+"ok": true,
+"note": "rescue3"
 },
 "place_1": {
 "seed": 13,
@@ -445,9 +445,9 @@
 "note": "rescue1"
 },
 "flapjacks_2": {
-"seed": 13,
-"ok": false,
-"note": "verify: X three hands"
+"seed": 83,
+"ok": true,
+"note": "rescue3"
 },
 "flapjacks_3": {
 "seed": 12,
@@ -460,14 +460,14 @@
 "note": ""
 },
 "flapjacks_5": {
-"seed": 14,
-"ok": false,
-"note": "verify: X garbled jar label"
+"seed": 87,
+"ok": true,
+"note": "rescue3"
 },
 "flapjacks_6": {
-"seed": 12,
-"ok": false,
-"note": "verify: X bigfoot face too human, creepy tongue"
+"seed": 82,
+"ok": true,
+"note": "rescue3"
 },
 "grace_1": {
 "seed": 12,
@@ -490,9 +490,9 @@
 "note": ""
 },
 "grace_5": {
-"seed": 12,
-"ok": false,
-"note": "verify: X extra hand bottom right"
+"seed": 87,
+"ok": true,
+"note": "rescue3"
 },
 "veg_1": {
 "seed": 12,
@@ -530,9 +530,9 @@
 "note": ""
 },
 "pass_2": {
-"seed": 11,
-"ok": false,
-"note": "verify: X three hands on basket"
+"seed": 87,
+"ok": true,
+"note": "rescue3"
 },
 "pass_3": {
 "seed": 11,
@@ -575,9 +575,9 @@
 "note": ""
 },
 "dishes_6": {
-"seed": 14,
-"ok": false,
-"note": "verify: X stray hands on counter"
+"seed": 87,
+"ok": true,
+"note": "rescue3"
 },
 "burrs_1": {
 "seed": 13,
@@ -625,9 +625,9 @@
 "note": ""
 },
 "bath_5": {
-"seed": 12,
-"ok": false,
-"note": "verify: X man has three hands"
+"seed": 84,
+"ok": true,
+"note": "rescue3"
 },
 "bath_6": {
 "seed": 12,
@@ -645,9 +645,9 @@
 "note": ""
 },
 "dry_3": {
-"seed": 11,
-"ok": false,
-"note": "verify: X fur blob, no visible Bigfoot"
+"seed": 84,
+"ok": true,
+"note": "rescue3"
 },
 "dry_4": {
 "seed": 14,
@@ -667,7 +667,7 @@
 "toenails_2": {
 "seed": 14,
 "ok": false,
-"note": "verify: X garbled newspaper text, three hands"
+"note": "rescue3 failed: newspaper text; use brown wrapping paper"
 },
 "toenails_3": {
 "seed": 12,
@@ -677,7 +677,7 @@
 "toenails_4": {
 "seed": 12,
 "ok": false,
-"note": "verify: X garbled newspaper text"
+"note": "rescue3 failed: newspaper text; use brown wrapping paper"
 },
 "toenails_5": {
 "seed": 11,
@@ -690,14 +690,14 @@
 "note": ""
 },
 "teeth_1": {
-"seed": 12,
-"ok": false,
-"note": "verify: X garbled lettering on brush and tube"
+"seed": 83,
+"ok": true,
+"note": "rescue3"
 },
 "teeth_2": {
 "seed": 11,
 "ok": false,
-"note": "verify: X tube looks like bottle with lettering"
+"note": "rescue3 failed: garbled tube labels"
 },
 "teeth_3": {
 "seed": 13,
@@ -730,9 +730,9 @@
 "note": "rescue1"
 },
 "smell_4": {
-"seed": 12,
-"ok": false,
-"note": "verify: X stray hands on bench"
+"seed": 83,
+"ok": true,
+"note": "rescue3"
 },
 "smell_5": {
 "seed": 11,
@@ -780,9 +780,9 @@
 "note": ""
 },
 "drive_3": {
-"seed": 12,
-"ok": false,
-"note": "verify: X garbled license plate"
+"seed": 85,
+"ok": true,
+"note": "rescue3"
 },
 "drive_4": {
 "seed": 14,
@@ -792,12 +792,12 @@
 "drive_5": {
 "seed": 11,
 "ok": false,
-"note": "verify: X garbled lettering on stand and plate"
+"note": "rescue3 failed: garbled signs on stand"
 },
 "drive_6": {
-"seed": 13,
-"ok": false,
-"note": "verify: X sedan not station wagon"
+"seed": 85,
+"ok": true,
+"note": "rescue3"
 },
 "disguise_1": {
 "seed": 11,
@@ -847,7 +847,7 @@
 "hardware_5": {
 "seed": 11,
 "ok": false,
-"note": "verify: X garbled register lettering"
+"note": "rescue3 failed: garbled register lettering"
 },
 "hardware_6": {
 "seed": 12,
@@ -867,12 +867,12 @@
 "mainst_3": {
 "seed": 12,
 "ok": false,
-"note": "verify: X garbled sign top left"
+"note": "rescue3 failed: extra people added"
 },
 "mainst_4": {
-"seed": 12,
-"ok": false,
-"note": "verify: X garbled awning lettering"
+"seed": 82,
+"ok": true,
+"note": "rescue3"
 },
 "mainst_5": {
 "seed": 12,
@@ -882,17 +882,17 @@
 "barber_1": {
 "seed": 11,
 "ok": false,
-"note": "verify: X garbled sign on counter"
+"note": "rescue3 failed: people added, should be outside view"
 },
 "barber_2": {
-"seed": 12,
-"ok": false,
-"note": "verify: X scarf not striped barber cape"
+"seed": 82,
+"ok": true,
+"note": "rescue3"
 },
 "barber_3": {
 "seed": 12,
 "ok": false,
-"note": "verify: X extra arm top right"
+"note": "rescue3 failed: scissors merge into comb"
 },
 "barber_4": {
 "seed": 13,
@@ -902,7 +902,7 @@
 "barber_5": {
 "seed": 13,
 "ok": false,
-"note": "verify: X three hands"
+"note": "rescue3 failed: people added, hair like ribbons"
 },
 "barber_6": {
 "seed": 12,
@@ -920,9 +920,9 @@
 "note": ""
 },
 "church_3": {
-"seed": 13,
-"ok": false,
-"note": "verify: X garbled hymnal text"
+"seed": 81,
+"ok": true,
+"note": "rescue3"
 },
 "church_4": {
 "seed": 13,
@@ -962,7 +962,7 @@
 "camera_6": {
 "seed": 14,
 "ok": false,
-"note": "verify: X garbled newspaper headline"
+"note": "rescue3 failed: newspaper text"
 },
 "firewood_1": {
 "seed": 12,
@@ -1010,24 +1010,24 @@
 "note": ""
 },
 "groceries_5": {
-"seed": 12,
-"ok": false,
-"note": "verify: X garbled can labels"
+"seed": 84,
+"ok": true,
+"note": "rescue3"
 },
 "groceries_6": {
-"seed": 12,
-"ok": false,
-"note": "verify: X fur blob not an arm"
+"seed": 86,
+"ok": true,
+"note": "rescue3"
 },
 "leaves_1": {
-"seed": 13,
-"ok": false,
-"note": "verify: X stray arm by tree"
+"seed": 82,
+"ok": true,
+"note": "rescue3"
 },
 "leaves_2": {
-"seed": 12,
-"ok": false,
-"note": "verify: X shovel not rake"
+"seed": 81,
+"ok": true,
+"note": "rescue3"
 },
 "leaves_3": {
 "seed": 12,
@@ -1105,9 +1105,9 @@
 "note": ""
 },
 "piano_2": {
-"seed": 13,
-"ok": false,
-"note": "verify: X piano looks like plain cabinet"
+"seed": 83,
+"ok": true,
+"note": "rescue3"
 },
 "piano_3": {
 "seed": 11,
@@ -1120,9 +1120,9 @@
 "note": ""
 },
 "piano_5": {
-"seed": 12,
-"ok": false,
-"note": "verify: X garbled brand lettering"
+"seed": 82,
+"ok": true,
+"note": "rescue3"
 },
 "piano_6": {
 "seed": 45,
@@ -1145,9 +1145,9 @@
 "note": ""
 },
 "catch_4": {
-"seed": 11,
-"ok": false,
-"note": "verify: X arms look tangled, maybe three"
+"seed": 81,
+"ok": true,
+"note": "rescue3"
 },
 "catch_5": {
 "seed": 11,
@@ -1227,7 +1227,7 @@
 "treehouse_4": {
 "seed": 14,
 "ok": false,
-"note": "verify: X three disembodied hands"
+"note": "rescue3 failed: floor on the ground, not up in the tree"
 },
 "treehouse_5": {
 "seed": 12,
@@ -1245,9 +1245,9 @@
 "note": ""
 },
 "dance_2": {
-"seed": 14,
-"ok": false,
-"note": "verify: X garbled record label text"
+"seed": 87,
+"ok": true,
+"note": "rescue3"
 },
 "dance_3": {
 "seed": 12,
@@ -1305,9 +1305,9 @@
 "note": "rescue1"
 },
 "checkers_3": {
-"seed": 12,
-"ok": false,
-"note": "verify: X garbled lettering on board"
+"seed": 88,
+"ok": true,
+"note": "rescue3"
 },
 "checkers_4": {
 "seed": 46,
@@ -1320,9 +1320,9 @@
 "note": "rescue1"
 },
 "checkers_6": {
-"seed": 43,
-"ok": false,
-"note": "verify: X chess pieces not checkers"
+"seed": 85,
+"ok": true,
+"note": "rescue3"
 },
 "halloween_1": {
 "seed": 13,
@@ -1420,9 +1420,9 @@
 "note": ""
 },
 "birthday_3": {
-"seed": 12,
-"ok": false,
-"note": "verify: X three hands"
+"seed": 87,
+"ok": true,
+"note": "rescue3"
 },
 "birthday_4": {
 "seed": 12,
@@ -1445,9 +1445,9 @@
 "note": ""
 },
 "portrait_3": {
-"seed": 12,
-"ok": false,
-"note": "verify: X garbled camera brand"
+"seed": 82,
+"ok": true,
+"note": "rescue3"
 },
 "portrait_4": {
 "seed": 11,
@@ -1505,19 +1505,19 @@
 "note": ""
 },
 "thanks_4": {
-"seed": 13,
-"ok": false,
-"note": "verify: X garbled handwriting"
+"seed": 85,
+"ok": true,
+"note": "rescue3"
 },
 "thanks_5": {
-"seed": 13,
-"ok": false,
-"note": "verify: X three hands, garbled stamp"
+"seed": 87,
+"ok": true,
+"note": "rescue3"
 },
 "thanks_6": {
 "seed": 46,
 "ok": false,
-"note": "verify: X cloth flag, tiny mailbox"
+"note": "rescue3 failed: cloth flag again, not metal mailbox flag"
 },
 "fair_1": {
 "seed": 13,
@@ -1530,9 +1530,9 @@
 "note": ""
 },
 "helpranger_1": {
-"seed": 12,
-"ok": false,
-"note": "verify: X garbled badge and bag lettering"
+"seed": 84,
+"ok": true,
+"note": "rescue3"
 },
 "helpranger_2": {
 "seed": 13,
@@ -1595,9 +1595,9 @@
 "note": ""
 },
 "wave_3": {
-"seed": 11,
-"ok": false,
-"note": "verify: X garbled bus lettering"
+"seed": 85,
+"ok": true,
+"note": "rescue3"
 },
 "wave_4": {
 "seed": 14,
@@ -1647,11 +1647,11 @@
 "fair_4": {
 "seed": 13,
 "ok": false,
-"note": "verify: X garbled fair signs"
+"note": "rescue3 failed: garbled fair signs every seed"
 },
 "fair_5": {
-"seed": 12,
-"ok": false,
-"note": "verify: X garbled tent sign"
+"seed": 87,
+"ok": true,
+"note": "rescue3"
 }
 }
