@@ -1,0 +1,1662 @@
+{
+ "windowbox_1": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "windowbox_2": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "windowbox_3": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "windowbox_4": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "windowbox_5": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "wreath_1": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "wreath_2": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "wreath_3": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "wreath_4": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "wreath_5": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "wreath_6": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "invite_1": {
+  "seed": 11,
+  "ok": false,
+  "note": "no screen door in any seed; girl looks under ten"
+ },
+ "invite_2": {
+  "seed": 12,
+  "ok": false,
+  "note": "no closed screen door; girl at open doorway"
+ },
+ "invite_3": {
+  "seed": 12,
+  "ok": false,
+  "note": "no screen door; vampire at open doorway"
+ },
+ "invite_4": {
+  "seed": 14,
+  "ok": true,
+  "note": "stepping out onto porch; girl looks younger than ten"
+ },
+ "invite_5": {
+  "seed": 13,
+  "ok": true,
+  "note": "finger to lips, one hand; girl looks under ten"
+ },
+ "mirror_1": {
+  "seed": 12,
+  "ok": true,
+  "note": "holding empty frame in hall; 13 phone, 14 three hands"
+ },
+ "mirror_2": {
+  "seed": 12,
+  "ok": true,
+  "note": "single hand marking wall; 11 two pencils, 13 ghost face"
+ },
+ "mirror_3": {
+  "seed": 12,
+  "ok": true,
+  "note": "hammering at hook on wall; 14 two hammers"
+ },
+ "mirror_4": {
+  "seed": 12,
+  "ok": true,
+  "note": "raising oval gilt mirror, both hands, side view"
+ },
+ "mirror_5": {
+  "seed": 14,
+  "ok": true,
+  "note": "level on gilt mirror frame; 11 letters, 12 three hands"
+ },
+ "mirror_6": {
+  "seed": 13,
+  "ok": true,
+  "note": "straightening tie with both hands in hall"
+ },
+ "curtains_1": {
+  "seed": 12,
+  "ok": true,
+  "note": "throwing curtains wide, sunny room"
+ },
+ "curtains_2": {
+  "seed": 13,
+  "ok": true,
+  "note": "two hands tying pink tieback"
+ },
+ "curtains_3": {
+  "seed": 13,
+  "ok": true,
+  "note": "hands on sash window, sunny morning"
+ },
+ "curtains_4": {
+  "seed": 11,
+  "ok": true,
+  "note": "dusting by lamp in sunbeam; 14 two dusters"
+ },
+ "curtains_5": {
+  "seed": 13,
+  "ok": true,
+  "note": "eyes closed with coffee in sunny armchair"
+ },
+ "porchlight_1": {
+  "seed": 14,
+  "ok": true,
+  "note": "looking up at porch light; night, not sunny morning"
+ },
+ "porchlight_2": {
+  "seed": 12,
+  "ok": true,
+  "note": "climbing stepladder on porch"
+ },
+ "porchlight_3": {
+  "seed": 14,
+  "ok": true,
+  "note": "one hand screwing bulb into fixture"
+ },
+ "porchlight_4": {
+  "seed": 12,
+  "ok": true,
+  "note": "wiping glass globe with rag; 11 extra hand, 14 two rags"
+ },
+ "porchlight_5": {
+  "seed": 13,
+  "ok": true,
+  "note": "flipping switch by door, dusk outside"
+ },
+ "porchlight_6": {
+  "seed": 12,
+  "ok": false,
+  "note": "bald skull-like vampire, no tall collar, all seeds"
+ },
+ "screendoor_1": {
+  "seed": 12,
+  "ok": false,
+  "note": "solid wood doors with holes, no screen mesh"
+ },
+ "screendoor_2": {
+  "seed": 12,
+  "ok": true,
+  "note": "cutting wire mesh with snips; 13 three hands"
+ },
+ "screendoor_3": {
+  "seed": 13,
+  "ok": true,
+  "note": "one hand hammering at mesh frame; 11 stray handle"
+ },
+ "screendoor_4": {
+  "seed": 11,
+  "ok": true,
+  "note": "brass latch on frame; 12 text, 13 extra hands"
+ },
+ "screendoor_5": {
+  "seed": 14,
+  "ok": false,
+  "note": "solid wood door, no screen/spring; 13 duplicated man"
+ },
+ "sugar_1": {
+  "seed": 14,
+  "ok": true,
+  "note": "sugar jar with glass lid, two hands"
+ },
+ "sugar_2": {
+  "seed": 13,
+  "ok": true,
+  "note": "pink ribbon bow on sugar jar; no lid"
+ },
+ "sugar_3": {
+  "seed": 11,
+  "ok": false,
+  "note": "knocking at solid wood door, no screen door"
+ },
+ "sugar_4": {
+  "seed": 12,
+  "ok": true,
+  "note": "girl flipping switch, light on; looks under ten"
+ },
+ "sugar_5": {
+  "seed": 11,
+  "ok": false,
+  "note": "no screen door; jar handed through open wooden door"
+ },
+ "sugar_6": {
+  "seed": 13,
+  "ok": true,
+  "note": "girl waves goodnight, lady leaving with jar"
+ },
+ "quiet_1": {
+  "seed": 12,
+  "ok": true,
+  "note": "one hand closing car door; lit like night, not morning"
+ },
+ "quiet_2": {
+  "seed": 11,
+  "ok": true,
+  "note": "oiling garage door hinge with small can"
+ },
+ "quiet_3": {
+  "seed": 13,
+  "ok": false,
+  "note": "all modern gas rotary mowers, not reel"
+ },
+ "quiet_4": {
+  "seed": 11,
+  "ok": true,
+  "note": "finger to lips, milkman with wire carrier of bottles"
+ },
+ "quiet_5": {
+  "seed": 12,
+  "ok": true,
+  "note": "turning radio dial, small numerals; 11/13/14 'KEEP' text"
+ },
+ "fence_1": {
+  "seed": 11,
+  "ok": true,
+  "note": "painting picket fence, can at feet; 12 caption"
+ },
+ "fence_2": {
+  "seed": 11,
+  "ok": true,
+  "note": "raking leaves by fence; 12 caption"
+ },
+ "fence_3": {
+  "seed": 13,
+  "ok": true,
+  "note": "chatting by picket fence at dusk"
+ },
+ "fence_4": {
+  "seed": 12,
+  "ok": true,
+  "note": "vampire holds up rose by rose fence; 11 duplicate person"
+ },
+ "fence_5": {
+  "seed": 12,
+  "ok": true,
+  "note": "pale caped hand passes roses over fence to man's hand"
+ },
+ "fence_6": {
+  "seed": 13,
+  "ok": true,
+  "note": "waving while walking from fence at dusk"
+ },
+ "return_1": {
+  "seed": 14,
+  "ok": true,
+  "note": "wiping clippers with rag on step; tools look plier-like"
+ },
+ "return_2": {
+  "seed": 14,
+  "ok": true,
+  "note": "oil poured on shear pivot, two hands; 13 three blades"
+ },
+ "return_3": {
+  "seed": 12,
+  "ok": true,
+  "note": "writing note at kitchen table; scribbles only"
+ },
+ "return_4": {
+  "seed": 14,
+  "ok": true,
+  "note": "plate of chocolate chip cookies, two hands; 12 three hands"
+ },
+ "return_5": {
+  "seed": 14,
+  "ok": false,
+  "note": "tool reads as fork/grabber, not hedge shears, all seeds"
+ },
+ "mail_1": {
+  "seed": 11,
+  "ok": true,
+  "note": "girl waving at mailman; bag looks like briefcase"
+ },
+ "mail_2": {
+  "seed": 12,
+  "ok": true,
+  "note": "taking letter from black mailbox on post"
+ },
+ "mail_3": {
+  "seed": 13,
+  "ok": true,
+  "note": "picking up newspaper from lawn; print small"
+ },
+ "mail_4": {
+  "seed": 12,
+  "ok": false,
+  "note": "wrapped parcels with twine, not envelopes with rubber band"
+ },
+ "mail_5": {
+  "seed": 14,
+  "ok": true,
+  "note": "wicker mail basket on table in shady hall"
+ },
+ "mail_6": {
+  "seed": 13,
+  "ok": true,
+  "note": "tall vampire lady places coin in girl's palm at door"
+ },
+ "roses_1": {
+  "seed": 12,
+  "ok": true,
+  "note": "putting on straw sun hat in garden"
+ },
+ "roses_2": {
+  "seed": 12,
+  "ok": false,
+  "note": "can spout fused onto tap in all seeds"
+ },
+ "roses_3": {
+  "seed": 12,
+  "ok": true,
+  "note": "watering rose bush at the roots"
+ },
+ "roses_4": {
+  "seed": 13,
+  "ok": true,
+  "note": "pruners snipping drooping rose, two hands"
+ },
+ "roses_5": {
+  "seed": 12,
+  "ok": true,
+  "note": "dark velvety red roses, one hand; not sunny"
+ },
+ "carpool_1": {
+  "seed": 11,
+  "ok": true,
+  "note": "in driver seat, door open, dusk; gas check only implied"
+ },
+ "paper_1": {
+  "seed": 12,
+  "ok": false,
+  "note": "all seeds have big fake newspaper headlines"
+ },
+ "paper_2": {
+  "seed": 12,
+  "ok": true,
+  "note": "adjusting glasses at breakfast table; not sunny"
+ },
+ "paper_3": {
+  "seed": 12,
+  "ok": false,
+  "note": "all seeds show big 'new words' headline"
+ },
+ "paper_4": {
+  "seed": 13,
+  "ok": false,
+  "note": "all seeds show legible 'BARGAINS' headline"
+ },
+ "paper_5": {
+  "seed": 13,
+  "ok": false,
+  "note": "all seeds show legible 'Best one aloud' headline"
+ },
+ "paper_6": {
+  "seed": 11,
+  "ok": true,
+  "note": "cutting newspaper with scissors; 12 'AND SAVE' text"
+ },
+ "openhouse_1": {
+  "seed": 12,
+  "ok": true,
+  "note": "ranch house, candles in every window"
+ },
+ "openhouse_2": {
+  "seed": 12,
+  "ok": true,
+  "note": "blank white sign on post at night"
+ },
+ "openhouse_3": {
+  "seed": 12,
+  "ok": true,
+  "note": "head tilted, finger raised, listening on sidewalk"
+ },
+ "openhouse_4": {
+  "seed": 13,
+  "ok": true,
+  "note": "chalk-white vampire framed by red drapes; standing, not peeking"
+ },
+ "openhouse_5": {
+  "seed": 13,
+  "ok": true,
+  "note": "vampire hands leaflet over picket fence"
+ },
+ "tour_1": {
+  "seed": 11,
+  "ok": true,
+  "note": "chrome flashlight beam pointed ahead on porch"
+ },
+ "tour_2": {
+  "seed": 13,
+  "ok": false,
+  "note": "all doormats have legible 'your feet' words"
+ },
+ "tour_3": {
+  "seed": 11,
+  "ok": true,
+  "note": "tape measure along wall, candles lit"
+ },
+ "tour_4": {
+  "seed": 12,
+  "ok": true,
+  "note": "Dracula on wooden stairs from above; 11/13 text on step"
+ },
+ "tour_5": {
+  "seed": 14,
+  "ok": true,
+  "note": "one hand pulling red curtain at window"
+ },
+ "tour_6": {
+  "seed": 12,
+  "ok": true,
+  "note": "handshake, dark glasses, checked coat; 11/13 no vest"
+ },
+ "prices_1": {
+  "seed": 12,
+  "ok": true,
+  "note": "taking old paper from metal box at table"
+ },
+ "prices_2": {
+  "seed": 12,
+  "ok": false,
+  "note": "all documents show legible 'what you paid'"
+ },
+ "prices_3": {
+  "seed": 13,
+  "ok": false,
+  "note": "all newspapers have big legible headlines"
+ },
+ "prices_4": {
+  "seed": 11,
+  "ok": false,
+  "note": "typewriters not adding machines; 'ADD IT UP' text"
+ },
+ "prices_5": {
+  "seed": 12,
+  "ok": true,
+  "note": "white house, dappled sun and oak shade"
+ },
+ "welcome_1": {
+  "seed": 13,
+  "ok": false,
+  "note": "grim hatted undertaker types, not friendly vampires"
+ },
+ "welcome_2": {
+  "seed": 13,
+  "ok": true,
+  "note": "casserole out of oven with both mitts"
+ },
+ "welcome_3": {
+  "seed": 11,
+  "ok": true,
+  "note": "cutting pink roses with shears at dusk"
+ },
+ "welcome_4": {
+  "seed": 13,
+  "ok": true,
+  "note": "lidded glass dish in both hands on garden path"
+ },
+ "welcome_5": {
+  "seed": 14,
+  "ok": false,
+  "note": "grabs knocker/frame; no clear doorbell press in any seed"
+ },
+ "welcome_6": {
+  "seed": 11,
+  "ok": true,
+  "note": "handing casserole to Dracula at his door"
+ },
+ "realtor_1": {
+  "seed": 12,
+  "ok": true,
+  "note": "arms folded, smiling under porch light"
+ },
+ "realtor_2": {
+  "seed": 11,
+  "ok": false,
+  "note": "all show two seated men; prompt wants empty chairs"
+ },
+ "realtor_3": {
+  "seed": 11,
+  "ok": true,
+  "note": "vampire agent talking, man seated listening; 14 caption"
+ },
+ "realtor_4": {
+  "seed": 12,
+  "ok": true,
+  "note": "one hand writing number in notepad"
+ },
+ "realtor_5": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "stay_1": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "stay_2": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "stay_3": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "stay_4": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "stay_5": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "stay_6": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "carpool_2": {
+  "seed": 12,
+  "ok": true,
+  "note": "Turquoise car, headlights on, house at night"
+ },
+ "carpool_3": {
+  "seed": 12,
+  "ok": true,
+  "note": "Housewife holds door open; 13/14 low necklines"
+ },
+ "carpool_4": {
+  "seed": 12,
+  "ok": true,
+  "note": "Lady clutches handbag, housewife drives"
+ },
+ "carpool_5": {
+  "seed": 13,
+  "ok": true,
+  "note": "Shopping cart of red cans; high collar; no extras"
+ },
+ "carpool_6": {
+  "seed": 12,
+  "ok": false,
+  "note": "Unrequested non-vampire woman at door in all seeds"
+ },
+ "casserole_1": {
+  "seed": 11,
+  "ok": true,
+  "note": "Stirring boiling noodles with wooden spoon"
+ },
+ "casserole_2": {
+  "seed": 12,
+  "ok": false,
+  "note": "All cans have fake THE TUNA label text"
+ },
+ "casserole_3": {
+  "seed": 11,
+  "ok": true,
+  "note": "Stirring noodles and creamy sauce in bowl"
+ },
+ "casserole_4": {
+  "seed": 11,
+  "ok": true,
+  "note": "Placing jar on high shelf, garlic below"
+ },
+ "casserole_5": {
+  "seed": 13,
+  "ok": true,
+  "note": "Grated cheddar on casserole in glass dish"
+ },
+ "tomatojuice_1": {
+  "seed": 13,
+  "ok": true,
+  "note": "Red cans into fridge; 12/14 CHILI text"
+ },
+ "tomatojuice_2": {
+  "seed": 13,
+  "ok": true,
+  "note": "Pouring from plain red can into pitcher"
+ },
+ "tomatojuice_3": {
+  "seed": 11,
+  "ok": false,
+  "note": "Every glass full of beer-like liquid while drying"
+ },
+ "tomatojuice_4": {
+  "seed": 11,
+  "ok": true,
+  "note": "Tomato juice with celery, natural hands"
+ },
+ "tomatojuice_5": {
+  "seed": 11,
+  "ok": true,
+  "note": "Lemon slice on rim, natural hands"
+ },
+ "tomatojuice_6": {
+  "seed": 11,
+  "ok": false,
+  "note": "Only 11 has count; lady low neckline in 11"
+ },
+ "redvelvet_1": {
+  "seed": 11,
+  "ok": false,
+  "note": "Pans full of batter, not buttering empty pans"
+ },
+ "redvelvet_2": {
+  "seed": 11,
+  "ok": true,
+  "note": "Stirring batter with wooden spoon"
+ },
+ "redvelvet_3": {
+  "seed": 14,
+  "ok": true,
+  "note": "Red batter, single wooden spoon; 11/12 two spoons"
+ },
+ "redvelvet_4": {
+  "seed": 12,
+  "ok": true,
+  "note": "Two red layers cooling on wire rack"
+ },
+ "redvelvet_5": {
+  "seed": 12,
+  "ok": true,
+  "note": "Frosting layer cake with knife; 13 duplicate grandma"
+ },
+ "redvelvet_6": {
+  "seed": 14,
+  "ok": true,
+  "note": "Upright frosted slice, fork, clean plate"
+ },
+ "borscht_1": {
+  "seed": 11,
+  "ok": true,
+  "note": "Scrubbing beets at tap; 12/14 modern faucets"
+ },
+ "borscht_2": {
+  "seed": 12,
+  "ok": true,
+  "note": "Chopped beets, carrot, cabbage on board"
+ },
+ "borscht_3": {
+  "seed": 13,
+  "ok": true,
+  "note": "Deep red soup simmering on gas stove"
+ },
+ "borscht_4": {
+  "seed": 14,
+  "ok": true,
+  "note": "Only seed actually tasting; metal spoon"
+ },
+ "borscht_5": {
+  "seed": 11,
+  "ok": true,
+  "note": "Delighted count, spoon over beet soup"
+ },
+ "borscht_6": {
+  "seed": 14,
+  "ok": true,
+  "note": "Sour cream swirl, single spoon and hand"
+ },
+ "table_1": {
+  "seed": 11,
+  "ok": true,
+  "note": "Girl flings cloth above table; 12/13 stray hands"
+ },
+ "table_2": {
+  "seed": 14,
+  "ok": true,
+  "note": "Girl setting plates and silverware"
+ },
+ "table_3": {
+  "seed": 11,
+  "ok": true,
+  "note": "Crystal goblet on folded napkin"
+ },
+ "table_4": {
+  "seed": 11,
+  "ok": true,
+  "note": "Glass vase of red roses on white cloth"
+ },
+ "table_5": {
+  "seed": 11,
+  "ok": true,
+  "note": "Girl lighting tall candles with match; looks young"
+ },
+ "coffee_1": {
+  "seed": 12,
+  "ok": true,
+  "note": "Water running into percolator at sink"
+ },
+ "coffee_2": {
+  "seed": 14,
+  "ok": true,
+  "note": "Single spoon of grounds over basket"
+ },
+ "coffee_3": {
+  "seed": 14,
+  "ok": true,
+  "note": "Cord plugged into chrome percolator"
+ },
+ "coffee_4": {
+  "seed": 13,
+  "ok": true,
+  "note": "Cups, saucers, cream jug on tray"
+ },
+ "coffee_5": {
+  "seed": 11,
+  "ok": true,
+  "note": "Pouring hot coffee into cup"
+ },
+ "coffee_6": {
+  "seed": 14,
+  "ok": true,
+  "note": "Only seed without caption text"
+ },
+ "potluck_1": {
+  "seed": 14,
+  "ok": true,
+  "note": "Writing list on clipboard; 13 legible title"
+ },
+ "potluck_2": {
+  "seed": 13,
+  "ok": true,
+  "note": "Two clothed folding tables in backyard dusk"
+ },
+ "potluck_3": {
+  "seed": 11,
+  "ok": true,
+  "note": "Hanging glowing lanterns; 13 has two women"
+ },
+ "potluck_4": {
+  "seed": 12,
+  "ok": true,
+  "note": "Red punch bowl; ladle plus extra spoon"
+ },
+ "potluck_5": {
+  "seed": 13,
+  "ok": true,
+  "note": "Casseroles, cakes, pies under lanterns"
+ },
+ "shutters_1": {
+  "seed": 12,
+  "ok": true,
+  "note": "Gripping shutter at hinge; 13 stray hand"
+ },
+ "shutters_2": {
+  "seed": 14,
+  "ok": true,
+  "note": "Only solid shutter; full sweater not vest"
+ },
+ "shutters_3": {
+  "seed": 13,
+  "ok": true,
+  "note": "Drop cloth under sawhorses; 11/14 stray hands, 12 man"
+ },
+ "shutters_4": {
+  "seed": 11,
+  "ok": true,
+  "note": "Painting red shutter with brush"
+ },
+ "shutters_5": {
+  "seed": 11,
+  "ok": true,
+  "note": "Red shutters resting on sawhorse in light shaft; weak"
+ },
+ "shutters_6": {
+  "seed": 14,
+  "ok": true,
+  "note": "White house, red shutters, blue sky"
+ },
+ "shadetree_1": {
+  "seed": 11,
+  "ok": true,
+  "note": "Pointing at spot on lawn; 12 three hands"
+ },
+ "shadetree_2": {
+  "seed": 12,
+  "ok": true,
+  "note": "Digging hole with spade; 11 three hands"
+ },
+ "shadetree_3": {
+  "seed": 13,
+  "ok": true,
+  "note": "Sapling with root ball over fresh hole"
+ },
+ "shadetree_4": {
+  "seed": 12,
+  "ok": true,
+  "note": "Only seed with boot on soil; 13 duplicate man"
+ },
+ "shadetree_5": {
+  "seed": 12,
+  "ok": true,
+  "note": "Neat mulch ring; 13/14 stray hands"
+ },
+ "gate_1": {
+  "seed": 12,
+  "ok": true,
+  "note": "Boy holding gate by hinge, listening"
+ },
+ "gate_2": {
+  "seed": 12,
+  "ok": true,
+  "note": "Wire brush scrubbing rusty hinge"
+ },
+ "gate_3": {
+  "seed": 14,
+  "ok": true,
+  "note": "Screwdriver on hinge screw; 12 extra hand"
+ },
+ "gate_4": {
+  "seed": 14,
+  "ok": false,
+  "note": "Tin cups not oil cans; oiling door knobs"
+ },
+ "gate_5": {
+  "seed": 12,
+  "ok": false,
+  "note": "All show boy on swing, not swinging gate"
+ },
+ "gate_6": {
+  "seed": 12,
+  "ok": false,
+  "note": "All wipe a door handle, not gate hinge"
+ },
+ "bathouse_1": {
+  "seed": 11,
+  "ok": true,
+  "note": "Measuring board with ruler and pencil"
+ },
+ "bathouse_2": {
+  "seed": 11,
+  "ok": true,
+  "note": "Sawing pine board in garage"
+ },
+ "bathouse_3": {
+  "seed": 11,
+  "ok": true,
+  "note": "Hammering nail into tall block on bench"
+ },
+ "bathouse_4": {
+  "seed": 12,
+  "ok": true,
+  "note": "Brush painting tall birdhouse brown; 11 finger-paints"
+ },
+ "bathouse_5": {
+  "seed": 14,
+  "ok": true,
+  "note": "House on tall post, some sky; birdhouse-style hole"
+ },
+ "hedge_1": {
+  "seed": 14,
+  "ok": true,
+  "note": "String tied between stakes; 11/13 extra man"
+ },
+ "hedge_2": {
+  "seed": 13,
+  "ok": true,
+  "note": "Flat green tarp at trimmed hedge"
+ },
+ "hedge_3": {
+  "seed": 11,
+  "ok": true,
+  "note": "Trimming hedge side; short shears, not long"
+ },
+ "hedge_4": {
+  "seed": 13,
+  "ok": true,
+  "note": "Blade along string on hedge top; weak"
+ },
+ "hedge_5": {
+  "seed": 11,
+  "ok": true,
+  "note": "Sidewalk, long clippers, looking at hedge"
+ },
+ "hedge_6": {
+  "seed": 12,
+  "ok": true,
+  "note": "Folding tarp of green clippings"
+ },
+ "pumpkin_1": {
+  "seed": 14,
+  "ok": true,
+  "note": "Girl choosing pumpkin; oldest-looking, still young"
+ },
+ "pumpkin_2": {
+  "seed": 12,
+  "ok": true,
+  "note": "One knife cutting lid by stem; 11/13 two knives"
+ },
+ "pumpkin_3": {
+  "seed": 12,
+  "ok": true,
+  "note": "Scooping pale seeds with spoon; girl looks young"
+ },
+ "pumpkin_4": {
+  "seed": 13,
+  "ok": false,
+  "note": "Round eyes and smile but sculpted nose, cheeks"
+ },
+ "pumpkin_5": {
+  "seed": 14,
+  "ok": true,
+  "note": "Friendly carved jack-o-lantern on kitchen table"
+ },
+ "pumpkin_6": {
+  "seed": 11,
+  "ok": true,
+  "note": "Glowing friendly pumpkin on brick steps, nobody"
+ },
+ "lawn_1": {
+  "seed": 11,
+  "ok": true,
+  "note": "Picking up sticks from lawn"
+ },
+ "lawn_2": {
+  "seed": 13,
+  "ok": false,
+  "note": "All modern power mowers, not reel mower"
+ },
+ "lawn_3": {
+  "seed": 13,
+  "ok": true,
+  "note": "Clipping grass by brick path with hand clippers"
+ },
+ "lawn_4": {
+  "seed": 11,
+  "ok": true,
+  "note": "Raking cut grass into pile on sunny lawn"
+ },
+ "lawn_5": {
+  "seed": 13,
+  "ok": true,
+  "note": "Sprinkler spraying lawn; 11 three hands"
+ },
+ "lawn_6": {
+  "seed": 13,
+  "ok": true,
+  "note": "Lemonade, admiring striped lawn"
+ },
+ "budget_1": {
+  "seed": 12,
+  "ok": true,
+  "note": "Sorting bills and receipts; print small"
+ },
+ "budget_2": {
+  "seed": 12,
+  "ok": true,
+  "note": "Green ledger, ruled columns, hand with pencil"
+ },
+ "budget_3": {
+  "seed": 11,
+  "ok": true,
+  "note": "Writing in ledger; script small; 13/14 big cursive"
+ },
+ "budget_4": {
+  "seed": 11,
+  "ok": true,
+  "note": "Bills tucked into envelopes; hands natural"
+ },
+ "budget_5": {
+  "seed": 12,
+  "ok": true,
+  "note": "Smiling at ledger, coffee cup in hand"
+ },
+ "bank_1": {
+  "seed": 14,
+  "ok": true,
+  "note": "Filling out slip at table; vest and tie"
+ },
+ "bank_2": {
+  "seed": 13,
+  "ok": false,
+  "note": "Shop sign text; top-hatted men, not vampires"
+ },
+ "bank_3": {
+  "seed": 14,
+  "ok": true,
+  "note": "Walking in holding hat; paneled hall, not grand lobby"
+ },
+ "bank_4": {
+  "seed": 13,
+  "ok": false,
+  "note": "Priest-like men in hats; others WAIT YOUR TURN text"
+ },
+ "bank_5": {
+  "seed": 14,
+  "ok": false,
+  "note": "All pass paper money, not passbook; 11 duplicate man"
+ },
+ "bank_6": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "appraise_1": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "appraise_2": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "appraise_3": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "appraise_4": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "appraise_5": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "spareroom_1": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "spareroom_2": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "spareroom_3": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "spareroom_4": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "spareroom_5": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "spareroom_6": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "offer_1": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "offer_2": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "offer_3": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "offer_4": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "offer_5": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "piggybank_1": {
+  "seed": 12,
+  "ok": true,
+  "note": "coin piles on bedroom floor; 13/14 at table"
+ },
+ "piggybank_2": {
+  "seed": 12,
+  "ok": true,
+  "note": "two equal coin stacks, natural hands"
+ },
+ "piggybank_3": {
+  "seed": 13,
+  "ok": true,
+  "note": "coin into pig, smiling; 12 FEED PIG text"
+ },
+ "piggybank_4": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "piggybank_5": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "piggybank_6": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "meeting_1": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "meeting_2": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "meeting_3": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "meeting_4": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "meeting_5": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "minutes_1": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "minutes_2": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "minutes_3": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "minutes_4": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "minutes_5": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "minutes_6": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "blockparty_1": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "blockparty_2": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "blockparty_3": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "blockparty_4": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "blockparty_5": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "bakesale_1": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "bakesale_2": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "bakesale_3": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "bakesale_4": {
+  "seed": null,
+  "ok": false,
+  "note": "NOT REVIEWED: image did not load"
+ },
+ "bakesale_5": {
+  "seed": 12,
+  "ok": true,
+  "note": "wax-paper cake handoff; collar modest; 11 sign text"
+ },
+ "bakesale_6": {
+  "seed": 12,
+  "ok": true,
+  "note": "counting bills from box; 13 fridge, 14 modern hob"
+ },
+ "streetlight_1": {
+  "seed": 13,
+  "ok": true,
+  "note": "walking suburban street under tall streetlight"
+ },
+ "streetlight_2": {
+  "seed": 12,
+  "ok": true,
+  "note": "notepad under outdoor lamp post, windows behind"
+ },
+ "streetlight_3": {
+  "seed": 14,
+  "ok": true,
+  "note": "tall red-lined collar under streetlight; 13 sign text"
+ },
+ "streetlight_4": {
+  "seed": 13,
+  "ok": true,
+  "note": "two hands hold amber bulb, streetlight behind"
+ },
+ "streetlight_5": {
+  "seed": 13,
+  "ok": false,
+  "note": "listeners hooded monks/hats, not pale vampires"
+ },
+ "halloween_1": {
+  "seed": 12,
+  "ok": true,
+  "note": "paper wings, braids, bedroom; girl looks under ten"
+ },
+ "halloween_2": {
+  "seed": 12,
+  "ok": true,
+  "note": "full candy bowl on hall table, two hands"
+ },
+ "halloween_3": {
+  "seed": 14,
+  "ok": true,
+  "note": "row of glowing jack-o-lanterns; 11 figure in door"
+ },
+ "halloween_4": {
+  "seed": 13,
+  "ok": false,
+  "note": "no fairy wings 11/13/14, kids not pale; 12 one kid"
+ },
+ "halloween_5": {
+  "seed": 14,
+  "ok": true,
+  "note": "wings visible, treat bag held out at door"
+ },
+ "halloween_6": {
+  "seed": 12,
+  "ok": true,
+  "note": "sorting candies on rug; girl looks under ten"
+ },
+ "watch_1": {
+  "seed": 12,
+  "ok": true,
+  "note": "pulling jacket closed in hall; zip implied"
+ },
+ "watch_2": {
+  "seed": 11,
+  "ok": true,
+  "note": "lit flashlight in front hall, hand fine"
+ },
+ "watch_3": {
+  "seed": 11,
+  "ok": true,
+  "note": "holding hands under streetlights"
+ },
+ "watch_4": {
+  "seed": 13,
+  "ok": true,
+  "note": "both waving; count bald, no widow's peak"
+ },
+ "watch_5": {
+  "seed": 13,
+  "ok": false,
+  "note": "no flashlight in any seed; 14 lit pen only"
+ },
+ "explain_1": {
+  "seed": 11,
+  "ok": true,
+  "note": "smiling in armchair, lamplit"
+ },
+ "explain_2": {
+  "seed": 11,
+  "ok": true,
+  "note": "pouring cocoa for boy in pajamas"
+ },
+ "explain_3": {
+  "seed": 13,
+  "ok": true,
+  "note": "braids, sofa, gentle talk, clean"
+ },
+ "explain_4": {
+  "seed": 11,
+  "ok": true,
+  "note": "curious child, kind listening, clean"
+ },
+ "explain_5": {
+  "seed": 12,
+  "ok": true,
+  "note": "one finger raised, smiling, clean"
+ },
+ "explain_6": {
+  "seed": 13,
+  "ok": true,
+  "note": "tucking quilt, lamplit; 14 face on pillow"
+ },
+ "photo_1": {
+  "seed": 11,
+  "ok": false,
+  "note": "modern 35mm cameras, no box camera, in all"
+ },
+ "photo_2": {
+  "seed": 12,
+  "ok": true,
+  "note": "family on sofa, count behind; all adults"
+ },
+ "photo_3": {
+  "seed": 11,
+  "ok": true,
+  "note": "vintage camera on tripod, pressing; 13 text"
+ },
+ "photo_4": {
+  "seed": 12,
+  "ok": false,
+  "note": "fake GET THE FILM text on envelope in all"
+ },
+ "photo_5": {
+  "seed": 11,
+  "ok": true,
+  "note": "puzzled smile at B&W photo, hands fine"
+ },
+ "dog_1": {
+  "seed": 13,
+  "ok": true,
+  "note": "count waving; same yard, not clearly next yard"
+ },
+ "dog_2": {
+  "seed": 13,
+  "ok": true,
+  "note": "biscuit to beagle on porch, clean"
+ },
+ "dog_3": {
+  "seed": 12,
+  "ok": true,
+  "note": "red leash, sidewalk at dusk, clean"
+ },
+ "dog_4": {
+  "seed": 12,
+  "ok": true,
+  "note": "beagle sniffing hand of crouching count"
+ },
+ "dog_5": {
+  "seed": 12,
+  "ok": true,
+  "note": "laughing hug on lawn, hands fine"
+ },
+ "dog_6": {
+  "seed": 12,
+  "ok": true,
+  "note": "beagle asleep in round bed by radiator"
+ },
+ "nightschool_1": {
+  "seed": 11,
+  "ok": false,
+  "note": "YOUR SATCHEL text on book in all"
+ },
+ "nightschool_2": {
+  "seed": 11,
+  "ok": true,
+  "note": "holding hands at dusk, lit houses"
+ },
+ "nightschool_3": {
+  "seed": 14,
+  "ok": false,
+  "note": "kids in black hats, eerie eyes, no Dracula collars"
+ },
+ "nightschool_4": {
+  "seed": 13,
+  "ok": true,
+  "note": "sharing crayons; only seed without box lettering"
+ },
+ "nightschool_5": {
+  "seed": 11,
+  "ok": false,
+  "note": "witch hats, several not pale, no Dracula collars"
+ },
+ "opinions_1": {
+  "seed": 12,
+  "ok": true,
+  "note": "eyes closed, counting on fingers"
+ },
+ "opinions_2": {
+  "seed": 14,
+  "ok": true,
+  "note": "smiling, pointing at cloudy sky"
+ },
+ "opinions_3": {
+  "seed": 12,
+  "ok": true,
+  "note": "knitting blue yarn in armchair"
+ },
+ "opinions_4": {
+  "seed": 14,
+  "ok": true,
+  "note": "pouring tea into cup at card table"
+ },
+ "opinions_5": {
+  "seed": 11,
+  "ok": true,
+  "note": "dealing cards, lamplit parlor"
+ },
+ "opinions_6": {
+  "seed": 12,
+  "ok": true,
+  "note": "both laughing, holding cards"
+ },
+ "bedtime_1": {
+  "seed": 12,
+  "ok": true,
+  "note": "pouring milk into glass, night kitchen"
+ },
+ "bedtime_2": {
+  "seed": 11,
+  "ok": true,
+  "note": "alone closing curtains; 12-14 figures in window"
+ },
+ "bedtime_3": {
+  "seed": 12,
+  "ok": true,
+  "note": "glowing night light on dresser, hand switching"
+ },
+ "bedtime_4": {
+  "seed": 14,
+  "ok": true,
+  "note": "reading to boy in bed; 13 doubled face"
+ },
+ "bedtime_5": {
+  "seed": 13,
+  "ok": true,
+  "note": "one hand winding open box, brass mechanism"
+ },
+ "moving_1": {
+  "seed": 11,
+  "ok": false,
+  "note": "vans look 60s-70s; watchers hatted, not Dracula-like"
+ },
+ "moving_2": {
+  "seed": 14,
+  "ok": false,
+  "note": "squats beside short clock, not lifting it, in all"
+ },
+ "moving_3": {
+  "seed": 12,
+  "ok": false,
+  "note": "red box cart not hand truck; count not pointing"
+ },
+ "moving_4": {
+  "seed": 14,
+  "ok": false,
+  "note": "no blanket wrapping clock; hooded ghoul vampires"
+ },
+ "moving_5": {
+  "seed": 11,
+  "ok": true,
+  "note": "box up porch steps to open door"
+ },
+ "moving_6": {
+  "seed": 13,
+  "ok": true,
+  "note": "handshake beside van at night; van styling borderline"
+ },
+ "housewarming_1": {
+  "seed": 12,
+  "ok": true,
+  "note": "writing cards; small script lines only"
+ },
+ "housewarming_2": {
+  "seed": 14,
+  "ok": true,
+  "note": "arranging roses, candlelit; 13 duplicate woman"
+ },
+ "housewarming_3": {
+  "seed": 11,
+  "ok": true,
+  "note": "cake on stand, juice, candle; one hand at edge"
+ },
+ "housewarming_4": {
+  "seed": 14,
+  "ok": true,
+  "note": "porch greeting count and lady, clean"
+ },
+ "housewarming_5": {
+  "seed": 13,
+  "ok": false,
+  "note": "legible fake GUEST BOOK text in all"
+ },
+ "cards_1": {
+  "seed": 11,
+  "ok": false,
+  "note": "legible GET OUT THE text in all; writing not reading"
+ },
+ "cards_2": {
+  "seed": 13,
+  "ok": false,
+  "note": "plain paper not holiday card; large fake handwriting"
+ },
+ "cards_3": {
+  "seed": 11,
+  "ok": true,
+  "note": "one hand, scribble address on cream envelope"
+ },
+ "cards_4": {
+  "seed": 11,
+  "ok": true,
+  "note": "stamps and sponge, two hands; 13 three hands"
+ },
+ "cards_5": {
+  "seed": 11,
+  "ok": true,
+  "note": "envelope handoff at door, snow"
+ },
+ "cards_6": {
+  "seed": 11,
+  "ok": false,
+  "note": "legible fake words on cards in all; 11 least"
+ },
+ "thanksgiving_1": {
+  "seed": 14,
+  "ok": true,
+  "note": "tool on turkey in open oven; others bare hands"
+ },
+ "thanksgiving_2": {
+  "seed": 11,
+  "ok": true,
+  "note": "sauce in cut-glass dish, two hands; 12 four hands"
+ },
+ "thanksgiving_3": {
+  "seed": 14,
+  "ok": false,
+  "note": "guests in hats/suits, no chalk-faced caped vampires"
+ },
+ "thanksgiving_4": {
+  "seed": 14,
+  "ok": false,
+  "note": "candles already lit, no lighting action; 13 duplicate"
+ },
+ "thanksgiving_5": {
+  "seed": 12,
+  "ok": true,
+  "note": "carving, two hands; 11 three hands"
+ },
+ "sunrise_1": {
+  "seed": 12,
+  "ok": true,
+  "note": "arm raised on window frame, pink dawn"
+ },
+ "sunrise_2": {
+  "seed": 12,
+  "ok": true,
+  "note": "pouring coffee at dawn; 11 microwave"
+ },
+ "sunrise_3": {
+  "seed": 14,
+  "ok": true,
+  "note": "dawn glow on sky, dewy lawn, cup; others look night"
+ },
+ "sunrise_4": {
+  "seed": 11,
+  "ok": false,
+  "note": "walking away from house toward viewer in all"
+ },
+ "sunrise_5": {
+  "seed": 11,
+  "ok": false,
+  "note": "count not closing shutters in any seed"
+ },
+ "sunrise_6": {
+  "seed": 14,
+  "ok": true,
+  "note": "sunny window, eggs and toast; 11 microwave"
+ },
+ "goodneighbors_1": {
+  "seed": 12,
+  "ok": true,
+  "note": "waving from sunlit porch"
+ },
+ "goodneighbors_2": {
+  "seed": 12,
+  "ok": true,
+  "note": "writing in small book at kitchen table"
+ },
+ "goodneighbors_3": {
+  "seed": 12,
+  "ok": true,
+  "note": "dish wrapped in towel; 11 microwave"
+ },
+ "goodneighbors_4": {
+  "seed": 11,
+  "ok": true,
+  "note": "glowing porch lights at dusk, clean"
+ },
+ "goodneighbors_5": {
+  "seed": 13,
+  "ok": true,
+  "note": "both laughing, holding cards, lamplit"
+ }
+}
