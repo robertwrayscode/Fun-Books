@@ -1,0 +1,22 @@
+[
+ {
+  "out": "rescue17/ru/cover_front.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. Full-length view of two whole figures from head to toe, standing side by side in the center on a front walk at dusk: a smiling 1950s housewife in a blue shirtwaist dress, white apron and pearls, and beside her a friendly tall polished silver robot butler with round glowing eyes and a black bow tie, holding a silver tea tray with a teapot and cups. Glowing house windows softly blurred behind them, deep blue dusk sky. Natural hands, every person has exactly two arms and two hands, the robot has exactly two arms. No lettering or writing anywhere, no signature.",
+  "w": 704,
+  "h": 1472,
+  "seed": 301,
+  "n": 8,
+  "model": "flux2klein",
+  "crop": 0.03
+ },
+ {
+  "out": "rescue17/ru/cover_back.jpg",
+  "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A 1950s suburban front porch at night under a deep starry sky, a friendly tall polished silver robot butler with round glowing eyes tipping a black bowler hat to a freckled boy in a striped t-shirt and a girl with pigtails in a gingham dress, warm porch lamplight, the upper half of the picture is open dark starry sky. Natural hands, every person has exactly two arms and two hands, the robot has exactly two arms. No lettering or writing anywhere, no signature.",
+  "w": 640,
+  "h": 832,
+  "seed": 321,
+  "n": 8,
+  "model": "flux2klein",
+  "crop": 0.03
+ }
+]
