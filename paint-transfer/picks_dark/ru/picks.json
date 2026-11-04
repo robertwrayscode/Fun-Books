@@ -210,9 +210,9 @@
 "note": "rescue1"
 },
 "oilpantry_4": {
-"seed": 12,
-"ok": false,
-"note": "rescue5 failed: no funnel"
+"seed": 142,
+"ok": true,
+"note": "rescue7"
 },
 "oilpantry_5": {
 "seed": 122,
@@ -220,9 +220,9 @@
 "note": "rescue5"
 },
 "garage_1": {
-"seed": 11,
-"ok": false,
-"note": "rescue5 failed: sedan not station wagon"
+"seed": 141,
+"ok": true,
+"note": "rescue7"
 },
 "garage_2": {
 "seed": 12,
@@ -452,7 +452,7 @@
 "curtsy_3": {
 "seed": 43,
 "ok": false,
-"note": "rescue5 failed: girl not curtsying"
+"note": "rescue7 failed: kneeling not curtsying"
 },
 "curtsy_4": {
 "seed": 13,
@@ -565,9 +565,9 @@
 "note": ""
 },
 "bow_4": {
-"seed": 44,
-"ok": false,
-"note": "rescue5 failed: modern screens and keyboards, no bow"
+"seed": 144,
+"ok": true,
+"note": "rescue7"
 },
 "bow_5": {
 "seed": 45,
@@ -760,9 +760,9 @@
 "note": "rescue5"
 },
 "smalltalk_4": {
-"seed": 12,
-"ok": false,
-"note": "rescue5 failed: garbled newspaper print"
+"seed": 146,
+"ok": true,
+"note": "rescue7"
 },
 "smalltalk_5": {
 "seed": 13,
@@ -770,9 +770,9 @@
 "note": ""
 },
 "never_1": {
-"seed": 14,
-"ok": false,
-"note": "rescue5 failed: garbled handwriting"
+"seed": 142,
+"ok": true,
+"note": "rescue7"
 },
 "never_2": {
 "seed": 12,
@@ -1090,9 +1090,9 @@
 "note": ""
 },
 "chaperone_4": {
-"seed": 14,
-"ok": false,
-"note": "rescue5 failed: garbled newspaper"
+"seed": 142,
+"ok": true,
+"note": "rescue7"
 },
 "chaperone_5": {
 "seed": 14,
@@ -1105,9 +1105,9 @@
 "note": ""
 },
 "grocery_2": {
-"seed": 12,
-"ok": false,
-"note": "rescue5 failed: garbled signs and labels everywhere"
+"seed": 141,
+"ok": true,
+"note": "rescue7"
 },
 "grocery_3": {
 "seed": 11,
@@ -1150,9 +1150,9 @@
 "note": ""
 },
 "bus_5": {
-"seed": 45,
-"ok": false,
-"note": "rescue5 failed: garbled newspaper, no bus strap"
+"seed": 144,
+"ok": true,
+"note": "rescue7"
 },
 "office_1": {
 "seed": 126,
@@ -1195,9 +1195,9 @@
 "note": "rescue5"
 },
 "salon_3": {
-"seed": 43,
-"ok": false,
-"note": "rescue5 failed: pistol dryer not hood, garbled magazine"
+"seed": 148,
+"ok": true,
+"note": "rescue7"
 },
 "salon_4": {
 "seed": 106,
@@ -1220,9 +1220,9 @@
 "note": ""
 },
 "choir_3": {
-"seed": 12,
-"ok": false,
-"note": "rescue5 failed: extra people at the organ"
+"seed": 144,
+"ok": true,
+"note": "rescue7"
 },
 "choir_4": {
 "seed": 11,
@@ -1375,9 +1375,9 @@
 "note": ""
 },
 "giant_1": {
-"seed": 12,
-"ok": false,
-"note": "rescue5 failed: robot only person-sized, not giant"
+"seed": 141,
+"ok": true,
+"note": "rescue7"
 },
 "giant_2": {
 "seed": 12,
@@ -1400,9 +1400,9 @@
 "note": ""
 },
 "giant_6": {
-"seed": 11,
-"ok": false,
-"note": "rescue5 failed: robot only person-sized, not giant"
+"seed": 144,
+"ok": true,
+"note": "rescue7"
 },
 "supreme_1": {
 "seed": 42,
@@ -1425,9 +1425,9 @@
 "note": ""
 },
 "supreme_5": {
-"seed": 14,
-"ok": false,
-"note": "rescue5 failed: garbled labels on computer"
+"seed": 141,
+"ok": true,
+"note": "rescue7"
 },
 "revolt_1": {
 "seed": 107,
@@ -1505,9 +1505,9 @@
 "note": "rescue1"
 },
 "blockparty_5": {
-"seed": 14,
-"ok": false,
-"note": "rescue5 failed: crowded, labelled cans and papers, too many hands"
+"seed": 143,
+"ok": true,
+"note": "rescue7"
 },
 "blockparty_6": {
 "seed": 12,

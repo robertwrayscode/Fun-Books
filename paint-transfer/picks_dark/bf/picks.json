@@ -10,9 +10,9 @@
 "note": ""
 },
 "tracks_3": {
-"seed": 42,
-"ok": false,
-"note": "rescue6 failed: shows the foot itself not a print"
+"seed": 141,
+"ok": true,
+"note": "rescue7"
 },
 "tracks_4": {
 "seed": 43,
