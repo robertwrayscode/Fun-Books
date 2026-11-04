@@ -125,9 +125,9 @@
 "note": ""
 },
 "tvwatch_4": {
-"seed": 11,
-"ok": false,
-"note": "step words and odd figures on screen"
+"seed": 45,
+"ok": true,
+"note": "rescue1"
 },
 "tvwatch_5": {
 "seed": 12,
@@ -150,9 +150,9 @@
 "note": ""
 },
 "typer_3": {
-"seed": 11,
-"ok": false,
-"note": "robots have human faces, not typewriter on legs"
+"seed": 42,
+"ok": true,
+"note": "rescue1"
 },
 "typer_4": {
 "seed": 12,
@@ -160,9 +160,9 @@
 "note": ""
 },
 "typer_5": {
-"seed": 11,
-"ok": false,
-"note": "recycling symbol and step words on paper"
+"seed": 44,
+"ok": true,
+"note": "rescue1"
 },
 "thermostat_1": {
 "seed": 12,
@@ -190,9 +190,9 @@
 "note": ""
 },
 "thermostat_6": {
-"seed": 11,
-"ok": false,
-"note": "disembodied hands buried in sweater pile"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "slippers_1": {
 "seed": 12,
@@ -245,9 +245,9 @@
 "note": ""
 },
 "recipe_6": {
-"seed": 11,
-"ok": false,
-"note": "step words on box and cards"
+"seed": 44,
+"ok": true,
+"note": "rescue1"
 },
 "door_1": {
 "seed": 11,
@@ -340,14 +340,14 @@
 "note": ""
 },
 "laundry_3": {
-"seed": 11,
-"ok": false,
-"note": "real swans, not towels folded into swans"
+"seed": 43,
+"ok": true,
+"note": "rescue1"
 },
 "laundry_4": {
 "seed": 11,
 "ok": false,
-"note": "modern front-load washers; hat not swan-shaped"
+"note": "rescue1 failed: modern washers in all"
 },
 "laundry_5": {
 "seed": 13,
@@ -380,9 +380,9 @@
 "note": ""
 },
 "askbrain_5": {
-"seed": 11,
-"ok": false,
-"note": "modern computer monitors and keyboards"
+"seed": 45,
+"ok": true,
+"note": "rescue1"
 },
 "please_1": {
 "seed": 12,
@@ -420,9 +420,9 @@
 "note": ""
 },
 "wrong_2": {
-"seed": 11,
-"ok": false,
-"note": "step words on book cover"
+"seed": 47,
+"ok": true,
+"note": "rescue1"
 },
 "wrong_3": {
 "seed": 13,
@@ -480,9 +480,9 @@
 "note": ""
 },
 "homework_3": {
-"seed": 11,
-"ok": false,
-"note": "step words on book cover"
+"seed": 43,
+"ok": true,
+"note": "rescue1"
 },
 "homework_4": {
 "seed": 11,
@@ -500,9 +500,9 @@
 "note": ""
 },
 "poems_2": {
-"seed": 11,
-"ok": false,
-"note": "step words on paper"
+"seed": 45,
+"ok": true,
+"note": "rescue1"
 },
 "poems_3": {
 "seed": 11,
@@ -520,9 +520,9 @@
 "note": ""
 },
 "poems_6": {
-"seed": 11,
-"ok": false,
-"note": "step words in frame"
+"seed": 42,
+"ok": true,
+"note": "rescue1"
 },
 "vacation_1": {
 "seed": 12,
@@ -590,14 +590,14 @@
 "note": ""
 },
 "checkout_3": {
-"seed": 11,
-"ok": false,
-"note": "watermelon, not cantaloupe"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "checkout_4": {
 "seed": 11,
 "ok": false,
-"note": "modern card terminals at checkout"
+"note": "rescue1 failed: registers have screens"
 },
 "checkout_5": {
 "seed": 13,
@@ -690,9 +690,9 @@
 "note": ""
 },
 "bank_1": {
-"seed": 11,
-"ok": false,
-"note": "step words on passbook"
+"seed": 43,
+"ok": true,
+"note": "rescue1"
 },
 "bank_2": {
 "seed": 11,
@@ -735,9 +735,9 @@
 "note": ""
 },
 "map_5": {
-"seed": 11,
-"ok": false,
-"note": "step words on map"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "map_6": {
 "seed": 12,
@@ -765,9 +765,9 @@
 "note": ""
 },
 "fingers_5": {
-"seed": 11,
-"ok": false,
-"note": "step words on paper"
+"seed": 44,
+"ok": true,
+"note": "rescue1"
 },
 "photo_1": {
 "seed": 11,
@@ -795,14 +795,14 @@
 "note": ""
 },
 "photo_6": {
-"seed": 11,
-"ok": false,
-"note": "step words on fridge"
+"seed": 42,
+"ok": true,
+"note": "rescue1"
 },
 "neighbor_1": {
 "seed": 11,
 "ok": false,
-"note": "modern red power mower"
+"note": "rescue1 failed: mowers have engines in all"
 },
 "neighbor_2": {
 "seed": 13,
@@ -825,9 +825,9 @@
 "note": ""
 },
 "news_1": {
-"seed": 11,
-"ok": false,
-"note": "garbled big headlines"
+"seed": 46,
+"ok": true,
+"note": "rescue1"
 },
 "news_2": {
 "seed": 12,
@@ -835,9 +835,9 @@
 "note": ""
 },
 "news_3": {
-"seed": 11,
-"ok": false,
-"note": "garbled big headlines"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "news_4": {
 "seed": 12,
@@ -1000,9 +1000,9 @@
 "note": ""
 },
 "cat_3": {
-"seed": 11,
-"ok": false,
-"note": "cat calm not frightened; modern handheld vacuum"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "cat_4": {
 "seed": 14,
@@ -1040,9 +1040,9 @@
 "note": ""
 },
 "toy_5": {
-"seed": 11,
-"ok": false,
-"note": "step words on jar label"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "ownbrain_1": {
 "seed": 11,
@@ -1115,19 +1115,19 @@
 "note": ""
 },
 "replace_4": {
-"seed": 11,
-"ok": false,
-"note": "step words on chalkboard"
+"seed": 42,
+"ok": true,
+"note": "rescue1"
 },
 "replace_5": {
-"seed": 11,
-"ok": false,
-"note": "no feet up on desk; modern keyboard"
+"seed": 44,
+"ok": true,
+"note": "rescue1"
 },
 "replace_6": {
-"seed": 11,
-"ok": false,
-"note": "step words caption in all"
+"seed": 42,
+"ok": true,
+"note": "rescue1"
 },
 "typing_1": {
 "seed": 12,
@@ -1185,9 +1185,9 @@
 "note": ""
 },
 "raise_1": {
-"seed": 11,
-"ok": false,
-"note": "step words caption in all"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "raise_2": {
 "seed": 11,
@@ -1200,9 +1200,9 @@
 "note": ""
 },
 "raise_4": {
-"seed": 11,
-"ok": false,
-"note": "step words on paper"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "raise_5": {
 "seed": 11,
@@ -1210,9 +1210,9 @@
 "note": ""
 },
 "lunch_1": {
-"seed": 11,
-"ok": false,
-"note": "captions / text on chest / human-faced robot"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "lunch_2": {
 "seed": 11,
@@ -1280,9 +1280,9 @@
 "note": ""
 },
 "plug_4": {
-"seed": 11,
-"ok": false,
-"note": "modern 1990s PCs with keyboards and mice"
+"seed": 45,
+"ok": true,
+"note": "rescue1"
 },
 "plug_5": {
 "seed": 11,
@@ -1345,9 +1345,9 @@
 "note": ""
 },
 "paperclip_6": {
-"seed": 11,
-"ok": false,
-"note": "step words on boxes"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "hug_1": {
 "seed": 12,
@@ -1377,12 +1377,12 @@
 "chorus_1": {
 "seed": 11,
 "ok": false,
-"note": "spoon/fork not spatula"
+"note": "rescue1 failed: frying pan, no spatula being set down"
 },
 "chorus_2": {
-"seed": 11,
-"ok": false,
-"note": "stirring a pot, not banging a pot lid"
+"seed": 45,
+"ok": true,
+"note": "rescue1"
 },
 "chorus_3": {
 "seed": 13,
@@ -1400,14 +1400,14 @@
 "note": ""
 },
 "chorus_6": {
-"seed": 11,
-"ok": false,
-"note": "step words on coffee cup"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "cellar_1": {
-"seed": 11,
-"ok": false,
-"note": "upright shed door, not slanted root cellar hatch"
+"seed": 42,
+"ok": true,
+"note": "rescue1"
 },
 "cellar_2": {
 "seed": 12,
@@ -1425,14 +1425,14 @@
 "note": ""
 },
 "cellar_5": {
-"seed": 11,
-"ok": false,
-"note": "duplicated grandfather in all"
+"seed": 46,
+"ok": true,
+"note": "rescue1"
 },
 "morse_1": {
-"seed": 11,
-"ok": false,
-"note": "step words on card"
+"seed": 45,
+"ok": true,
+"note": "rescue1"
 },
 "morse_2": {
 "seed": 12,
@@ -1455,9 +1455,9 @@
 "note": ""
 },
 "morse_6": {
-"seed": 11,
-"ok": false,
-"note": "step words painted in all"
+"seed": 44,
+"ok": true,
+"note": "rescue1"
 },
 "joke_1": {
 "seed": 12,
@@ -1610,9 +1610,9 @@
 "note": ""
 },
 "fish_4": {
-"seed": 11,
-"ok": false,
-"note": "no fishing pole or line at all"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "fish_5": {
 "seed": 12,

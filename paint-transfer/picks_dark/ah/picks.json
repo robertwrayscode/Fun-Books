@@ -25,9 +25,9 @@
 "note": ""
 },
 "crater_6": {
-"seed": 11,
-"ok": false,
-"note": "garbled writing on list"
+"seed": 47,
+"ok": true,
+"note": "rescue1"
 },
 "sweep_1": {
 "seed": 12,
@@ -145,9 +145,9 @@
 "note": ""
 },
 "breakfast_1": {
-"seed": 11,
-"ok": false,
-"note": "wrong stove (kerosene heater not flat two-burner camp stove)"
+"seed": 46,
+"ok": true,
+"note": "rescue1"
 },
 "breakfast_2": {
 "seed": 14,
@@ -220,9 +220,9 @@
 "note": ""
 },
 "labels_5": {
-"seed": 11,
-"ok": false,
-"note": "step words painted on cans"
+"seed": 43,
+"ok": true,
+"note": "rescue1"
 },
 "milk_1": {
 "seed": 12,
@@ -235,9 +235,9 @@
 "note": ""
 },
 "milk_3": {
-"seed": 11,
-"ok": false,
-"note": "step words on vanilla label"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "milk_4": {
 "seed": 11,
@@ -325,9 +325,9 @@
 "note": ""
 },
 "water_4": {
-"seed": 11,
-"ok": false,
-"note": "garbled label writing"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "water_5": {
 "seed": 13,
@@ -400,9 +400,9 @@
 "note": ""
 },
 "biscuits_3": {
-"seed": 11,
-"ok": false,
-"note": "no glass cutting circles; bread-roll look"
+"seed": 47,
+"ok": true,
+"note": "rescue1"
 },
 "biscuits_4": {
 "seed": 13,
@@ -440,9 +440,9 @@
 "note": ""
 },
 "mockpie_5": {
-"seed": 11,
-"ok": false,
-"note": "odd metal disc, no crimping with fingers"
+"seed": 42,
+"ok": true,
+"note": "rescue1"
 },
 "mockpie_6": {
 "seed": 11,
@@ -535,9 +535,9 @@
 "note": ""
 },
 "gelatin_1": {
-"seed": 11,
-"ok": false,
-"note": "fake brand text on boxes"
+"seed": 46,
+"ok": true,
+"note": "rescue1"
 },
 "gelatin_2": {
 "seed": 13,
@@ -555,9 +555,9 @@
 "note": ""
 },
 "gelatin_5": {
-"seed": 11,
-"ok": false,
-"note": "slicing a cake, not flipping a mold"
+"seed": 47,
+"ok": true,
+"note": "rescue1"
 },
 "dusting_1": {
 "seed": 14,
@@ -595,9 +595,9 @@
 "note": ""
 },
 "laundry_2": {
-"seed": 11,
-"ok": false,
-"note": "text on washer / no rollers"
+"seed": 47,
+"ok": true,
+"note": "rescue1"
 },
 "laundry_3": {
 "seed": 14,
@@ -660,9 +660,9 @@
 "note": ""
 },
 "vacuum_4": {
-"seed": 11,
-"ok": false,
-"note": "garbled text on bag"
+"seed": 46,
+"ok": true,
+"note": "rescue1"
 },
 "vacuum_5": {
 "seed": 12,
@@ -675,9 +675,9 @@
 "note": ""
 },
 "curtains_2": {
-"seed": 11,
-"ok": false,
-"note": "painted a picture print on fabric, not just gingham bolt"
+"seed": 43,
+"ok": true,
+"note": "rescue1"
 },
 "curtains_3": {
 "seed": 12,
@@ -725,19 +725,19 @@
 "note": ""
 },
 "ironing_1": {
-"seed": 11,
-"ok": false,
-"note": "tongs not flat irons"
+"seed": 46,
+"ok": true,
+"note": "rescue1"
 },
 "ironing_2": {
-"seed": 11,
-"ok": false,
-"note": "brown stains on shirt, pouring not sprinkling"
+"seed": 46,
+"ok": true,
+"note": "rescue1"
 },
 "ironing_3": {
 "seed": 11,
 "ok": false,
-"note": "not a sad iron (sewing machine / modern iron)"
+"note": "rescue1 failed: pyramid shapes, not a sad iron"
 },
 "ironing_4": {
 "seed": 12,
@@ -745,9 +745,9 @@
 "note": ""
 },
 "ironing_5": {
-"seed": 11,
-"ok": false,
-"note": "weird tong-like objects, not flat irons"
+"seed": 43,
+"ok": true,
+"note": "rescue1"
 },
 "ironing_6": {
 "seed": 13,
@@ -1030,9 +1030,9 @@
 "note": ""
 },
 "grandma_1": {
-"seed": 11,
-"ok": false,
-"note": "modern woman in trousers instead of empty rocking chair"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "grandma_2": {
 "seed": 11,
@@ -1085,9 +1085,9 @@
 "note": ""
 },
 "grocery_1": {
-"seed": 11,
-"ok": false,
-"note": "step words on bags/cans"
+"seed": 45,
+"ok": true,
+"note": "rescue1"
 },
 "grocery_2": {
 "seed": 13,
@@ -1110,9 +1110,9 @@
 "note": ""
 },
 "hats_1": {
-"seed": 11,
-"ok": false,
-"note": "hats on real people, not a hat stand"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "hats_2": {
 "seed": 14,
@@ -1185,9 +1185,9 @@
 "note": ""
 },
 "driving_5": {
-"seed": 11,
-"ok": false,
-"note": "garbled sign lettering"
+"seed": 46,
+"ok": true,
+"note": "rescue1"
 },
 "driving_6": {
 "seed": 13,
@@ -1240,14 +1240,14 @@
 "note": ""
 },
 "warden_5": {
-"seed": 11,
-"ok": false,
-"note": "man wearing helmet, not helmet and armband on empty chair"
+"seed": 47,
+"ok": true,
+"note": "rescue1"
 },
 "warden_6": {
-"seed": 11,
-"ok": false,
-"note": "step words painted in every seed"
+"seed": 46,
+"ok": true,
+"note": "rescue1"
 },
 "hairdo_1": {
 "seed": 12,
@@ -1280,9 +1280,9 @@
 "note": ""
 },
 "pebbles_2": {
-"seed": 11,
-"ok": false,
-"note": "step words painted in all"
+"seed": 44,
+"ok": true,
+"note": "rescue1"
 },
 "pebbles_3": {
 "seed": 13,
@@ -1315,9 +1315,9 @@
 "note": ""
 },
 "sunset_3": {
-"seed": 11,
-"ok": false,
-"note": "stray hands/gadgets in front of sunset"
+"seed": 42,
+"ok": true,
+"note": "rescue1"
 },
 "sunset_4": {
 "seed": 13,
@@ -1385,9 +1385,9 @@
 "note": ""
 },
 "winter_1": {
-"seed": 11,
-"ok": false,
-"note": "no boy being measured"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "winter_2": {
 "seed": 12,
@@ -1425,9 +1425,9 @@
 "note": ""
 },
 "snowball_3": {
-"seed": 11,
-"ok": false,
-"note": "odd men lying in fort / stone wall with door"
+"seed": 46,
+"ok": true,
+"note": "rescue1"
 },
 "snowball_4": {
 "seed": 12,
@@ -1445,9 +1445,9 @@
 "note": ""
 },
 "stars_2": {
-"seed": 11,
-"ok": false,
-"note": "step words in sky, stray hands, no big dipper"
+"seed": 44,
+"ok": true,
+"note": "rescue1"
 },
 "stars_3": {
 "seed": 12,
@@ -1600,9 +1600,9 @@
 "note": ""
 },
 "relief_5": {
-"seed": 11,
-"ok": false,
-"note": "step words on bag"
+"seed": 43,
+"ok": true,
+"note": "rescue1"
 },
 "photo_1": {
 "seed": 12,
@@ -1615,9 +1615,9 @@
 "note": ""
 },
 "photo_3": {
-"seed": 11,
-"ok": false,
-"note": "modern DSLR camera on aluminum tripod"
+"seed": 42,
+"ok": true,
+"note": "rescue1"
 },
 "photo_4": {
 "seed": 12,
@@ -1630,9 +1630,9 @@
 "note": ""
 },
 "photo_6": {
-"seed": 11,
-"ok": false,
-"note": "writing on cards in all"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "homemaker_1": {
 "seed": 12,
