@@ -12,7 +12,7 @@
 "toaster_3": {
 "seed": 12,
 "ok": false,
-"note": "verify: stray hands in object picture"
+"note": "rescue5 failed: stray hands"
 },
 "toaster_4": {
 "seed": 13,
@@ -27,7 +27,7 @@
 "toaster_6": {
 "seed": 13,
 "ok": false,
-"note": "verify: no pie on the table"
+"note": "rescue5 failed: soda cans and newspapers on table"
 },
 "helper_1": {
 "seed": 13,
@@ -50,9 +50,9 @@
 "note": ""
 },
 "helper_5": {
-"seed": 11,
-"ok": false,
-"note": "verify: garbled encyclopedia lettering"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "butter_1": {
 "seed": 11,
@@ -70,9 +70,9 @@
 "note": ""
 },
 "butter_4": {
-"seed": 14,
-"ok": false,
-"note": "verify: no rolling pin"
+"seed": 127,
+"ok": true,
+"note": "rescue5"
 },
 "butter_5": {
 "seed": 12,
@@ -85,14 +85,14 @@
 "note": ""
 },
 "phone_1": {
-"seed": 12,
-"ok": false,
-"note": "verify: receiver held oddly, mouthpiece missing"
+"seed": 121,
+"ok": true,
+"note": "rescue5"
 },
 "phone_2": {
-"seed": 12,
-"ok": false,
-"note": "verify: telephone has two receivers"
+"seed": 121,
+"ok": true,
+"note": "rescue5"
 },
 "phone_3": {
 "seed": 12,
@@ -105,14 +105,14 @@
 "note": ""
 },
 "phone_5": {
-"seed": 12,
-"ok": false,
-"note": "verify: two receivers"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "tvwatch_1": {
-"seed": 12,
-"ok": false,
-"note": "verify: poking the screen with a stick, not turning the knob"
+"seed": 124,
+"ok": true,
+"note": "rescue5"
 },
 "tvwatch_2": {
 "seed": 14,
@@ -135,9 +135,9 @@
 "note": ""
 },
 "tvwatch_6": {
-"seed": 12,
-"ok": false,
-"note": "verify: not in pajamas"
+"seed": 124,
+"ok": true,
+"note": "rescue5"
 },
 "typer_1": {
 "seed": 12,
@@ -147,7 +147,7 @@
 "typer_2": {
 "seed": 12,
 "ok": false,
-"note": "verify: hands still on the paper, not pulled back"
+"note": "rescue5 failed: hands still on keys, not pulled back"
 },
 "typer_3": {
 "seed": 42,
@@ -157,7 +157,7 @@
 "typer_4": {
 "seed": 12,
 "ok": false,
-"note": "verify: garbled typed text"
+"note": "rescue5 failed: garbled print on papers"
 },
 "typer_5": {
 "seed": 44,
@@ -170,24 +170,24 @@
 "note": ""
 },
 "thermostat_2": {
-"seed": 11,
-"ok": false,
-"note": "verify: thermostat looks like a clock with jumbled numbers"
+"seed": 124,
+"ok": true,
+"note": "rescue5"
 },
 "thermostat_3": {
-"seed": 13,
-"ok": false,
-"note": "verify: thermostat looks like a clock with garbled numbers"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "thermostat_4": {
 "seed": 12,
 "ok": false,
-"note": "verify: no blanket wrapped around him"
+"note": "rescue5 failed: not wrapped in a blanket"
 },
 "thermostat_5": {
 "seed": 13,
 "ok": false,
-"note": "verify: thermostat looks like a wall clock"
+"note": "rescue5 failed: modern digital thermostat"
 },
 "thermostat_6": {
 "seed": 41,
@@ -202,7 +202,7 @@
 "slippers_2": {
 "seed": 12,
 "ok": false,
-"note": "verify: stray hand in object picture"
+"note": "rescue5 failed: stray hands"
 },
 "slippers_3": {
 "seed": 12,
@@ -215,24 +215,24 @@
 "note": ""
 },
 "slippers_5": {
-"seed": 13,
-"ok": false,
-"note": "verify: garbled book title"
+"seed": 122,
+"ok": true,
+"note": "rescue5"
 },
 "recipe_1": {
 "seed": 11,
 "ok": false,
-"note": "verify: garbled recipe card text"
+"note": "rescue5 failed: garbled print on the card"
 },
 "recipe_2": {
-"seed": 12,
-"ok": false,
-"note": "verify: garbled printing on card"
+"seed": 127,
+"ok": true,
+"note": "rescue5"
 },
 "recipe_3": {
 "seed": 12,
 "ok": false,
-"note": "verify: stray hands in object picture"
+"note": "rescue5 failed: stray hands"
 },
 "recipe_4": {
 "seed": 11,
@@ -252,7 +252,7 @@
 "door_1": {
 "seed": 11,
 "ok": false,
-"note": "verify: one bag hangs from nowhere"
+"note": "rescue5 failed: modern plastic bags not brown paper sacks"
 },
 "door_2": {
 "seed": 11,
@@ -280,9 +280,9 @@
 "note": ""
 },
 "lights_2": {
-"seed": 13,
-"ok": false,
-"note": "verify: looks like screaming, not yawning"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "lights_3": {
 "seed": 11,
@@ -322,12 +322,12 @@
 "diet_4": {
 "seed": 11,
 "ok": false,
-"note": "verify: garbled handwriting on note"
+"note": "rescue5 failed: handwriting on the note"
 },
 "diet_5": {
 "seed": 11,
 "ok": false,
-"note": "verify: two people's hands in object picture"
+"note": "rescue5 failed: stray hands, slice not thin"
 },
 "laundry_1": {
 "seed": 11,
@@ -355,24 +355,24 @@
 "note": ""
 },
 "laundry_6": {
-"seed": 11,
-"ok": false,
-"note": "verify: garbled newspaper text"
+"seed": 125,
+"ok": true,
+"note": "rescue5"
 },
 "askbrain_1": {
-"seed": 11,
-"ok": false,
-"note": "verify: garbled writing on card"
+"seed": 121,
+"ok": true,
+"note": "rescue5"
 },
 "askbrain_2": {
 "seed": 13,
 "ok": false,
-"note": "verify: garbled magazine cover text"
+"note": "rescue5 failed: garbled magazine cover"
 },
 "askbrain_3": {
 "seed": 11,
 "ok": false,
-"note": "verify: garbled card text"
+"note": "rescue5 failed: modern screens and keyboard"
 },
 "askbrain_4": {
 "seed": 11,
@@ -395,14 +395,14 @@
 "note": ""
 },
 "please_3": {
-"seed": 13,
-"ok": false,
-"note": "verify: skull-faced chrome robot; make robot friendly rounded chrome head with round glass eyes"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "please_4": {
 "seed": 11,
 "ok": false,
-"note": "verify: garbled handwriting on card"
+"note": "rescue5 failed: handwriting on card"
 },
 "please_5": {
 "seed": 12,
@@ -442,12 +442,12 @@
 "loveletter_1": {
 "seed": 11,
 "ok": false,
-"note": "verify: skull-like robot head; make robot friendly rounded chrome head with round glass eyes"
+"note": "rescue5 failed: not a typewriter robot, papers garbled"
 },
 "loveletter_2": {
-"seed": 12,
-"ok": false,
-"note": "verify: garbled typed text"
+"seed": 123,
+"ok": true,
+"note": "rescue5"
 },
 "loveletter_3": {
 "seed": 12,
@@ -455,9 +455,9 @@
 "note": ""
 },
 "loveletter_4": {
-"seed": 12,
-"ok": false,
-"note": "verify: garbled handwriting on pink paper; keep paper blank, pen just touching it"
+"seed": 123,
+"ok": true,
+"note": "rescue5"
 },
 "loveletter_5": {
 "seed": 11,
@@ -465,9 +465,9 @@
 "note": ""
 },
 "loveletter_6": {
-"seed": 13,
-"ok": false,
-"note": "verify: ghostly extra arm reaching from the lamp; one man only, both his hands on the envelope"
+"seed": 122,
+"ok": true,
+"note": "rescue5"
 },
 "homework_1": {
 "seed": 12,
@@ -517,22 +517,22 @@
 "poems_5": {
 "seed": 13,
 "ok": false,
-"note": "verify: garbled letters in crossword grid; blank empty grid squares only"
+"note": "rescue5 failed: stray hands, garbled print"
 },
 "poems_6": {
-"seed": 42,
-"ok": false,
-"note": "verify: extra third hand under the frame; exactly two hands holding the frame sides"
+"seed": 121,
+"ok": true,
+"note": "rescue5"
 },
 "vacation_1": {
-"seed": 12,
-"ok": false,
-"note": "verify: garbled print on paper strip; plain blank paper strip"
+"seed": 122,
+"ok": true,
+"note": "rescue5"
 },
 "vacation_2": {
-"seed": 12,
-"ok": false,
-"note": "verify: garbled lettering on map; map with coloured roads and no lettering"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "vacation_3": {
 "seed": 12,
@@ -540,14 +540,14 @@
 "note": ""
 },
 "vacation_4": {
-"seed": 11,
-"ok": false,
-"note": "verify: car is a small sedan not a station wagon; long 1950s wood-panelled station wagon with suitcases on roof rack"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "vacation_5": {
-"seed": 13,
-"ok": false,
-"note": "verify: modern 1990s car; long 1950s wood-panelled station wagon, chrome bumpers, no licence plate"
+"seed": 121,
+"ok": true,
+"note": "rescue5"
 },
 "car_1": {
 "seed": 12,
@@ -575,9 +575,9 @@
 "note": ""
 },
 "car_6": {
-"seed": 14,
-"ok": false,
-"note": "verify: words written on postcard; postcard shows a painted cactus picture and blank writing side"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "checkout_1": {
 "seed": 13,
@@ -635,9 +635,9 @@
 "note": ""
 },
 "barber_1": {
-"seed": 14,
-"ok": false,
-"note": "verify: odd dark-coloured pointing hand; both hands same skin, both holding the photo edges"
+"seed": 121,
+"ok": true,
+"note": "rescue5"
 },
 "barber_2": {
 "seed": 12,
@@ -647,12 +647,12 @@
 "barber_3": {
 "seed": 14,
 "ok": false,
-"note": "verify: no barber cape shown; white barber cape covering him to the neck"
+"note": "rescue5 failed: magnifying glass not mirror, no cape"
 },
 "barber_4": {
-"seed": 13,
-"ok": false,
-"note": "verify: scissors float on a stick not held by robot; robot's chrome hand clearly holding the scissors"
+"seed": 125,
+"ok": true,
+"note": "rescue5"
 },
 "barber_5": {
 "seed": 12,
@@ -665,14 +665,14 @@
 "note": ""
 },
 "meter_2": {
-"seed": 12,
-"ok": false,
-"note": "verify: garbled lettering on meter"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "meter_3": {
-"seed": 12,
-"ok": false,
-"note": "verify: garbled lettering on meter"
+"seed": 128,
+"ok": true,
+"note": "rescue5"
 },
 "meter_4": {
 "seed": 14,
@@ -680,9 +680,9 @@
 "note": ""
 },
 "meter_5": {
-"seed": 13,
-"ok": false,
-"note": "verify: garbled lettering on meter"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "meter_6": {
 "seed": 13,
@@ -710,9 +710,9 @@
 "note": ""
 },
 "bank_5": {
-"seed": 11,
-"ok": false,
-"note": "verify: garbled passbook text"
+"seed": 123,
+"ok": true,
+"note": "rescue5"
 },
 "map_1": {
 "seed": 11,
@@ -740,9 +740,9 @@
 "note": "rescue1"
 },
 "map_6": {
-"seed": 12,
-"ok": false,
-"note": "verify: both hands on wheel, no knob"
+"seed": 124,
+"ok": true,
+"note": "rescue5"
 },
 "fingers_1": {
 "seed": 14,
@@ -767,7 +767,7 @@
 "fingers_5": {
 "seed": 44,
 "ok": false,
-"note": "verify: tic-tac-toe grid, not tally marks"
+"note": "rescue5 failed: writing instead of tally marks"
 },
 "photo_1": {
 "seed": 11,
@@ -780,9 +780,9 @@
 "note": ""
 },
 "photo_3": {
-"seed": 11,
-"ok": false,
-"note": "verify: garbled album captions"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "photo_4": {
 "seed": 12,
@@ -827,7 +827,7 @@
 "news_1": {
 "seed": 46,
 "ok": false,
-"note": "verify: spoon sticking out of his mouth, garbled paper"
+"note": "rescue5 failed: two grandfathers and garbled newspaper"
 },
 "news_2": {
 "seed": 12,
@@ -835,24 +835,24 @@
 "note": ""
 },
 "news_3": {
-"seed": 41,
-"ok": false,
-"note": "verify: garbled newspaper text"
+"seed": 121,
+"ok": true,
+"note": "rescue5"
 },
 "news_4": {
-"seed": 12,
-"ok": false,
-"note": "verify: garbled newspaper text"
+"seed": 121,
+"ok": true,
+"note": "rescue5"
 },
 "news_5": {
-"seed": 12,
-"ok": false,
-"note": "verify: garbled newspaper, cutting with knife not scissors"
+"seed": 127,
+"ok": true,
+"note": "rescue5"
 },
 "news_6": {
-"seed": 12,
-"ok": false,
-"note": "verify: garbled newspaper text"
+"seed": 121,
+"ok": true,
+"note": "rescue5"
 },
 "dog_1": {
 "seed": 12,
@@ -860,9 +860,9 @@
 "note": ""
 },
 "dog_2": {
-"seed": 13,
-"ok": false,
-"note": "verify: no hand threw the ball, ball floats"
+"seed": 124,
+"ok": true,
+"note": "rescue5"
 },
 "dog_3": {
 "seed": 13,
@@ -880,9 +880,9 @@
 "note": ""
 },
 "portrait_1": {
-"seed": 13,
-"ok": false,
-"note": "verify: garbled note, extra hand"
+"seed": 123,
+"ok": true,
+"note": "rescue5"
 },
 "portrait_2": {
 "seed": 13,
@@ -895,14 +895,14 @@
 "note": ""
 },
 "portrait_4": {
-"seed": 12,
-"ok": false,
-"note": "verify: holding the hammer at the head, no nail"
+"seed": 127,
+"ok": true,
+"note": "rescue5"
 },
 "portrait_5": {
-"seed": 13,
-"ok": false,
-"note": "verify: garbled business card text"
+"seed": 122,
+"ok": true,
+"note": "rescue5"
 },
 "portrait_6": {
 "seed": 13,
@@ -917,27 +917,27 @@
 "babysitter_2": {
 "seed": 11,
 "ok": false,
-"note": "verify: garbled handwriting"
+"note": "rescue5 failed: writing on the notepaper"
 },
 "babysitter_3": {
-"seed": 11,
-"ok": false,
-"note": "verify: modern stove with digital clock"
+"seed": 127,
+"ok": true,
+"note": "rescue5"
 },
 "babysitter_4": {
-"seed": 13,
-"ok": false,
-"note": "verify: kissing on the lips, should be on forehead"
+"seed": 128,
+"ok": true,
+"note": "rescue5"
 },
 "babysitter_5": {
-"seed": 13,
-"ok": false,
-"note": "verify: polka-dot dress, not evening dress"
+"seed": 121,
+"ok": true,
+"note": "rescue5"
 },
 "tutor_1": {
-"seed": 13,
-"ok": false,
-"note": "verify: garbled text in book"
+"seed": 122,
+"ok": true,
+"note": "rescue5"
 },
 "tutor_2": {
 "seed": 13,
@@ -945,9 +945,9 @@
 "note": ""
 },
 "tutor_3": {
-"seed": 12,
-"ok": false,
-"note": "verify: rope not swinging over her, odd hoop"
+"seed": 122,
+"ok": true,
+"note": "rescue5"
 },
 "tutor_4": {
 "seed": 11,
@@ -975,19 +975,19 @@
 "note": ""
 },
 "bedtime_3": {
-"seed": 12,
-"ok": false,
-"note": "verify: adult-sized hands on the boy"
+"seed": 121,
+"ok": true,
+"note": "rescue5"
 },
 "bedtime_4": {
 "seed": 12,
 "ok": false,
-"note": "verify: jumbled clock numerals, two clocks"
+"note": "rescue5 failed: garbled numbers on clock"
 },
 "bedtime_5": {
-"seed": 13,
-"ok": false,
-"note": "verify: garbled storybook title"
+"seed": 121,
+"ok": true,
+"note": "rescue5"
 },
 "cat_1": {
 "seed": 12,
@@ -1010,9 +1010,9 @@
 "note": ""
 },
 "cat_5": {
-"seed": 12,
-"ok": false,
-"note": "verify: modern digital display on vacuum"
+"seed": 121,
+"ok": true,
+"note": "rescue5"
 },
 "cat_6": {
 "seed": 13,
@@ -1047,7 +1047,7 @@
 "ownbrain_1": {
 "seed": 11,
 "ok": false,
-"note": "verify: garbled numbers on paper"
+"note": "rescue5 failed: garbled numbers on the paper"
 },
 "ownbrain_2": {
 "seed": 13,
@@ -1060,19 +1060,19 @@
 "note": ""
 },
 "ownbrain_4": {
-"seed": 14,
-"ok": false,
-"note": "verify: third hand on the board"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "ownbrain_5": {
-"seed": 13,
-"ok": false,
-"note": "verify: extra hand behind birdhouse"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "ownbrain_6": {
-"seed": 11,
-"ok": false,
-"note": "verify: three hands"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "coworker_1": {
 "seed": 13,
@@ -1080,14 +1080,14 @@
 "note": ""
 },
 "coworker_2": {
-"seed": 12,
-"ok": false,
-"note": "verify: three hands"
+"seed": 124,
+"ok": true,
+"note": "rescue5"
 },
 "coworker_3": {
-"seed": 12,
-"ok": false,
-"note": "verify: third hand under the box"
+"seed": 124,
+"ok": true,
+"note": "rescue5"
 },
 "coworker_4": {
 "seed": 12,
@@ -1110,9 +1110,9 @@
 "note": ""
 },
 "replace_3": {
-"seed": 11,
-"ok": false,
-"note": "verify: third hand holding the cup, garbled label"
+"seed": 128,
+"ok": true,
+"note": "rescue5"
 },
 "replace_4": {
 "seed": 42,
@@ -1140,14 +1140,14 @@
 "note": ""
 },
 "typing_3": {
-"seed": 13,
-"ok": false,
-"note": "verify: garbled typed letters"
+"seed": 127,
+"ok": true,
+"note": "rescue5"
 },
 "typing_4": {
-"seed": 12,
-"ok": false,
-"note": "verify: garbled typed text"
+"seed": 123,
+"ok": true,
+"note": "rescue5"
 },
 "typing_5": {
 "seed": 13,
@@ -1160,9 +1160,9 @@
 "note": ""
 },
 "meeting_2": {
-"seed": 12,
-"ok": false,
-"note": "verify: garbled printing on scroll"
+"seed": 123,
+"ok": true,
+"note": "rescue5"
 },
 "meeting_3": {
 "seed": 14,
@@ -1177,7 +1177,7 @@
 "meeting_5": {
 "seed": 12,
 "ok": false,
-"note": "verify: hands on table, not in lap"
+"note": "rescue5 failed: hands on table not in lap"
 },
 "meeting_6": {
 "seed": 12,
@@ -1185,9 +1185,9 @@
 "note": ""
 },
 "raise_1": {
-"seed": 41,
-"ok": false,
-"note": "verify: mirror reflection doesn't match"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "raise_2": {
 "seed": 11,
@@ -1202,12 +1202,12 @@
 "raise_4": {
 "seed": 41,
 "ok": false,
-"note": "verify: garbled text on paper and labels"
+"note": "rescue5 failed: modern screens and labels"
 },
 "raise_5": {
 "seed": 11,
 "ok": false,
-"note": "verify: modern computer screens"
+"note": "rescue5 failed: modern screens and labels"
 },
 "lunch_1": {
 "seed": 41,
@@ -1215,9 +1215,9 @@
 "note": "rescue1"
 },
 "lunch_2": {
-"seed": 11,
-"ok": false,
-"note": "verify: a briefcase, not a lunch pail"
+"seed": 125,
+"ok": true,
+"note": "rescue5"
 },
 "lunch_3": {
 "seed": 12,
@@ -1237,7 +1237,7 @@
 "lunch_6": {
 "seed": 14,
 "ok": false,
-"note": "verify: a second woman walking with her"
+"note": "rescue5 failed: garbled shop signs"
 },
 "report_1": {
 "seed": 12,
@@ -1250,9 +1250,9 @@
 "note": ""
 },
 "report_3": {
-"seed": 12,
-"ok": false,
-"note": "verify: pencil in hand, not behind ear"
+"seed": 124,
+"ok": true,
+"note": "rescue5"
 },
 "report_4": {
 "seed": 13,
@@ -1260,9 +1260,9 @@
 "note": ""
 },
 "report_5": {
-"seed": 11,
-"ok": false,
-"note": "verify: water pouring onto desk, odd glass"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "plug_1": {
 "seed": 14,
@@ -1275,9 +1275,9 @@
 "note": ""
 },
 "plug_3": {
-"seed": 13,
-"ok": false,
-"note": "verify: modern server racks"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "plug_4": {
 "seed": 45,
@@ -1285,19 +1285,19 @@
 "note": "rescue1"
 },
 "plug_5": {
-"seed": 11,
-"ok": false,
-"note": "verify: flashlight jammed into the plug"
+"seed": 123,
+"ok": true,
+"note": "rescue5"
 },
 "plug_6": {
 "seed": 12,
 "ok": false,
-"note": "verify: modern PC tower, not 1950s cabinet"
+"note": "rescue5 failed: modern server rack, palm not knuckles"
 },
 "riddle_1": {
 "seed": 11,
 "ok": false,
-"note": "verify: garbled comic book lettering"
+"note": "rescue5 failed: garbled comic book lettering"
 },
 "riddle_2": {
 "seed": 14,
@@ -1315,9 +1315,9 @@
 "note": ""
 },
 "riddle_5": {
-"seed": 13,
-"ok": false,
-"note": "verify: smoke coming out of his mouth"
+"seed": 124,
+"ok": true,
+"note": "rescue5"
 },
 "paperclip_1": {
 "seed": 12,
@@ -1342,12 +1342,12 @@
 "paperclip_5": {
 "seed": 13,
 "ok": false,
-"note": "verify: modern screens on computer"
+"note": "rescue5 failed: garbled labels on computer"
 },
 "paperclip_6": {
-"seed": 41,
-"ok": false,
-"note": "verify: garbled tape on boxes, not a loading dock"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "hug_1": {
 "seed": 12,
@@ -1355,19 +1355,19 @@
 "note": ""
 },
 "hug_2": {
-"seed": 12,
-"ok": false,
-"note": "verify: creepy human-like robot face, three hands"
+"seed": 125,
+"ok": true,
+"note": "rescue5"
 },
 "hug_3": {
-"seed": 11,
-"ok": false,
-"note": "verify: creepy human-like robot face"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "hug_4": {
-"seed": 13,
-"ok": false,
-"note": "verify: skull-faced robot"
+"seed": 128,
+"ok": true,
+"note": "rescue5"
 },
 "hug_5": {
 "seed": 12,
@@ -1377,17 +1377,17 @@
 "chorus_1": {
 "seed": 61,
 "ok": false,
-"note": "verify: garbled can labels"
+"note": "rescue5 failed: ladle not spatula set down"
 },
 "chorus_2": {
-"seed": 45,
-"ok": false,
-"note": "verify: pot is not a lid, not banging"
+"seed": 128,
+"ok": true,
+"note": "rescue5"
 },
 "chorus_3": {
-"seed": 13,
-"ok": false,
-"note": "verify: garbled lettering on toaster"
+"seed": 128,
+"ok": true,
+"note": "rescue5"
 },
 "chorus_4": {
 "seed": 13,
@@ -1395,9 +1395,9 @@
 "note": ""
 },
 "chorus_5": {
-"seed": 13,
-"ok": false,
-"note": "verify: garbled lettering on mixer"
+"seed": 121,
+"ok": true,
+"note": "rescue5"
 },
 "chorus_6": {
 "seed": 41,
@@ -1427,7 +1427,7 @@
 "cellar_5": {
 "seed": 46,
 "ok": false,
-"note": "verify: dealing into an open chest, not on a crate top"
+"note": "rescue5 failed: two grandfathers"
 },
 "morse_1": {
 "seed": 45,
@@ -1435,9 +1435,9 @@
 "note": "rescue1"
 },
 "morse_2": {
-"seed": 12,
-"ok": false,
-"note": "verify: modern cars outside"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "morse_3": {
 "seed": 11,
@@ -1492,12 +1492,12 @@
 "sunday_2": {
 "seed": 13,
 "ok": false,
-"note": "verify: cozy only half covers toaster, stray hand"
+"note": "rescue5 failed: stray hands, cozy not covering"
 },
 "sunday_3": {
 "seed": 11,
 "ok": false,
-"note": "verify: mashing with her bare hand, no masher"
+"note": "rescue5 failed: hands in the potatoes, no masher"
 },
 "sunday_4": {
 "seed": 13,
@@ -1510,9 +1510,9 @@
 "note": ""
 },
 "sunday_6": {
-"seed": 13,
-"ok": false,
-"note": "verify: third hand on the counter"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "picnic_1": {
 "seed": 13,
@@ -1525,9 +1525,9 @@
 "note": ""
 },
 "picnic_3": {
-"seed": 11,
-"ok": false,
-"note": "verify: robot holds a strange metal stand"
+"seed": 123,
+"ok": true,
+"note": "rescue5"
 },
 "picnic_4": {
 "seed": 12,
@@ -1547,12 +1547,12 @@
 "thanks_2": {
 "seed": 14,
 "ok": false,
-"note": "verify: garbled writing on card"
+"note": "rescue5 failed: printed card text"
 },
 "thanks_3": {
-"seed": 12,
-"ok": false,
-"note": "verify: garbled writing on card"
+"seed": 121,
+"ok": true,
+"note": "rescue5"
 },
 "thanks_4": {
 "seed": 14,
@@ -1565,9 +1565,9 @@
 "note": ""
 },
 "thanks_6": {
-"seed": 13,
-"ok": false,
-"note": "verify: card held up, not propped; stray pie"
+"seed": 121,
+"ok": true,
+"note": "rescue5"
 },
 "party_1": {
 "seed": 12,
@@ -1582,7 +1582,7 @@
 "party_3": {
 "seed": 12,
 "ok": false,
-"note": "verify: sedans, not station wagons; people inside"
+"note": "rescue5 failed: garbled license plates"
 },
 "party_4": {
 "seed": 13,
@@ -1592,7 +1592,7 @@
 "party_5": {
 "seed": 12,
 "ok": false,
-"note": "verify: garbled shop sign"
+"note": "rescue5 failed: garbled shop signs"
 },
 "fish_1": {
 "seed": 13,
@@ -1605,9 +1605,9 @@
 "note": ""
 },
 "fish_3": {
-"seed": 12,
-"ok": false,
-"note": "verify: robot's pole has no line, two poles"
+"seed": 123,
+"ok": true,
+"note": "rescue5"
 },
 "fish_4": {
 "seed": 41,
@@ -1615,9 +1615,9 @@
 "note": "rescue1"
 },
 "fish_5": {
-"seed": 12,
-"ok": false,
-"note": "verify: a bass, not a small sunfish"
+"seed": 126,
+"ok": true,
+"note": "rescue5"
 },
 "fish_6": {
 "seed": 12,
@@ -1627,7 +1627,7 @@
 "goodnight_1": {
 "seed": 13,
 "ok": false,
-"note": "verify: cardigan, not pajamas"
+"note": "rescue5 failed: no pajamas, modern stove"
 },
 "goodnight_2": {
 "seed": 13,
