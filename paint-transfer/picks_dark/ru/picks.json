@@ -10,9 +10,9 @@
 "note": ""
 },
 "toaster_3": {
-"seed": 11,
-"ok": false,
-"note": "hands on mixer; should run by itself"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "toaster_4": {
 "seed": 11,
@@ -30,9 +30,9 @@
 "note": ""
 },
 "frontwalk_1": {
-"seed": 11,
-"ok": false,
-"note": "human face inside the robot's dome"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "frontwalk_2": {
 "seed": 13,
@@ -50,9 +50,9 @@
 "note": ""
 },
 "frontwalk_5": {
-"seed": 11,
-"ok": false,
-"note": "step words on doormat"
+"seed": 45,
+"ok": true,
+"note": "rescue1"
 },
 "tvnews_1": {
 "seed": 12,
@@ -120,14 +120,14 @@
 "note": ""
 },
 "mailman_3": {
-"seed": 11,
-"ok": false,
-"note": "pliers in her hand, no robot claw; duplicate lady"
+"seed": 42,
+"ok": true,
+"note": "rescue1"
 },
 "mailman_4": {
-"seed": 11,
-"ok": false,
-"note": "human face inside the robot's dome"
+"seed": 46,
+"ok": true,
+"note": "rescue1"
 },
 "mailman_5": {
 "seed": 14,
@@ -152,7 +152,7 @@
 "composure_3": {
 "seed": 11,
 "ok": false,
-"note": "whistle looks like a stick/pipe"
+"note": "rescue1 failed: whistle still a stick in all"
 },
 "composure_4": {
 "seed": 12,
@@ -200,14 +200,14 @@
 "note": ""
 },
 "oilpantry_2": {
-"seed": 11,
-"ok": false,
-"note": "step words on cans"
+"seed": 45,
+"ok": true,
+"note": "rescue1"
 },
 "oilpantry_3": {
-"seed": 11,
-"ok": false,
-"note": "garbled label writing"
+"seed": 43,
+"ok": true,
+"note": "rescue1"
 },
 "oilpantry_4": {
 "seed": 12,
@@ -255,14 +255,14 @@
 "note": ""
 },
 "vacuum_2": {
-"seed": 11,
-"ok": false,
-"note": "plain vacuum, not the copper robot with goggle eyes"
+"seed": 47,
+"ok": true,
+"note": "rescue1"
 },
 "vacuum_3": {
 "seed": 11,
 "ok": false,
-"note": "modern front-load washers"
+"note": "rescue1 failed: modern washers in all"
 },
 "vacuum_4": {
 "seed": 11,
@@ -270,9 +270,9 @@
 "note": ""
 },
 "vacuum_5": {
-"seed": 11,
-"ok": false,
-"note": "step words on vacuum"
+"seed": 44,
+"ok": true,
+"note": "rescue1"
 },
 "thermostat_1": {
 "seed": 14,
@@ -280,9 +280,9 @@
 "note": ""
 },
 "thermostat_2": {
-"seed": 11,
-"ok": false,
-"note": "human face inside the robot's dome"
+"seed": 45,
+"ok": true,
+"note": "rescue1"
 },
 "thermostat_3": {
 "seed": 12,
@@ -332,7 +332,7 @@
 "lawnmower_1": {
 "seed": 11,
 "ok": false,
-"note": "modern riding mower with seat"
+"note": "rescue1 failed: tractor-like engine mower in all"
 },
 "lawnmower_2": {
 "seed": 12,
@@ -360,9 +360,9 @@
 "note": ""
 },
 "charging_1": {
-"seed": 11,
-"ok": false,
-"note": "step words on sign"
+"seed": 42,
+"ok": true,
+"note": "rescue1"
 },
 "charging_2": {
 "seed": 13,
@@ -385,19 +385,19 @@
 "note": ""
 },
 "address_1": {
-"seed": 11,
-"ok": false,
-"note": "garbled name plate text"
+"seed": 43,
+"ok": true,
+"note": "rescue1"
 },
 "address_2": {
-"seed": 11,
-"ok": false,
-"note": "big magazine-title text across top"
+"seed": 44,
+"ok": true,
+"note": "rescue1"
 },
 "address_3": {
-"seed": 11,
-"ok": false,
-"note": "step words on card"
+"seed": 44,
+"ok": true,
+"note": "rescue1"
 },
 "address_4": {
 "seed": 11,
@@ -450,9 +450,9 @@
 "note": ""
 },
 "curtsy_3": {
-"seed": 11,
-"ok": false,
-"note": "girl reaching, not curtsying"
+"seed": 43,
+"ok": true,
+"note": "rescue1"
 },
 "curtsy_4": {
 "seed": 13,
@@ -475,9 +475,9 @@
 "note": ""
 },
 "callingcard_2": {
-"seed": 11,
-"ok": false,
-"note": "step words on card / duplicate lady"
+"seed": 47,
+"ok": true,
+"note": "rescue1"
 },
 "callingcard_3": {
 "seed": 11,
@@ -485,9 +485,9 @@
 "note": ""
 },
 "callingcard_4": {
-"seed": 11,
-"ok": false,
-"note": "step words on card"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "callingcard_5": {
 "seed": 14,
@@ -505,9 +505,9 @@
 "note": ""
 },
 "pincer_3": {
-"seed": 11,
-"ok": false,
-"note": "two men, no robot"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "pincer_4": {
 "seed": 12,
@@ -565,14 +565,14 @@
 "note": ""
 },
 "bow_4": {
-"seed": 11,
-"ok": false,
-"note": "modern keyboards/screens; not bowing deeply"
+"seed": 44,
+"ok": true,
+"note": "rescue1"
 },
 "bow_5": {
-"seed": 11,
-"ok": false,
-"note": "modern screens, stray hands"
+"seed": 45,
+"ok": true,
+"note": "rescue1"
 },
 "bow_6": {
 "seed": 12,
@@ -590,9 +590,9 @@
 "note": ""
 },
 "seating_3": {
-"seed": 11,
-"ok": false,
-"note": "garbled place card writing"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "seating_4": {
 "seed": 13,
@@ -605,9 +605,9 @@
 "note": ""
 },
 "menu_1": {
-"seed": 11,
-"ok": false,
-"note": "real roses not radish roses; stray hands"
+"seed": 48,
+"ok": true,
+"note": "rescue1"
 },
 "menu_2": {
 "seed": 11,
@@ -675,9 +675,9 @@
 "note": ""
 },
 "silver_4": {
-"seed": 11,
-"ok": false,
-"note": "skull-faced scary robots"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "silver_5": {
 "seed": 11,
@@ -685,9 +685,9 @@
 "note": ""
 },
 "silver_6": {
-"seed": 11,
-"ok": false,
-"note": "step words on robot chest; human faces"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "spill_1": {
 "seed": 14,
@@ -700,9 +700,9 @@
 "note": ""
 },
 "spill_3": {
-"seed": 11,
-"ok": false,
-"note": "stray hands and magazine"
+"seed": 42,
+"ok": true,
+"note": "rescue1"
 },
 "spill_4": {
 "seed": 12,
@@ -710,9 +710,9 @@
 "note": ""
 },
 "spill_5": {
-"seed": 11,
-"ok": false,
-"note": "towel on top of table, not passed under"
+"seed": 43,
+"ok": true,
+"note": "rescue1"
 },
 "chef_1": {
 "seed": 14,
@@ -800,9 +800,9 @@
 "note": ""
 },
 "thankyou_1": {
-"seed": 11,
-"ok": false,
-"note": "garbled writing on note"
+"seed": 42,
+"ok": true,
+"note": "rescue1"
 },
 "thankyou_2": {
 "seed": 13,
@@ -855,9 +855,9 @@
 "note": ""
 },
 "beep_1": {
-"seed": 11,
-"ok": false,
-"note": "step words on book cover"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "beep_2": {
 "seed": 12,
@@ -865,9 +865,9 @@
 "note": ""
 },
 "beep_3": {
-"seed": 11,
-"ok": false,
-"note": "tube flute, not a round pitch pipe"
+"seed": 44,
+"ok": true,
+"note": "rescue1"
 },
 "beep_4": {
 "seed": 14,
@@ -890,14 +890,14 @@
 "note": ""
 },
 "finish_3": {
-"seed": 11,
-"ok": false,
-"note": "human faces/hands; robot looks like armor on a man"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "finish_4": {
-"seed": 11,
-"ok": false,
-"note": "garbled label text; stray hands"
+"seed": 45,
+"ok": true,
+"note": "rescue1"
 },
 "finish_5": {
 "seed": 11,
@@ -915,9 +915,9 @@
 "note": ""
 },
 "disagree_2": {
-"seed": 11,
-"ok": false,
-"note": "step words on slide rule"
+"seed": 43,
+"ok": true,
+"note": "rescue1"
 },
 "disagree_3": {
 "seed": 12,
@@ -940,9 +940,9 @@
 "note": ""
 },
 "nanny_2": {
-"seed": 11,
-"ok": false,
-"note": "human face inside the robot's dome"
+"seed": 43,
+"ok": true,
+"note": "rescue1"
 },
 "nanny_3": {
 "seed": 12,
@@ -952,7 +952,7 @@
 "nanny_4": {
 "seed": 11,
 "ok": false,
-"note": "human face in dome; chess not checkers"
+"note": "rescue1 failed: chess board instead of checkers"
 },
 "nanny_5": {
 "seed": 12,
@@ -1122,7 +1122,7 @@
 "grocery_5": {
 "seed": 11,
 "ok": false,
-"note": "step words on bags; modern POS screens"
+"note": "rescue1 failed: registers have screens"
 },
 "grocery_6": {
 "seed": 12,
@@ -1150,19 +1150,19 @@
 "note": ""
 },
 "bus_5": {
-"seed": 11,
-"ok": false,
-"note": "no bus or strap visible, dark void"
+"seed": 45,
+"ok": true,
+"note": "rescue1"
 },
 "office_1": {
-"seed": 11,
-"ok": false,
-"note": "modern keypad, no timecard; duplicate men"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "office_2": {
-"seed": 11,
-"ok": false,
-"note": "writing, not straightening pencils"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "office_3": {
 "seed": 12,
@@ -1190,19 +1190,19 @@
 "note": ""
 },
 "salon_2": {
-"seed": 11,
-"ok": false,
-"note": "handheld modern dryer, not hood dryer"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "salon_3": {
-"seed": 11,
-"ok": false,
-"note": "helmet hat, no hood dryer"
+"seed": 43,
+"ok": true,
+"note": "rescue1"
 },
 "salon_4": {
-"seed": 11,
-"ok": false,
-"note": "step words on magazine; handheld dryer"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "salon_5": {
 "seed": 14,
@@ -1230,9 +1230,9 @@
 "note": ""
 },
 "choir_5": {
-"seed": 11,
-"ok": false,
-"note": "no robot, only a detached brass hand"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "choir_6": {
 "seed": 12,
@@ -1280,9 +1280,9 @@
 "note": ""
 },
 "bank_4": {
-"seed": 11,
-"ok": false,
-"note": "money not bankbook; garbled cover"
+"seed": 43,
+"ok": true,
+"note": "rescue1"
 },
 "bank_5": {
 "seed": 14,
@@ -1295,9 +1295,9 @@
 "note": ""
 },
 "surrender_1": {
-"seed": 11,
-"ok": false,
-"note": "modern steam irons"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "surrender_2": {
 "seed": 13,
@@ -1315,9 +1315,9 @@
 "note": ""
 },
 "surrender_5": {
-"seed": 11,
-"ok": false,
-"note": "skull-faced scary robot"
+"seed": 42,
+"ok": true,
+"note": "rescue1"
 },
 "scanned_1": {
 "seed": 11,
@@ -1365,9 +1365,9 @@
 "note": ""
 },
 "shortcircuit_4": {
-"seed": 11,
-"ok": false,
-"note": "human face inside the robot's dome"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "shortcircuit_5": {
 "seed": 12,
@@ -1390,9 +1390,9 @@
 "note": ""
 },
 "giant_4": {
-"seed": 11,
-"ok": false,
-"note": "not on the ladder; robot not giant"
+"seed": 42,
+"ok": true,
+"note": "rescue1"
 },
 "giant_5": {
 "seed": 12,
@@ -1405,9 +1405,9 @@
 "note": ""
 },
 "supreme_1": {
-"seed": 11,
-"ok": false,
-"note": "step words on card"
+"seed": 42,
+"ok": true,
+"note": "rescue1"
 },
 "supreme_2": {
 "seed": 11,
@@ -1432,12 +1432,12 @@
 "revolt_1": {
 "seed": 11,
 "ok": false,
-"note": "modern microwaves and stainless kitchen"
+"note": "rescue1 failed: appliances not turned to wall"
 },
 "revolt_2": {
-"seed": 11,
-"ok": false,
-"note": "step words painted in all"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "revolt_3": {
 "seed": 11,
@@ -1450,9 +1450,9 @@
 "note": ""
 },
 "revolt_5": {
-"seed": 11,
-"ok": false,
-"note": "duplicate lady shaking her own hand"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "revolt_6": {
 "seed": 12,
@@ -1500,9 +1500,9 @@
 "note": ""
 },
 "blockparty_4": {
-"seed": 11,
-"ok": false,
-"note": "human face in dome / not hanging lanterns"
+"seed": 42,
+"ok": true,
+"note": "rescue1"
 },
 "blockparty_5": {
 "seed": 14,
@@ -1517,17 +1517,17 @@
 "foxtrot_1": {
 "seed": 11,
 "ok": false,
-"note": "step words caption in all"
+"note": "rescue1 failed: robot not bowing"
 },
 "foxtrot_2": {
-"seed": 11,
-"ok": false,
-"note": "skull-faced menacing robot"
+"seed": 46,
+"ok": true,
+"note": "rescue1"
 },
 "foxtrot_3": {
-"seed": 11,
-"ok": false,
-"note": "skull-faced menacing robot"
+"seed": 42,
+"ok": true,
+"note": "rescue1"
 },
 "foxtrot_4": {
 "seed": 12,
@@ -1595,9 +1595,9 @@
 "note": ""
 },
 "penpal_1": {
-"seed": 11,
-"ok": false,
-"note": "step words on letter in all"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "penpal_2": {
 "seed": 12,
@@ -1630,9 +1630,9 @@
 "note": ""
 },
 "friendship_2": {
-"seed": 11,
-"ok": false,
-"note": "skull-faced menacing robot"
+"seed": 41,
+"ok": true,
+"note": "rescue1"
 },
 "friendship_3": {
 "seed": 11,
@@ -1640,9 +1640,9 @@
 "note": ""
 },
 "friendship_4": {
-"seed": 11,
-"ok": false,
-"note": "skull-faced menacing robot"
+"seed": 42,
+"ok": true,
+"note": "rescue1"
 },
 "friendship_5": {
 "seed": 11,
