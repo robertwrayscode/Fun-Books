@@ -1,0 +1,1652 @@
+{
+ "davenport_1": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "davenport_2": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "davenport_3": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "davenport_4": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "davenport_5": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "davenport_6": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "packing_1": {
+  "seed": 11,
+  "ok": false,
+  "note": "disembodied hands coming out of suitcase"
+ },
+ "packing_2": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "packing_3": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "packing_4": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "packing_5": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "dials_1": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "dials_2": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "dials_3": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "dials_4": {
+  "seed": 11,
+  "ok": false,
+  "note": "caption words written on notepad"
+ },
+ "dials_5": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "dials_6": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "milkman_1": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "milkman_2": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "milkman_3": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "milkman_4": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "milkman_5": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "snacks_1": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "snacks_2": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "snacks_3": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "snacks_4": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "snacks_5": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "snacks_6": {
+  "seed": 11,
+  "ok": false,
+  "note": "words painted on basket and tin labels"
+ },
+ "dog_1": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "dog_2": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "dog_3": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "dog_4": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "dog_5": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "goodbye_1": {
+  "seed": 11,
+  "ok": false,
+  "note": "modern stoves with digital displays"
+ },
+ "goodbye_2": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "goodbye_3": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "goodbye_4": {
+  "seed": 14,
+  "ok": true,
+  "note": ""
+ },
+ "goodbye_5": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "goodbye_6": {
+  "seed": 14,
+  "ok": true,
+  "note": ""
+ },
+ "landing_1": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "landing_2": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "landing_3": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "landing_4": {
+  "seed": 14,
+  "ok": true,
+  "note": ""
+ },
+ "landing_5": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "ave_1": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "ave_2": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "ave_3": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "ave_4": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "ave_5": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "ave_6": {
+  "seed": 14,
+  "ok": true,
+  "note": ""
+ },
+ "curtsy_1": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "curtsy_2": {
+  "seed": 14,
+  "ok": true,
+  "note": ""
+ },
+ "curtsy_3": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "curtsy_4": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "curtsy_5": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "bow_1": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "bow_2": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "bow_3": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "bow_4": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "bow_5": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "bow_6": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "caveman_1": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "caveman_2": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "caveman_3": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "caveman_4": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "caveman_5": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "locals_1": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "locals_2": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "locals_3": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "locals_4": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "locals_5": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "locals_6": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "gift_1": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "gift_2": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "gift_3": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "gift_4": {
+  "seed": 14,
+  "ok": true,
+  "note": ""
+ },
+ "gift_5": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "reclining_1": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "reclining_2": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "reclining_3": {
+  "seed": 14,
+  "ok": true,
+  "note": ""
+ },
+ "reclining_4": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "reclining_5": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "reclining_6": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "feast_1": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "feast_2": {
+  "seed": 14,
+  "ok": true,
+  "note": ""
+ },
+ "feast_3": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "feast_4": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "feast_5": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "tea_1": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "tea_2": {
+  "seed": 11,
+  "ok": false,
+  "note": "misshapen fingers on cup in all"
+ },
+ "tea_3": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "tea_4": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "tea_5": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "tea_6": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "chuckwagon_1": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "chuckwagon_2": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "chuckwagon_3": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "chuckwagon_4": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "chuckwagon_5": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "mammoth_1": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "mammoth_2": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "mammoth_3": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "mammoth_4": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "mammoth_5": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "mammoth_6": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "skol_1": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "skol_2": {
+  "seed": 14,
+  "ok": true,
+  "note": ""
+ },
+ "skol_3": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "skol_4": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "skol_5": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "dishes_1": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "dishes_2": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "dishes_3": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "dishes_4": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "dishes_5": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "dishes_6": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "toga_1": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "toga_2": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "toga_3": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "toga_4": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "toga_5": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "armor_1": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "armor_2": {
+  "seed": 11,
+  "ok": false,
+  "note": "modern puffer jacket not padded gambeson"
+ },
+ "armor_3": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "armor_4": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "armor_5": {
+  "seed": 11,
+  "ok": false,
+  "note": "wearing one helmet and holding a second"
+ },
+ "armor_6": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "bustle_1": {
+  "seed": 11,
+  "ok": false,
+  "note": "round globe cage not bell-shaped hoop skirt"
+ },
+ "bustle_2": {
+  "seed": 14,
+  "ok": true,
+  "note": ""
+ },
+ "bustle_3": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "bustle_4": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "bustle_5": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "stetson_1": {
+  "seed": 11,
+  "ok": false,
+  "note": "garbled store sign text"
+ },
+ "stetson_2": {
+  "seed": 11,
+  "ok": false,
+  "note": "hat on a man, not on the counter"
+ },
+ "stetson_3": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "stetson_4": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "stetson_5": {
+  "seed": 14,
+  "ok": true,
+  "note": ""
+ },
+ "stetson_6": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "wig_1": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "wig_2": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "wig_3": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "wig_4": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "wig_5": {
+  "seed": 11,
+  "ok": false,
+  "note": "praying hands and cowboy hat, not bowing in tricorn"
+ },
+ "furs_1": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "furs_2": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "furs_3": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "furs_4": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "furs_5": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "furs_6": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "spare_1": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "spare_2": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "spare_3": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "spare_4": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "spare_5": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "spoilers_1": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "spoilers_2": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "spoilers_3": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "spoilers_4": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "spoilers_5": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "spoilers_6": {
+  "seed": 14,
+  "ok": true,
+  "note": ""
+ },
+ "coins_1": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "coins_2": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "coins_3": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "coins_4": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "coins_5": {
+  "seed": 11,
+  "ok": false,
+  "note": "caption words painted on counter"
+ },
+ "market_1": {
+  "seed": 14,
+  "ok": true,
+  "note": ""
+ },
+ "market_2": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "market_3": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "market_4": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "market_5": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "market_6": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "watch_1": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "watch_2": {
+  "seed": 11,
+  "ok": false,
+  "note": "adult man's wrist, not a boy's"
+ },
+ "watch_3": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "watch_4": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "watch_5": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "quill_1": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "quill_2": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "quill_3": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "quill_4": {
+  "seed": 11,
+  "ok": false,
+  "note": "no blotter, ink blots and pen instead"
+ },
+ "quill_5": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "quill_6": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "pyramid_1": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "pyramid_2": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "pyramid_3": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "pyramid_4": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "pyramid_5": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "latin_1": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "latin_2": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "latin_3": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "latin_4": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "latin_5": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "latin_6": {
+  "seed": 11,
+  "ok": false,
+  "note": "Roman senator wearing a wristwatch in all"
+ },
+ "butterfly_1": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "butterfly_2": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "butterfly_3": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "butterfly_4": {
+  "seed": 11,
+  "ok": false,
+  "note": "words STAY ON painted on the path"
+ },
+ "butterfly_5": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "yourself_1": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "yourself_2": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "yourself_3": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "yourself_4": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "yourself_5": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "yourself_6": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "tidy_1": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "tidy_2": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "tidy_3": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "tidy_4": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "tidy_5": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "lock_1": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "lock_2": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "lock_3": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "lock_4": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "lock_5": {
+  "seed": 11,
+  "ok": false,
+  "note": "words painted on the sign"
+ },
+ "lock_6": {
+  "seed": 11,
+  "ok": false,
+  "note": "caption words painted, goat not on cover"
+ },
+ "invent_1": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "invent_2": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "invent_3": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "invent_4": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "invent_5": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "photos_1": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "photos_2": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "photos_3": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "photos_4": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "photos_5": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "photos_6": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "flyingcar_1": {
+  "seed": 11,
+  "ok": false,
+  "note": "ordinary cars, no bubble canopy"
+ },
+ "flyingcar_2": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "flyingcar_3": {
+  "seed": 11,
+  "ok": false,
+  "note": "words painted on buckle"
+ },
+ "flyingcar_4": {
+  "seed": 14,
+  "ok": true,
+  "note": ""
+ },
+ "flyingcar_5": {
+  "seed": 11,
+  "ok": false,
+  "note": "planes not cars, floating hands"
+ },
+ "robot_1": {
+  "seed": 11,
+  "ok": false,
+  "note": "robot face skull-like, scary"
+ },
+ "robot_2": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "robot_3": {
+  "seed": 11,
+  "ok": false,
+  "note": "robot with human or skull face"
+ },
+ "robot_4": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "robot_5": {
+  "seed": 11,
+  "ok": false,
+  "note": "robot has grinning skull face"
+ },
+ "robot_6": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "pills_1": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "pills_2": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "pills_3": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "pills_4": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "pills_5": {
+  "seed": 11,
+  "ok": false,
+  "note": "robot has human face, not bowing"
+ },
+ "sidewalk_1": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "sidewalk_2": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "sidewalk_3": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "sidewalk_4": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "sidewalk_5": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "sidewalk_6": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "videophone_1": {
+  "seed": 14,
+  "ok": true,
+  "note": ""
+ },
+ "videophone_2": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "videophone_3": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "videophone_4": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "videophone_5": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "jumpsuit_1": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "jumpsuit_2": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "jumpsuit_3": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "jumpsuit_4": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "jumpsuit_5": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "jumpsuit_6": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "supermarket_1": {
+  "seed": 14,
+  "ok": true,
+  "note": ""
+ },
+ "supermarket_2": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "supermarket_3": {
+  "seed": 11,
+  "ok": false,
+  "note": "readable words on the list"
+ },
+ "supermarket_4": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "supermarket_5": {
+  "seed": 11,
+  "ok": false,
+  "note": "skull-faced or human-faced robot"
+ },
+ "sirknight_1": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "sirknight_2": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "sirknight_3": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "sirknight_4": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "sirknight_5": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "sirknight_6": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "tv_1": {
+  "seed": 11,
+  "ok": false,
+  "note": "senator in a nightshirt, no toga"
+ },
+ "tv_2": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "tv_3": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "tv_4": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "tv_5": {
+  "seed": 14,
+  "ok": true,
+  "note": ""
+ },
+ "mower_1": {
+  "seed": 11,
+  "ok": false,
+  "note": "engine mowers"
+ },
+ "mower_2": {
+  "seed": 11,
+  "ok": false,
+  "note": "engine mowers"
+ },
+ "mower_3": {
+  "seed": 11,
+  "ok": false,
+  "note": "engine mowers"
+ },
+ "mower_4": {
+  "seed": 11,
+  "ok": false,
+  "note": "hat held by a man, not on the fence"
+ },
+ "mower_5": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "mower_6": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "viking_1": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "viking_2": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "viking_3": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "viking_4": {
+  "seed": 11,
+  "ok": false,
+  "note": "glass beer mugs not a pitcher, labels"
+ },
+ "viking_5": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "parlor_1": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "parlor_2": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "parlor_3": {
+  "seed": 11,
+  "ok": false,
+  "note": "handheld hair dryer, not a hood dryer"
+ },
+ "parlor_4": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "parlor_5": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "parlor_6": {
+  "seed": 11,
+  "ok": false,
+  "note": "scarf worn by a woman, not folded on counter"
+ },
+ "sendhome_1": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "sendhome_2": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "sendhome_3": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "sendhome_4": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "sendhome_5": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "homedials_1": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "homedials_2": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "homedials_3": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "homedials_4": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "homedials_5": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "homedials_6": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "newspaper_1": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "newspaper_2": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "newspaper_3": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "newspaper_4": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "newspaper_5": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "unpack_1": {
+  "seed": 14,
+  "ok": true,
+  "note": ""
+ },
+ "unpack_2": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "unpack_3": {
+  "seed": 14,
+  "ok": true,
+  "note": ""
+ },
+ "unpack_4": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "unpack_5": {
+  "seed": 14,
+  "ok": true,
+  "note": ""
+ },
+ "unpack_6": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "neighbors_1": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "neighbors_2": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "neighbors_3": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "neighbors_4": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "neighbors_5": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "thankyou_1": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "thankyou_2": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "thankyou_3": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "thankyou_4": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "thankyou_5": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "thankyou_6": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "album_1": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "album_2": {
+  "seed": 11,
+  "ok": true,
+  "note": ""
+ },
+ "album_3": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ },
+ "album_4": {
+  "seed": 13,
+  "ok": true,
+  "note": ""
+ },
+ "album_5": {
+  "seed": 12,
+  "ok": true,
+  "note": ""
+ }
+}
