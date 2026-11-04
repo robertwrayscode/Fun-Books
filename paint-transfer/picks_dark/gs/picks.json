@@ -26,8 +26,8 @@
 },
 "van_6": {
 "seed": 11,
-"ok": true,
-"note": "Walking past van with briefcase; s13 has two briefcases"
+"ok": false,
+"note": "verify: van has side windows; a plain gray 1950s panel van with blank windowless metal sides"
 },
 "newspaper_1": {
 "seed": 101,
@@ -36,33 +36,33 @@
 },
 "newspaper_2": {
 "seed": 41,
-"ok": true,
-"note": "rescue1: peeking over paper, only small print"
+"ok": false,
+"note": "verify: garbled newspaper print; the newspaper pages are a soft plain gray blur with no readable marks"
 },
 "newspaper_3": {
 "seed": 43,
-"ok": true,
-"note": "rescue1: web touches hat, leaves on shoes; small headline"
+"ok": false,
+"note": "verify: garbled newspaper headline; the newspaper pages are a soft plain gray blur with no readable marks"
 },
 "newspaper_4": {
 "seed": 42,
-"ok": true,
-"note": "rescue1: housewife greets man, small print only"
+"ok": false,
+"note": "verify: garbled newspaper print; the newspaper pages are a soft plain gray blur with no readable marks"
 },
 "newspaper_5": {
 "seed": 64,
-"ok": true,
-"note": "rescue2: She offers paper; he reads rather than peeks"
+"ok": false,
+"note": "verify: garbled newspaper print; both newspapers are a soft plain gray blur with no readable marks"
 },
 "hedgecam_1": {
 "seed": 46,
-"ok": true,
-"note": "rescue1: lens poking from hedge, glint, white house"
+"ok": false,
+"note": "verify: lettering on the lens barrel; a plain smooth black lens barrel with no markings"
 },
 "hedgecam_2": {
 "seed": 41,
-"ok": true,
-"note": "rescue1: hands behind back, nose near lens"
+"ok": false,
+"note": "verify: modern camera with lettering; an old 1950s black box camera with a plain round lens and no markings poking out of the hedge"
 },
 "hedgecam_3": {
 "seed": 104,
@@ -71,8 +71,8 @@
 },
 "hedgecam_4": {
 "seed": 12,
-"ok": true,
-"note": "Trimming hedge with long shears, hands fine"
+"ok": false,
+"note": "verify: one-bladed knife not two-handled shears; long two-bladed hedge shears with two long wooden handles held in both hands"
 },
 "hedgecam_5": {
 "seed": 11,
@@ -106,8 +106,8 @@
 },
 "wave_5": {
 "seed": 11,
-"ok": true,
-"note": "Cupped hands, calling; girl looks younger than ten"
+"ok": false,
+"note": "verify: hands held out, not cupped around her mouth, and looks like a toddler; a ten-year-old girl with both hands cupped around her mouth as she calls out"
 },
 "fedora_1": {
 "seed": 11,
@@ -181,8 +181,8 @@
 },
 "smile_4": {
 "seed": 12,
-"ok": true,
-"note": "Waving at lens in hedge, faint lens markings"
+"ok": false,
+"note": "verify: he holds a modern camera lens in his hand; his free hand at his side, an old 1950s black box camera with a plain round lens poking out of the hedge by itself"
 },
 "smile_5": {
 "seed": 13,
@@ -231,8 +231,8 @@
 },
 "tape_3": {
 "seed": 11,
-"ok": true,
-"note": "On phone with antenna truck behind, clean"
+"ok": false,
+"note": "verify: he stands outdoors on a corded phone with no telephone; indoors at a hallway telephone table with a black rotary telephone, the gray truck seen parked outside through the window behind"
 },
 "tape_4": {
 "seed": 63,
@@ -291,8 +291,8 @@
 },
 "lamp_4": {
 "seed": 64,
-"ok": true,
-"note": "rescue2: Mouth open reading, tiny print only"
+"ok": false,
+"note": "verify: garbled newspaper print; the newspaper pages are a soft plain gray blur with no readable marks"
 },
 "lamp_5": {
 "seed": 11,
@@ -306,13 +306,13 @@
 },
 "shortcall_1": {
 "seed": 11,
-"ok": true,
-"note": "Writing list, fedora man at window; s12 extra man"
+"ok": false,
+"note": "verify: garbled writing on the notepad; the notepad is plain blank, her pencil just touching it"
 },
 "shortcall_2": {
 "seed": 13,
-"ok": true,
-"note": "Hand turning white timer, legible numerals, hand fine"
+"ok": false,
+"note": "verify: numbers on the timer face; a round white 1950s kitchen timer with only plain tick marks and no numbers"
 },
 "shortcall_3": {
 "seed": 13,
@@ -326,8 +326,8 @@
 },
 "shortcall_5": {
 "seed": 14,
-"ok": true,
-"note": "Hanging up wall phone, white timer on counter"
+"ok": false,
+"note": "verify: strange handset with no telephone base and an alarm clock not a timer; she hangs the receiver onto a black 1950s wall-mounted telephone, a round white kitchen timer with only plain tick marks on the counter"
 },
 "lineman_1": {
 "seed": 11,
@@ -366,13 +366,13 @@
 },
 "goodnight_2": {
 "seed": 41,
-"ok": true,
-"note": "rescue1: toy plane with mic and wire, no hands"
+"ok": false,
+"note": "verify: microphone stands on the shelf, not taped under the wing; a tiny silver microphone stuck flat to the underside of the wooden wing with a strip of tape, a thin black wire trailing from it"
 },
 "goodnight_3": {
 "seed": 12,
-"ok": true,
-"note": "Boy toward airplane shelf, agent in hedge behind"
+"ok": false,
+"note": "verify: the agent and hedge are inside the bedroom; the agent in trench coat and fedora is outside, peeking in through the dark bedroom window behind the boy"
 },
 "goodnight_4": {
 "seed": 11,
@@ -386,8 +386,8 @@
 },
 "welcome_1": {
 "seed": 61,
-"ok": true,
-"note": "rescue2: Casserole lifted from white oven with mitts"
+"ok": false,
+"note": "verify: modern oven with digital display and lettering; a cream 1950s enamel stove with plain round knobs and no markings"
 },
 "welcome_2": {
 "seed": 12,
@@ -396,8 +396,8 @@
 },
 "welcome_3": {
 "seed": 11,
-"ok": true,
-"note": "Crossing street with casserole toward antenna truck"
+"ok": false,
+"note": "verify: lettering on the truck license plate and casserole uncovered; plain blank license plate, a glass lid on the casserole"
 },
 "welcome_4": {
 "seed": 42,
@@ -456,8 +456,8 @@
 },
 "ladder_4": {
 "seed": 13,
-"ok": true,
-"note": "G-man stepping up, grandfather holds ladder; rechecked"
+"ok": false,
+"note": "verify: the agent is not on the ladder; the agent stands halfway up a tall wooden stepladder reaching up the telephone pole while the grandfather holds the ladder steady at the bottom with both hands"
 },
 "ladder_5": {
 "seed": 11,
@@ -496,13 +496,13 @@
 },
 "rain_1": {
 "seed": 14,
-"ok": true,
-"note": "Newspaper only fine print; rain bench"
+"ok": false,
+"note": "verify: garbled newspaper print and not hiding behind it; he holds the open newspaper up in front of his face, its pages a soft plain gray blur with no readable marks"
 },
 "rain_2": {
 "seed": 13,
-"ok": true,
-"note": "Umbrella over both; 12 extra people, 14 figure in window"
+"ok": false,
+"note": "verify: garbled newspaper print; the newspaper pages are a soft plain gray blur with no readable marks"
 },
 "rain_3": {
 "seed": 14,
@@ -516,13 +516,13 @@
 },
 "rain_5": {
 "seed": 12,
-"ok": true,
-"note": "Serving soup with spoon, not ladle"
+"ok": false,
+"note": "verify: eating soup with a spoon, not ladling; she stands at the stove pouring hot soup from a big ladle out of a pot into a bowl"
 },
 "rain_6": {
 "seed": 14,
-"ok": true,
-"note": "Handing newspaper at door; small print only"
+"ok": false,
+"note": "verify: garbled newspaper print; the folded newspaper is a soft plain gray blur with no readable marks"
 },
 "binoculars_1": {
 "seed": 12,
@@ -541,8 +541,8 @@
 },
 "binoculars_4": {
 "seed": 46,
-"ok": true,
-"note": "rescue1: tongue out, mostly blank note"
+"ok": false,
+"note": "verify: scribbled writing on the note and a sign on the wall; the note paper is plain blank, pencil just touching it, plain walls"
 },
 "binoculars_5": {
 "seed": 11,
@@ -551,8 +551,8 @@
 },
 "birthday_1": {
 "seed": 62,
-"ok": true,
-"note": "rescue2: Circling date on plain calendar, side view"
+"ok": false,
+"note": "verify: numbers on the calendar; a plain wall calendar with a painted flower picture on top and a grid of empty blank squares, her pencil drawing a circle in one empty square"
 },
 "birthday_2": {
 "seed": 12,
@@ -566,8 +566,8 @@
 },
 "birthday_4": {
 "seed": 11,
-"ok": true,
-"note": "Carrying candlelit cake near panel truck"
+"ok": false,
+"note": "verify: brown cake, not the white cake with berries; a white frosted cake with strawberries, blueberries and two lit candles"
 },
 "birthday_5": {
 "seed": 12,
@@ -676,8 +676,8 @@
 },
 "meatloaf_4": {
 "seed": 13,
-"ok": true,
-"note": "Fork tapping slice, G-man in hedge"
+"ok": false,
+"note": "verify: dinner table is outdoors in the hedge; indoors at a dinner table, the agent in trench coat and fedora peeking in through the dark window behind"
 },
 "meatloaf_5": {
 "seed": 12,
@@ -686,8 +686,8 @@
 },
 "meatloaf_6": {
 "seed": 11,
-"ok": true,
-"note": "Meatloaf, potatoes, peas, unlabeled ketchup; 12 and 14 labels"
+"ok": false,
+"note": "verify: people at the table, should be the table only; nobody at the table, empty chairs"
 },
 "gelatin_1": {
 "seed": 11,
@@ -696,13 +696,13 @@
 },
 "gelatin_2": {
 "seed": 13,
-"ok": true,
-"note": "Pears and cherries in fluted mold; 12 and 14 extra hands"
+"ok": false,
+"note": "verify: a plain bowl not a ring mold; a shiny metal ring mold shaped like a doughnut with a hole in the middle, pear slices and cherries laid in its round channel"
 },
 "gelatin_3": {
 "seed": 41,
-"ok": true,
-"note": "rescue1: ring mold into open fridge"
+"ok": false,
+"note": "verify: a lid not a ring mold; a shiny metal ring mold shaped like a doughnut with a hole in the middle"
 },
 "gelatin_4": {
 "seed": 12,
@@ -751,8 +751,8 @@
 },
 "cookies_2": {
 "seed": 14,
-"ok": true,
-"note": "Clear star cutter, truck with antenna"
+"ok": false,
+"note": "verify: kitchen table is outside in the street with the truck; she works at a kitchen table indoors, the gray truck seen parked outside through the kitchen window behind her"
 },
 "cookies_3": {
 "seed": 64,
@@ -771,8 +771,8 @@
 },
 "trim_1": {
 "seed": 11,
-"ok": true,
-"note": "Lens poking out of hedge by white house"
+"ok": false,
+"note": "verify: lettering on the lens barrel; an old 1950s black box camera with a plain round lens and no markings poking out of the hedge"
 },
 "trim_2": {
 "seed": 14,
@@ -781,8 +781,8 @@
 },
 "trim_3": {
 "seed": 14,
-"ok": true,
-"note": "Long two-handed shears, hands correct"
+"ok": false,
+"note": "verify: holds the shears oddly by one handle and a blade; long two-bladed hedge shears with two long wooden handles, one handle in each hand, the blades open over the hedge top"
 },
 "trim_4": {
 "seed": 61,
@@ -816,8 +816,8 @@
 },
 "mow_4": {
 "seed": 41,
-"ok": true,
-"note": "rescue1: reel mower, stripes, G-man peeking"
+"ok": false,
+"note": "verify: mower has an engine box on it; a plain hand-pushed reel lawn mower with only a spinning spiral blade cylinder between two wheels, no motor"
 },
 "mow_5": {
 "seed": 41,
@@ -831,8 +831,8 @@
 },
 "laundry_2": {
 "seed": 12,
-"ok": true,
-"note": "Hanging sheets, van behind; van has side windows"
+"ok": false,
+"note": "verify: truck has side windows; a plain gray 1950s panel truck with blank windowless metal sides"
 },
 "laundry_3": {
 "seed": 12,
@@ -861,8 +861,8 @@
 },
 "birdhouse_2": {
 "seed": 13,
-"ok": true,
-"note": "Hanging feeder with seed; pouring only implied"
+"ok": false,
+"note": "verify: holds the feeder instead of pouring and truck has side windows; she pours birdseed from a small paper sack into the top of a wooden bird feeder hanging from a branch, the truck behind has blank windowless metal sides"
 },
 "birdhouse_3": {
 "seed": 14,
@@ -886,8 +886,8 @@
 },
 "rake_2": {
 "seed": 11,
-"ok": true,
-"note": "Raking, truck behind; 14 has two rakes"
+"ok": false,
+"note": "verify: truck has a side window; a plain gray 1950s panel truck with blank windowless metal sides"
 },
 "rake_3": {
 "seed": 62,
@@ -896,8 +896,8 @@
 },
 "rake_4": {
 "seed": 12,
-"ok": true,
-"note": "Pointing to garage, G-man in hedge"
+"ok": false,
+"note": "verify: pitchfork not a leaf rake; a fan-shaped bamboo leaf rake with many thin springy tines"
 },
 "rake_5": {
 "seed": 12,
@@ -921,13 +921,13 @@
 },
 "trash_3": {
 "seed": 44,
-"ok": true,
-"note": "rescue1: twine-tied bundle, small newsprint only"
+"ok": false,
+"note": "verify: garbled newspaper print; the newspapers are a soft plain gray blur with no readable marks"
 },
 "trash_4": {
 "seed": 12,
-"ok": true,
-"note": "Carrying can at curb, truck behind"
+"ok": false,
+"note": "verify: truck has side windows; a plain gray 1950s panel truck with blank windowless metal sides"
 },
 "trash_5": {
 "seed": 12,
@@ -951,8 +951,8 @@
 },
 "sprinkler_4": {
 "seed": 13,
-"ok": true,
-"note": "Hurrying from hedge; wears and holds a hat"
+"ok": false,
+"note": "verify: two hats, one on his head and one in his hand; bare-headed with neat slicked hair, holding his one gray fedora in his hand"
 },
 "sprinkler_5": {
 "seed": 14,
@@ -971,8 +971,8 @@
 },
 "letter_2": {
 "seed": 42,
-"ok": true,
-"note": "rescue1: fountain pen, faint small scribbles"
+"ok": false,
+"note": "verify: garbled handwriting on the paper; the stationery is covered only in faint wavy gray lines like writing seen from far away"
 },
 "letter_3": {
 "seed": 13,
@@ -981,8 +981,8 @@
 },
 "letter_4": {
 "seed": 42,
-"ok": true,
-"note": "rescue1: laughing grandma writing, windowless truck behind"
+"ok": false,
+"note": "verify: desk is outdoors in the street with the truck; she writes at a desk indoors, the gray truck seen parked outside through the window behind her, the letter only faint wavy gray lines"
 },
 "letter_5": {
 "seed": 64,
@@ -991,8 +991,8 @@
 },
 "steamed_1": {
 "seed": 13,
-"ok": true,
-"note": "Taking mail from box, G-man in hedge"
+"ok": false,
+"note": "verify: print on the letters; plain blank white envelopes with nothing written on them"
 },
 "steamed_2": {
 "seed": 13,
@@ -1011,8 +1011,8 @@
 },
 "steamed_5": {
 "seed": 42,
-"ok": true,
-"note": "rescue1: writing note, letters, windowless truck, antenna"
+"ok": false,
+"note": "verify: table is outdoors in the street with the truck; she sits at a kitchen table indoors, the gray truck seen parked outside through the window behind her, the notepad plain blank"
 },
 "steamed_6": {
 "seed": 13,
@@ -1021,8 +1021,8 @@
 },
 "triplicate_1": {
 "seed": 11,
-"ok": true,
-"note": "Papers spread, man at window"
+"ok": false,
+"note": "verify: fake print on the papers; several loose sheets of plain paper spread flat on the table, each with only faint pale gray ruled lines"
 },
 "triplicate_2": {
 "seed": 11,
@@ -1031,18 +1031,18 @@
 },
 "triplicate_3": {
 "seed": 46,
-"ok": true,
-"note": "rescue1: writing form, G-man by hedge, no big text"
+"ok": false,
+"note": "verify: fake print on the form; a plain paper form with only faint pale gray ruled lines and empty boxes"
 },
 "triplicate_4": {
 "seed": 11,
-"ok": true,
-"note": "Scratching head, pencil, form"
+"ok": false,
+"note": "verify: fake print on the form; a plain long paper form with only faint pale gray ruled lines and empty boxes"
 },
 "triplicate_5": {
 "seed": 46,
-"ok": true,
-"note": "rescue1: signing form, tiny squiggle only"
+"ok": false,
+"note": "verify: garbled letters on the form; a plain paper form with only faint pale gray ruled lines, his pen tip touching the bottom line"
 },
 "census_1": {
 "seed": 11,
@@ -1066,13 +1066,13 @@
 },
 "census_5": {
 "seed": 42,
-"ok": true,
-"note": "rescue1: hand writing on clipboard, small handwriting"
+"ok": false,
+"note": "verify: garbled handwriting on the form; a plain clipboard form with only faint pale gray ruled lines, the pencil tip making one short faint gray squiggle"
 },
 "census_6": {
 "seed": 12,
-"ok": true,
-"note": "Waving goodbye, agent on path"
+"ok": false,
+"note": "verify: agent walks toward us, not away; the agent is seen from behind walking away down the garden path toward the street"
 },
 "receipts_1": {
 "seed": 12,
@@ -1081,33 +1081,33 @@
 },
 "receipts_2": {
 "seed": 14,
-"ok": true,
-"note": "Receipt into handbag, windowless panel van"
+"ok": false,
+"note": "verify: print on the receipt and truck has a window; a small plain blank white paper slip, the truck behind has blank windowless metal sides"
 },
 "receipts_3": {
 "seed": 41,
-"ok": true,
-"note": "rescue1: box of receipts with tabs, small print"
+"ok": false,
+"note": "verify: garbled print on receipts and labels; plain blank white paper slips and plain coloured index cards with nothing on them"
 },
 "receipts_4": {
 "seed": 11,
-"ok": true,
-"note": "Sorting receipts into box; 12 has box text"
+"ok": false,
+"note": "verify: garbled print on receipts; plain blank white paper slips"
 },
 "receipts_5": {
 "seed": 13,
-"ok": true,
-"note": "Holding up receipt to agent, no text"
+"ok": false,
+"note": "verify: print on the receipt; a small plain blank white paper slip"
 },
 "postcard_1": {
 "seed": 13,
-"ok": true,
-"note": "Picking postcard, man at window"
+"ok": false,
+"note": "verify: the man is inside reaching into the rack; the man in the gray fedora is outside, peering in through the window glass behind the boy"
 },
 "postcard_2": {
 "seed": 48,
-"ok": true,
-"note": "rescue1: boy writing postcard, man at window"
+"ok": false,
+"note": "verify: writing on the postcard; plain blank postcard, his pen just touching it"
 },
 "postcard_3": {
 "seed": 61,
@@ -1116,18 +1116,18 @@
 },
 "postcard_4": {
 "seed": 14,
-"ok": true,
-"note": "Pressing stamp on postcard"
+"ok": false,
+"note": "verify: tiny print on the postcard; plain blank postcard back with one small coloured stamp showing a painted flower"
 },
 "postcard_5": {
 "seed": 14,
-"ok": true,
-"note": "Dropping postcard into mailbox"
+"ok": false,
+"note": "verify: print on the postcard and pebbles inside the mailbox; the postcard shows only a painted lake picture, the mailbox slot is empty and dark"
 },
 "postcard_6": {
 "seed": 11,
-"ok": true,
-"note": "Mailman hands postcard through van window"
+"ok": false,
+"note": "verify: mailman wears a gun holster and the van has windows; a 1950s mailman in a blue-grey uniform with a brown leather mail satchel and no belt holster, the gray van has blank windowless metal sides except the driver's window"
 },
 "explain_1": {
 "seed": 13,
@@ -1161,8 +1161,8 @@
 },
 "spykit_2": {
 "seed": 13,
-"ok": true,
-"note": "Taping cardboard, man at window; no text"
+"ok": false,
+"note": "verify: a box, not two milk cartons taped end to end; two plain white cardboard milk cartons with peaked tops taped together end to end into a long tube, no printing on them"
 },
 "spykit_3": {
 "seed": 48,
@@ -1176,13 +1176,13 @@
 },
 "spykit_5": {
 "seed": 11,
-"ok": true,
-"note": "Periscope raised above hedge"
+"ok": false,
+"note": "verify: holds a telescope tube sideways not a periscope; he crouches low behind the hedge holding a long cardboard tube straight up and down so its top end, bent at a right angle, pokes up above the leaves"
 },
 "spykit_6": {
 "seed": 12,
-"ok": true,
-"note": "Writing in notebook, G-man eating by van"
+"ok": false,
+"note": "verify: scribbled writing in the notebook and van has windows; the notebook pages are plain blank with faint ruled lines, the van has blank windowless metal sides"
 },
 "bedtime_1": {
 "seed": 11,
@@ -1206,8 +1206,8 @@
 },
 "bedtime_5": {
 "seed": 13,
-"ok": true,
-"note": "Headphones in van, soft smile"
+"ok": false,
+"note": "verify: reading a book with print; no book, both hands pressing the big headphones to his ears, eyes closed listening"
 },
 "dog_1": {
 "seed": 11,
@@ -1246,8 +1246,8 @@
 },
 "hideseek_2": {
 "seed": 11,
-"ok": true,
-"note": "Boy sneaking behind shed, antenna truck behind"
+"ok": false,
+"note": "verify: truck has side windows; a plain gray 1950s panel truck with blank windowless metal sides"
 },
 "hideseek_3": {
 "seed": 12,
@@ -1271,8 +1271,8 @@
 },
 "photo_2": {
 "seed": 11,
-"ok": true,
-"note": "Grandfather with old camera; rangefinder not box camera"
+"ok": false,
+"note": "verify: modern 35mm camera, not an old box camera; an old brown 1950s box camera held at his waist, he looks down into its top viewfinder"
 },
 "photo_3": {
 "seed": 11,
@@ -1291,18 +1291,18 @@
 },
 "photo_6": {
 "seed": 64,
-"ok": true,
-"note": "rescue2: Snapshot on envelope on hood; one hand at edge"
+"ok": false,
+"note": "verify: photo shows seven adults, not the family; the photograph shows a mother, a father, a little boy, a little girl and one stiff man in a trench coat and fedora at the end"
 },
 "secret_1": {
 "seed": 42,
-"ok": true,
-"note": "rescue1: grandma writes word, man at window, tiny text"
+"ok": false,
+"note": "verify: garbled word on the notepad; the notepad page is plain blank, her pencil just touching it"
 },
 "secret_2": {
 "seed": 62,
-"ok": true,
-"note": "rescue2: Note passed below tabletop; not truly low view"
+"ok": false,
+"note": "verify: writing on the note and it passes above the table; a plain blank folded note passed low beneath the edge of the tablecloth, under the table"
 },
 "secret_3": {
 "seed": 68,
@@ -1336,8 +1336,8 @@
 },
 "bridge_4": {
 "seed": 14,
-"ok": true,
-"note": "Two hands dealing cards beside teacups"
+"ok": false,
+"note": "verify: garbled card faces; every card lies face down showing only a plain red patterned back"
 },
 "bridge_5": {
 "seed": 12,
@@ -1366,8 +1366,8 @@
 },
 "movies_4": {
 "seed": 13,
-"ok": true,
-"note": "Handing popcorn bowl to agent at van"
+"ok": false,
+"note": "verify: van has side windows; a plain gray 1950s panel van with blank windowless metal sides, its back doors open"
 },
 "movies_5": {
 "seed": 62,
@@ -1381,8 +1381,8 @@
 },
 "blockparty_2": {
 "seed": 42,
-"ok": true,
-"note": "rescue1: card under wiper of windowless box truck"
+"ok": false,
+"note": "verify: writing on the card; a small plain blank white card"
 },
 "blockparty_3": {
 "seed": 11,
@@ -1391,8 +1391,8 @@
 },
 "blockparty_4": {
 "seed": 11,
-"ok": true,
-"note": "Hanging paper lantern on string between trees"
+"ok": false,
+"note": "verify: she has gray hair, not the brown-haired housewife; a brown-haired housewife in her thirties with curled hair"
 },
 "blockparty_5": {
 "seed": 13,
@@ -1421,8 +1421,8 @@
 },
 "thanksgiving_4": {
 "seed": 11,
-"ok": true,
-"note": "Knocking on truck with antenna; side not back"
+"ok": false,
+"note": "verify: knocks on the side and truck has a side window; she knocks on the closed back doors of a plain gray 1950s panel truck with blank windowless metal sides"
 },
 "thanksgiving_5": {
 "seed": 12,
@@ -1441,8 +1441,8 @@
 },
 "picnic_3": {
 "seed": 11,
-"ok": true,
-"note": "Waving at agent; agent not half hidden"
+"ok": false,
+"note": "verify: agent stands in the open, not half hidden behind the tree; the agent peeks out from behind the trunk of a big oak tree with half of his body hidden by the trunk"
 },
 "picnic_4": {
 "seed": 11,
@@ -1451,8 +1451,8 @@
 },
 "picnic_5": {
 "seed": 64,
-"ok": true,
-"note": "rescue2: Ankles tied, laughing; dusk not sunny"
+"ok": false,
+"note": "verify: the two men run apart, not tied together; two men side by side with their arms over each other's shoulders, his left leg and the other man's right leg tied together at the ankle with one red scarf, hopping as one"
 },
 "picnic_6": {
 "seed": 14,
@@ -1466,8 +1466,8 @@
 },
 "chacha_2": {
 "seed": 11,
-"ok": true,
-"note": "Girl marching on floor, antenna truck behind"
+"ok": false,
+"note": "verify: truck parked on the dance floor; a wooden dance hall indoors with paper streamers, the gray truck seen parked outside through the open double doors far behind"
 },
 "chacha_3": {
 "seed": 11,
@@ -1481,18 +1481,18 @@
 },
 "chacha_5": {
 "seed": 13,
-"ok": true,
-"note": "Agents dancing stiffly hand in hand"
+"ok": false,
+"note": "verify: lady agent wears a military cap and badge; a small round gray felt pillbox hat, a plain gray skirt suit with no badges"
 },
 "nothing_1": {
 "seed": 45,
-"ok": true,
-"note": "rescue1: writing at desk, man at window; small paper text"
+"ok": false,
+"note": "verify: garbled print on the checks; plain pale green checks with only faint gray ruled lines and empty boxes"
 },
 "nothing_2": {
 "seed": 102,
-"ok": true,
-"note": "round4"
+"ok": false,
+"note": "verify: mower looks like a hose reel cart; a small ordinary hand-pushed reel lawn mower with two small wheels, a spiral blade cylinder between them and a long T-shaped handle, no motor"
 },
 "nothing_3": {
 "seed": 11,
@@ -1511,13 +1511,13 @@
 },
 "nothing_6": {
 "seed": 12,
-"ok": true,
-"note": "Sleeping peacefully smiling"
+"ok": false,
+"note": "verify: sleeps in his cardigan, tie and glasses; he sleeps in blue striped pajamas tucked under a quilt, his horn-rimmed glasses folded on the nightstand"
 },
 "thanks_1": {
 "seed": 11,
-"ok": true,
-"note": "Taking paper from drawer, man at window"
+"ok": false,
+"note": "verify: print on the stationery; plain blank cream sheets of paper"
 },
 "thanks_2": {
 "seed": 62,
@@ -1526,18 +1526,18 @@
 },
 "thanks_3": {
 "seed": 11,
-"ok": true,
-"note": "Writing letter; 12 and 14 have text signs"
+"ok": false,
+"note": "verify: writing on the letter; plain blank cream paper, her pen just touching it"
 },
 "thanks_4": {
 "seed": 42,
-"ok": true,
-"note": "rescue1: dog paw on letter, man at window"
+"ok": false,
+"note": "verify: writing on the letter and the paw is not pressed onto it; she gently presses the dog's front paw down onto a plain blank cream sheet, leaving one small inky paw print"
 },
 "thanks_5": {
 "seed": 42,
-"ok": true,
-"note": "rescue1: folding envelope flap, small handwriting"
+"ok": false,
+"note": "verify: writing on the paper; she presses shut the flap of a plain blank cream envelope with her fingertips"
 },
 "goodbye_1": {
 "seed": 11,
@@ -1546,8 +1546,8 @@
 },
 "goodbye_2": {
 "seed": 12,
-"ok": true,
-"note": "Girl running across lawn toward gray van"
+"ok": false,
+"note": "verify: van has side windows; a plain gray 1950s panel van with blank windowless metal sides"
 },
 "goodbye_3": {
 "seed": 11,
@@ -1561,8 +1561,8 @@
 },
 "goodbye_5": {
 "seed": 12,
-"ok": true,
-"note": "Waving both arms; 13 has three arms"
+"ok": false,
+"note": "verify: garbled license plate and lettering on the van; a plain gray van with blank windowless sides and a plain blank license plate"
 },
 "goodbye_6": {
 "seed": 11,
@@ -1571,8 +1571,8 @@
 },
 "newvan_1": {
 "seed": 13,
-"ok": true,
-"note": "Shiny gray van with antenna on street"
+"ok": false,
+"note": "verify: van has side windows and a garbled license plate; a shiny new gray 1950s panel van with blank windowless metal sides and a plain blank license plate"
 },
 "newvan_2": {
 "seed": 11,
@@ -1581,8 +1581,8 @@
 },
 "newvan_3": {
 "seed": 11,
-"ok": true,
-"note": "Pouring coffee for agent by van"
+"ok": false,
+"note": "verify: coffee pours from his fingers with no pot; he pours coffee from a silver thermos flask held in his right hand into a mug held by the agent"
 },
 "newvan_4": {
 "seed": 12,
@@ -1611,8 +1611,8 @@
 },
 "file_4": {
 "seed": 46,
-"ok": true,
-"note": "rescue1: laughing grandma reading papers, faint print"
+"ok": false,
+"note": "verify: garbled print at top of the papers; a thick stack of papers covered only in faint even rows of pale gray lines like typing seen from far away"
 },
 "file_5": {
 "seed": 101,
@@ -1626,8 +1626,8 @@
 },
 "porchlight_1": {
 "seed": 11,
-"ok": true,
-"note": "Washing at sink, one man at window"
+"ok": false,
+"note": "verify: she holds a plate of food and a knife, not drying a dish; she dries a clean empty white plate with a checked dish towel held in both hands"
 },
 "porchlight_2": {
 "seed": 14,
