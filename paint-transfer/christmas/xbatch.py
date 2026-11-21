@@ -36,7 +36,11 @@ for j in jobs:
     im = Image.open(BytesIO(data)).convert("RGB")
     w, h = im.size; cx, cy = int(w * 0.03), int(h * 0.04)
     im = im.crop((cx, cy, w - cx, h - cy))
-    if "ow" in j: im = im.resize((j["ow"], j["oh"]), Image.LANCZOS)
+    if "ow" in j:
+        w, h = im.size; ta = j["ow"] / j["oh"]
+        if w / h > ta: nw = int(h * ta); im = im.crop(((w - nw) // 2, 0, (w - nw) // 2 + nw, h))
+        else: nh = int(w / ta); im = im.crop((0, (h - nh) // 2, w, (h - nh) // 2 + nh))
+        im = im.resize((j["ow"], j["oh"]), Image.LANCZOS)
     im.save(p, quality=90)
     n += 1
     print("done", j["name"], round((time.time() - t0) / n, 1), "s/pic", flush=True)
