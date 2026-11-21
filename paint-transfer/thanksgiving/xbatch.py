@@ -7,7 +7,7 @@ from pathlib import Path
 from PIL import Image
 token = Path(r"C:\Users\Robert Wray\Documents\FunBooksPainting\engine\token.txt").read_text().strip()
 jobs = json.loads(Path(sys.argv[1]).read_text(encoding="utf-8"))
-out = Path(sys.argv[2]); out.mkdir(parents=True, exist_ok=True)
+out = Path(sys.argv[2]).resolve(); out.mkdir(parents=True, exist_ok=True)
 every = int(sys.argv[3]) if len(sys.argv) > 3 else 80
 repo = Path(__file__).resolve().parents[2]
 def push(msg):
