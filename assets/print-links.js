@@ -20,7 +20,8 @@ window.FUN_BOOKS_PRINT = {
   bigfoot:     { amazon: "", lulu: "" },  // How to Raise a Well-Behaved Bigfoot
   time:        { amazon: "", lulu: "" },  // Good Manners for Time Travelers
   vampire:     { amazon: "", lulu: "" },  // Surviving the Great Vampire Housing Boom
-  surveillance: { amazon: "", lulu: "" }  // The Suburban Guide to Government Surveillance
+  surveillance: { amazon: "", lulu: "" },  // The Suburban Guide to Government Surveillance
+  christmas:   { amazon: "", lulu: "" }   // Surviving Christmas
 };
 
 /* --- Nothing below needs editing. ---------------------------------------
