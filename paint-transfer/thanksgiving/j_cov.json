@@ -1,0 +1,136 @@
+[
+{
+"name": "cov_mom_0",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, rich saturated colors, warm dramatic light. Full-length portrait of one cheerful 1950s housewife with curled auburn hair in a mustard-yellow shirtwaist dress and white apron, smiling bravely, holding a shiny oval roasting pan lid like a shield in one hand and a wooden spoon raised in the other hand, standing alone small in the middle of a plain light gray studio background with lots of empty space above her head and around her, whole body visible from head to shoes",
+"width": 768,
+"height": 1008,
+"seed": 7300,
+"style": "dark"
+},
+{
+"name": "cov_turkey_0",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, rich saturated colors, warm dramatic light. Full-length portrait of a huge live wild tom turkey with glossy bronze feathers, a bright red wattle and a big fanned tail, wearing a small brown bow tie, standing proudly and looking at the viewer, standing alone small in the middle of a plain light gray studio background with lots of empty space around it, whole bird visible from the tip of its tail feathers to its feet",
+"width": 896,
+"height": 896,
+"seed": 7400,
+"style": "dark"
+},
+{
+"name": "cov_mom_1",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, rich saturated colors, warm dramatic light. Full-length portrait of one cheerful 1950s housewife with curled auburn hair in a mustard-yellow shirtwaist dress and white apron, smiling bravely, holding a shiny oval roasting pan lid like a shield in one hand and a wooden spoon raised in the other hand, standing alone small in the middle of a plain light gray studio background with lots of empty space above her head and around her, whole body visible from head to shoes",
+"width": 768,
+"height": 1008,
+"seed": 7337,
+"style": "dark"
+},
+{
+"name": "cov_turkey_1",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, rich saturated colors, warm dramatic light. Full-length portrait of a huge live wild tom turkey with glossy bronze feathers, a bright red wattle and a big fanned tail, wearing a small brown bow tie, standing proudly and looking at the viewer, standing alone small in the middle of a plain light gray studio background with lots of empty space around it, whole bird visible from the tip of its tail feathers to its feet",
+"width": 896,
+"height": 896,
+"seed": 7437,
+"style": "dark"
+},
+{
+"name": "cov_mom_2",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, rich saturated colors, warm dramatic light. Full-length portrait of one cheerful 1950s housewife with curled auburn hair in a mustard-yellow shirtwaist dress and white apron, smiling bravely, holding a shiny oval roasting pan lid like a shield in one hand and a wooden spoon raised in the other hand, standing alone small in the middle of a plain light gray studio background with lots of empty space above her head and around her, whole body visible from head to shoes",
+"width": 768,
+"height": 1008,
+"seed": 7374,
+"style": "dark"
+},
+{
+"name": "cov_turkey_2",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, rich saturated colors, warm dramatic light. Full-length portrait of a huge live wild tom turkey with glossy bronze feathers, a bright red wattle and a big fanned tail, wearing a small brown bow tie, standing proudly and looking at the viewer, standing alone small in the middle of a plain light gray studio background with lots of empty space around it, whole bird visible from the tip of its tail feathers to its feet",
+"width": 896,
+"height": 896,
+"seed": 7474,
+"style": "dark"
+},
+{
+"name": "cov_mom_3",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, rich saturated colors, warm dramatic light. Full-length portrait of one cheerful 1950s housewife with curled auburn hair in a mustard-yellow shirtwaist dress and white apron, smiling bravely, holding a shiny oval roasting pan lid like a shield in one hand and a wooden spoon raised in the other hand, standing alone small in the middle of a plain light gray studio background with lots of empty space above her head and around her, whole body visible from head to shoes",
+"width": 768,
+"height": 1008,
+"seed": 7411,
+"style": "dark"
+},
+{
+"name": "cov_turkey_3",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, rich saturated colors, warm dramatic light. Full-length portrait of a huge live wild tom turkey with glossy bronze feathers, a bright red wattle and a big fanned tail, wearing a small brown bow tie, standing proudly and looking at the viewer, standing alone small in the middle of a plain light gray studio background with lots of empty space around it, whole bird visible from the tip of its tail feathers to its feet",
+"width": 896,
+"height": 896,
+"seed": 7511,
+"style": "dark"
+},
+{
+"name": "cov_bg_0",
+"prompt": "Realistic mid-century American oil and gouache painting on board, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed painting with no text, no title and no lettering anywhere. A white 1950s house with a back porch at dusk in late autumn, golden and red trees, fallen leaves on the lawn, warm glowing kitchen windows, an orange sunset sky, the lower half of the picture is an empty leafy lawn",
+"width": 784,
+"height": 1024,
+"seed": 7500,
+"style": "dark",
+"ow": 704,
+"oh": 912
+},
+{
+"name": "cov_bg_1",
+"prompt": "Realistic mid-century American oil and gouache painting on board, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed painting with no text, no title and no lettering anywhere. A white 1950s house with a back porch at dusk in late autumn, golden and red trees, fallen leaves on the lawn, warm glowing kitchen windows, an orange sunset sky, the lower half of the picture is an empty leafy lawn",
+"width": 784,
+"height": 1024,
+"seed": 7511,
+"style": "dark",
+"ow": 704,
+"oh": 912
+},
+{
+"name": "cov_bg_2",
+"prompt": "Realistic mid-century American oil and gouache painting on board, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed painting with no text, no title and no lettering anywhere. A white 1950s house with a back porch at dusk in late autumn, golden and red trees, fallen leaves on the lawn, warm glowing kitchen windows, an orange sunset sky, the lower half of the picture is an empty leafy lawn",
+"width": 784,
+"height": 1024,
+"seed": 7522,
+"style": "dark",
+"ow": 704,
+"oh": 912
+},
+{
+"name": "cov_bg_3",
+"prompt": "Realistic mid-century American oil and gouache painting on board, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed painting with no text, no title and no lettering anywhere. A white 1950s house with a back porch at dusk in late autumn, golden and red trees, fallen leaves on the lawn, warm glowing kitchen windows, an orange sunset sky, the lower half of the picture is an empty leafy lawn",
+"width": 784,
+"height": 1024,
+"seed": 7533,
+"style": "dark",
+"ow": 704,
+"oh": 912
+},
+{
+"name": "bookplate_0",
+"prompt": "Realistic mid-century American oil and gouache painting on board, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed painting with no text, no title and no lettering anywhere. A still life on a wooden table: a pumpkin pie, a small pumpkin, a bowl of red cranberries, a long bronze turkey feather and scattered autumn leaves, warm candlelight",
+"width": 1216,
+"height": 672,
+"seed": 7600,
+"style": "dark",
+"ow": 1000,
+"oh": 550
+},
+{
+"name": "bookplate_1",
+"prompt": "Realistic mid-century American oil and gouache painting on board, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed painting with no text, no title and no lettering anywhere. A still life on a wooden table: a pumpkin pie, a small pumpkin, a bowl of red cranberries, a long bronze turkey feather and scattered autumn leaves, warm candlelight",
+"width": 1216,
+"height": 672,
+"seed": 7605,
+"style": "dark",
+"ow": 1000,
+"oh": 550
+},
+{
+"name": "bookplate_2",
+"prompt": "Realistic mid-century American oil and gouache painting on board, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed painting with no text, no title and no lettering anywhere. A still life on a wooden table: a pumpkin pie, a small pumpkin, a bowl of red cranberries, a long bronze turkey feather and scattered autumn leaves, warm candlelight",
+"width": 1216,
+"height": 672,
+"seed": 7610,
+"style": "dark",
+"ow": 1000,
+"oh": 550
+}
+]
