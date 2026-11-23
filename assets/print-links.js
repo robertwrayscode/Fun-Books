@@ -21,7 +21,8 @@ window.FUN_BOOKS_PRINT = {
   time:        { amazon: "", lulu: "" },  // Good Manners for Time Travelers
   vampire:     { amazon: "", lulu: "" },  // Surviving the Great Vampire Housing Boom
   surveillance: { amazon: "", lulu: "" },  // The Suburban Guide to Government Surveillance
-  christmas:   { amazon: "", lulu: "" }   // Surviving Christmas
+  christmas:   { amazon: "", lulu: "" },  // Surviving Christmas
+  thanksgiving: { amazon: "", lulu: "" }   // The Housewife's Guide to a Dangerous Thanksgiving
 };
 
 /* --- Nothing below needs editing. ---------------------------------------
