@@ -1,5 +1,45 @@
 [
 {
+"name": "sofa_2_d21",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A 1950s living room at night lit by a glowing Christmas tree, a big stout Santa Claus in his red suit fast asleep and snoring on a flowered sofa, beside the sofa an empty brown leather armchair, and a golden spaniel dog crouching on the floor hidden behind the armchair with only its head and two floppy ears peeking out around the back edge of the chair, the dog is not on the chair, Christmas 1950s",
+"width": 1216,
+"height": 768,
+"seed": 235838,
+"style": "dark",
+"ow": 640,
+"oh": 406
+},
+{
+"name": "sofa_2_d22",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A 1950s living room at night lit by a glowing Christmas tree, a big stout Santa Claus in his red suit fast asleep and snoring on a flowered sofa, beside the sofa an empty brown leather armchair, and a golden spaniel dog crouching on the floor hidden behind the armchair with only its head and two floppy ears peeking out around the back edge of the chair, the dog is not on the chair, Christmas 1950s",
+"width": 1216,
+"height": 768,
+"seed": 243757,
+"style": "dark",
+"ow": 640,
+"oh": 406
+},
+{
+"name": "sofa_2_d23",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A 1950s living room at night lit by a glowing Christmas tree, a big stout Santa Claus in his red suit fast asleep and snoring on a flowered sofa, beside the sofa an empty brown leather armchair, and a golden spaniel dog crouching on the floor hidden behind the armchair with only its head and two floppy ears peeking out around the back edge of the chair, the dog is not on the chair, Christmas 1950s",
+"width": 1216,
+"height": 768,
+"seed": 251676,
+"style": "dark",
+"ow": 640,
+"oh": 406
+},
+{
+"name": "sofa_2_d24",
+"prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A 1950s living room at night lit by a glowing Christmas tree, a big stout Santa Claus in his red suit fast asleep and snoring on a flowered sofa, beside the sofa an empty brown leather armchair, and a golden spaniel dog crouching on the floor hidden behind the armchair with only its head and two floppy ears peeking out around the back edge of the chair, the dog is not on the chair, Christmas 1950s",
+"width": 1216,
+"height": 768,
+"seed": 259595,
+"style": "dark",
+"ow": 640,
+"oh": 406
+},
+{
 "name": "wake_2_d21",
 "prompt": "Realistic mid-century American magazine illustration, oil and gouache on board, realistic adult proportions and lifelike faces, visible painterly brush strokes, dark moody background, deep shadows, rich dark saturated colors, dramatic warm lamplight, full-bleed. A 1950s housewife with brown curls, green shirtwaist dress and white apron leaning over Santa Claus wearing his full bright red Santa suit with white fur trim and black belt, bald head with no hat, his red Santa hat lying on the side table, dozing slumped in a brown leather armchair, and speaking softly to him, Christmas tree glowing behind, Christmas 1950s",
 "width": 1216,
