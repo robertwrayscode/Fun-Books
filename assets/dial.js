@@ -27,7 +27,9 @@
     { key: 'surveillance', band: 'G-Men', color: '#2E4A5A', h: 'government-surveillance/', t: 'The Suburban Guide to Government Surveillance',
       c: ['There is a gray van across the street again!', 'The telephone keeps clicking!', 'There is a man in the hedge with a camera!'] },
     { key: 'christmas', band: 'Christmas', color: '#8A1F1C', h: 'surviving-christmas/', t: 'Surviving Christmas',
-      c: ['Santa is asleep on the sofa!', 'There are eight reindeer on the roof!', 'Santa is stuck in the chimney!'] }
+      c: ['Santa is asleep on the sofa!', 'There are eight reindeer on the roof!', 'Santa is stuck in the chimney!'] },
+    { key: 'thanksgiving', band: 'Turkey Day', color: '#8A4A1C', h: 'dangerous-thanksgiving/', t: 'The Housewife’s Guide to a Dangerous Thanksgiving',
+      c: ['The turkey has escaped from the garage!', 'The fryer is on fire and Father has no eyebrows!', 'Uncle Earl has started on politics!'] }
   ];
   var CALM = ['Don’t panic, dear. Reach for', 'Keep calm and fetch', 'Mother knows just the thing:', 'Doctor’s orders! Read', 'Chin up, chum. You need'];
   var WAITING = ['Warming up the tubes…', 'Tuning past the polka hour…', 'Consulting Mother…', 'Asking the milkman…', 'Checking the almanac…', 'Jiggling the antenna…'];
