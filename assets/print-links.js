@@ -22,7 +22,8 @@ window.FUN_BOOKS_PRINT = {
   vampire:     { amazon: "", lulu: "" },  // Surviving the Great Vampire Housing Boom
   surveillance: { amazon: "", lulu: "" },  // The Suburban Guide to Government Surveillance
   christmas:   { amazon: "", lulu: "" },  // Surviving Christmas
-  thanksgiving: { amazon: "", lulu: "" }   // The Housewife's Guide to a Dangerous Thanksgiving
+  thanksgiving: { amazon: "", lulu: "" },  // The Housewife's Guide to a Dangerous Thanksgiving
+  easter:      { amazon: "", lulu: "" }   // Etiquette for the Easter Bunny Infestation
 };
 
 /* --- Nothing below needs editing. ---------------------------------------
