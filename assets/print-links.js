@@ -23,7 +23,8 @@ window.FUN_BOOKS_PRINT = {
   surveillance: { amazon: "", lulu: "" },  // The Suburban Guide to Government Surveillance
   christmas:   { amazon: "", lulu: "" },  // Surviving Christmas
   thanksgiving: { amazon: "", lulu: "" },  // The Housewife's Guide to a Dangerous Thanksgiving
-  easter:      { amazon: "", lulu: "" }   // Etiquette for the Easter Bunny Infestation
+  easter:      { amazon: "", lulu: "" },  // Etiquette for the Easter Bunny Infestation
+  halloween:   { amazon: "", lulu: "" }   // The Family Guide to a Haunted Halloween
 };
 
 /* --- Nothing below needs editing. ---------------------------------------
