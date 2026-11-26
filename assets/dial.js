@@ -31,7 +31,9 @@
     { key: 'thanksgiving', band: 'Turkey Day', color: '#8A4A1C', h: 'dangerous-thanksgiving/', t: 'The Housewife’s Guide to a Dangerous Thanksgiving',
       c: ['The turkey has escaped from the garage!', 'The fryer is on fire and Father has no eyebrows!', 'Uncle Earl has started on politics!'] },
     { key: 'easter', band: 'Bunny', color: '#6E4A86', h: 'easter-bunny/', t: 'Etiquette for the Easter Bunny Infestation',
-      c: ['There are forty rabbits on the lawn!', 'The Easter Bunny is asleep in the guest room!', 'There is an egg in the piano!'] }
+      c: ['There are forty rabbits on the lawn!', 'The Easter Bunny is asleep in the guest room!', 'There is an egg in the piano!'] },
+    { key: 'halloween', band: 'Spook', color: '#C8641E', h: 'haunted-halloween/', t: 'The Family Guide to a Haunted Halloween',
+      c: ['There is a werewolf at the front door!', 'The ghost is stuck in the vacuum cleaner!', 'The mummy is unraveling on the porch!'] }
   ];
   var CALM = ['Don’t panic, dear. Reach for', 'Keep calm and fetch', 'Mother knows just the thing:', 'Doctor’s orders! Read', 'Chin up, chum. You need'];
   var WAITING = ['Warming up the tubes…', 'Tuning past the polka hour…', 'Consulting Mother…', 'Asking the milkman…', 'Checking the almanac…', 'Jiggling the antenna…'];
